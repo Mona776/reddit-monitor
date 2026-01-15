@@ -76,11 +76,11 @@ def create_google_search_url(title: str, subreddit: str = '', link: str = '') ->
     # 优先从链接中提取真实的 subreddit（避免 cross-post 导致的错误）
     real_subreddit = extract_subreddit_from_link(link) or subreddit
     
-    # 构建搜索查询: site:reddit.com/r/{subreddit} + 标题（模糊匹配，更可靠）
+    # 构建搜索查询: site:reddit.com/r/{subreddit} + "标题"（精确匹配）
     if real_subreddit:
-        search_query = f'site:reddit.com/r/{real_subreddit} {title}'
+        search_query = f'site:reddit.com/r/{real_subreddit} "{title}"'
     else:
-        search_query = f'site:reddit.com {title}'
+        search_query = f'site:reddit.com "{title}"'
     
     # URL编码查询字符串（处理空格、特殊字符、emoji等）
     encoded_query = quote(search_query, safe='')
@@ -178,13 +178,16 @@ def create_card_message(item: Dict) -> Dict:
         "fields": fields
     })
     
-    # 添加操作按钮 - 使用Google搜索链接避免Reddit 429限制
-    # 优先从 link 中提取真实 subreddit，避免 cross-post 导致的错误
+    # 添加操作按钮 - 提供两个选项
+    # 1. Google 搜索（避免 429，但新帖子可能搜不到）
+    # 2. 直接访问（备用，可能遇到 429）
     google_search_url = create_google_search_url(
         title=item.get('title', ''),
         subreddit=item.get('subreddit', ''),
         link=item.get('link', '')
     )
+    direct_url = item.get('link', '')
+    
     elements.append({
         "tag": "action",
         "actions": [
@@ -192,10 +195,19 @@ def create_card_message(item: Dict) -> Dict:
                 "tag": "button",
                 "text": {
                     "tag": "plain_text",
-                    "content": f"🔥 {config['button_text']}"
+                    "content": "🔍 Google 搜索"
                 },
                 "type": "primary",
                 "url": google_search_url
+            },
+            {
+                "tag": "button",
+                "text": {
+                    "tag": "plain_text",
+                    "content": "🔗 直接访问"
+                },
+                "type": "default",
+                "url": direct_url
             }
         ]
     })
