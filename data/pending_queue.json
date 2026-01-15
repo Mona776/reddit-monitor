@@ -1,114 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/t3_1qdls78",
-      "type": "search",
-      "subreddit": "stickers",
-      "title": "My sticker fridge!",
-      "content": "It will sadly soon be retired but it had a good life! submitted by /u/Trollkattene to r/stickers [link] [comments]",
-      "link": "https://www.reddit.com/r/stickers/comments/1qdls78/my_sticker_fridge/",
-      "author": "/u/Trollkattene",
-      "search_keyword": "AI game maker",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T15:13:47.195304"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qdlrw3",
-      "type": "search",
-      "subreddit": "CallOfWar",
-      "title": "How?",
-      "content": "Isnt twin fronts down now? submitted by /u/BrightstrikeYT to r/CallOfWar [link] [comments]",
-      "link": "https://www.reddit.com/r/CallOfWar/comments/1qdlrw3/how/",
-      "author": "/u/BrightstrikeYT",
-      "search_keyword": "AI game maker",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T15:13:47.195309"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qdm168",
-      "type": "search",
-      "subreddit": "Pikmin",
-      "title": "Playing Pikmin 1 for the first time..",
-      "content": "Hi all, first post so sorry if posting incorrectly. I usually make these for my hack and slash games, but we're broadening our horizons. Ive rigorously played through Pikmin 3 + 4 and now finally am able to play 1+2 (GC) I had fun making making this lil video on my experience so far. I will say the rudest awakening was having to mash A instead of holding...if only i knew how good I had it 🌚 submitted by /u/BARRELETTO to r/Pikmin [link] [comments]",
-      "link": "https://www.reddit.com/r/Pikmin/comments/1qdm168/playing_pikmin_1_for_the_first_time/",
-      "author": "/u/BARRELETTO",
-      "search_keyword": "how to make a game",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T15:13:47.195802"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qdma8y",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "The first thing came to my mind we i saw this game was Nine Sols",
-      "content": "How far am i submitted by /u/Remarkable-Pizza4263 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qdma8y/the_first_thing_came_to_my_mind_we_i_saw_this/",
-      "author": "/u/Remarkable-Pizza4263",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T15:50:12.321338"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qdm742",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "green boy",
-      "content": "green boy https://geelstation2023.itch.io/greenboy submitted by /u/Any-Solution-7879 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qdm742/green_boy/",
-      "author": "/u/Any-Solution-7879",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T15:50:12.321344"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qdmrxj",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Batter turned into a dancer",
-      "content": "Accidentally made my Batter dance while batting lol submitted by /u/Boboter [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qdmrxj/batter_turned_into_a_dancer/",
-      "author": "/u/Boboter",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T15:50:12.321355"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qdmb2f",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "I've just achieved 5.000 wishlist in 6 month. Thank you all!",
-      "content": "submitted by /u/Remarkable-Recipe710 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qdmb2f/ive_just_achieved_5000_wishlist_in_6_month_thank/",
-      "author": "/u/Remarkable-Recipe710",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T15:50:12.321378"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qdmvvd",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "My release date is encroaching (feb 16) and I have but 2200 meager wishlists am I cooked",
-      "content": "https://store.steampowered.com/app/3372460/Screaming_Head/ submitted by /u/ax3lax3l [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qdmvvd/my_release_date_is_encroaching_feb_16_and_i_have/",
-      "author": "/u/ax3lax3l",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T15:50:12.321412"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qdmlup",
-      "type": "search",
-      "subreddit": "opensourcegames",
-      "title": "BEEP-8: An open-source fantasy console with MIT-licensed SDK — write games in C/C++ and run them in the browser",
-      "content": "Recently came across BEEP-8, an open-source fantasy console project that I thought this community might appreciate. It emulates a fictional 4 MHz ARM handheld entirely in the browser. You write games in C/C++, compile them to small ROMs, and they run at 60fps on desktop or mobile — no install required. What makes it relevant here: The SDK is fully open source under MIT license Several sample games included with source code All runs client-side in JavaScript 🎮 Play: https://beep8.org 💻 GitHub: https://github.com/beep8/beep8-sdk If you're into fantasy consoles or low-level game development, it's a neat project to explore. submitted by /u/Positive_Board_8086 to r/opensourcegames [link] [comments]",
-      "link": "https://www.reddit.com/r/opensourcegames/comments/1qdmlup/beep8_an_opensource_fantasy_console_with/",
-      "author": "/u/Positive_Board_8086",
-      "search_keyword": "no code game",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T15:50:12.322449"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qdn229",
       "type": "search",
       "subreddit": "Engadget",
@@ -2027,7 +1919,79 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-15T22:43:12.781605"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qdytge",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "What is the best miniature capsule for Steam?",
+      "content": "submitted by /u/N2kStudio [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qdytge/what_is_the_best_miniature_capsule_for_steam/",
+      "author": "/u/N2kStudio",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-15T23:10:56.686509"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qdyhd5",
+      "type": "search",
+      "subreddit": "marvelrivals",
+      "title": "Do Rivals players actually read the comics? ROGUE IS NOT A VANGUARD.",
+      "content": "Now that i got your attention, i have no problem with rogue being a vanguard in the game. recently made a post about a \"what if\" nick fury is added to the game, he will be a strategist. another user left a snide comment on how im stating the obvious by saying Nick Fury is a strategist. in which i replied on how everyone thought gambit would be a duelist but the devs decided to make him into a strategist so me specifically classifying Nicky Fury as a strategist isn't that farfetched of an idea/statement. and then we got off-tangent about rogue. They were insisting that rogue HAS ALWAYS BEEN vanguard coded in the comics. 🤦🏻‍♂️ it got me thinking if Rivals players actually read marvel comics or even watch the cartoons growing up? well i did. ROGUE in her VERY CORE is not vanguard coded. she only had super strength and stamina ONLY AFTER she copied/absorbed Ms.Marvel and then it became semi-permanent as a side effect. but rogue as a mutant, AS ORIGINALLY DESIGNED . her powers IS NEVER MEANT to be vanguard coded. Rogue's origin powers is power and memory absorption by touch THAT'S IT. just because vanguards absorbs damage doesn't mean rogue's power of absorption is the same! if you watch x-men animation/cartoon or have read the comics YOU WOULD KNOW THIS. now this isn't about how rogue CANT be a vanguard, SHE CAN . im just stating the fact about the origins of her powers and what she TRULY is, in her very core as a mutant and how just because things seems obvious, doesn't mean it will translate the same way in the game. Just like how most of us thought gambit would be a Duelist. WHICH IS FINE. submitted by /u/nrlnk-0324 to r/marvelrivals [link] [comments]",
+      "link": "https://www.reddit.com/r/marvelrivals/comments/1qdyhd5/do_rivals_players_actually_read_the_comics_rogue/",
+      "author": "/u/nrlnk-0324",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-15T23:10:56.687079"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qdz1m4",
+      "type": "search",
+      "subreddit": "EmulationOnAndroid",
+      "title": "What games can I run with a snapdragon 855 device?",
+      "content": "What games that can be actually playable without extreme thermal throttling, Games that aren't retro like do not tell me vita3k games or dolphin. I want games that need windows emulation or switch emulation. Don't get too modern too like I don't need to play old AAA games or something just any indie game like hollow knight, cuphead or deltarune were good enough. Let me know your thoughts Device: Samsung Galaxy S10+ submitted by /u/Amr112345 to r/EmulationOnAndroid [link] [comments]",
+      "link": "https://www.reddit.com/r/EmulationOnAndroid/comments/1qdz1m4/what_games_can_i_run_with_a_snapdragon_855_device/",
+      "author": "/u/Amr112345",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-15T23:10:56.687416"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qdz1if",
+      "type": "search",
+      "subreddit": "SmilingFriends",
+      "title": "Dreamt of Flesh",
+      "content": "I dreamt that there was a weird meme going around in the smiling friends fandom and it was “Flesh” I was in some sort of VR chat game and I kept trying to make my avatar “Flesh” but when I typed it, it got censored :( Anyways, here’s Flesh. submitted by /u/Orangutan_Soda to r/SmilingFriends [link] [comments]",
+      "link": "https://www.reddit.com/r/SmilingFriends/comments/1qdz1if/dreamt_of_flesh/",
+      "author": "/u/Orangutan_Soda",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-15T23:10:56.687460"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qdz0pe",
+      "type": "search",
+      "subreddit": "SonicEXE",
+      "title": "How does X's Sonic.exe CD game actually work? (Unrelated image)",
+      "content": "I'm speaking abt the game that X's uses has a gateway to the human world Like is it something that the cult has made in game maker and then blessed with sacrifices? And can you like hack it? What would happened if a, pre pulled in, victim starts fucking around with the game files? Could they add new vessels (like non sonic related stuff) and back doors for becoming one of them? Would 2011x actually do something or would he just laugh it off, do nothing and see it as a pitiful attempt submitted by /u/North-Line7134 to r/SonicEXE [link] [comments]",
+      "link": "https://www.reddit.com/r/SonicEXE/comments/1qdz0pe/how_does_xs_sonicexe_cd_game_actually_work/",
+      "author": "/u/North-Line7134",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-01-15T23:10:56.687737"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qdyo2z",
+      "type": "search",
+      "subreddit": "7daystodie",
+      "title": "Come on Dev's...",
+      "content": "Please fix your game Dev's, this lag, stuttering thing is driving me crazy... I want to play. submitted by /u/Pretend_Manner_5519 to r/7daystodie [link] [comments]",
+      "link": "https://www.reddit.com/r/7daystodie/comments/1qdyo2z/come_on_devs/",
+      "author": "/u/Pretend_Manner_5519",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-15T23:10:56.687986"
     }
   ],
-  "last_updated": "2026-01-15T22:44:51.216177"
+  "last_updated": "2026-01-15T23:12:29.535342"
 }
