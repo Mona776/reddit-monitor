@@ -1,6 +1,18 @@
 {
   "queue": [
     {
+      "id": "https://www.reddit.com/t3_1qdxgzk",
+      "type": "search",
+      "subreddit": "gamedev",
+      "title": "How to create a new genre",
+      "content": "Recently, I’ve been thinking about how people can come up with a new game genre. I don’t want to make yet another 2D platformer or bullet hell game I want to create something new. I’ve looked at games like Tetris, Chess, 2048, Minesweeper, Getting Over It, and Candy Crush and thought about how people came up with these ideas. I want to make the next Block Blast, but I struggle to come up with original mechanics. submitted by /u/mfbulut to r/gamedev [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qdxgzk/how_to_create_a_new_genre/",
+      "author": "/u/mfbulut",
+      "search_keyword": "how to make a game",
+      "relevance_score": 1,
+      "added_at": "2026-01-15T22:11:26.704670"
+    },
+    {
       "id": "https://www.reddit.com/r/indiegaming/t3_1qdlzb3",
       "type": "post",
       "subreddit": "indiegaming",
@@ -1703,7 +1715,163 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-15T21:40:05.989499"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qdxia2",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Cutscene transition to 2D gameplay",
+      "content": "Another short clip to show the transition between cutscenes and gameplay that I'm working for my upcoming game IN SILICO, but this time for 2D gameplay! submitted by /u/NeroSaution [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qdxia2/cutscene_transition_to_2d_gameplay/",
+      "author": "/u/NeroSaution",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-15T22:11:26.702247"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qdxhtn",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Would you like to kick enemies into spikes like this?",
+      "content": "submitted by /u/Jaded-Grocery-9308 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qdxhtn/would_you_like_to_kick_enemies_into_spikes_like/",
+      "author": "/u/Jaded-Grocery-9308",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-15T22:11:26.702253"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qdxfp0",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "We made a short little puzzle game called Runic",
+      "content": "https://jessicatheem.itch.io/runic submitted by /u/JessicaTheEm [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qdxfp0/we_made_a_short_little_puzzle_game_called_runic/",
+      "author": "/u/JessicaTheEm",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-15T22:11:26.702260"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qdx8ku",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "I have made a browser game inspired by wii play's tanks game",
+      "content": "You can play it here : https://aurelienpautet.itch.io/ouitank submitted by /u/Just-Gene-819 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qdx8ku/i_have_made_a_browser_game_inspired_by_wii_plays/",
+      "author": "/u/Just-Gene-819",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-15T22:11:26.702284"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qdxirq",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "I love how tactile the core loop is feeling, what do you think of the typing mechanic?",
+      "content": "Been working on my first Steam release title for about a year! It's called \"Wordlock\" and it's a game where you have to spell your spells. Still a long road to release, but I'd love some feedback and your first impressions. The demo is up here if you want to give it a go https://store.steampowered.com/app/4122940/Wordlock_Demo/ submitted by /u/NewtKingGames [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qdxirq/i_love_how_tactile_the_core_loop_is_feeling_what/",
+      "author": "/u/NewtKingGames",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-15T22:11:26.702309"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qdx4jo",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Working on the combat and visuals for my 2D multiplayer extraction shooter. Do the visuals and gameplay feel satisfying together?",
+      "content": "submitted by /u/SuccessfulEnergy4466 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qdx4jo/working_on_the_combat_and_visuals_for_my_2d/",
+      "author": "/u/SuccessfulEnergy4466",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-15T22:11:26.702347"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qdwzsp",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Initial sketch of capsule for my game - is this a viable idea?",
+      "content": "Hi devs! I'd really like to ask for your advice on idea and sketch of capsule for my game. I'm making a game, a roguelite zombie-shooter with pixel-art aesthetic. In this game, you need to run along roads, destroying zombies along the way. Survive zombie ambushes, open chests with resources, and find and upgrade your weapons. I'm thinking of capturing the core essence of my game in a capsule: the player is at a crossroads because the game has a choice of paths/roads (and it's a roguelite); one of the roads has zombies on it because you are fighting zombies; the second road shows reward chests as there is loot/rewards in the game; the dark, ruined city in the background is due to the overall dark, post-apocalyptic feel of the game. Is this a viable idea? Will such a capsule be visually appealing? This is a very rough sketch, so it looks very basic and downright unattractive. But I wondered if this would really work, or if I needed to look for inspiration elsewhere. On the second page here, you can also see the entire sketch. I plan to cut it into images for all the formats Steam requires. submitted by /u/MagazineForward5528 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qdwzsp/initial_sketch_of_capsule_for_my_game_is_this_a/",
+      "author": "/u/MagazineForward5528",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-15T22:11:26.702372"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qdxe5a",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Is it a bug or am I just dumb?",
+      "content": "https://preview.redd.it/b7xmqusi5ldg1.png?width=965&format=png&auto=webp&s=8bbddd42f031a96b7e4e2f97a672a64a23d0a541 https://preview.redd.it/06heeusi5ldg1.png?width=1029&format=png&auto=webp&s=63cfcdba4134b29062c9dd8d819e93b880ac3635 https://preview.redd.it/y554n0ui5ldg1.png?width=1022&format=png&auto=webp&s=c3dcba2b6a3f091409b4f079cfef0bcfa138128f https://preview.redd.it/l1yoiusi5ldg1.png?width=987&format=png&auto=webp&s=a3aaceb5d17c042cd3f5355d283cdfad8a39b57e So I am basically trying So I am basically trying to get an array with only unique values: so iam expecting array1 to be empty and array2 to be [1, 2, 3, 4, 5, 6]. Also shouldn't pic1 and pic2 get me same result? Is it a bug or am I doing something wrong? submitted by /u/phikusito [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qdxe5a/is_it_a_bug_or_am_i_just_dumb/",
+      "author": "/u/phikusito",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-15T22:11:26.702409"
+    },
+    {
+      "id": "https://www.reddit.com/r/unrealengine/t3_1qdwusv",
+      "type": "post",
+      "subreddit": "unrealengine",
+      "title": "Made a Spectate Tutorial as I didn't find any good ones online. Let me know if there is a better way to do it.",
+      "content": "Basically, I created a pawn and attached a camera to it. And On Death, I spawn this pawn and possess it. Also, cycling between characters is done using gamestate player array. submitted by /u/DMmotionarts [link] [comments]",
+      "link": "https://www.reddit.com/r/unrealengine/comments/1qdwusv/made_a_spectate_tutorial_as_i_didnt_find_any_good/",
+      "author": "/u/DMmotionarts",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-15T22:11:26.702489"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qdx6am",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Game redesign help",
+      "content": "I’m doing an art pass on my incremental game called A Game About Making A Planet and I know I want to keep the shadows from the one with red dots. Does the more limited colour pallet look good? submitted by /u/AcrylicPixelGames [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qdx6am/game_redesign_help/",
+      "author": "/u/AcrylicPixelGames",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-15T22:11:26.702501"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qdx3a7",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Working on the combat and visuals for my 2D multiplayer extraction shooter. Do the visuals and gameplay feel satisfying together?",
+      "content": "submitted by /u/SuccessfulEnergy4466 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qdx3a7/working_on_the_combat_and_visuals_for_my_2d/",
+      "author": "/u/SuccessfulEnergy4466",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-15T22:11:26.702508"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qdxioe",
+      "type": "search",
+      "subreddit": "psx",
+      "title": "Resident Evil 3 Nemesis PAL - Rare Irish Version?",
+      "content": "I'm looking into the Resident Evil 3 Nemesis PAL releases and noticed some mention of a release with the SLES code 02698. This seems odd as all the PAL release codes are between 02529-02533. Stranger still, apparently this was published by Virgin (like all the previous RE games in PAL) when all the common releases for RE3 are with Eidos... Old forums seem to suggest this was a release in Ireland... I'm wondering if there are any Irish collectors out there that have a copy of this rare release because I've not found one. Any information would be appreciated! submitted by /u/irreal_xol to r/psx [link] [comments]",
+      "link": "https://www.reddit.com/r/psx/comments/1qdxioe/resident_evil_3_nemesis_pal_rare_irish_version/",
+      "author": "/u/irreal_xol",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-15T22:11:26.703917"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qdxdlh",
+      "type": "search",
+      "subreddit": "russian",
+      "title": "500+ Russian Input Videos of all Levels + Analytics & Gamification",
+      "content": "Привет! It's been some months since I posted in this sub, so I wanted to update you on Lengualytics. It's a free library of user-sourced Russian comprehensible input content from all over the internet and a tracking system to show you your analytics as you watch. Track your average time per day, your average comprehension, your % listening fluency, and more. It's matured a lot in the last three months and now supports: - Embedded YouTube videos with automatic time tracking - Leaderboards to compare input and streaks with friends - A full badge system with fun little mini challenges to keep you grinding even on hard the hard days - Fully translated into Russian (in case your a Russian native trying to learn English!) And too much to talk about in one post. If you haven't checked out the site in a while or you've never seen it here is the homepage: https://lengualytics.com Thanks for reading and allowing me to post here every so often! PS: I post updates on my profile if you'd like to keep up to date with the project (there's a ton of stuff in the pipeline). submitted by /u/Cultural-Way7685 to r/russian [link] [comments]",
+      "link": "https://www.reddit.com/r/russian/comments/1qdxdlh/500_russian_input_videos_of_all_levels_analytics/",
+      "author": "/u/Cultural-Way7685",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-15T22:11:26.704548"
     }
   ],
-  "last_updated": "2026-01-15T21:42:08.476487"
+  "last_updated": "2026-01-15T22:13:04.719653"
 }
