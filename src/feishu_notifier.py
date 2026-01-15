@@ -59,7 +59,7 @@ def extract_subreddit_from_link(link: str) -> str:
 def create_google_search_url(title: str, subreddit: str = '', link: str = '') -> str:
     """
     创建通过Google搜索Reddit帖子的链接
-    使用 site:reddit.com/r/{subreddit} 限定搜索范围 + 引号精确匹配标题
+    使用 site:reddit.com/r/{subreddit} 限定搜索范围 + 模糊匹配标题
     避免直接访问Reddit触发429限制
     
     Args:
@@ -76,11 +76,11 @@ def create_google_search_url(title: str, subreddit: str = '', link: str = '') ->
     # 优先从链接中提取真实的 subreddit（避免 cross-post 导致的错误）
     real_subreddit = extract_subreddit_from_link(link) or subreddit
     
-    # 构建搜索查询: site:reddit.com/r/{subreddit} + "标题"（精确匹配）
+    # 构建搜索查询: site:reddit.com/r/{subreddit} + 标题（模糊匹配，更可靠）
     if real_subreddit:
-        search_query = f'site:reddit.com/r/{real_subreddit} "{title}"'
+        search_query = f'site:reddit.com/r/{real_subreddit} {title}'
     else:
-        search_query = f'site:reddit.com "{title}"'
+        search_query = f'site:reddit.com {title}'
     
     # URL编码查询字符串（处理空格、特殊字符、emoji等）
     encoded_query = quote(search_query, safe='')
