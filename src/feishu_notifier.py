@@ -6,6 +6,7 @@
 
 import os
 import json
+import re
 import requests
 from typing import Dict, List
 from urllib.parse import quote
@@ -39,7 +40,23 @@ TYPE_CONFIG = {
 }
 
 
-def create_google_search_url(title: str, subreddit: str = '') -> str:
+def extract_subreddit_from_link(link: str) -> str:
+    """
+    从 Reddit 链接中提取真实的 subreddit 名称
+    
+    Args:
+        link: Reddit 帖子链接，如 https://reddit.com/r/gameideas/comments/xxx/
+    
+    Returns:
+        subreddit 名称，如 "gameideas"
+    """
+    if not link:
+        return ''
+    match = re.search(r'/r/([^/]+)/', link)
+    return match.group(1) if match else ''
+
+
+def create_google_search_url(title: str, subreddit: str = '', link: str = '') -> str:
     """
     创建通过Google搜索Reddit帖子的链接
     使用 site:reddit.com/r/{subreddit} 限定搜索范围 + 引号精确匹配标题
@@ -47,7 +64,8 @@ def create_google_search_url(title: str, subreddit: str = '') -> str:
     
     Args:
         title: 帖子标题
-        subreddit: 子版块名称
+        subreddit: 子版块名称（备用）
+        link: 帖子链接（优先从这里提取真实 subreddit）
     
     Returns:
         Google搜索URL
@@ -55,9 +73,12 @@ def create_google_search_url(title: str, subreddit: str = '') -> str:
     if not title:
         return "https://www.google.com/search?q=site:reddit.com"
     
+    # 优先从链接中提取真实的 subreddit（避免 cross-post 导致的错误）
+    real_subreddit = extract_subreddit_from_link(link) or subreddit
+    
     # 构建搜索查询: site:reddit.com/r/{subreddit} + "标题"（精确匹配）
-    if subreddit:
-        search_query = f'site:reddit.com/r/{subreddit} "{title}"'
+    if real_subreddit:
+        search_query = f'site:reddit.com/r/{real_subreddit} "{title}"'
     else:
         search_query = f'site:reddit.com "{title}"'
     
@@ -158,7 +179,12 @@ def create_card_message(item: Dict) -> Dict:
     })
     
     # 添加操作按钮 - 使用Google搜索链接避免Reddit 429限制
-    google_search_url = create_google_search_url(item.get('title', ''), item.get('subreddit', ''))
+    # 优先从 link 中提取真实 subreddit，避免 cross-post 导致的错误
+    google_search_url = create_google_search_url(
+        title=item.get('title', ''),
+        subreddit=item.get('subreddit', ''),
+        link=item.get('link', '')
+    )
     elements.append({
         "tag": "action",
         "actions": [
