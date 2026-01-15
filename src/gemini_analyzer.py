@@ -22,7 +22,7 @@ GEMINI_API_KEY = os.environ.get('GEMINI_API_KEY', '')
 BATCH_SIZE = 10
 
 # 请求间隔（秒）
-REQUEST_DELAY = 2.0
+REQUEST_DELAY = 1.0
 
 # 批量分析Prompt模板
 BATCH_ANALYSIS_PROMPT = f"""Role: You are an experienced indie game developer helping to identify potential users for {PRODUCT_NAME}.

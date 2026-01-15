@@ -22,7 +22,7 @@ from config import (
 )
 
 # Reddit RSS 请求间隔（秒），避免被限流
-REQUEST_DELAY = 1.0
+REQUEST_DELAY = 0.3
 
 
 def clean_html(html_content: str) -> str:
