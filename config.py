@@ -60,7 +60,8 @@ PRODUCT_DESCRIPTION = "一个游戏和互动内容AI生成工具与UGC平台，�
 # ============ AI 配置 ============
 
 # Gemini模型配置
-GEMINI_MODEL = "gemini-1.5-flash"  # 快速且便宜
+# 注意：如果报错404，可以尝试其他模型如 "gemini-2.0-flash-exp" 或 "gemini-pro"
+GEMINI_MODEL = "gemini-2.0-flash-exp"  # 最新的快速模型
 
 # ============ 存储配置 ============
 
