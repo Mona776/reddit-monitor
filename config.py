@@ -49,6 +49,25 @@ SEARCH_RESULTS_PER_KEYWORD = 10
 PRODUCT_NAME = "wefun.ai"
 PRODUCT_DESCRIPTION = "一个游戏和互动内容AI生成工具与UGC平台，可以通过prompts处理游戏逻辑"
 
+# ============ 预过滤配置 ============
+
+# 相关性关键词（包含这些词的内容更可能相关）
+RELEVANCE_KEYWORDS = [
+    'no code', 'no-code', 'without coding', 'beginner', 'newbie',
+    'easy way', 'simple', 'tool', 'ai', 'generate', 'prompt',
+    'help me', 'how to', 'looking for', 'recommend', 'struggling',
+    'frustrated', "can't code", "don't know how", 'first game',
+    'prototype', 'quick', 'fast', 'easy to use'
+]
+
+# 排除关键词（包含这些词的内容明显不相关，直接跳过）
+EXCLUDE_KEYWORDS = [
+    'hiring', 'job', 'position', 'salary', 'portfolio',
+    'showcase', 'released', 'launched', 'check out my', 'i made',
+    'my game', 'just released', 'now available', 'on steam',
+    'kickstarter', 'crowdfunding', 'giveaway'
+]
+
 # ============ 存储配置 ============
 
 # 已处理帖子记录文件路径

@@ -22,11 +22,11 @@ GEMINI_API_KEY = os.environ.get('GEMINI_API_KEY', '')
 # 使用的模型 (轻量版，配额更高)
 MODEL_NAME = "gemini-2.0-flash-lite"
 
-# 每批处理的内容数量
-BATCH_SIZE = 10
+# 每批处理的内容数量（增大以减少请求次数）
+BATCH_SIZE = 20
 
-# 请求间隔（秒）
-REQUEST_DELAY = 1.0
+# 请求间隔（秒）- 15秒确保不触发速率限制
+REQUEST_DELAY = 15.0
 
 # 最大重试次数
 MAX_RETRIES = 2
