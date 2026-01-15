@@ -1,0 +1,14 @@
+# Reddit监测工具依赖
+# Python 3.11+
+
+# RSS解析
+feedparser==6.0.11
+
+# Google Gemini API
+google-generativeai==0.8.3
+
+# HTTP请求
+requests==2.32.3
+
+# HTML解析（清理Reddit内容）
+beautifulsoup4==4.12.3
