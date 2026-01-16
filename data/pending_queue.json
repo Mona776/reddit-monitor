@@ -2027,7 +2027,91 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-15T23:39:17.668137"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qe0z2h",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "Need little help!",
+      "content": "I am planning to make a turn based RPG game in unity, but the problem is i have not used unity(or any game engine) . The problem that i have encountered is that of how do i \"attack\", the thing is I already made the game in VS(C#) in console and it worked perfectly and my battle logic was: You have a maximum of 5 characters and the enemy also, for each turn i make a array of all the characters(enemy + player) and i sort it descending according to the \"initiative\" and according to this array is the \"turn order\" and when technicaly is your turn you just write 1,2,3,4,5 to select the ability then 1-5 to select the target. So back to unity, i thought that was done in \"update\" in my battleHandle-monobehaviour but did some research and also asked chat and came with the same answer : i need to make the buttons and on press to check the condition if i can attack(the condition is intuitive) BUT when the enemy attack it is done in update. Why is that, do I miss something ? Is this \"button\" that i can always press(but will not do anything if the \"state\" is not my turn) the way to go or to check in each frame ( in update) if the player had a input(if the state is player turn ofc, cuz i have 2 ifs \"if state==playerturn or if state==enemyturn) I am lost all help will be useful! submitted by /u/LunchLeast809 [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qe0z2h/need_little_help/",
+      "author": "/u/LunchLeast809",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T00:51:14.765285"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qe0g3z",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "Wood variation in big levels",
+      "content": "I m doing a little project and i was wondering how was the wooden planks were textured in re4r to get this much variation?? like is it a different material for each one ?? or one for all of them ?? submitted by /u/Hot-Ad4448 [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qe0g3z/wood_variation_in_big_levels/",
+      "author": "/u/Hot-Ad4448",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T00:51:14.765331"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qe0ft9",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "A detective game where observation matters.",
+      "content": "SideEye High is a detective game that lets you interpret the evidence yourself. submitted by /u/Matty_Matter [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qe0ft9/a_detective_game_where_observation_matters/",
+      "author": "/u/Matty_Matter",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T00:51:14.765357"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qe0etc",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "I have just finished my second game",
+      "content": "I’d love some first-impression feedback on my game about gameplay, game design and UI design. 🌚 submitted by /u/Solo1100-0-0- [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qe0etc/i_have_just_finished_my_second_game/",
+      "author": "/u/Solo1100-0-0-",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T00:51:14.765370"
+    },
+    {
+      "id": "https://www.reddit.com/r/unity/t3_1qe0zz4",
+      "type": "post",
+      "subreddit": "unity",
+      "title": "Need little help!",
+      "content": "submitted by /u/LunchLeast809 [link] [comments]",
+      "link": "https://www.reddit.com/r/unity/comments/1qe0zz4/need_little_help/",
+      "author": "/u/LunchLeast809",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T00:51:14.765531"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qe1fvt",
+      "type": "search",
+      "subreddit": "CSLPlasmaReferrals",
+      "title": "X9LRU7CLA9 Feel free to use it. If and after you use my referral code, make sure to also activate iGive Rewards, and complete your first two donations.",
+      "content": "submitted by /u/Difficult_Peach_5525 to r/CSLPlasmaReferrals [link] [comments]",
+      "link": "https://www.reddit.com/r/CSLPlasmaReferrals/comments/1qe1fvt/x9lru7cla9_feel_free_to_use_it_if_and_after_you/",
+      "author": "/u/Difficult_Peach_5525",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T00:51:14.766051"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qe15ds",
+      "type": "search",
+      "subreddit": "IronSaga",
+      "title": "[15/1 Patch Notes]",
+      "content": "submitted by /u/Addol to r/IronSaga [link] [comments]",
+      "link": "https://www.reddit.com/r/IronSaga/comments/1qe15ds/151_patch_notes/",
+      "author": "/u/Addol",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T00:51:14.766526"
     }
   ],
-  "last_updated": "2026-01-15T23:40:58.668851"
+  "last_updated": "2026-01-16T00:53:00.445284"
 }
