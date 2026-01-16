@@ -1,174 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/unity/t3_1qdnyiq",
-      "type": "post",
-      "subreddit": "unity",
-      "title": "Help with baked animations in unity!",
-      "content": "hello! i am working with a team on a project where we have over 200 animated meshes on screen that are being manipulated by an external slider. this project is for a museum and the computer they have is a bit older and slower, and we have experienced a lot of lag and were not sure if it is the amount of animated meshes or the computer's less than stellar amount of RAM, or both! the information i can give on the meshes is they are all planes with extremely low vertex counts and 4 bones at the max. we have looked into various different projects that involve baked animations (most of them relating to creating crowds) but it seems a lot of the tutorials are outdated, or assets they are using no longer exist. the only project that we found that we think can be viable is from the Megabonk creator's devlog, he isn't using a specific asset. (at least we don't think he is lol) https://youtu.be/gnxnmw5ryhg?si=G-tIcc0f5gBV6MGv&t=379 (link to video above) the only issue in the video is he only briefly touches on the subject, shows part of the code and moves on. any information about how we can achieve this in unity (unity 6 preferred!),other resources we should look into, search keywords, mentorship, etc would be greatly appreciated! thank you! submitted by /u/Hot-Archer1650 [link] [comments]",
-      "link": "https://www.reddit.com/r/unity/comments/1qdnyiq/help_with_baked_animations_in_unity/",
-      "author": "/u/Hot-Archer1650",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T16:59:54.686902"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qdohfh",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "Batter turned into a dancer",
-      "content": "submitted by /u/Boboter [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qdohfh/batter_turned_into_a_dancer/",
-      "author": "/u/Boboter",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T16:59:54.686943"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qdozy0",
-      "type": "search",
-      "subreddit": "FORSAKENROBLOX",
-      "title": "What is your favorite killer skins?",
-      "content": "The reason i like them Ki ki ma ma:The Chase and the big ass sword made me love this skin for some reason c00lkid:The custom voicelines and kill animations are carrying this skin,it will definitly be better once the goddamn Chase theme comes out John doe:This skin js probably the most custom skin in the game,it has a completly diffrent model and a custom Kill animation for every Survivor, the other things are a cherry on top Noli:Though admin was a close second,i like the voicelines and Chase theme of this skin more so yeah this might be subjective(this whole thing is subjective but wharever) 1x4:i am a huge fan of TBB so i am a bit biased here though i still think its the best skin for 1x, the only thing it lacks is voicelines but they dont add that to much skins as well Guest 666(sixer):İ am also a huge undertale fan and this skins custom SFX really makes me love it(the M1 also perfectly ryhmes with my undertale hit sound) Nos:He doesnt have much skins but kill animation is cool i guess submitted by /u/Queasy-Voice-1800 to r/FORSAKENROBLOX [link] [comments]",
-      "link": "https://www.reddit.com/r/FORSAKENROBLOX/comments/1qdozy0/what_is_your_favorite_killer_skins/",
-      "author": "/u/Queasy-Voice-1800",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T16:59:54.688554"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qdosts",
-      "type": "search",
-      "subreddit": "PlayASKA",
-      "title": "Amazing game but I need the fix for iron parts hoarding bug!",
-      "content": "The fact that no workers are dropping their used iron parts (axe heads, sword blades, etc) makes the game hard to play for me. We need the fix for this. Once my population is about 60 or so, it becomes such a chore to check all the relevant villager for their parts and gather them. I know the devs are working on this and more, and I am very thankful. This is an AMAZING game. But this bug is very annoying to me. submitted by /u/petrinaa to r/PlayASKA [link] [comments]",
-      "link": "https://www.reddit.com/r/PlayASKA/comments/1qdosts/amazing_game_but_i_need_the_fix_for_iron_parts/",
-      "author": "/u/petrinaa",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T16:59:54.689567"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qdos48",
-      "type": "search",
-      "subreddit": "FortNiteBR",
-      "title": "man i hate this bug",
-      "content": "This bug has been around since the Simpsons Battle Pass and they haven't fixed it. I'm literally talking about a bug where you can't crouch or even slide. devs please fix it i'm literally trying to enjoy the game submitted by /u/Technical_Park1367 to r/FortNiteBR [link] [comments]",
-      "link": "https://www.reddit.com/r/FortNiteBR/comments/1qdos48/man_i_hate_this_bug/",
-      "author": "/u/Technical_Park1367",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T16:59:54.689576"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qdpt67",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Making a Batman Arkham style game, with First person mode!",
-      "content": "https://youtu.be/KgBNXcaZ-Yo?si=XwIX3XIT5A0bC0ps submitted by /u/ExplosivArt [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qdpt67/making_a_batman_arkham_style_game_with_first/",
-      "author": "/u/ExplosivArt",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T17:32:09.887730"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qdptgf",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "I've finished some things in my game, what do you think?",
-      "content": "submitted by /u/Gambacurta [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qdptgf/ive_finished_some_things_in_my_game_what_do_you/",
-      "author": "/u/Gambacurta",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T17:32:09.887746"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qdpkyj",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "What do you do about story games?",
-      "content": "TLDR; How can I organize and make story with different paths to choose from. So I want to make a text/story based game, but also make it a choices matter type of game, So you people who made a story based game with different branches and endings, How did you make the story? not the story itself but how did you organize different endings, different choices and so? Or, did you make a base story at first, then added couple of choices and added the ending depending on the choices you choose? submitted by /u/Jaessie_devs [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qdpkyj/what_do_you_do_about_story_games/",
-      "author": "/u/Jaessie_devs",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T17:32:09.887761"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qdp2gu",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Hired the most affordable artist I know (me) to take a shot at new capsule art. Here’s what I came up with",
-      "content": "Now I'm looking at it, wondering: does it honestly show what this is? It's a narrative simulator and psychological horror about traveling in an RV to save people from their suicidal thoughts. Does this capture it for you? Steam: https://store.steampowered.com/app/4176620/ submitted by /u/Orizori_ [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qdp2gu/hired_the_most_affordable_artist_i_know_me_to/",
-      "author": "/u/Orizori_",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T17:32:09.887852"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qdpr4i",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "I'm having a blast making menus (This counts as a menu right?)",
-      "content": "Copyright? What's that? submitted by /u/Jolly-Ad-1161 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qdpr4i/im_having_a_blast_making_menus_this_counts_as_a/",
-      "author": "/u/Jolly-Ad-1161",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T17:32:09.887859"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qdpl6z",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Help with rotation of sprite relative to mouse cursor?",
-      "content": "Hi - I'm trying to make this spaceship follow the cursor and apply thrust in that direction, its applying thrust in the correct direction, that being towards the cursor, but the nose of the ship if always pointed 90 degree offset from the mouse. I tried manually changing rotation of the node by 90 degrees but it didnt change anything. heres my basic player script: \"extends Node2D # Movement settings u/export var max_speed: float = 1120.0 u/export var acceleration: float = 500.0 u/export var friction: float = 400.0 u/export \" var max_rot_speed: float = 0.75 # radians/sec var velocity: Vector2 = Vector2.ZERO func _physics_process(delta: float) -> void: rotate_towards_mouse(delta) apply_input(delta) move_ship(delta) update_thrusters() func rotate_towards_mouse(delta: float): var mouse_pos = get_global_mouse_position() var target_angle = (mouse_pos - global_position).angle() # Node2D rotation var angle_diff = wrapf(target_angle - rotation, -PI, PI) rotation += clamp(angle_diff, -max_rot_speed * delta, max_rot_speed * delta) func apply_input(delta: float): var thrust = Vector2.ZERO var forward = Vector2.UP.rotated(rotation) # forward = nose direction (sprite points up) if Input.is_action_pressed(\"forward\"): thrust = forward * acceleration elif Input.is_action_pressed(\"back\"): thrust = -forward * acceleration # Update velocity velocity += thrust * delta # Apply friction if no input if thrust == Vector2.ZERO: var friction_force = friction * delta if velocity.length() > friction_force: velocity = velocity.move_toward(Vector2.ZERO, friction_force) else: velocity = Vector2.ZERO # Clamp max speed if velocity.length() > max_speed: velocity = velocity.normalized() * max_speed func move_ship(delta: float): position += velocity * delta func update_thrusters(): var moving_forward = Input.is_action_pressed(\"forward\") $Ship1/thrusterJetL.visible = moving_forward $Ship1/thrusterJetR.visible = moving_forward submitted by /u/Confident_Effort_704 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qdpl6z/help_with_rotation_of_sprite_relative_to_mouse/",
-      "author": "/u/Confident_Effort_704",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T17:32:09.887895"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qdpp75",
-      "type": "search",
-      "subreddit": "RLSideSwipe",
-      "title": "Let’s all say thanks to the developers",
-      "content": "I can’t imagine it’s been easy to continue to be responsible and excited for a game that has been thrown to the wayside by much of the general RL community. And yet, the developers have shown up and taken care of the game and, especially this season, given opportunities for people to complete their collections and enjoy the game in whatever way they like. So thank you devs for all the hard work and everything you do to keep SideSwipe going and fun! submitted by /u/BigZestyy to r/RLSideSwipe [link] [comments]",
-      "link": "https://www.reddit.com/r/RLSideSwipe/comments/1qdpp75/lets_all_say_thanks_to_the_developers/",
-      "author": "/u/BigZestyy",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T17:32:09.889428"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedev/t3_1qdqn8k",
-      "type": "post",
-      "subreddit": "gamedev",
-      "title": "Building a calm, readable UI for a cozy world-builder in Godot - feedback wanted",
-      "content": "Been working on Luminids for about 4 months so far - it's pre-alpha and early stages. I’m iterating on the version 1 UI for this calm, low-pressure world-builder and would really like feedback on clarity and flow. Built in Godot UI (custom theme) - especially interested in anything that feels unclear, distracting, or redundant right now. Short clip of the UI in motion (2 min): https://www.reddit.com/r/godot/comments/1qdqi2o/building_a_calm_readable_ui_for_a_cozy/ submitted by /u/Hostarro [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedev/comments/1qdqn8k/building_a_calm_readable_ui_for_a_cozy/",
-      "author": "/u/Hostarro",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T18:21:31.362556"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qdqyvj",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Do you think this intro is sufficient?",
-      "content": "submitted by /u/BoneMarrowGames [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qdqyvj/do_you_think_this_intro_is_sufficient/",
-      "author": "/u/BoneMarrowGames",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T18:21:31.362569"
-    },
-    {
       "id": "https://www.reddit.com/r/indiegaming/t3_1qdqwz5",
       "type": "post",
       "subreddit": "indiegaming",
@@ -2423,7 +2255,43 @@
       "search_keyword": "make game without coding",
       "relevance_score": 0,
       "added_at": "2026-01-16T05:16:02.874717"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qe78v6",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "What should I be wary of when signing regional publishing contracts with Chinese publishers?",
+      "content": "I've been contacted by several chinese regional publishers for my horror game. I've heard horror stories of chinese regional publishers tricking developers to steal publishing/revenue rights in the region due to lax chinese ip laws. What should I look for in a contract before signing a regional publishing contract with a chinese publisher? submitted by /u/Reihado [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qe78v6/what_should_i_be_wary_of_when_signing_regional/",
+      "author": "/u/Reihado",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T05:45:50.293588"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qe7q0h",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Yttrae, my upcoming narrative-driven racing game",
+      "content": "submitted by /u/Detached-Toast [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qe7q0h/yttrae_my_upcoming_narrativedriven_racing_game/",
+      "author": "/u/Detached-Toast",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T05:45:50.293600"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qe7qad",
+      "type": "search",
+      "subreddit": "ChromebookGaming",
+      "title": "How do i stop my mouse from disappearing when i type on my chromebook! i cant GAME!",
+      "content": "Its always when i type i tried resetting, restarting, but i couldnt find the problem and the search key doesnt make the mouse disappear its the other keys! how could i fix this problem on my Chromebook im worried it may be damage because i bought this chromebook as a used one. i c a n t GAME submitted by /u/ConsiderationSure799 to r/ChromebookGaming [link] [comments]",
+      "link": "https://www.reddit.com/r/ChromebookGaming/comments/1qe7qad/how_do_i_stop_my_mouse_from_disappearing_when_i/",
+      "author": "/u/ConsiderationSure799",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T05:45:50.294214"
     }
   ],
-  "last_updated": "2026-01-16T05:17:33.099272"
+  "last_updated": "2026-01-16T05:47:29.261447"
 }
