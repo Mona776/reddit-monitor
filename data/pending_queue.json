@@ -1,30 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/t3_1qe622p",
-      "type": "search",
-      "subreddit": "GameDevelopersOfIndia",
-      "title": "I made a 2D Dinosaur Sprite Bundle for indie games (feedback welcome",
-      "content": "Hey everyone 👋 I’m an indie dev and recently finished a 2D prehistoric creature sprite bundle that I originally made for my own game. I decided to clean it up and release it for other devs too. The bundle includes 7 creatures , each with multiple animations (idle, walk, run, attack, etc.): Brachiosaurus Stegosaurus Parasaurolophus Dilophosaurus Oviraptor Tyrannosaurus Rex Dimetrodon (non-dino, but prehistoric) Everything is PNG sprite sheets with transparent backgrounds , made for 2D games (Unity, Godot, Paper2D, etc.). I’m selling the full bundle for $4.99 on itch Link: https://itch.io/s/177611/dino-creature-bundle-2d-prehistoric-sprite-sheet-pack I’d honestly love: Feedback on the art & animations Suggestions for improvements Ideas for dinos to add in a future update Thanks for checking it out, and happy dev-ing submitted by /u/DemandOk4298 to r/GameDevelopersOfIndia [link] [comments]",
-      "link": "https://www.reddit.com/r/GameDevelopersOfIndia/comments/1qe622p/i_made_a_2d_dinosaur_sprite_bundle_for_indie/",
-      "author": "/u/DemandOk4298",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T04:34:06.122015"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qe6m8p",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "I'm making a dog game but everyone loves cats so I added a cat onesie",
-      "content": "submitted by /u/rotub [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qe6m8p/im_making_a_dog_game_but_everyone_loves_cats_so_i/",
-      "author": "/u/rotub",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T05:16:02.874191"
-    },
-    {
       "id": "https://www.reddit.com/r/indiegaming/t3_1qe6ikr",
       "type": "post",
       "subreddit": "indiegaming",
@@ -3011,7 +2987,139 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-16T18:16:26.711737"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qeo7p7",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "After months of work, I finally released a demo of my weird UI-driven game on Steam",
+      "content": "submitted by /u/KratosMemories [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qeo7p7/after_months_of_work_i_finally_released_a_demo_of/",
+      "author": "/u/KratosMemories",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T18:53:01.680607"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qeo280",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "In Here Comes The Swarm, you will need to fight waves of enemies that are growing each second! Do you have what it takes to survive?",
+      "content": "submitted by /u/HereComesTheSwarm [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qeo280/in_here_comes_the_swarm_you_will_need_to_fight/",
+      "author": "/u/HereComesTheSwarm",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T18:53:01.680615"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qenzbr",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Card design for our tarot roguelite deckbuilder, what do you think?",
+      "content": "This are the designs for Beatrix, a tarot roguelite deckbuilder inspired by Dante Alighieri's The Divine Comedy. What do you think about the card design? submitted by /u/Tambu_pro [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qenzbr/card_design_for_our_tarot_roguelite_deckbuilder/",
+      "author": "/u/Tambu_pro",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T18:53:01.680626"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qenxvs",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Built a maze and immediately became its first victim",
+      "content": "submitted by /u/playlostisle [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qenxvs/built_a_maze_and_immediately_became_its_first/",
+      "author": "/u/playlostisle",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T18:53:01.680633"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qeoa0d",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "After months of work, I finally released a demo of my weird UI-driven game on Steam",
+      "content": "submitted by /u/KratosMemories [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qeoa0d/after_months_of_work_i_finally_released_a_demo_of/",
+      "author": "/u/KratosMemories",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T18:53:01.680699"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qeo98l",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Our demo is live!!!",
+      "content": "If you’re looking to slow down in these hectic times, Micromega offers a quiet moment of wonder and thoughtful puzzle-solving. The demo gives you a first glimpse of its hand-drawn world and physics-based gameplay and a sense of all the love and care we poured into it --> https://store.steampowered.com/app/3453900/Micromega/ submitted by /u/Wecoven [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qeo98l/our_demo_is_live/",
+      "author": "/u/Wecoven",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T18:53:01.680714"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qeo5ru",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "What do you think about this kick animation?",
+      "content": "submitted by /u/Jaded-Grocery-9308 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qeo5ru/what_do_you_think_about_this_kick_animation/",
+      "author": "/u/Jaded-Grocery-9308",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T18:53:01.680719"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qeo3s1",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "A Cursed Rat enemy I'm using to test out basic combat mechanics, wondering if I should simplify the shading or keep it as it is, thoughts?",
+      "content": "submitted by /u/Best-Arachnid-9025 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qeo3s1/a_cursed_rat_enemy_im_using_to_test_out_basic/",
+      "author": "/u/Best-Arachnid-9025",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T18:53:01.680727"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qenpxo",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "What are you working on?",
+      "content": "Do you need a composer? submitted by /u/MusicProduceDrizzle [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qenpxo/what_are_you_working_on/",
+      "author": "/u/MusicProduceDrizzle",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T18:53:01.680779"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qenr0v",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "This game mixes Pokémon, Fortnite, and Mage Arena.",
+      "content": "submitted by /u/Ok_Sport8740 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qenr0v/this_game_mixes_pokémon_fortnite_and_mage_arena/",
+      "author": "/u/Ok_Sport8740",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T18:53:01.680870"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qeocio",
+      "type": "search",
+      "subreddit": "foxholegame",
+      "title": "Dev Stream Tops Total Players in Game EVER!",
+      "content": "So many people are watching the dev steam. It's more than the total players in the game ever at the same time! submitted by /u/Swizzlerzs to r/foxholegame [link] [comments]",
+      "link": "https://www.reddit.com/r/foxholegame/comments/1qeocio/dev_stream_tops_total_players_in_game_ever/",
+      "author": "/u/Swizzlerzs",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T18:53:01.682335"
     }
   ],
-  "last_updated": "2026-01-16T18:18:11.850999"
+  "last_updated": "2026-01-16T18:54:32.900759"
 }
