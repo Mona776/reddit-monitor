@@ -1,54 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qe3eyd",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "PIRATE FIGHTS",
-      "content": "Yargh submitted by /u/Evening-Ad-599 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qe3eyd/pirate_fights/",
-      "author": "/u/Evening-Ad-599",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T02:53:19.614790"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qe3876",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Do you think this looks good for a \"bottomless pit\" effect?",
-      "content": "For my game, i need some places to look like they go far where in reality they aren't that big, like this pit that's just ~6 meters in depth, but with this black gradient that will make anything behind it not visible anymore, items can fall into darkness. does it look good? i intend to use this for bottomless pits, and edge of big rooms that extend into the unknoown. submitted by /u/MalfetKiren [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qe3876/do_you_think_this_looks_good_for_a_bottomless_pit/",
-      "author": "/u/MalfetKiren",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T02:53:19.614807"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qe2lzb",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "What I Asked For Vs. What I Got",
-      "content": "Making one of these posts feels like a rite of passage. I'm thrilled to death with how this key art for our game came out, and I think its origin couldn't be funnier. Reddit made me hide Adam's naughty bits, though. This is for a narrative strategy game set in the Secret Histories (Cultist Simulator, Book of Hours). You can check it out below. I'm also interested in recruiting playtesters on various grades of hardware. Wishlist on Steam: https://store.steampowered.com/app/3869880/The_Matter_of_Being/ Follow development on Discord: https://discord.gg/CAE6atnwqw submitted by /u/CLG-BluntBSE [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qe2lzb/what_i_asked_for_vs_what_i_got/",
-      "author": "/u/CLG-BluntBSE",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T02:53:19.614827"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qe1s06",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "New VS Old Water, What do you think?",
-      "content": "I reworked the water in my game, the old one was just a plane with some color, no effects, or waves, or anything at all basically, the new water reacts to the bobber and the fish swimming in it. submitted by /u/Total_Impression_382 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qe1s06/new_vs_old_water_what_do_you_think/",
-      "author": "/u/Total_Impression_382",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T02:53:19.614875"
-    },
-    {
       "id": "https://www.reddit.com/r/godot/t3_1qe1qzu",
       "type": "post",
       "subreddit": "godot",
@@ -2555,7 +2507,103 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-01-16T14:46:16.889031"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qehzqf",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Gloom",
+      "content": "https://store.steampowered.com/app/4292690/Gloom/ r/indiegames r/gamedev r/Steam r/playmygame submitted by /u/AlibazGameStudio [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qehzqf/gloom/",
+      "author": "/u/AlibazGameStudio",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T15:12:45.188736"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qehyyy",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Magic Forge Tycoon Review - Lord of War meets fantasy game",
+      "content": "submitted by /u/ThatVideoGameLife [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qehyyy/magic_forge_tycoon_review_lord_of_war_meets/",
+      "author": "/u/ThatVideoGameLife",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T15:12:45.188744"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qeigyf",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Just added a new lighting effect to my game, what do you think?",
+      "content": "submitted by /u/After-Analysis-4151 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qeigyf/just_added_a_new_lighting_effect_to_my_game_what/",
+      "author": "/u/After-Analysis-4151",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T15:12:45.188755"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qeij3n",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "2d sidescroller survival sandbox",
+      "content": "Let's say you wanted to make a 2d sidescroller survival sandbox like Terraria or Starbound. What are first couple of things you'd work on first? Player related stuff (movement, mining, crafting and interacting with blocks, entities and objects) or world generation? submitted by /u/FunYak4372 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qeij3n/2d_sidescroller_survival_sandbox/",
+      "author": "/u/FunYak4372",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T15:12:45.188823"
+    },
+    {
+      "id": "https://www.reddit.com/r/unrealengine/t3_1qehvno",
+      "type": "post",
+      "subreddit": "unrealengine",
+      "title": "Replication won't work past player 2",
+      "content": "title. I'm making a mod in unreal 5, replication works for players 1 and 2 but I can't get the mod actor sent to players 3 and 4. any attempts I've made either don't work at all or the mod actor just doubles up onto player 2. halp submitted by /u/Void_Eclipse [link] [comments]",
+      "link": "https://www.reddit.com/r/unrealengine/comments/1qehvno/replication_wont_work_past_player_2/",
+      "author": "/u/Void_Eclipse",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T15:12:45.188942"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qeiewe",
+      "type": "search",
+      "subreddit": "BattlefieldPortal",
+      "title": "Night of the Undead V3.2 - Updated for the Weekend!",
+      "content": "I apologize in advance for the wall of text but in that wall of text you can see all of the features i have added and the bugs that have been fixed! I hope everyone enjoys their weekend and let me know what you would like to see in the Undead mode going forward. Feel free to also join me for bug test to be added to the list! ^-^ v3.2 – ZN76F - New Features - 3RD WEAPON SLOT SYSTEM Gunslang-Jet unlocks a virtual 3rd weapon slot Replaced weapons are stored as your 3rd weapon Swap to secondary to rotate your 3rd weapon in New HUD shows stored 3rd weapon with icon and ammo WALL WEAPONS IMPROVEMENTS Multiple wall weapon stations can be open at once Stations auto-close after 10 seconds Shows [FULL] when ammo is maxed Can buy ammo for weapons in your 3rd slot POWERUP IMPROVEMENTS Refined drop distribution system Improved spawn rate balancing Balance Changes Wall weapon prices rebalanced across all categories UNDEAD COUNT FORMULA Now uses quadratic scaling formula Wave 1: ~24 undead (was ~10) Wave 10: ~51 undead (was ~31) Wave 20: ~98 undead (was ~96) Multiplayer bonus: +50% per extra player (was +35%) SPAWN RATE Starting delay: 4s (was 2s) Minimum delay: 0.5s (was 0.3s) More gradual ramp-up for better pacing Changes and Fixes Renamed upgrade station to Amp-a-Arsenal internally Opening a door now clears out-of-bounds for that zone Improved sound effect cleanup (no more audio leaks) Bear hunt and Amp-a-Arsenal code consolidated Window barriers refactored for better performance Removed Gunslang-Jet reroll (replaced by 3rd weapon) Fixed edge cases where undead got stuck at barriers Game loops now properly stop when match ends Fixed timed powerup effects persisting across rounds Undead now prefer targeting players on the same floor Perk syringe now refunds if not used within 10 seconds Perk activation message now shows on syringe use Fixed duplicate weapon tracking in multiple slots Fixed barrier interact not spawning for multiple players Technical Added utility library: Timers, Raycast, Sounds classes Converted Barrier, PowerUp, AmpArsenal to classes Weapon tracking stores max ammo for full detection Undead target cache optimized with Map for O(1) lookups Per-station state allows parallel wall weapon purchases submitted by /u/TabbedScamper to r/BattlefieldPortal [link] [comments]",
+      "link": "https://www.reddit.com/r/BattlefieldPortal/comments/1qeiewe/night_of_the_undead_v32_updated_for_the_weekend/",
+      "author": "/u/TabbedScamper",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T15:12:45.189187"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qeih93",
+      "type": "search",
+      "subreddit": "3Dprinting",
+      "title": "Will I need support for this overhang of a box lid?",
+      "content": "First time printing a model here, I'm still a bit confused at how much overhang is possible without support, I've googled it but the responses didn't make it very clear, this one has about 1.8mm and there's a little bit of fillet, I think the rubber holes on the bottom will definitely need some. submitted by /u/Cyber-Rat to r/3Dprinting [link] [comments]",
+      "link": "https://www.reddit.com/r/3Dprinting/comments/1qeih93/will_i_need_support_for_this_overhang_of_a_box_lid/",
+      "author": "/u/Cyber-Rat",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T15:12:45.189766"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qeiclh",
+      "type": "search",
+      "subreddit": "ContractorsExfilZone",
+      "title": "Server down",
+      "content": "This game is so hacked that even the devs, or someone related to them, hacked themselves, interrupting the game just to stage some over \"dramatic moment\" like a bad episode of La Rosa de Guadalupe. Hope everyones data are safe, and can get back there submitted by /u/Dunettar to r/ContractorsExfilZone [link] [comments]",
+      "link": "https://www.reddit.com/r/ContractorsExfilZone/comments/1qeiclh/server_down/",
+      "author": "/u/Dunettar",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T15:12:45.190174"
     }
   ],
-  "last_updated": "2026-01-16T14:47:57.073905"
+  "last_updated": "2026-01-16T15:14:24.031708"
 }
