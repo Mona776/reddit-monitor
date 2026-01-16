@@ -1,114 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/godot/t3_1qdqup1",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Variable value changing without an apparent reason",
-      "content": "https://preview.redd.it/hty6t6xtujdg1.png?width=301&format=png&auto=webp&s=b8acf59c7563fd3d4560d4160982aaa7ad549ff4 https://preview.redd.it/uaz2t7xtujdg1.png?width=513&format=png&auto=webp&s=7c93d0959bc91a932d9c448ca920dee13a4b5223 https://preview.redd.it/6yks28xtujdg1.png?width=212&format=png&auto=webp&s=9f9659d26d04e7e794db35f19ee14599bb60ab9b Yesterday I changed my code from export var wall_jump_force to the one in the screenshot. Before that, one of the values I set through the editor was -450, but I also set other values afterward. But whenever I try to access the variable wall_jump_force it still returns -450 even when I explicitly set it to a different value. There is no reference to it anywhere else in the project and the previous export line has already been removed. Changing its name seems to work but I don't know why. If I only change the variable name and not its references it returns Identifier \"wall_jump_force\" not declared in the current scope. However, if I change both the variable and references names there is no error, so I don't think there is something setting it to -450. I also tried reopening the project and restarting my computer, but that didn't work. submitted by /u/Grouchy_Gap8097 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qdqup1/variable_value_changing_without_an_apparent_reason/",
-      "author": "/u/Grouchy_Gap8097",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T18:21:31.362829"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qdqi2o",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Building a calm, readable UI for a cozy world-builder in Godot (2-min dev clip)",
-      "content": "Been working on Luminids for about 4 months so far - it's pre-alpha and early stages. I’m iterating on the version 1 UI for this calm, low-pressure world-builder and would really like feedback on clarity and flow. This short clip shows the current state of the interface in motion. Built in Godot UI (custom theme) - especially interested in anything that feels unclear, distracting, or redundant right now. submitted by /u/Hostarro [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qdqi2o/building_a_calm_readable_ui_for_a_cozy/",
-      "author": "/u/Hostarro",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T18:21:31.362862"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qdqboa",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "After Post Processing",
-      "content": "I decided to experiment with the world environment and light nodes in Godot. I used the glow feature while having a canvas modulate to darken the scene. submitted by /u/Dry-Economy6466 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qdqboa/after_post_processing/",
-      "author": "/u/Dry-Economy6466",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T18:21:31.362893"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qdq649",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Just made a Godot Hub lol",
-      "content": "submitted by /u/Putrid_Storage_7101 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qdq649/just_made_a_godot_hub_lol/",
-      "author": "/u/Putrid_Storage_7101",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T18:21:31.362942"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qdqqf9",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "Do you think this intro is sufficient?",
-      "content": "submitted by /u/BoneMarrowGames [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qdqqf9/do_you_think_this_intro_is_sufficient/",
-      "author": "/u/BoneMarrowGames",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T18:21:31.363061"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qdqoxq",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "Over the holiday, I made a free, short (~5 mins), atmospheric horror experience in Godot. Feedback welcome.",
-      "content": "This is my first complete project which I managed to finish by keeping it incredibly short. Link: therealdyer.itch.io/the-sleeping-problem submitted by /u/theRealDyer [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qdqoxq/over_the_holiday_i_made_a_free_short_5_mins/",
-      "author": "/u/theRealDyer",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T18:21:31.363069"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qdq6mf",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "Trying to balance the knockback in my game",
-      "content": "Finding the sweet spot for how knockback works is a lot more complicated than I thought. submitted by /u/ArcaneFistGame [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qdq6mf/trying_to_balance_the_knockback_in_my_game/",
-      "author": "/u/ArcaneFistGame",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T18:21:31.363076"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qdr8ez",
-      "type": "search",
-      "subreddit": "rivals",
-      "title": "Marvel Rivals",
-      "content": "What if the devs gave specific skins for characters who have altered counterparts like the hulk and red hulk for an example had passive abilities just as well a newly custom vfx and new team up ability I feel like it’ll make the game more contrast and more interesting to play submitted by /u/emp2crazyy to r/rivals [link] [comments]",
-      "link": "https://www.reddit.com/r/rivals/comments/1qdr8ez/marvel_rivals/",
-      "author": "/u/emp2crazyy",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T18:21:31.364952"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qdrabm",
-      "type": "search",
-      "subreddit": "DungeonCrawlerCarl",
-      "title": "DCC is Perfect for MTG",
-      "content": "Heeeeey Guuuys! I just started playing MTG and I am at the very end of Book 6. I have burned through this series in a Month and a half, and I got into Magic The Gathering only two weeks ago. But now that I have two new obsessions and the gimmick of book 6 is fresh in my mind, I cannot help but think how perfect DCC would be for a crossover into MTG. With so many Characters, Mobs, Items, and effects that are in the dungeon. The possibilities are so vast, and especially with how many more floors of the dungeon there are left. If they jump on this at the end of the series they could make a massive set list. The Creature cards are obvious you have so many Characters, and fun creatures that Matt Dinniman has come up with. Instants, and Sorcery’s could be pulled from skills the crawlers and mobs have. Or just funny shit in the book like a “Time to Pay The Daddy Tax - Destroy Target Creature” I don’t know. I’m not a game designer, you get what I’m saying. It would just be really cool to see. I can’t be the only one with both of these obsessions and hope that one day their paths cross. Hell it doesn’t have to be MTG put these guys in Fortnite! Truly I just want as much DCC as I can get. Inject it into my veins. Anyway I know this post is a little nonsensical, and has possibly been discussed before but thank you for reading! submitted by /u/AscendedGalahad00 to r/DungeonCrawlerCarl [link] [comments]",
-      "link": "https://www.reddit.com/r/DungeonCrawlerCarl/comments/1qdrabm/dcc_is_perfect_for_mtg/",
-      "author": "/u/AscendedGalahad00",
-      "search_keyword": "how to make a game",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T18:21:31.365079"
-    },
-    {
       "id": "https://www.reddit.com/r/indiegaming/t3_1qds3h5",
       "type": "post",
       "subreddit": "indiegaming",
@@ -2279,7 +2171,91 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-01-16T06:17:38.401380"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qe8zbe",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Alone they are unique... together they are unstoppable. Each of our Adventurers comes with their own unique skills, but combining them may be the only way to finally defeat the Blightstone",
+      "content": "submitted by /u/Blightstone_Game [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qe8zbe/alone_they_are_unique_together_they_are/",
+      "author": "/u/Blightstone_Game",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T06:54:09.922755"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qe8wdt",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "One of the larger areas in our game, Second Stone. Made in Unreal Engine 5!",
+      "content": "submitted by /u/SkywardDevTeam [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qe8wdt/one_of_the_larger_areas_in_our_game_second_stone/",
+      "author": "/u/SkywardDevTeam",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T06:54:09.922763"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qe8sjx",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Vine Build",
+      "content": "submitted by /u/RoeBox [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qe8sjx/vine_build/",
+      "author": "/u/RoeBox",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T06:54:09.922771"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qe8de8",
+      "type": "search",
+      "subreddit": "PSVR",
+      "title": "Cheap copies or Horizon",
+      "content": "Mods - delete it not allowed - I just picked up a copy of Horizon VR on Eneba for $6 today. It looks like a code marketplace so obviously due diligence if you buy, but I can confirm I bought it and used PayPal to be safe and got a code for the game 2 mins later - which works perfectly. They also say they provide a guarantee on all purchases. I think normal price is about 7-9 bucks on there so it’s a steal no matter what when compared to PSN price. Super fun game! Graphics are amazing. submitted by /u/Ok_Excitement725 to r/PSVR [link] [comments]",
+      "link": "https://www.reddit.com/r/PSVR/comments/1qe8de8/cheap_copies_or_horizon/",
+      "author": "/u/Ok_Excitement725",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T06:54:09.923690"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qe8wts",
+      "type": "search",
+      "subreddit": "secretteenagers",
+      "title": "The Voting Games",
+      "content": "We are playing a game with some friends of mine! The idea is to make alliances with other teens and fight (which is a fancy way to say \"vote\") each other out, until only one is standing. Make new friends (or enemies) or make your own alliance! Specific rules will be cleared later, please lmk here if you want to join! Happy voting games, and may the odds be ever in your favor. submitted by /u/Complete_Battle2726 to r/secretteenagers [link] [comments]",
+      "link": "https://www.reddit.com/r/secretteenagers/comments/1qe8wts/the_voting_games/",
+      "author": "/u/Complete_Battle2726",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T06:54:09.924159"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qe8ty7",
+      "type": "search",
+      "subreddit": "SnowFall",
+      "title": "Teddy had some serious psychological issues (season 6 spoilers)",
+      "content": "I feel like everyone around Teddy can see it but him. He’s really really messed up from his bad relationship with his dad, and he takes it out on everyone around him, like if anyone in the show needed a therapist, it was him… Taking ALL Of Franklin’s money was purely a power trip game, I had the exact same questions as Franklin, why did he take the whole 73, why didn’t he just leave him enough to transition, he WANTED Franklin to fuck his life, he could have left him even 10-20 mill. The way he justifies things are so warped, like talking about how “You left me Franklin”, as if Franklin had any choice about the fact that Louie went behind his back, and forced him out. Louie and Jerome would have done the work for Teddy if they didn’t have to go to war with Franklin. Like he can’t see how his actions might be what rubs people up the wrong way, instead he always says how “I can’t believe they’re behaving like this” and the behaviour is a very normal reaction to his cruel behaviour. And I think he gets this from his dad. Everything Teddy does, even the way he talks, it’s like he’s gotta make sure everyone knows “I’m the one in charge”, even proposing to Parissa seemed a bit premature. Teddy had daddy issues man…. submitted by /u/ArmzLDN to r/SnowFall [link] [comments]",
+      "link": "https://www.reddit.com/r/SnowFall/comments/1qe8ty7/teddy_had_some_serious_psychological_issues/",
+      "author": "/u/ArmzLDN",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T06:54:09.925022"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qe8tuw",
+      "type": "search",
+      "subreddit": "SteamDeck",
+      "title": "RE9 How do we think it'll run",
+      "content": "How do we think it'll run on steam deck? So far all RE games have run beautifully on here, good visuals and buttery smooth 60fps both old and new games. RE4R needed a few tweaks but now its perfect and smooth. Same goes for non RE games like DMC5. The RE Engine seems to be very well optimised for a lot of their games. Here's hoping our Decks can handle RE9 from the new info we got on the game it sounds like they are trying to optimise it more than they did RE4R and make it possible on more platforms submitted by /u/BladedBee to r/SteamDeck [link] [comments]",
+      "link": "https://www.reddit.com/r/SteamDeck/comments/1qe8tuw/re9_how_do_we_think_itll_run/",
+      "author": "/u/BladedBee",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T06:54:09.925037"
     }
   ],
-  "last_updated": "2026-01-16T06:19:31.724885"
+  "last_updated": "2026-01-16T06:56:00.226798"
 }
