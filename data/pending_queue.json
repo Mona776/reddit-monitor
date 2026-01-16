@@ -1,54 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/t3_1qdw1k0",
-      "type": "search",
-      "subreddit": "apexlegends",
-      "title": "Ranked Matchmaking Issue",
-      "content": "Was wondering if anyone else is having matchmaking issues in ranked? Whenever I’m three stacking ranked lobbies, my teammates and I will find a game but I will get sent back to the lobby immediately. No explanation or error code. The issue only seems to happen when I’m playing ranked with a full squad. Even when I am hosting it still happens. Wildcard works fine and so does mixtape. My drivers are updated and I’ve uninstalled and reinstalled the game, but still having issues. Anyone else running into anything similar? submitted by /u/thrune53 to r/apexlegends [link] [comments]",
-      "link": "https://www.reddit.com/r/apexlegends/comments/1qdw1k0/ranked_matchmaking_issue/",
-      "author": "/u/thrune53",
-      "search_keyword": "no code game",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T21:40:05.988952"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qdvx4e",
-      "type": "search",
-      "subreddit": "UFLTheGame",
-      "title": "Haha, me coming back to see what are the feedbacks about the new update",
-      "content": "So i think i'm gonna see by myself lol. submitted by /u/Feeling-Newspaper557 to r/UFLTheGame [link] [comments]",
-      "link": "https://www.reddit.com/r/UFLTheGame/comments/1qdvx4e/haha_me_coming_back_to_see_what_are_the_feedbacks/",
-      "author": "/u/Feeling-Newspaper557",
-      "search_keyword": "no code game",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T21:40:05.988959"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qdwesg",
-      "type": "search",
-      "subreddit": "ContractorsExfilZone",
-      "title": "Concerning Server Shutdown",
-      "content": "So… I just entered, lost everything from the last match when the server went down. Tasks that were successfully completed are now marked as incomplete. Kills didn’t count, deaths did, money and gear wasted. Someone was wondering if a server shutdown would rewind the game state for those who died because of it… but that was asking too much from the devs. Good job, devs! submitted by /u/Dunettar to r/ContractorsExfilZone [link] [comments]",
-      "link": "https://www.reddit.com/r/ContractorsExfilZone/comments/1qdwesg/concerning_server_shutdown/",
-      "author": "/u/Dunettar",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T21:40:05.989460"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qdwckx",
-      "type": "search",
-      "subreddit": "IndieGaming",
-      "title": "New to steam",
-      "content": "Hello, I’ve never been much of a gamer, but I’ve always liked watching Hollow or Smitty, or DieDevDie on youtube. I’m thinking about getting a PC just for steam games. I really wanna play the games they play (cause they look fun and scary) can anyone tell me what the best games are that the youtube guys play, and also maybe I can get some cool people to play games with. Not sure if the games other than horror games that I see are only fun if you have friends. Thank you. submitted by /u/Reesebh2525 to r/IndieGaming [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qdwckx/new_to_steam/",
-      "author": "/u/Reesebh2525",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T21:40:05.989499"
-    },
-    {
       "id": "https://www.reddit.com/r/indiegaming/t3_1qdxia2",
       "type": "post",
       "subreddit": "indiegaming",
@@ -2015,7 +1967,67 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-16T09:15:51.900550"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qebhff",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "G3D engine for linux",
+      "content": "Hello, is there any way that i can get G3D for my arch linux? i found a ubuntu version but it doesn't install in arch, is there any way or alternatives? submitted by /u/Fluffy-Ad8201 [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qebhff/g3d_engine_for_linux/",
+      "author": "/u/Fluffy-Ad8201",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T09:45:19.364604"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qebl1u",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Downloads and comments",
+      "content": "Hiiii. I just released my new game Don't Sleep on Itch.io (btw you can check in out here https://rotten-apple-games.itch.io/dont-sleep ). With 122 downloads I got just 5 comments and 3 ratings. Are they too low? Am I missing something? I'd like to hear your opinions on that! submitted by /u/RottenAppleGames [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qebl1u/downloads_and_comments/",
+      "author": "/u/RottenAppleGames",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T09:45:19.364628"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qebdrz",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Gameplay teaser of my solo project is released, I need your opinions",
+      "content": "submitted by /u/calmfoxmadfox [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qebdrz/gameplay_teaser_of_my_solo_project_is_released_i/",
+      "author": "/u/calmfoxmadfox",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T09:45:19.364636"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qebkas",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "My chaotic egg-drop mobile game \"8Eggs\" just launched! 🥚🚀",
+      "content": "Hey r/IndieDev – my physics arcade game 8Eggs just went live on Google Play! https://preview.redd.it/ckficjtfkodg1.jpg?width=1554&format=pjpg&auto=webp&s=fcb707283551c4b41a8d87d2b656d3cdda7572a7 It started as a weird experiment: using UE5 physics to simulate eggs frying on hot pans as a way to \"rate\" rough Microsoft Flight Simulator landings. That silly concept slowly evolved into a full mobile game. The evolution: Landing physics → addictive egg-drop arcade loop Helicopter chaos → the \"Flycopter\" boss Rating obsession → PvP looting & leaderboard rivalry Built in Godot 4.5. Live now after months of testing. Sometimes a dumb experiment leads somewhere fun. Have you ever turned a random idea into a real game? 📱 Check it out here: 8Eggs - Apps on Google Play submitted by /u/8Eggs888 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qebkas/my_chaotic_eggdrop_mobile_game_8eggs_just_launched/",
+      "author": "/u/8Eggs888",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T09:45:19.364696"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qebckt",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "The demo is under review, but the Steam page is ready!",
+      "content": "submitted by /u/mongoliayr [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qebckt/the_demo_is_under_review_but_the_steam_page_is/",
+      "author": "/u/mongoliayr",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T09:45:19.364753"
     }
   ],
-  "last_updated": "2026-01-16T09:17:44.745934"
+  "last_updated": "2026-01-16T09:46:53.364355"
 }
