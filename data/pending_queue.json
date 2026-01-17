@@ -1,90 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/t3_1qer99t",
-      "type": "search",
-      "subreddit": "thespikegame",
-      "title": "In game purchase issue (Steam version)",
-      "content": "like the title says...I've been facing this problem for a while now. playing the game through steam and whenever i try to purchase something it stuck in this \"Purchase pending...\" endless loop, nothing works or respond unless i quit and relaunch the game. DEVS HELP..YOU DON'T WANT MY MONEY?? submitted by /u/zino555 to r/thespikegame [link] [comments]",
-      "link": "https://www.reddit.com/r/thespikegame/comments/1qer99t/in_game_purchase_issue_steam_version/",
-      "author": "/u/zino555",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T20:40:01.419789"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedev/t3_1qes1ds",
-      "type": "post",
-      "subreddit": "gamedev",
-      "title": "'Remote Work Is Part of the Reason for Recent Game Delays', Says Ex Tripwire CEO: 'People Are Often Less Efficient and Creative at Home'",
-      "content": "submitted by /u/Kaladinar [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedev/comments/1qes1ds/remote_work_is_part_of_the_reason_for_recent_game/",
-      "author": "/u/Kaladinar",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T21:10:15.751299"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qerjy3",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Turscar Isle now has a Steam page (and a free demo)!",
-      "content": "submitted by /u/Round-Fisherman1855 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qerjy3/turscar_isle_now_has_a_steam_page_and_a_free_demo/",
-      "author": "/u/Round-Fisherman1855",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T21:10:15.751375"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qerznu",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "update to my older post, i tried a new method and this happened?",
-      "content": "what can i do to fix this also the reason i tried a different method was bcus the old method, the item would float over to my mouse wherever it was submitted by /u/imlivinginhell123 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qerznu/update_to_my_older_post_i_tried_a_new_method_and/",
-      "author": "/u/imlivinginhell123",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T21:10:15.751385"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qerpqe",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "10 New Games Made in Godot",
-      "content": "https://youtu.be/p_cvhrJWTqU?si=PYw_TDVmYg9pvHpX submitted by /u/Confident_Door9438 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qerpqe/10_new_games_made_in_godot/",
-      "author": "/u/Confident_Door9438",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T21:10:15.751393"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qesa14",
-      "type": "search",
-      "subreddit": "BrawlStarsCompetitive",
-      "title": "That brawler you like playing him with just his default skin",
-      "content": "for me it's kit, i kn a lot of ppl hate him when facing him and so i do but he is just perfect without a skin. the mixture of colors and its delicate and small shape, with its large head and small body, makes you enjoy playing with it. submitted by /u/Dramatic_Register375 to r/BrawlStarsCompetitive [link] [comments]",
-      "link": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1qesa14/that_brawler_you_like_playing_him_with_just_his/",
-      "author": "/u/Dramatic_Register375",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T21:10:15.752035"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qesa08",
-      "type": "search",
-      "subreddit": "TorchlightInfinite",
-      "title": "Trade house friction",
-      "content": "I have been playing this game for a while now and I genuinely enjoy it but the auction house friction significantly reduces my enjoyment of the game. Why can I not sort any results? Why does it only grey out filtered prices instead of simply not showing them? It has all these great filters but is clearly designed to frustrate you as well. This game follows in the footsteps of path of exile, so I can only guess this is friction by design. But damn there has to be a better way and path of exile has already shown that to be true. Have the devs actually given their view on this before? Improving this aspect alone would drastically increase my enjoyment of the game. submitted by /u/Timmay4798 to r/TorchlightInfinite [link] [comments]",
-      "link": "https://www.reddit.com/r/TorchlightInfinite/comments/1qesa08/trade_house_friction/",
-      "author": "/u/Timmay4798",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T21:10:15.752598"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qes9d7",
       "type": "search",
       "subreddit": "MyHeroUltraRumble",
@@ -3587,7 +3503,115 @@
       "search_keyword": "make game without coding",
       "relevance_score": 0,
       "added_at": "2026-01-17T15:38:33.491281"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qfgv5x",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Our 6 month indie project just got selected for the Draknek Grant 2026",
+      "content": "Chess Tales reimagines the traditional game of chess beyond the 8×8 board. Players lead an army of chess pieces through a heavily guarded fortress navigating overgrown gardens, caves, and sewers to reach the heart of the castle. Please wishlist us on Steam Steam : https://store.steampowered.com/app/4297910/Chess_Tales/ Draknek : https://grants.draknek.org/ Thanks a lot submitted by /u/IRGStudios [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qfgv5x/our_6_month_indie_project_just_got_selected_for/",
+      "author": "/u/IRGStudios",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T16:10:24.492933"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qfgktc",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Updated on Kamgy Legends - Incremental Idle RPG Browser Game",
+      "content": "submitted by /u/Fuzzy_Confidence5964 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qfgktc/updated_on_kamgy_legends_incremental_idle_rpg/",
+      "author": "/u/Fuzzy_Confidence5964",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T16:10:24.492939"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qfgked",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Isometric water tiles 🌊 - flat vs 3D blocks",
+      "content": "submitted by /u/nfk8 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qfgked/isometric_water_tiles_flat_vs_3d_blocks/",
+      "author": "/u/nfk8",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T16:10:24.492947"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qfh4uw",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Yoo guys im working on my First Multiplayer Game. Do you have any Ideas for the GamePlay bc idk where i want it to go and im still early in Development still ?",
+      "content": "submitted by /u/Strict_Dependent_907 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qfh4uw/yoo_guys_im_working_on_my_first_multiplayer_game/",
+      "author": "/u/Strict_Dependent_907",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T16:10:24.492980"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qfgf21",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Our barrels sucked, so we made them KEEP ROLLIN' ROLLIN' ROLLIN'",
+      "content": "Our barrels were in desperate need for a re-sprite so last week I changed them up and added an additional animation. I'd like to thank Fred Durst for powering my work session. Fun fact, I ran the maths on how much force it'd take for our protagonist to kick a full oil drum of alcohol weighing about 220kg. It turns out he has the kicking force of a car going 8mph, and Newtons third law doesn't apply to him. Never underestimate the power of your local pub-goer. If this game is of interest to you, you can find out more here . submitted by /u/StudioWhalefall [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qfgf21/our_barrels_sucked_so_we_made_them_keep_rollin/",
+      "author": "/u/StudioWhalefall",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T16:10:24.493113"
+    },
+    {
+      "id": "https://www.reddit.com/r/unity/t3_1qfh09o",
+      "type": "post",
+      "subreddit": "unity",
+      "title": "Film + Game Hybrid Steam Feedback?",
+      "content": "The Last Call…an FMV + FPS hybrid test is a project I’m working on where live-action cinema meets full player control. The idea in this scene is one flick of a cigarette… and the line between film and game disappears. I’m excited to start adding these little cool transitions to testing. I would love your THOUGHTS and FEEDBACK to the game and the actually Steam page (added to the comments) that literally went live yesterday. submitted by /u/Mr_Parable_Worlds [link] [comments]",
+      "link": "https://www.reddit.com/r/unity/comments/1qfh09o/film_game_hybrid_steam_feedback/",
+      "author": "/u/Mr_Parable_Worlds",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T16:10:24.493145"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qfh46s",
+      "type": "search",
+      "subreddit": "SmilingCrittersLounge",
+      "title": "- Subject documentation. -",
+      "content": "This case is quite unusual for us; I think the boss should have given us more time to check on the subject's condition. - [REDACTED] Bookie Lown belongs to @/BBR_4625 (aka me...) Post on X! https://x.com/BBR_4625/status/2012557199449489610 submitted by /u/Suitable-Hunter1201 to r/SmilingCrittersLounge [link] [comments]",
+      "link": "https://www.reddit.com/r/SmilingCrittersLounge/comments/1qfh46s/subject_documentation/",
+      "author": "/u/Suitable-Hunter1201",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T16:10:24.494170"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qfh28v",
+      "type": "search",
+      "subreddit": "baseballcards",
+      "title": "FS/NFT - Misc Autos (late 90s/Early 2000s) $2 ea or 2 for $3",
+      "content": "Or take the whole lot for like $50 shipped obo Thanks! submitted by /u/kreeck83 to r/baseballcards [link] [comments]",
+      "link": "https://www.reddit.com/r/baseballcards/comments/1qfh28v/fsnft_misc_autos_late_90searly_2000s_2_ea_or_2/",
+      "author": "/u/kreeck83",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T16:10:24.494395"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qfh2g5",
+      "type": "search",
+      "subreddit": "Catan",
+      "title": "Orange won, everyone else had 9points",
+      "content": "I have used every possible kind of dev in the game, what are the odds? and the crazy part is that we play with a rule that you only can play one dev per turn, even the VPs had to be played every turn, insane game submitted by /u/Current-Reward-7616 to r/Catan [link] [comments]",
+      "link": "https://www.reddit.com/r/Catan/comments/1qfh2g5/orange_won_everyone_else_had_9points/",
+      "author": "/u/Current-Reward-7616",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T16:10:24.494538"
     }
   ],
-  "last_updated": "2026-01-17T15:40:21.857597"
+  "last_updated": "2026-01-17T16:11:52.352459"
 }
