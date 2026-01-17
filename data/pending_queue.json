@@ -1,126 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/godot/t3_1qedzg7",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Can you move tile collisions without changing their shape?",
-      "content": "I'm working on an isometric tileset with tall blocks and slabs, but I want the slab collision to be the same as the tall block, only lower, so that I don't have any tiling issues. the problem is that I can only move the individual points in the collision polygon and they aren't restricted by any grid, so they end up looking kinda wonky is there a way to select all points at once and edit them togheter? submitted by /u/NovelAdmirable5234 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qedzg7/can_you_move_tile_collisions_without_changing/",
-      "author": "/u/NovelAdmirable5234",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T12:20:02.510824"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qeev3r",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "I published an update for my mobile puzzle game called Wrap The Zap. These are two of the new levels.",
-      "content": "submitted by /u/Zepirx [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qeev3r/i_published_an_update_for_my_mobile_puzzle_game/",
-      "author": "/u/Zepirx",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T13:10:00.625272"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qeen70",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Check my beat ’em up roguelike game inspired by Mexican culture blended with Japanese feudal and Yakuza stories.",
-      "content": "submitted by /u/Flat-Spite2503 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qeen70/check_my_beat_em_up_roguelike_game_inspired_by/",
-      "author": "/u/Flat-Spite2503",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T13:10:00.625313"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qeelbe",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "I created a loading screen that connects to the battle stage. How does it look?",
-      "content": "submitted by /u/alignment_zero [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qeelbe/i_created_a_loading_screen_that_connects_to_the/",
-      "author": "/u/alignment_zero",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T13:10:00.625321"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qeeiwp",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "X",
-      "content": "https://x.com/lorysarts/status/2009452739559072031?s=46 CHECK IT OUT! Comissions are open btw! submitted by /u/Jealous-Bit-5293 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qeeiwp/x/",
-      "author": "/u/Jealous-Bit-5293",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T13:10:00.625328"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qefh9g",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "[FOR HIRE] Pixel artist (7yrs of experience)",
-      "content": "submitted by /u/Alex_Greenfield [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qefh9g/for_hire_pixel_artist_7yrs_of_experience/",
-      "author": "/u/Alex_Greenfield",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T13:10:00.625334"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qefdvn",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Two Sales While I Was AFK (Work Feels Easier Now)",
-      "content": "I am the developer behind OpenStickies , feel free to ask me anything submitted by /u/HimaSphere [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qefdvn/two_sales_while_i_was_afk_work_feels_easier_now/",
-      "author": "/u/HimaSphere",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T13:10:00.625343"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qef11h",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "After Some Trial and Error, Every Feature of My Game is Now Fully Functional",
-      "content": "submitted by /u/priomblazer [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qef11h/after_some_trial_and_error_every_feature_of_my/",
-      "author": "/u/priomblazer",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T13:10:00.625376"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qeev4n",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "I published an update for my mobile puzzle game called Wrap The Zap. These are two of the new levels.",
-      "content": "submitted by /u/Zepirx [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qeev4n/i_published_an_update_for_my_mobile_puzzle_game/",
-      "author": "/u/Zepirx",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T13:10:00.625382"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qeesh9",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "2D artist for Game Capsules",
-      "content": "submitted by /u/Tex_the_wolf [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qeesh9/2d_artist_for_game_capsules/",
-      "author": "/u/Tex_the_wolf",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T13:10:00.625388"
-    },
-    {
       "id": "https://www.reddit.com/r/godot/t3_1qefc55",
       "type": "post",
       "subreddit": "godot",
@@ -3623,7 +3503,79 @@
       "search_keyword": "no code game",
       "relevance_score": 0,
       "added_at": "2026-01-17T05:11:40.406821"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qf4gro",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "a little help",
+      "content": "Hey everyone, so I'm torn between history and game design. My mom tells me to follow my heart, but if it were up to me, I'd do both. I wanted to know, you know? Is game design worth it? How do people get contracts to do it? I'm so insecure, I really don't know what to do. I'm 16, but I already want to be sure of what I want to do, you know? Games are so good, I don't know, designing scenery, doing character art seems attractive, but studying the French Revolution and how people in the past were like animals... I'm really torn. submitted by /u/bia_blox90201 [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qf4gro/a_little_help/",
+      "author": "/u/bia_blox90201",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T05:41:06.013247"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qf4svt",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Reko - Discover Movies & TV Shows",
+      "content": "submitted by /u/Acceptable_Scar9267 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qf4svt/reko_discover_movies_tv_shows/",
+      "author": "/u/Acceptable_Scar9267",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T05:41:06.013295"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qf4ifu",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "A Procedural Voxel Game with Cubic Planets and Space",
+      "content": "submitted by /u/Juenjolamepasas [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qf4ifu/a_procedural_voxel_game_with_cubic_planets_and/",
+      "author": "/u/Juenjolamepasas",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T05:41:06.013301"
+    },
+    {
+      "id": "https://www.reddit.com/r/unrealengine/t3_1qf4jwe",
+      "type": "post",
+      "subreddit": "unrealengine",
+      "title": "Voice Blueprint editing what else?",
+      "content": "What functionality should I add to voice editing I just added blueprint and working on materials and animations but new to Unreal? Thanks https://www.youtube.com/watch?v=nfgr6Q75qaw submitted by /u/Ok-Suspect-9855 [link] [comments]",
+      "link": "https://www.reddit.com/r/unrealengine/comments/1qf4jwe/voice_blueprint_editing_what_else/",
+      "author": "/u/Ok-Suspect-9855",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T05:41:06.013337"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qf4sm6",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Solo developing cozy crest for 3 years now, would love to hear feedback!",
+      "content": "submitted by /u/Unlaed [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qf4sm6/solo_developing_cozy_crest_for_3_years_now_would/",
+      "author": "/u/Unlaed",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T05:41:06.013356"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qf4ixv",
+      "type": "search",
+      "subreddit": "teenagers",
+      "title": "FUCK VIBE CODING",
+      "content": "I AM NOT LETTING NO GOD DAMN CLANKER TRY TO MAKE A GOD DAMN SITE, GAME, OR ANYTHING ALIKE! I WOULD RATHER (AND STILL DO) CODE WITH MY ACTUAL HUMAN HANDS INSTEAD OF LETTING SOME SHITTY ASS GOD DAMN ROBOT MAKE SOME LOW EFFORT BULLSHIT (sorry for the crashout) submitted by /u/im461 to r/teenagers [link] [comments]",
+      "link": "https://www.reddit.com/r/teenagers/comments/1qf4ixv/fuck_vibe_coding/",
+      "author": "/u/im461",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T05:41:06.013903"
     }
   ],
-  "last_updated": "2026-01-17T05:13:33.050717"
+  "last_updated": "2026-01-17T05:42:35.770595"
 }
