@@ -1,78 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/godot/t3_1qelqw7",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "RigidBody3D bumps when moving between StaticBodies",
-      "content": "I want to create a small golf game, but often times when the ball rolls over a seam of two StaticBodies3D I get these weird bumps. The CollisionShapes are overlapping to various degrees, but it seems like that doesn't change much. I am using the JoltEngine and played around with most of the parameters, but none of them seem to solve the issue. Is there any way to have a rigidbody glide/roll over different collision shapes without these bumps? How do other games solve this? submitted by /u/fjolyo [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qelqw7/rigidbody3d_bumps_when_moving_between_staticbodies/",
-      "author": "/u/fjolyo",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T17:15:26.974002"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qelokx",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Which signal coding style do you prefer?",
-      "content": "submitted by /u/notpatchman [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qelokx/which_signal_coding_style_do_you_prefer/",
-      "author": "/u/notpatchman",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T17:15:26.974009"
-    },
-    {
-      "id": "https://www.reddit.com/r/unity/t3_1qelbo1",
-      "type": "post",
-      "subreddit": "unity",
-      "title": "In-game cinematic using Unity cinemachine",
-      "content": "submitted by /u/Balth124 [link] [comments]",
-      "link": "https://www.reddit.com/r/unity/comments/1qelbo1/ingame_cinematic_using_unity_cinemachine/",
-      "author": "/u/Balth124",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T17:15:26.974027"
-    },
-    {
-      "id": "https://www.reddit.com/r/unrealengine/t3_1qeli5i",
-      "type": "post",
-      "subreddit": "unrealengine",
-      "title": "Which version are you currently using for VR/AR dev?",
-      "content": "View Poll submitted by /u/iiFnN [link] [comments]",
-      "link": "https://www.reddit.com/r/unrealengine/comments/1qeli5i/which_version_are_you_currently_using_for_vrar_dev/",
-      "author": "/u/iiFnN",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T17:15:26.974034"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qeltzb",
-      "type": "search",
-      "subreddit": "overclocking",
-      "title": "M-Die dual rank kit latency at cl28 6200mhz",
-      "content": "How much can I realistically get my latency down to? I don't think my memory controller can handle 1:1 6400mhz. https://preview.redd.it/7ngrd4uguqdg1.png?width=868&format=png&auto=webp&s=d00e15960374baddc6911f75a65395c0163a7b58 submitted by /u/fuckingfuckerfucks to r/overclocking [link] [comments]",
-      "link": "https://www.reddit.com/r/overclocking/comments/1qeltzb/mdie_dual_rank_kit_latency_at_cl28_6200mhz/",
-      "author": "/u/fuckingfuckerfucks",
-      "search_keyword": "AI game maker",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T17:15:26.975504"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedev/t3_1qem0a2",
-      "type": "post",
-      "subreddit": "gamedev",
-      "title": "How much actual game dev knowledge do I need to know?",
-      "content": "Hi guys, long time lurker, long story short is I am creating a theoretical MMO on paper, my fantasy and dream would be one day present or talk to the right people and maybe make something real..my real question is, besides the creative side, what kind of game dev knowledge should I get into before trying to talk to people in the industry? I don't want to seem disrespectful or get laughed out of a conversation by not knowing the industry. *I am not a coder or engineer just a guy with ideas and a dream* submitted by /u/darctsb [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedev/comments/1qem0a2/how_much_actual_game_dev_knowledge_do_i_need_to/",
-      "author": "/u/darctsb",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T17:44:52.436713"
-    },
-    {
       "id": "https://www.reddit.com/r/indiegaming/t3_1qemrlk",
       "type": "post",
       "subreddit": "indiegaming",
@@ -3179,7 +3107,79 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-17T09:38:41.499662"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qf9d77",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Reworked night mode for my isometric gangsters management sim game",
+      "content": "Written in Python with some C level optimisations. My own engine using OpenGL via ModernGL wrapper. The shader logic changed here is in GLSL. submitted by /u/SanJuniperoan [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qf9d77/reworked_night_mode_for_my_isometric_gangsters/",
+      "author": "/u/SanJuniperoan",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T10:10:32.876000"
+    },
+    {
+      "id": "https://www.reddit.com/r/unity/t3_1qf9fml",
+      "type": "post",
+      "subreddit": "unity",
+      "title": "My Own Save File System",
+      "content": "I coded my own Save File Manager because I had to. submitted by /u/Fenderas [link] [comments]",
+      "link": "https://www.reddit.com/r/unity/comments/1qf9fml/my_own_save_file_system/",
+      "author": "/u/Fenderas",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T10:10:32.876034"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qf94vo",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Does motions look funny?",
+      "content": "submitted by /u/dgzip [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qf94vo/does_motions_look_funny/",
+      "author": "/u/dgzip",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T10:10:32.876086"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qf9ka6",
+      "type": "search",
+      "subreddit": "RobloxAccountTraders",
+      "title": "FR33 ACOCUNT ISTG",
+      "content": "I AM MAKING A ROBLOX ADMIN ABUSE GAME. IT WILL HAVE A RANDOM ACCOUNT TO GIVE AWAY submitted by /u/TwinkeFemboy to r/RobloxAccountTraders [link] [comments]",
+      "link": "https://www.reddit.com/r/RobloxAccountTraders/comments/1qf9ka6/fr33_acocunt_istg/",
+      "author": "/u/TwinkeFemboy",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T10:10:32.877409"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qf9jt9",
+      "type": "search",
+      "subreddit": "Age_30_plus_Gamers",
+      "title": "PlayStation Pulls Tons Of Shovelware From Store",
+      "content": "It seems Sony is finally doing something about all the crappy shovelware that has been plaguing its storefront or at the very least, is finally punishing one of the console maker’s more notorious shovelware makers. ThiGames, which has launched thousands of games for the console family, had its entire library scrubbed from all regions of PlayStation. There hasn’t been any comments about it, but we hope this is a step towards PlayStation curbing the shovelware problem. submitted by /u/AdultGamersAdmin to r/Age_30_plus_Gamers [link] [comments]",
+      "link": "https://www.reddit.com/r/Age_30_plus_Gamers/comments/1qf9jt9/playstation_pulls_tons_of_shovelware_from_store/",
+      "author": "/u/AdultGamersAdmin",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T10:10:32.877654"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qf9d3r",
+      "type": "search",
+      "subreddit": "PhasmophobiaGame",
+      "title": "28+ ghosts?",
+      "content": "Might be a really stupid question (really late where I'm at) but how would the devs implement more than 27 ghosts? 3^3 is 27 and we already have 27 ghosts. Really new to the game as well so idk anything that the devs have publicly released or anything going around by word of mouth. submitted by /u/happylitttle to r/PhasmophobiaGame [link] [comments]",
+      "link": "https://www.reddit.com/r/PhasmophobiaGame/comments/1qf9d3r/28_ghosts/",
+      "author": "/u/happylitttle",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T10:10:32.878063"
     }
   ],
-  "last_updated": "2026-01-17T09:40:20.091866"
+  "last_updated": "2026-01-17T10:12:11.729899"
 }
