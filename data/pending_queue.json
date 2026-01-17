@@ -1,114 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/godot/t3_1qew61h",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "80s / 90s Anime Style",
-      "content": "I love doing these little style proof of concepts just to see how capable Godot really is! submitted by /u/Ordinary-Cicada5991 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qew61h/80s_90s_anime_style/",
-      "author": "/u/Ordinary-Cicada5991",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T23:39:03.575106"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qevttf",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Testing out parallax, thoughts?",
-      "content": "Also trying out a new art style, all assets still temporary. submitted by /u/SporeliteGames [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qevttf/testing_out_parallax_thoughts/",
-      "author": "/u/SporeliteGames",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T23:39:03.575113"
-    },
-    {
-      "id": "https://www.reddit.com/r/unity/t3_1qevi4k",
-      "type": "post",
-      "subreddit": "unity",
-      "title": "Hi, I'm new here and I need help.",
-      "content": "I need to create a turbulence effect on some balloons. I've tried using the effects that Shader uses for grass and wind, but the balloons still don't move at all. Any advice on how I can achieve this? https://preview.redd.it/4p2af5o6nsdg1.png?width=860&format=png&auto=webp&s=0a88c9c7bb34c9a93e14fb676ec1c9b155715cef submitted by /u/Ok-Back5803 [link] [comments]",
-      "link": "https://www.reddit.com/r/unity/comments/1qevi4k/hi_im_new_here_and_i_need_help/",
-      "author": "/u/Ok-Back5803",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T23:39:03.575130"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qew6uz",
-      "type": "search",
-      "subreddit": "cheatengine",
-      "title": "NBA 2K16 help",
-      "content": "I know this an old game but I'm having trouble getting some cheat tables to work and I'm not sure where I'm going wrong. I'm running the steam version of the game, when I open the cheat table for patch 6 I with mycareer open I can get the maximum upgrades option to work but the option for changing my offline points or making the upgrades cost 0 do not work and I cannot figure out why. Any help would be appreciated Here is the tutorial and cheat table I'm using https://youtu.be/XcVGGdrEsoU?si=LznAY-AVE96FxSez submitted by /u/thelinguinemeanie to r/cheatengine [link] [comments]",
-      "link": "https://www.reddit.com/r/cheatengine/comments/1qew6uz/nba_2k16_help/",
-      "author": "/u/thelinguinemeanie",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T23:39:03.575482"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qew6tf",
-      "type": "search",
-      "subreddit": "linux4noobs",
-      "title": "Linux noob with a potato for a laptop here. Is PikaOS a good starting point since I like gaming?",
-      "content": "While my laptop is a potato, I like to play games. I heard that Linux lets you play games better, and stuff. I really love privacy and making my own shit From Scratch (see what I did there) but I don't think I'm ready for anything like Arch and LFS. While Debian was my number one option, I saw that PikaOS is good for games, and I like games. However, I'm worried that it won't be as good as other OS's. Please tell me if it's good. submitted by /u/thebobfactory to r/linux4noobs [link] [comments]",
-      "link": "https://www.reddit.com/r/linux4noobs/comments/1qew6tf/linux_noob_with_a_potato_for_a_laptop_here_is/",
-      "author": "/u/thebobfactory",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T23:39:03.575498"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qew501",
-      "type": "search",
-      "subreddit": "Eevee",
-      "title": "HIO",
-      "content": "discord applications for the server and the game dev team are open in the discord :3 https://discord.gg/4ZQS2T2Mja submitted by /u/SylTheSylveon to r/Eevee [link] [comments]",
-      "link": "https://www.reddit.com/r/Eevee/comments/1qew501/hio/",
-      "author": "/u/SylTheSylveon",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T23:39:03.575873"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qew4vm",
-      "type": "search",
-      "subreddit": "DressUpTimePrincess",
-      "title": "Mauritshuis collab - shovels are back",
-      "content": "The one event type that all players hated - and devs decided that it will be such an amazing idea to return it. You don't like shovels? No worries, you will have 2 treasure maps at the same time to fully enjoy it. It was very expensive last time (around $150 for the full set). If you missed the previous part of collab, here is wiki about treasure map \"Her pearl earring\" set: https://dress-up-time-princess.fandom.com/wiki/Her\\_Invitation/Unveiling\\_the\\_Past I like the game, I am p2w myself, but what we all did to IGG that they decided to torture us with double shovels. submitted by /u/Automatic_Put_2779 to r/DressUpTimePrincess [link] [comments]",
-      "link": "https://www.reddit.com/r/DressUpTimePrincess/comments/1qew4vm/mauritshuis_collab_shovels_are_back/",
-      "author": "/u/Automatic_Put_2779",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T23:39:03.575890"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qew5tr",
-      "type": "search",
-      "subreddit": "DivinityOriginalSin",
-      "title": "Using DLC stuff is it considered cheating?",
-      "content": "I am playing DOS2 and I am about 25 hours in, just got rid of the shriekers. I honestly struggled so hard at the beginning, that I had to use a guide until I hit lvl 5. I also turned on some dlcs, the one I am concerned with is the one that rez's the team using rest. I feel like without this I would not have made it this far, and at this point I am kind of cruising though and no longer facing that much difficulties. Before I go too far, am I making the game too easy? I am playing on default difficulty and have other dlc's turned on too like talking to pets. I haven't touched things like crafting or recipes, I don't even know what to do with food. I really didn't like how brutal a death was and having to use a scroll in the first few hours. I feel like I have a lot of $$$ but before it seemed almost impossible to get by with 0$. submitted by /u/431p to r/DivinityOriginalSin [link] [comments]",
-      "link": "https://www.reddit.com/r/DivinityOriginalSin/comments/1qew5tr/using_dlc_stuff_is_it_considered_cheating/",
-      "author": "/u/431p",
-      "search_keyword": "how to make a game",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T23:39:03.576164"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qew4i5",
-      "type": "search",
-      "subreddit": "incremental_games",
-      "title": "Collect Popcorn, Evolve, Become your trully birb self. Thanks for 1K on Discord!",
-      "content": "When I first thought about making a multiplayer incremental game, I already had this community in mind as an example of how friendly and healthy the incremental games scene can be. And honestly, that’s been proven every day on the game’s Discord. From day one, everyone who joined has been super helpful, reporting bugs, helping new players, and just being really nice overall. Some of you even turned into actual friends that I’m so happy to have met. This has been one of the coolest parts of working on this game so far. The support has been amazing, and the best way I can give back is by putting all my effort into making the game better every day. If you haven’t played BIRB already, this is a great time to do so! The game just received a big update, adding tutorials and making everything more clear for someone new starting :) Birb is a multiplayer game that you can play solo too, meet new people, create custom rooms for your friends to play in, and most importantly: completely FREE! You can play it on itch: Birb submitted by /u/Slow_Homework_2224 to r/incremental_games [link] [comments]",
-      "link": "https://www.reddit.com/r/incremental_games/comments/1qew4i5/collect_popcorn_evolve_become_your_trully_birb/",
-      "author": "/u/Slow_Homework_2224",
-      "search_keyword": "how to make a game",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T23:39:03.576225"
-    },
-    {
       "id": "https://www.reddit.com/r/gamedev/t3_1qewzad",
       "type": "post",
       "subreddit": "gamedev",
@@ -4163,7 +4055,67 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-17T20:40:21.326508"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qfos1j",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "No commentary PC VR gameplay – FERD (Viking archery combat)",
+      "content": "Recorded some raw PC VR gameplay of FERD. It’s a Viking-themed VR action game focused on bow combat. No commentary, no music – just pure gameplay and in-game audio. If you're into VR archery or PC VR action games, you might enjoy it. YouTube link: 👉 https://youtu.be/t27AgK70MJw submitted by /u/No-Account6689 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qfos1j/no_commentary_pc_vr_gameplay_ferd_viking_archery/",
+      "author": "/u/No-Account6689",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T21:08:50.073442"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qfolnc",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "I RELEASED THE DEMO VERSION🤩",
+      "content": "Hi everyone, I am working on a survival game called RE:SURVIVE and I have released the demo version🤩 It would be nice if you try the demo out and tell me your honest review. Game here if you want to try it: https://eyadhatemdev.itch.io/resurvive submitted by /u/Sea_Description272 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qfolnc/i_released_the_demo_version/",
+      "author": "/u/Sea_Description272",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T21:08:50.073469"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qfoggp",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "How does a game like Tiny Pasture do the bottom of your screen? It's just not working for me.",
+      "content": "Hello all, I know there are some tutorials online, but somehow none of them are working for me. In each one there is something that is not making it work. Does someone (or even the developer of the game) can share how this is done? Like in the Tiny Pasture game. Thanks. submitted by /u/umen [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qfoggp/how_does_a_game_like_tiny_pasture_do_the_bottom/",
+      "author": "/u/umen",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T21:08:50.073483"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qfofrn",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Feedback on my combat system",
+      "content": "Hey guys! A couple of years ago I made a game called Cyberhero Legends . Recently I’ve been toying with the idea of a sequel or spin off, keeping the same base combat system. What do you think about the combat? Any feedback is welcome! submitted by /u/claudiohcs [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qfofrn/feedback_on_my_combat_system/",
+      "author": "/u/claudiohcs",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T21:08:50.073520"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qforjf",
+      "type": "search",
+      "subreddit": "AlanBecker",
+      "title": "Ok, so why did Alan have Stick Figures Fight (aka. www.sticksfight.com) open in the first place?",
+      "content": "Also, TSC is NOT bonking his head on the circle. submitted by /u/Forpipe to r/AlanBecker [link] [comments]",
+      "link": "https://www.reddit.com/r/AlanBecker/comments/1qforjf/ok_so_why_did_alan_have_stick_figures_fight_aka/",
+      "author": "/u/Forpipe",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T21:08:50.074131"
     }
   ],
-  "last_updated": "2026-01-17T20:41:53.263767"
+  "last_updated": "2026-01-17T21:10:17.488746"
 }
