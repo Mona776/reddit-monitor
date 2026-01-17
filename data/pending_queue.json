@@ -1,114 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/godot/t3_1qefc55",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Godot Time Machine",
-      "content": "⌛ Godot Time Machine ⌛ ✨Travel through the history of display media ✨ Several compositor vfx are blended in overlaps. All the fx/presets will be released open source in v0.4 in the Rokojori Action Library ☺️ submitted by /u/ROKOJORI [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qefc55/godot_time_machine/",
-      "author": "/u/ROKOJORI",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T13:10:00.625444"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qef5qv",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "The demo is under review, but the Steam page is ready!",
-      "content": "Whisker Cowboy on Steam submitted by /u/mongoliayr [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qef5qv/the_demo_is_under_review_but_the_steam_page_is/",
-      "author": "/u/mongoliayr",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T13:10:00.625470"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qef096",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Don't Mess With Me",
-      "content": "Yes, this was made in Godot for those who were wondering submitted by /u/Honest-Ability-6879 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qef096/dont_mess_with_me/",
-      "author": "/u/Honest-Ability-6879",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T13:10:00.625477"
-    },
-    {
-      "id": "https://www.reddit.com/r/unity/t3_1qef6jl",
-      "type": "post",
-      "subreddit": "unity",
-      "title": "Check out my upcoming psychological horror game inspired by Madison and Amnesia. Also, made with unity!",
-      "content": "submitted by /u/HauntedDevSkillsz [link] [comments]",
-      "link": "https://www.reddit.com/r/unity/comments/1qef6jl/check_out_my_upcoming_psychological_horror_game/",
-      "author": "/u/HauntedDevSkillsz",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T13:10:00.625492"
-    },
-    {
-      "id": "https://www.reddit.com/r/unrealengine/t3_1qeeoyk",
-      "type": "post",
-      "subreddit": "unrealengine",
-      "title": "Tired of looking at grey GameplayTags? Check out our Plugin!",
-      "content": "First plugin on the Fab Store, let's go! 🥳 We made an editor plugin that allows you to assign colors to your Gameplay Tags (among other things). Please check it out! Listing: https://www.fab.com/listings/c1d0a77a-ea4f-432a-b2c8-321eb9bf1b44 Feedback on the plugin or the video is very much appreciated. 😊 submitted by /u/psi_crab [link] [comments]",
-      "link": "https://www.reddit.com/r/unrealengine/comments/1qeeoyk/tired_of_looking_at_grey_gameplaytags_check_out/",
-      "author": "/u/psi_crab",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T13:10:00.625521"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedesign/t3_1qe9q7x",
-      "type": "post",
-      "subreddit": "gamedesign",
-      "title": "Readability of playing cards",
-      "content": "Hello, I'm designing a music theory card game. My problem is that the musical staff can only be read one way. If the players sit facing each other around the table, they'll have difficulty reading it (since it's upside down). This could also confuse them. I thought about making cards with the staff in both directions, but that would make the card too bulky (since it would be upside down, the card would have to be very large). I considered having the players sit side-by-side on the same side of the table, but that limits the number of players (otherwise their arms would be too short to reach the central draw pile). Do you have any other ideas? Thank you for your help. submitted by /u/Visual-Wave-9245 [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedesign/comments/1qe9q7x/readability_of_playing_cards/",
-      "author": "/u/Visual-Wave-9245",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T13:10:00.625616"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qefgcj",
-      "type": "search",
-      "subreddit": "PSVR",
-      "title": "Hitman PSVR1 code",
-      "content": "I don’t know if this will be of any interest to anyone, but I was just gifted Hitman WOA on disc and it came with a code for the PSVR1 version of the game. I have no use for it as I’ll be playing the PSVR2 version, so if anyone with a PSVR1 would like it then let me know. submitted by /u/jarsofash to r/PSVR [link] [comments]",
-      "link": "https://www.reddit.com/r/PSVR/comments/1qefgcj/hitman_psvr1_code/",
-      "author": "/u/jarsofash",
-      "search_keyword": "no code game",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T13:10:00.625630"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qefgoa",
-      "type": "search",
-      "subreddit": "MafiaTheGame",
-      "title": "Mafia II Classic (Steam, Windows 10) stuck on “updating executable” and won’t launch",
-      "content": "Hi everyone, I have an issue with Mafia II Classic on Steam (Windows 10). From the very first launch, when I click Play, Steam shows “updating executable”, then it finishes but the game never starts. What happens: Steam shows “updating executable” Then nothing launches No error message from Steam In the game folder there was no Mafia2.exe, only files like: Copia codice mafia2.exe.XXXX.STEAMSTART What I already tried: Verifying game files on Steam Running Steam as administrator Compatibility mode Renaming one STEAMSTART file to Mafia2.exe (game opens → black screen → crashes) Is this a known bug with Mafia II Classic on Windows 10 / Steam? Is there a way to fix the “updating executable” issue without reinstalling the game? Thanks 🙏 submitted by /u/Which-Penalty-3241 to r/MafiaTheGame [link] [comments]",
-      "link": "https://www.reddit.com/r/MafiaTheGame/comments/1qefgoa/mafia_ii_classic_steam_windows_10_stuck_on/",
-      "author": "/u/Which-Penalty-3241",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T13:10:00.626430"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qefgjp",
-      "type": "search",
-      "subreddit": "countwithchickenlady",
-      "title": "31286",
-      "content": "submitted by /u/Fun_Penalty_6755 to r/countwithchickenlady [link] [comments]",
-      "link": "https://www.reddit.com/r/countwithchickenlady/comments/1qefgjp/31286/",
-      "author": "/u/Fun_Penalty_6755",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T13:10:00.626895"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qef98a",
       "type": "search",
       "subreddit": "NBA2k",
@@ -3575,7 +3467,55 @@
       "search_keyword": "no code game",
       "relevance_score": 0,
       "added_at": "2026-01-17T05:41:06.013903"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qf5lqe",
+      "type": "search",
+      "subreddit": "TransferToTop25",
+      "title": "Is the common app personal essay the same as the one from highschool?",
+      "content": "as the header says (this might be a dumb question IK), also if so, in that cas,e could reusing with small changes be an option if I had a good high school essay? submitted by /u/nihad04 to r/TransferToTop25 [link] [comments]",
+      "link": "https://www.reddit.com/r/TransferToTop25/comments/1qf5lqe/is_the_common_app_personal_essay_the_same_as_the/",
+      "author": "/u/nihad04",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T06:15:21.294287"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qf5i43",
+      "type": "search",
+      "subreddit": "marvelrivals",
+      "title": "Big thanks to the devs for mixing up the female looks",
+      "content": "I don’t think I’ve ever seen this much variety in female faces in a video game. I really appreciate that the devs are making everyone look unique, especially since comic book characters tend to have a lot of overlap. No same face syndrome here. submitted by /u/Economy_Outside1585 to r/marvelrivals [link] [comments]",
+      "link": "https://www.reddit.com/r/marvelrivals/comments/1qf5i43/big_thanks_to_the_devs_for_mixing_up_the_female/",
+      "author": "/u/Economy_Outside1585",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T06:15:21.294745"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qf5fwr",
+      "type": "search",
+      "subreddit": "raydillanvgames",
+      "title": "Project Vincere [ Dev-Log 1]",
+      "content": "Hello everyone!! Welcome to the official RayDillanV subreddit. Not much going on here yet, but with the release of my recent short-game Office 5 , I have decided to take part in a game jam on itch.io. This project for the game jam is Project Vincere . This is the Game Jam: https://itch.io/jam/lilguygamejamwinter I'll still be working on small things for Office 5 in passing. Although, I have patched the few bugs found on release so far. In addition, I also am planning on posting more videos and Dev-Log related things here on YouTube. Have a good week! Relevant Links: https://www.youtube.com/@raydillanv https://www.instagram.com/raydillanv/ https://raydillanv.com/ https://raydillanv.itch.io/ submitted by /u/RaydillanV to r/raydillanvgames [link] [comments]",
+      "link": "https://www.reddit.com/r/raydillanvgames/comments/1qf5fwr/project_vincere_devlog_1/",
+      "author": "/u/RaydillanV",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T06:15:21.294763"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qf5cwi",
+      "type": "search",
+      "subreddit": "clovisgame",
+      "title": "New game from the same dev",
+      "content": "Didn't know they just released a new game same as CMGS but chinese ver. submitted by /u/Born_Albatross9248 to r/clovisgame [link] [comments]",
+      "link": "https://www.reddit.com/r/clovisgame/comments/1qf5cwi/new_game_from_the_same_dev/",
+      "author": "/u/Born_Albatross9248",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T06:15:21.294800"
     }
   ],
-  "last_updated": "2026-01-17T05:42:35.770595"
+  "last_updated": "2026-01-17T06:16:55.099185"
 }
