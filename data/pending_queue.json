@@ -1,114 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qf9rtq",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Cool itch.io indie game I found",
-      "content": "It's addictive, fun and arcade-style. I'm pretty sure it's on sale for free. submitted by /u/Recent-Square-7040 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qf9rtq/cool_itchio_indie_game_i_found/",
-      "author": "/u/Recent-Square-7040",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T10:41:33.436496"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qf9nra",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Using the bonfire Furnace system in Funorbit",
-      "content": "submitted by /u/Large-Coconut4058 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qf9nra/using_the_bonfire_furnace_system_in_funorbit/",
-      "author": "/u/Large-Coconut4058",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T10:41:33.436504"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qfa2uz",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "A lil showcase for the game that Im currently working on!",
-      "content": "submitted by /u/Dusty_7_ [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qfa2uz/a_lil_showcase_for_the_game_that_im_currently/",
-      "author": "/u/Dusty_7_",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T10:41:33.436513"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qf9lo1",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Performance of Data Oriented Design in GDScript",
-      "content": "I'm new to learning Godot, and also learning about the benefits of Data Oriented Design. I couldn´t find much discussion regarding GDScript on this subject, so I did a few benchmarks of my own and I thought I'd share the results here. I did three tests, each comprising of 100000 particles affected by gravity How I would normally write the code as OOP, do everything in the class As an Array of Structures (AoS). Which is similar to 1 except the class is now just the data, the logic is in the manager As a Structure of Arrays (SoA). Which in this case is parallel arrays which have synchronised indexes. The code for the tests is here I ran the tests, one after another, 4 times each. I let each script settle in for a little bit, then at a random time took a snapshot of the times in ms per frame for running _physics_process. I'm not a scientist but I thought the results were telling enough. Run 1 Run 2 Run 3 Run 4 Average OOP 505 527 467 451 487.5 AOS 409 369 402 410 397.5 SOA 282 250 249 284 266.25 I'm interested in your thoughts, in improvements I could make without totally ruining readability (I'm not doing interleaved arrays, I just can't), or what I did wrong Specs: Godot 4.5.1 Stable, Linux Mint 22.2, AMD Ryzen 5 5600X, GeForce RTX 3070 submitted by /u/CountNovelty [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qf9lo1/performance_of_data_oriented_design_in_gdscript/",
-      "author": "/u/CountNovelty",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T10:41:33.436645"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qfa1wk",
-      "type": "search",
-      "subreddit": "TheOnePlus15",
-      "title": "My gaming review on OnePlus 15(horrible experience)",
-      "content": "For reference: I use blackshark funcooler 4 pro and redmagic VC 6 pro cooler I also tried 2354x1080 and 2772x1272 and the fps issue still presist, only battery was better after lowering it I went pro in a game called Bloodstrike, not that many of you will know but it's a supported 165hz 165fps game by the OnePlus 15, I ended up buying the Chinese 16GB+1TB version that's flashed with oxygenos16 because I make content too, when I first loaded into the game after downloading it the game ran 165fps stable in highest graphics, then the next day it started dropping to 144(138-147) and then sometimes going to 165 and mostly goes 144, I didn't find any fix, I put graphics lowest, highest, and the result is the same fps, I changed every game assistent setting to pro, balanced etc, changed everything to performance, same fps drop to 144(note that it only drops to 144 when I'm playing and when I die, spectate or idle then it goes back to stable 165) I came to a conclusion that either highest or lowest graphics settings don't matter anymore and it's either a game or phone issue, then a few days later I tried to remove Bloodstrike from game assistent, and somehow it fixed itself and went to stable 165fps, but not too happy because it suddenly the next day started being unstable 165fps AF, and it didn't matter either way highest or lowest graphics, also my 3 friends with redmagic astra have stable 165fps on highest settings in the game and the OnePlus 15 is supposed to be stronger(specs wise) and cooler(inside and external cooler that I use) also when I either stream or record the fps drops aswell. I'm unsure if it's fixed in 501 or not as I'm still in 401 oxygenos16, I'm also unsure if it's an issue with Chinese device being flashed with oxygenos, but I'm pretty sure that the device is too overkill to actually have that low fps drops to even 90 when it wants. submitted by /u/FyBornEX to r/TheOnePlus15 [link] [comments]",
-      "link": "https://www.reddit.com/r/TheOnePlus15/comments/1qfa1wk/my_gaming_review_on_oneplus_15horrible_experience/",
-      "author": "/u/FyBornEX",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T10:41:33.437842"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qfa0f6",
-      "type": "search",
-      "subreddit": "ACCompetizione",
-      "title": "Unable To Access Multiplayer",
-      "content": "For the past 3 days I've been unable to access multiplayer on console(xbox series s). I've done all the possible fixes I've been advised to try but still getting the same message. I've also un-installed the game and re-installed it and still getting the same error message. F1 online multiplayer and GTA online works fine so I doubt my internet is the problem. Any help will be greatly appreciated submitted by /u/el-amirr to r/ACCompetizione [link] [comments]",
-      "link": "https://www.reddit.com/r/ACCompetizione/comments/1qfa0f6/unable_to_access_multiplayer/",
-      "author": "/u/el-amirr",
-      "search_keyword": "AI game maker",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T10:41:33.438173"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qfa1y5",
-      "type": "search",
-      "subreddit": "tropico",
-      "title": "Tropico is literally education",
-      "content": "I have learnt so much from this game. Thank you devs if you see this. submitted by /u/AdRare604 to r/tropico [link] [comments]",
-      "link": "https://www.reddit.com/r/tropico/comments/1qfa1y5/tropico_is_literally_education/",
-      "author": "/u/AdRare604",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T10:41:33.438270"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qfa0s2",
-      "type": "search",
-      "subreddit": "relationships",
-      "title": "Fiance makes me feel unimportant and not prioritized",
-      "content": "Slight TW as I mention a hospital for my mental health(?) I[19 FtM] have been with my fiance[20 M] for almost 3 years. Things started off great where he basically revolved around me when possible while being able to live our lives. When I got kicked out at 18 I had to move in with his family for a year until my mom could afford an apartment for me and her. Living with him wasn't enjoyable sometimes, he'd ignore me for his games, be rude, and didn't exactly respect my space in our room, I kept my stuff in a corner and he kept throwing his stuff over and in my walkspace. He even would leave me alone without anything to do for hours on end as I cried because he wanted to hang out with his friends who didn't want me included, especially one friend who hated me(I had fucked up and hurt him in the past but we worked through it). I had gone to a mental hospital after maybe 2 months as I just couldn't handle how life was going. I'd pay his bills and help support him through schooling so he could get a good paying job he enjoyed. Now I'm living with my mom and he stays with us, I work minimum wage and make more than my mom, we struggle to pay rent. Whenever I try to ask my fiance for help he seems to act like its such an issue to help pay for a place he basically lives at, he showers the longest, eats the most, does his laundry, etc etc. Now he has even started to basically refuse to pick me up from work because he would rather play MTG at card shops than get me. I feel unimportant, I feel like shit, and I don't feel like he cares. What do I even do? What happens if I just move to Texas from the PNW? What can I do? I'm just lost and need help Tldr: my fiance would rather prioritize friends and mtg over me and I don't know what to do submitted by /u/Uniquegrlygamer to r/relationships [link] [comments]",
-      "link": "https://www.reddit.com/r/relationships/comments/1qfa0s2/fiance_makes_me_feel_unimportant_and_not/",
-      "author": "/u/Uniquegrlygamer",
-      "search_keyword": "how to make a game",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T10:41:33.438580"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qfa05s",
-      "type": "search",
-      "subreddit": "Bazzite",
-      "title": "[Question:] Modding, vortex/nexus and BepinEx for steam. & i can't get steam to launch game with comands.",
-      "content": "Hi. I'm kinda new here. I wanted to ask if people have successfully moded with nexus and bpinex for steam. I followed the bepinzx procedure for linux but steam refuses to launch when I input comands onto the luncher. Using steam own modding works fine. I tried to use wine to make nexus/vortex work but couldn't. So here is what I am asking. Have people successfully used Nexus Mods and Vortex to mod Steam games on Linux? Have people successfully used BepInEx to mod Steam games on Linux? Why does Steam refuse to launch my game when I add BepInEx launch commands to the Steam launcher? How can I get Nexus Mods / Vortex to install and run on Linux? (Since using Wine didn't work). Is there a working method to use BepInEx for modding on Linux that doesn't break the Steam launch? I'm tryng to mod plaanetcrafter Thank you in advance submitted by /u/Zankastia to r/Bazzite [link] [comments]",
-      "link": "https://www.reddit.com/r/Bazzite/comments/1qfa05s/question_modding_vortexnexus_and_bepinex_for/",
-      "author": "/u/Zankastia",
-      "search_keyword": "how to make a game",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T10:41:33.438702"
-    },
-    {
       "id": "https://www.reddit.com/r/IndieDev/t3_1qfah6g",
       "type": "post",
       "subreddit": "IndieDev",
@@ -4475,7 +4367,67 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-18T08:45:24.219773"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qg3uiq",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Should I use Godot ?",
+      "content": "submitted by /u/_LEVEL_SIX_ [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qg3uiq/should_i_use_godot/",
+      "author": "/u/_LEVEL_SIX_",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T09:10:40.527319"
+    },
+    {
+      "id": "https://www.reddit.com/r/unrealengine/t3_1qg3mzl",
+      "type": "post",
+      "subreddit": "unrealengine",
+      "title": "Are FAB plugins single-user or multi-user?",
+      "content": "I dont see any info about it and I share my account with another team member. I only see a difference between Personal and Professional license. submitted by /u/LalaCrowGhost [link] [comments]",
+      "link": "https://www.reddit.com/r/unrealengine/comments/1qg3mzl/are_fab_plugins_singleuser_or_multiuser/",
+      "author": "/u/LalaCrowGhost",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T09:10:40.527386"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qg3tia",
+      "type": "search",
+      "subreddit": "katamari",
+      "title": "THE BEARS THE FUCKING BEARSSSSS I'M LOSING MY GODDAMN MIND",
+      "content": "i had zero problems with this game, i was loving it and eager to play the other games in the series once i finished this one. that was until the BEARS. URSA MAJOR IS SPECIFICALLY DESIGNED TO INFURIATE ME THE DEVS WALKED INTO MY HOUSE AND KILLED MY DOG AND STOLE MY TV WHY DID THEY MAKE THIS submitted by /u/DontPostDontNeedName to r/katamari [link] [comments]",
+      "link": "https://www.reddit.com/r/katamari/comments/1qg3tia/the_bears_the_fucking_bearsssss_im_losing_my/",
+      "author": "/u/DontPostDontNeedName",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T09:10:40.529183"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qg3t1o",
+      "type": "search",
+      "subreddit": "WutheringWaves",
+      "title": "WuWa story doesnt make me feel excited but it still drags me in the game for some reason.",
+      "content": "yes the game has cool combat and graphics, but so are many other gacha games these days. But for some reason i just come back to the game like the game has more potential. Its like i see the huge effort they are putting in the game. But it still doesnt excite me with the world and story. (The lore is still great though) Then i realized I come back to this game not because i love the game. its because i love the devs trying to show their passion with every few updates. submitted by /u/Tawxif_iq to r/WutheringWaves [link] [comments]",
+      "link": "https://www.reddit.com/r/WutheringWaves/comments/1qg3t1o/wuwa_story_doesnt_make_me_feel_excited_but_it/",
+      "author": "/u/Tawxif_iq",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T09:10:40.529226"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qg3vem",
+      "type": "search",
+      "subreddit": "Spacemarine",
+      "title": "Hi, I want to buy space marine 2 but I need to know if I can run it well",
+      "content": "My laptop is an HP victus with a 12th gen i5 12450H, RTX4050 and 16Gb. How much fps and performance can I spect? I really want to buy this game to play with some friends but i gotta make sure I don't waste my money in something I can run well, does someone has the same or similar specs? How it goes? submitted by /u/Alka1227 to r/Spacemarine [link] [comments]",
+      "link": "https://www.reddit.com/r/Spacemarine/comments/1qg3vem/hi_i_want_to_buy_space_marine_2_but_i_need_to/",
+      "author": "/u/Alka1227",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T09:10:40.530341"
     }
   ],
-  "last_updated": "2026-01-18T08:47:01.769830"
+  "last_updated": "2026-01-18T09:12:29.150810"
 }
