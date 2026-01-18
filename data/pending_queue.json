@@ -1,90 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qfj5ot",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "my lovely unity experience",
-      "content": "submitted by /u/Leather_Sandwich_228 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qfj5ot/my_lovely_unity_experience/",
-      "author": "/u/Leather_Sandwich_228",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T17:37:38.425332"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qfj42w",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "An Idle Creature Collecting Game - \"Goobers\" (Early Development Teaser)",
-      "content": "Please feel free to suggest ideas/concepts for new Goobers! submitted by /u/Marzipug [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qfj42w/an_idle_creature_collecting_game_goobers_early/",
-      "author": "/u/Marzipug",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T17:37:38.425390"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qfiqva",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "sprite head on 3d body test",
-      "content": "submitted by /u/lonku [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qfiqva/sprite_head_on_3d_body_test/",
-      "author": "/u/lonku",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T17:37:38.425396"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qfj94m",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "The upcoming GdUnit4 (Godot Test Framework) release v6.1 has improved orphan detection",
-      "content": "I have spent a lot of time improving the detection and reporting of orphaned elements. The new version not only displays the number of orphaned nodes detected, but also reports the variable name and script source as a stack trace. submitted by /u/MSchulze-godot [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qfj94m/the_upcoming_gdunit4_godot_test_framework_release/",
-      "author": "/u/MSchulze-godot",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T17:37:38.425409"
-    },
-    {
-      "id": "https://www.reddit.com/r/unrealengine/t3_1qfj9tk",
-      "type": "post",
-      "subreddit": "unrealengine",
-      "title": "Combo drop down menu searchable?",
-      "content": "Is there a way to easily make a drop down menu searchable? Ive done it before with some coding but I was wondering if its something that is built it that is just a check box and boom, the drop down contents are searchable. submitted by /u/soldieroscar [link] [comments]",
-      "link": "https://www.reddit.com/r/unrealengine/comments/1qfj9tk/combo_drop_down_menu_searchable/",
-      "author": "/u/soldieroscar",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T17:37:38.425457"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qfivhg",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "[DEV] Spacey Snake – Classic Snake reimagined in a fully 3D arena",
-      "content": "submitted by /u/Charlie_Sierra_996 [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qfivhg/dev_spacey_snake_classic_snake_reimagined_in_a/",
-      "author": "/u/Charlie_Sierra_996",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T17:37:38.425466"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qfjdfh",
-      "type": "search",
-      "subreddit": "neoliberal",
-      "title": "Inside you there are two wolves",
-      "content": "submitted by /u/itsokayt0 to r/neoliberal [link] [comments]",
-      "link": "https://www.reddit.com/r/neoliberal/comments/1qfjdfh/inside_you_there_are_two_wolves/",
-      "author": "/u/itsokayt0",
-      "search_keyword": "AI game maker",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T17:37:38.426698"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qfjbv5",
       "type": "search",
       "subreddit": "AdoptMeRBX",
@@ -4415,7 +4331,127 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-18T17:39:09.525958"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qgf3uu",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Halberd Official Poster",
+      "content": "submitted by /u/Jtgplyr_44 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qgf3uu/halberd_official_poster/",
+      "author": "/u/Jtgplyr_44",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T18:13:26.297261"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qgfddr",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Cozy but cursed 1-bit environment from The Legend of Chalkvania",
+      "content": "submitted by /u/supercriddy [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qgfddr/cozy_but_cursed_1bit_environment_from_the_legend/",
+      "author": "/u/supercriddy",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T18:13:26.297335"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qgfd4l",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "I had to remake this because of my poor English",
+      "content": "submitted by /u/Miss_M-and-M [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qgfd4l/i_had_to_remake_this_because_of_my_poor_english/",
+      "author": "/u/Miss_M-and-M",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T18:13:26.297342"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qgf18u",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "I've been developing a shop simulator game in which you collect and sell Sports Cards. What do you think about the ripping a card pack sequence?",
+      "content": "submitted by /u/Iron5nake [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qgf18u/ive_been_developing_a_shop_simulator_game_in/",
+      "author": "/u/Iron5nake",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T18:13:26.297358"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qgf0il",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Racing Game Progress",
+      "content": "submitted by /u/NightwavesG [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qgf0il/racing_game_progress/",
+      "author": "/u/NightwavesG",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T18:13:26.297363"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qgew20",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Not a Postmortem but a \"Mid-mortem\" for my WIP indie game dev journey",
+      "content": "submitted by /u/Curious-Gaby [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qgew20/not_a_postmortem_but_a_midmortem_for_my_wip_indie/",
+      "author": "/u/Curious-Gaby",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T18:13:26.297369"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qgfe8m",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Early preview of my survival / city manager AARPG",
+      "content": "Hey guys! I'm working on my first ''serious'' game. An AARPG with elements inspired by Valheim, V Rising, Diablo and Vampire survivors. Have a sneak peek! :) Building screen, where you create and build your society. Dungeon zone Blood Fields zone submitted by /u/Femhar [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qgfe8m/early_preview_of_my_survival_city_manager_aarpg/",
+      "author": "/u/Femhar",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T18:13:26.297407"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qgfd6l",
+      "type": "search",
+      "subreddit": "Minecraft",
+      "title": "Are Realms / Marketplace down? (PS5)",
+      "content": "I just finished up a long adventuring session with no issues, but then after I quit and tried to rejoin, I got some error codes (5, 1 and C-0010) and realms / marketplace won’t load. I uninstalled+ reinstalled the game, restarted ps5 twice and still not working. Just wanna check others are having the same issue and my Minecraft isn’t forever borked? submitted by /u/Critical-Lettuce3953 to r/Minecraft [link] [comments]",
+      "link": "https://www.reddit.com/r/Minecraft/comments/1qgfd6l/are_realms_marketplace_down_ps5/",
+      "author": "/u/Critical-Lettuce3953",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T18:13:26.297780"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qgfqvd",
+      "type": "search",
+      "subreddit": "Huskers",
+      "title": "When did things change for Nebraska Basketball under Fred Hoiberg?",
+      "content": "This historic run for Nebraska has me feeling nostalgic and looking back to the dark days… The last three seasons of this program have been night and day compared to the early years of Fred Hoiberg’s tenure. The program is 62-25 (.713) since the start of the 2023-24 season. It’s an incredible turnaround after going 40-83 (.325) from 2019-23. We were an utter dormat and finished dead last in the Big Ten for the first three years. We probably wouldn’t have done any better in lesser conferences either (we lost to A LOT of mid-major schools at home). Hoiberg’s early struggles weren’t any indictment of him as a head coach. He walked into a really bad situation from a roster standpoint. In fact, Nebraska only had ONE returning player from Tim Miles’ final team ahead of Hoiberg’s first season. That was Thorir Thorbjarnarson, who only played in 9 games the year prior. Hoiberg never had a consistent roster and had to largely rely on grad transfers from mid-major schools until he could get a good core together. He practically had a completely different team each year and felt like we were just trying to keep our heads above water during those days. When did this program begin its historic turnaround? You could point to several of moments, but I started to feel a shift in momentum at the end of the 2021-22 season. Although they only won 10 games, the Huskers closed out the regular season with back-to-back wins over No. 23 Ohio State and No. 10 Wisconsin (both on the road). That win over Wisconsin felt very special and was the first sign of the program changing. Alonzo Verge’s dagger 3-pointer to take the late lead still gives me goosebumps: https://youtu.be/NyefZ7OH3OA?si=GGih1zoGAjtN82EE A winning culture was established from there on out… Nebraska would improve to 16-16 the following year, which included a win at No. 7 Creighton (first win in Omaha since 2004 in NIT, and 1995 if you only count the regular season). It’s funny to think about it now, but getting to .500 was a huge accomplishment after the first 3 years. Nebraska has been rolling ever since… making its first NCAA Tournament appearance since 2014, winning the College Basketball Crown and now looks to soar to even greater heights with an undefeated record through mid-January. Right now, they’re not just a lock to make the NCAA Tournament, but is vying for a top seed and a regular season conference title (something this program hasn’t done since 1950!) Such an amazing feat for a program that has yet to even win an NCAA tournament game. Overall, this historic run had me looking back to when it all changed for Hoiberg’s teams. I believe you can point to those March 2022 wins over Ohio State and Wisconsin as the sparks that helped make this program a winner. End of rant. Go Big Red! 🏀🌽 submitted by /u/rpawloski to r/Huskers [link] [comments]",
+      "link": "https://www.reddit.com/r/Huskers/comments/1qgfqvd/when_did_things_change_for_nebraska_basketball/",
+      "author": "/u/rpawloski",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T18:13:26.298208"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qgfjn4",
+      "type": "search",
+      "subreddit": "RevolutionIdle",
+      "title": "Weird glitch",
+      "content": "submitted by /u/NetTotal2421 to r/RevolutionIdle [link] [comments]",
+      "link": "https://www.reddit.com/r/RevolutionIdle/comments/1qgfjn4/weird_glitch/",
+      "author": "/u/NetTotal2421",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T18:13:26.298497"
     }
   ],
-  "last_updated": "2026-01-18T17:40:43.774894"
+  "last_updated": "2026-01-18T18:14:56.738253"
 }
