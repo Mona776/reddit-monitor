@@ -1,102 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qfhiu3",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Stone golems in Pinewood map",
-      "content": "submitted by /u/cemuka [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qfhiu3/stone_golems_in_pinewood_map/",
-      "author": "/u/cemuka",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T16:43:12.101416"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qfhc6u",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "any way to learn?",
-      "content": "I'm currently trying to learn UE5 to make an fps similar to this . i tried looking at tutorials but all of them suck absolute ass . do you know a way to learn without watching 30+ tutorials about the same thing just to get different results?? submitted by /u/Janexx_ [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qfhc6u/any_way_to_learn/",
-      "author": "/u/Janexx_",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T16:43:12.101426"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qfh76f",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Yoo guys im working on my First Multiplayer Game. Do you have any Ideas for the GamePlay bc idk where i want it to go and im still early in Development still ?",
-      "content": "submitted by /u/Strict_Dependent_907 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qfh76f/yoo_guys_im_working_on_my_first_multiplayer_game/",
-      "author": "/u/Strict_Dependent_907",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T16:43:12.101434"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qfhyak",
-      "type": "search",
-      "subreddit": "playstation",
-      "title": "I have a question concerning the ps portal",
-      "content": "I want to play some co-op games with my partner, but a lot of games are only online co-op, instead of split screen or couch co-op. I thought of maybe getting a ps portal for her to play the games together. But, is it possible to do so without getting another ps5? Is it possible to stream games independently on the ps portal? submitted by /u/HandsomeDankDave to r/playstation [link] [comments]",
-      "link": "https://www.reddit.com/r/playstation/comments/1qfhyak/i_have_a_question_concerning_the_ps_portal/",
-      "author": "/u/HandsomeDankDave",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T16:43:12.102363"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qfhy23",
-      "type": "search",
-      "subreddit": "ProgressiveHQ",
-      "title": "The tariff king",
-      "content": "Denmark, Norway, Sweden, France, Germany, The United Kingdom, The Netherlands, and Finland submitted by /u/DavDar66 to r/ProgressiveHQ [link] [comments]",
-      "link": "https://www.reddit.com/r/ProgressiveHQ/comments/1qfhy23/the_tariff_king/",
-      "author": "/u/DavDar66",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T16:43:12.102656"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qfhtig",
-      "type": "search",
-      "subreddit": "GrapheneOS",
-      "title": "Can't install Perplexity, ChatGPT, Claude",
-      "content": "I have installed GOS on Pixel 10 pro. I have sandboxed Google play, and I have alredy installed many apps (firefox, Maps, Camera, several Banking apps ..) without any issue But when I try installing ChatGPT, Claude, or perplexity, the apps downloads 100% but then i get error: Can't install Perplexity what is special about these apps https://preview.redd.it/ltfto7t0txdg1.png?width=864&format=png&auto=webp&s=18ee105471511e419ff39855a257c23dfec4d25c submitted by /u/fourhundredthecat to r/GrapheneOS [link] [comments]",
-      "link": "https://www.reddit.com/r/GrapheneOS/comments/1qfhtig/cant_install_perplexity_chatgpt_claude/",
-      "author": "/u/fourhundredthecat",
-      "search_keyword": "AI game maker",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T16:43:12.102883"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qfhvef",
-      "type": "search",
-      "subreddit": "adventuregamehints",
-      "title": "Check out Dino Path - Great dev, Great game!",
-      "content": "submitted by /u/badfantasyrx to r/adventuregamehints [link] [comments]",
-      "link": "https://www.reddit.com/r/adventuregamehints/comments/1qfhvef/check_out_dino_path_great_dev_great_game/",
-      "author": "/u/badfantasyrx",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T16:43:12.102934"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qfi44z",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "The Labyrinth Chronicles - Episode 45: Village of Veylith",
-      "content": "submitted by /u/AgentOfTheCode [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qfi44z/the_labyrinth_chronicles_episode_45_village_of/",
-      "author": "/u/AgentOfTheCode",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T17:08:13.383137"
-    },
-    {
       "id": "https://www.reddit.com/r/IndieDev/t3_1qfi2mr",
       "type": "post",
       "subreddit": "IndieDev",
@@ -4463,7 +4367,67 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-01-18T16:44:46.575375"
+    },
+    {
+      "id": "https://www.reddit.com/r/unrealengine/t3_1qge10i",
+      "type": "post",
+      "subreddit": "unrealengine",
+      "title": "Mutant Acid Spider",
+      "content": "submitted by /u/CaracticusExistence [link] [comments]",
+      "link": "https://www.reddit.com/r/unrealengine/comments/1qge10i/mutant_acid_spider/",
+      "author": "/u/CaracticusExistence",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T17:08:06.741859"
+    },
+    {
+      "id": "https://www.reddit.com/r/unrealengine/t3_1qgdwlo",
+      "type": "post",
+      "subreddit": "unrealengine",
+      "title": "You Finally Convinced Me to Make a Procedural City, Starting With Roads",
+      "content": "submitted by /u/Krozjin [link] [comments]",
+      "link": "https://www.reddit.com/r/unrealengine/comments/1qgdwlo/you_finally_convinced_me_to_make_a_procedural/",
+      "author": "/u/Krozjin",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T17:08:06.741865"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qgdzpd",
+      "type": "search",
+      "subreddit": "SparkingZero",
+      "title": "Switch port = Better PC optimization?",
+      "content": "Since the devs managed to get the game to run on the OG Nintendo Switch, did it result in better optimization for low-end PCs? I imagine it wouldn't be too hard to use that development work they've already done to retroactively patch the PC version in order to allow it to work on weaker hardware, enabling some extra sales from people like me. submitted by /u/SfactorSam to r/SparkingZero [link] [comments]",
+      "link": "https://www.reddit.com/r/SparkingZero/comments/1qgdzpd/switch_port_better_pc_optimization/",
+      "author": "/u/SfactorSam",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T17:08:06.743495"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qgdxgq",
+      "type": "search",
+      "subreddit": "CitiesSkylines2",
+      "title": "Any updates since the new devs took over? Any improvements?",
+      "content": "With the new devs taking over, has the game improved much yet? submitted by /u/Sanctus_Poopabumsus to r/CitiesSkylines2 [link] [comments]",
+      "link": "https://www.reddit.com/r/CitiesSkylines2/comments/1qgdxgq/any_updates_since_the_new_devs_took_over_any/",
+      "author": "/u/Sanctus_Poopabumsus",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T17:08:06.743503"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qgds75",
+      "type": "search",
+      "subreddit": "CronstedtsTreachery",
+      "title": "Mini-Teaser #7 - The faces of Cronstedt's Treachery",
+      "content": "Hello everyone, its been a long time since the last teaser/dev diary, so here are even more leaders and generals you might encounter in Cronstedt's Treachery during your game ! submitted by /u/Torchon_Twiste to r/CronstedtsTreachery [link] [comments]",
+      "link": "https://www.reddit.com/r/CronstedtsTreachery/comments/1qgds75/miniteaser_7_the_faces_of_cronstedts_treachery/",
+      "author": "/u/Torchon_Twiste",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T17:08:06.743550"
     }
   ],
-  "last_updated": "2026-01-18T16:46:33.927921"
+  "last_updated": "2026-01-18T17:09:26.982204"
 }
