@@ -1,30 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qfdk0f",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Thoughts on changes I made on my game",
-      "content": "Here is a short video I made highlighting the changes I made from earlier versions of my game. What do you guys think? submitted by /u/Honest_Games [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qfdk0f/thoughts_on_changes_i_made_on_my_game/",
-      "author": "/u/Honest_Games",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T14:09:10.663465"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qfdjwj",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Building a great product is hard. Launching it well is even harder.",
-      "content": "submitted by /u/wpgeek922 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qfdjwj/building_a_great_product_is_hard_launching_it/",
-      "author": "/u/wpgeek922",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T14:09:10.663473"
-    },
-    {
       "id": "https://www.reddit.com/r/godot/t3_1qfdvma",
       "type": "post",
       "subreddit": "godot",
@@ -4259,7 +4235,67 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-18T13:03:43.076652"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qg87dt",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Space",
+      "content": "submitted by /u/Yaley-Dev [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qg87dt/space/",
+      "author": "/u/Yaley-Dev",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T13:43:57.937660"
+    },
+    {
+      "id": "https://www.reddit.com/r/unity/t3_1qg8hc4",
+      "type": "post",
+      "subreddit": "unity",
+      "title": "Help with setup please!",
+      "content": "I tried to install unity yesterday, but the computer went into sleep while the editor was installing. This resulted with microsoft visual studio code not being installed as the code editor. I installed it manually and it was sort of working, but I tried going onto it today to continue my project but it won't open as shown above. I'm trying to reverse everything ive done and do it over, but unity 6.3 is still installed and it won't let me remove it, as shown above. Please can someone help!! submitted by /u/Chemical_Doubt_4937 [link] [comments]",
+      "link": "https://www.reddit.com/r/unity/comments/1qg8hc4/help_with_setup_please/",
+      "author": "/u/Chemical_Doubt_4937",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T13:43:57.937677"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qg8owj",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Feedback needed",
+      "content": "Hi all, I am working on a game, some kind of eBay Autobattler Simulator. I just posted on itch a first Build of the game ( basic demo ) and Would love to hear some feedback about what's working and what's not. Deals and Duels Wish you all a good Sunday for working on your projects :) submitted by /u/Key-Soft-8248 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qg8owj/feedback_needed/",
+      "author": "/u/Key-Soft-8248",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T13:43:57.937695"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qg8h13",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Fervent: Sovereign Struggle | Locking in Mood of this Level",
+      "content": "submitted by /u/outlawhue [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qg8h13/fervent_sovereign_struggle_locking_in_mood_of/",
+      "author": "/u/outlawhue",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T13:43:57.937700"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qg8tat",
+      "type": "search",
+      "subreddit": "TheForest",
+      "title": "Can't save in multiplayer",
+      "content": "Hi! I'm playing with my boyfriend, and I've noticed he can't save the game. I hosted the game and just added him in. Is that how it usually is? Also, whenever we try to go back to a saved game I would still have my backpack inventory but he loses his. Is there any way to work around this? How do we make it so that we can also have his inventory back? Thanks in advance! submitted by /u/dearlilah to r/TheForest [link] [comments]",
+      "link": "https://www.reddit.com/r/TheForest/comments/1qg8tat/cant_save_in_multiplayer/",
+      "author": "/u/dearlilah",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T13:43:57.939903"
     }
   ],
-  "last_updated": "2026-01-18T13:05:29.708697"
+  "last_updated": "2026-01-18T13:45:40.648513"
 }
