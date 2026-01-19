@@ -1,66 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/godot/t3_1qg6dj7",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Finally added more juice on the playing field!",
-      "content": "submitted by /u/Nozomu57 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qg6dj7/finally_added_more_juice_on_the_playing_field/",
-      "author": "/u/Nozomu57",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T12:17:55.860774"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qg6y15",
-      "type": "search",
-      "subreddit": "pokerogue",
-      "title": "Completed Classic with all starters, all challenges and achievements - AMA",
-      "content": "Figured I'd post this both to commemorate the milestone but also to answer questions if anyone would find it useful, from monotype runs to general stuff. Much love to the devs for this game. submitted by /u/Silansi to r/pokerogue [link] [comments]",
-      "link": "https://www.reddit.com/r/pokerogue/comments/1qg6y15/completed_classic_with_all_starters_all/",
-      "author": "/u/Silansi",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T12:17:55.864533"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qg7mbj",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Battle in my jedi like game",
-      "content": "My Discord channel where I share my progress. My Itch page if you want to see previous games submitted by /u/Ignacy_Karkasy [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qg7mbj/battle_in_my_jedi_like_game/",
-      "author": "/u/Ignacy_Karkasy",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T13:03:43.074982"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qg7eit",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "My indie horror game passed 1,000 wishlists, and it’s a really big moment for me 🖤📻",
-      "content": "Hey everyone, For some people, 1,000 wishlists might be a small number, but for me, it’s a really big milestone . My indie horror game Late Lines FM has passed 1,000 wishlists on Steam. For a project I’ve been working on alone for a long time, especially with the demo not even out yet, reaching this point is incredibly meaningful to me. Every wishlist feels like someone stopping and saying, “yeah, I’m curious about this,” and that gives me the strength to keep going. I’m continuing to work on the game, and the demo is coming very soon . There’s still a lot to do, but it really feels like the sleepless nights are paying off. Thank you so much to everyone who supported the game, added it to their wishlist, shared it, or even just took a look. The radio is on. The broadcast continues. 📻 The store page link is here. Don’t forget to add it to your wishlist: Store Page Late Lines FM submitted by /u/AlarmedPumpkin8446 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qg7eit/my_indie_horror_game_passed_1000_wishlists_and/",
-      "author": "/u/AlarmedPumpkin8446",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T13:03:43.075015"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qg7umu",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Working on the vibes",
-      "content": "submitted by /u/danfergusonn [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qg7umu/working_on_the_vibes/",
-      "author": "/u/danfergusonn",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T13:03:43.075038"
-    },
-    {
       "id": "https://www.reddit.com/r/IndieDev/t3_1qg7gnz",
       "type": "post",
       "subreddit": "IndieDev",
@@ -6395,7 +6335,91 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-01-19T18:52:26.099095"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qhdh8c",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Just gone gold ⭐️",
+      "content": "submitted by /u/MakeGamesPlay [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qhdh8c/just_gone_gold/",
+      "author": "/u/MakeGamesPlay",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T19:11:52.946564"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qhdjaw",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "We made some improvements to the visual aspect. What do you think?",
+      "content": "submitted by /u/LuhreAejon [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qhdjaw/we_made_some_improvements_to_the_visual_aspect/",
+      "author": "/u/LuhreAejon",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T19:11:52.946575"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qhd1qa",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Working on some of the mob enemies for my 2D Action game, how do you guys handle joints, specifically, that sleeve there that looks like it's floating :P",
+      "content": "submitted by /u/Best-Arachnid-9025 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qhd1qa/working_on_some_of_the_mob_enemies_for_my_2d/",
+      "author": "/u/Best-Arachnid-9025",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T19:11:52.946598"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qhd67u",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "I made a roguelike in godot where you push stuff into a hole, and I just uploaded a demo to itch.io.",
+      "content": "You can try it for free in the browser on itch.io: https://electricllama.itch.io/get-in-the-hole It's called \"get in the hole\", and while it's still pretty early in development, I'm pretty happy with how it's turning out. I'd love to hear what others think about the game. I'm planning to add a lot more different items and interactions. The concept is a great blank slate that should allow a lot of interesting ideas. :) submitted by /u/b33tsalad [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qhd67u/i_made_a_roguelike_in_godot_where_you_push_stuff/",
+      "author": "/u/b33tsalad",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T19:11:52.946662"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qhdex9",
+      "type": "search",
+      "subreddit": "speedtest",
+      "title": "Included in the HOA(Homeowners Association) fee, North Carolina, USA",
+      "content": "https://fluxspeedtest.com submitted by /u/summyfeb12 to r/speedtest [link] [comments]",
+      "link": "https://www.reddit.com/r/speedtest/comments/1qhdex9/included_in_the_hoahomeowners_association_fee/",
+      "author": "/u/summyfeb12",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T19:11:52.947920"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qhdgca",
+      "type": "search",
+      "subreddit": "2007scape",
+      "title": "deleted all my accounts back in 2023, but may want to return due to the social aspect…should i?",
+      "content": "a few years ago I had a few accounts that were pretty high leveled, one of them nearly maxed. but OSRS just became too big of a time sink for me, and I wanted to do something different. lately I've been wanting to have a more \" social \" game in my life; it gets lonely playing single-player games. and being a solo game dev makes it even more isolating. question is, I still don't want to sink a ton of time into this game. I don't want to spend 3 to 4 hours a day on this like I used to. I have a life and other things I like to do these days. but I really need a game with a good social aspect, something to connect with other people. I don't care about having the best stats or gear, or being the best anything really. I just want to have fun with other people. is this the type of game I should be returning to? I'd like some inside opinions. submitted by /u/fantasy-disconnects to r/2007scape [link] [comments]",
+      "link": "https://www.reddit.com/r/2007scape/comments/1qhdgca/deleted_all_my_accounts_back_in_2023_but_may_want/",
+      "author": "/u/fantasy-disconnects",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T19:11:52.948159"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qhdgwr",
+      "type": "search",
+      "subreddit": "JourneysInMiddleEarth",
+      "title": "Ambiguity on some mechanics",
+      "content": "character automatically prepared at the beginning of an adventure? If, due to the effect of a card, the game makes me discard one or more prepared skill cards, can I decide to discard a prepared weakness or a title instead, even if they are not considered skill cards? Armor, such as cloaks, allows you to prevent damage or fear by spending inspiration, but how many times can I do this per instance of damage? Can I spend 2 inspiration to prevent 2 damage or fear? Stealth allows me to prevent physical damage received. In case of an enemy attack, whatever the damage, stealth is discarded to prevent the damage of the attack. Is the card discarded even in the case of a counterattack? How exactly does move and attack work? If the game states that the Goblin moves 2 and attacks Legolas or another target, will the Goblin move towards Legolas and, if not in range, attack a new target, or if it is not reachable, will the Goblin move directly towards another character and attack it? submitted by /u/SynthasVel to r/JourneysInMiddleEarth [link] [comments]",
+      "link": "https://www.reddit.com/r/JourneysInMiddleEarth/comments/1qhdgwr/ambiguity_on_some_mechanics/",
+      "author": "/u/SynthasVel",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T19:11:52.948471"
     }
   ],
-  "last_updated": "2026-01-19T18:53:56.824629"
+  "last_updated": "2026-01-19T19:13:25.120445"
 }
