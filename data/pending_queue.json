@@ -1,90 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qg2m5t",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Wave System & HUD Update – clearer pacing, cleaner UI",
-      "content": "submitted by /u/OutbreakAds [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qg2m5t/wave_system_hud_update_clearer_pacing_cleaner_ui/",
-      "author": "/u/OutbreakAds",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T08:13:32.979354"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qg2wqv",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "An unexpected end!",
-      "content": "An unexpected end when I was testing the game out and recording the screen to review the game play from a different angle. submitted by /u/FriendshipNo4021 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qg2wqv/an_unexpected_end/",
-      "author": "/u/FriendshipNo4021",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T08:13:32.979433"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qg2ekw",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Sekiro-inspired combat — work in progress",
-      "content": "We’re a small 2-person indie team inspired by Sekiro , working on a parry-focused Soulslike. This short clip shows a recent update to our combat system. 🎮 https://store.steampowered.com/app/4131470/ submitted by /u/GiantK_Dev [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qg2ekw/sekiroinspired_combat_work_in_progress/",
-      "author": "/u/GiantK_Dev",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T08:13:32.979453"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qg2tx5",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Why this is happening?",
-      "content": "Whenever i try to open and test anything in godot this happens. But it wasnt happening before and i tried to search everything to fix this problem. I am asking here now because i dont know what i can do anymore. submitted by /u/WhiteGuardian4Red [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qg2tx5/why_this_is_happening/",
-      "author": "/u/WhiteGuardian4Red",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T08:13:32.979464"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qg2h6i",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Blend the colors of multiple overlapping sprites through a shader?",
-      "content": "I have multiple overlapping semi-transparent sprites in a scene like this: https://preview.redd.it/o2r7bhs092eg1.png?width=1302&format=png&auto=webp&s=c49d7095706e8f8aa57e01b30a4ae1af49968d16 Currently, the upper sprites overwrite the lower ones as normal. However, I'd like to make it so that the brightest pixel of any of these sprites is the one taken and displayed on screen, like how Lighten or Screen works in Blender for example: https://preview.redd.it/h1650uor92eg1.png?width=966&format=png&auto=webp&s=0b720b15859340c2ac72a60261cfe3b5958e14fa How would you go about doing this in Godot? And can the result then be passed through (another) shader? The end effect I'm going for needs those screened BW values, a kind of gravity pulling inward effect submitted by /u/Necked_Snek [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qg2h6i/blend_the_colors_of_multiple_overlapping_sprites/",
-      "author": "/u/Necked_Snek",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T08:13:32.979482"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qg2qam",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "Short gameplay clip from a calm world-building game I’m developing - focusing on emergence rather than micromanagement",
-      "content": "submitted by /u/Hostarro [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qg2qam/short_gameplay_clip_from_a_calm_worldbuilding/",
-      "author": "/u/Hostarro",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T08:13:32.979498"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qg2w76",
-      "type": "search",
-      "subreddit": "funrun4",
-      "title": "Waste of time noob game",
-      "content": "There's no competition, no skill, and with all this nonsense coming out of those damn boxes, you can kill your opponent 1000 times if you want. Unless this game returns to its old state, it's useless. I hope your player count drops by 90% and the only players are kids, which would completely eliminate in-game purchases. You wouldn't be able to make any money. submitted by /u/mustdiex to r/funrun4 [link] [comments]",
-      "link": "https://www.reddit.com/r/funrun4/comments/1qg2w76/waste_of_time_noob_game/",
-      "author": "/u/mustdiex",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T08:13:32.980046"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qg2qp1",
       "type": "search",
       "subreddit": "BeatemupsYTCommunity",
@@ -5543,7 +5459,139 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-19T12:22:12.719009"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qh3sku",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "This game was developed by 1 person and has no dialogue at all",
+      "content": "submitted by /u/acronkyoung [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qh3sku/this_game_was_developed_by_1_person_and_has_no/",
+      "author": "/u/acronkyoung",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T13:15:15.488370"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qh3frr",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Only 2 days until Early Access!",
+      "content": "submitted by /u/duelcorp [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qh3frr/only_2_days_until_early_access/",
+      "author": "/u/duelcorp",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T13:15:15.488393"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qh34ck",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "What do you guys think of this?",
+      "content": "submitted by /u/supertobi123 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qh34ck/what_do_you_guys_think_of_this/",
+      "author": "/u/supertobi123",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T13:15:15.488400"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qh3aoe",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "The opening cutscene from my hand-drawn game!",
+      "content": "submitted by /u/ohioskibidiballs [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qh3aoe/the_opening_cutscene_from_my_handdrawn_game/",
+      "author": "/u/ohioskibidiballs",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T13:15:15.488442"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qh36m0",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "What do you guys think of this?",
+      "content": "submitted by /u/supertobi123 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qh36m0/what_do_you_guys_think_of_this/",
+      "author": "/u/supertobi123",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T13:15:15.488447"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qh3l7j",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "The meaning of life",
+      "content": "submitted by /u/Yaley-Dev [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qh3l7j/the_meaning_of_life/",
+      "author": "/u/Yaley-Dev",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T13:15:15.488520"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qh2zkg",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Too on the nose?",
+      "content": "submitted by /u/WhiterLocke [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qh2zkg/too_on_the_nose/",
+      "author": "/u/WhiterLocke",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T13:15:15.488525"
+    },
+    {
+      "id": "https://www.reddit.com/r/unrealengine/t3_1qh2zqe",
+      "type": "post",
+      "subreddit": "unrealengine",
+      "title": "Is It A true that creating building from multiple instances (modules) is better for optimization than creating building in one prop.",
+      "content": "Like, when building created of many instances then all of em are rendering just like one, but at different places while bulding created from one prop are fully rendering without instancing. submitted by /u/Voznesenie41bit [link] [comments]",
+      "link": "https://www.reddit.com/r/unrealengine/comments/1qh2zqe/is_it_a_true_that_creating_building_from_multiple/",
+      "author": "/u/Voznesenie41bit",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T13:15:15.488586"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qh2v1h",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "39, first real attempt at building something of my own. It’s out there.",
+      "content": "submitted by /u/Temporary-Vacation26 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qh2v1h/39_first_real_attempt_at_building_something_of_my/",
+      "author": "/u/Temporary-Vacation26",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T13:15:15.488594"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qh3rij",
+      "type": "search",
+      "subreddit": "beyondthebump",
+      "title": "How much tummy time after baby learns to sit?",
+      "content": "My son use to be in tummy time for most of his wake windows, he loved it. But now that he’s learned to sit (almost independently, he can’t get into sitting position on his own but he can get out of it) he just doesn’t want to be in tummy time during his wake windows. He does sleep on his belly (he rolls over to sleep) and is maybe getting a combined 45mins a day of tummy time now. But he won’t last more than 10 mins per session without getting upset that he wants to sit when before he would just play in tummy time for 30mins a session. He’s almost 7m, can’t crawl yet but, can move/pivot well on his belly. Any advice to make this better for him? I know he needs tummy time to learn to crawl and develop his arm strength. submitted by /u/princessnopeach to r/beyondthebump [link] [comments]",
+      "link": "https://www.reddit.com/r/beyondthebump/comments/1qh3rij/how_much_tummy_time_after_baby_learns_to_sit/",
+      "author": "/u/princessnopeach",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T13:15:15.489761"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qh3okc",
+      "type": "search",
+      "subreddit": "deepwoken",
+      "title": "This update is SO ass",
+      "content": "Devs MIA for a month -Show up -Buff an unused mechanic (Chorus of Souls) -Bricks multi hit mantras -Nerfs ALL prog by making To1 useless -Gives a useless origin free Adept card to \"Compensate\" for gutting To1 -\"Buffs\" VW prog (Doesn't matter cause they log immediately or trackstar, nerfing it though To1 nerf) -Adds endlag to every single heavy weapon in game (Who asked for this??? Some weapons needed it but not all) -No more mystic in exchange for another not needed system -Buffs arcwarder with 15% damage, an oath based on defense I LOVE SHITWOKEN!!!! I'm willing to bet ferryman is still bugged submitted by /u/RetardedCheese69 to r/deepwoken [link] [comments]",
+      "link": "https://www.reddit.com/r/deepwoken/comments/1qh3okc/this_update_is_so_ass/",
+      "author": "/u/RetardedCheese69",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T13:15:15.490577"
     }
   ],
-  "last_updated": "2026-01-19T12:24:01.574583"
+  "last_updated": "2026-01-19T13:17:07.026846"
 }
