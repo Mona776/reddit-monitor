@@ -1,66 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/t3_1qh89qq",
-      "type": "search",
-      "subreddit": "indiegames",
-      "title": "Happy to share my very first game as a solo dev. It's a cosy game inspired by my visit to Japan’s traditional villages.",
-      "content": "submitted by /u/Silvy_096 to r/indiegames [link] [comments]",
-      "link": "https://www.reddit.com/r/indiegames/comments/1qh89qq/happy_to_share_my_very_first_game_as_a_solo_dev/",
-      "author": "/u/Silvy_096",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 1,
-      "added_at": "2026-01-19T16:14:42.157647"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qg5an9",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "After taking advice from Reddit, this is how much changed in just 10 hours.",
-      "content": "submitted by /u/Solo1100-0-0- [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qg5an9/after_taking_advice_from_reddit_this_is_how_much/",
-      "author": "/u/Solo1100-0-0-",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T10:42:15.305539"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qg5gq9",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Added the first boss, a large eye that shoots laser bullets at you",
-      "content": "submitted by /u/ANT_games [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qg5gq9/added_the_first_boss_a_large_eye_that_shoots/",
-      "author": "/u/ANT_games",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T10:42:15.305549"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qg510c",
-      "type": "search",
-      "subreddit": "Lenovo",
-      "title": "is it worth buying this now??",
-      "content": "abhi khareedna sahi rahega yeh price pe?? ya aur rukna chahiye?? submitted by /u/introbhart to r/Lenovo [link] [comments]",
-      "link": "https://www.reddit.com/r/Lenovo/comments/1qg510c/is_it_worth_buying_this_now/",
-      "author": "/u/introbhart",
-      "search_keyword": "no code game",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T10:42:15.307335"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qg5hc6",
-      "type": "search",
-      "subreddit": "dredge",
-      "title": "Does anyone have any input on why small devs like dredge and Dave the diver don’t have cross platform saves?",
-      "content": "I’m genuinely curious if it’s a technical hurdle imposed by the likes of Sony, Nintendo and Microsoft, is it a demand issue, that it’s not enough users that play between different ecosystems that makes it not worth it. If anyone has any insight I’d love to know, and would a third party service that facilitates this be something that the devs would consider connecting to? I’m asking because I want to get into this game but I want to be able to jump back and forth between my switch and desktop, (willing to get two copies), but the lack of cross platform saves is putting me off, so it got me wondering . submitted by /u/sbalani to r/dredge [link] [comments]",
-      "link": "https://www.reddit.com/r/dredge/comments/1qg5hc6/does_anyone_have_any_input_on_why_small_devs_like/",
-      "author": "/u/sbalani",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T10:42:15.307359"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qg57vl",
       "type": "search",
       "subreddit": "Ricochetsquad",
@@ -6023,7 +5963,103 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-01-19T16:14:42.157922"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qh9g8e",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "I’m returning to a project I’ve been working on for months after a break and I feel confused.",
+      "content": "So there’s this game I’ve been working on for months which I took a break from to work on a side project. I just finished and released it and I’m immediately going back to the previous one which I’ve done a lot of work on. I could finish all the pre-release goals for the demo, however I can’t help but feel overwhelmed by all the preexisting systems and code I made for this project. I mean, I get the gist of how every system works having came up with everything but the bigger the project got, i didn’t realize how disorganized it looks until I looked at it after a break. Do any other solo devs deal with this too? And how do you go about preventing this situation or resolving it? The last thing I want is to restart because so much progress has been made, I’m going to definitely refactor and reorganize my project but insight and advice from other devs would be nice. submitted by /u/TartOpposite2170 [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qh9g8e/im_returning_to_a_project_ive_been_working_on_for/",
+      "author": "/u/TartOpposite2170",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T16:52:33.336739"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qh931m",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "I changed my mind. I will do another horror game, I like it most.",
+      "content": "submitted by /u/grothmoth [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qh931m/i_changed_my_mind_i_will_do_another_horror_game_i/",
+      "author": "/u/grothmoth",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T16:52:33.336865"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qh90jl",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "When your only 2 playtesters disagree...",
+      "content": "submitted by /u/AnimalStyleGame [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qh90jl/when_your_only_2_playtesters_disagree/",
+      "author": "/u/AnimalStyleGame",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T16:52:33.336871"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qh8wql",
+      "type": "search",
+      "subreddit": "u_Pretty_Toe7963",
+      "title": "down site",
+      "content": "Nikita your web site is down and no one can access, either immortal day or night. I really wish you would start listening with how frequent your site is going down every month. Considering with what has happened one would hope no one can get on either game and its always almost every month that these sites are dropping out of network, when it shouldn't https://gyazo.com/40a22901515840e8405d8c3414afa936 on immortal day your error code is Error code 523 funny that submitted by /u/Pretty_Toe7963 to u/Pretty_Toe7963 [link] [comments]",
+      "link": "https://www.reddit.com/r/u_Pretty_Toe7963/comments/1qh8wql/down_site/",
+      "author": "/u/Pretty_Toe7963",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T16:52:33.337367"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qh9hh0",
+      "type": "search",
+      "subreddit": "referralcodes",
+      "title": "Sign up with Shakepay and buy and sell Bitcoin in Canada and get a $20 Sign up Bonus! They also give you free crypto everyday when you shake your phone with the app open - Only for Canada",
+      "content": "Sign up with Shakepay get $20 deposited into your account after trading $100 and unlock the ShakingSats reward program which gives you free BTC everyday when you shake your phone. https://shakepay.ca/?referrerCode=0XMDQU0 Code without link: 0XMDQU0 If you have already signed up and forgot to use a code. Use this link https://shakepay.ca/add-referral and enter code 0XMDQU0 submitted by /u/BeannePickles to r/referralcodes [link] [comments]",
+      "link": "https://www.reddit.com/r/referralcodes/comments/1qh9hh0/sign_up_with_shakepay_and_buy_and_sell_bitcoin_in/",
+      "author": "/u/BeannePickles",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T16:52:33.337592"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qh9g3y",
+      "type": "search",
+      "subreddit": "PakGamers",
+      "title": "PS4 Pristine condition Games for sale",
+      "content": "UFC4 very slightly used disc in pristine condtion 10/10 price very slightly negotiable 4200/- fc24 slightly used disc in pristine condtion 10/10 price very slightly negotiable 4200/- Gran Turismo Sports less used disc in pristine condtion 10/10 price very slightly negotiable 3200/- don bradman 17 very slightly used disc in pristine condtion 8/10 minor crack but works perfectly fine price very slightly negotiable 1700/- every single discs works perfectly fine all discs can be bought in 12000/- final location : mall road lhr submitted by /u/The_HammerBoi to r/PakGamers [link] [comments]",
+      "link": "https://www.reddit.com/r/PakGamers/comments/1qh9g3y/ps4_pristine_condition_games_for_sale/",
+      "author": "/u/The_HammerBoi",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T16:52:33.337637"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qh9g8e",
+      "type": "search",
+      "subreddit": "gamedev",
+      "title": "I’m returning to a project I’ve been working on for months after a break and I feel confused.",
+      "content": "So there’s this game I’ve been working on for months which I took a break from to work on a side project. I just finished and released it and I’m immediately going back to the previous one which I’ve done a lot of work on. I could finish all the pre-release goals for the demo, however I can’t help but feel overwhelmed by all the preexisting systems and code I made for this project. I mean, I get the gist of how every system works having came up with everything but the bigger the project got, i didn’t realize how disorganized it looks until I looked at it after a break. Do any other solo devs deal with this too? And how do you go about preventing this situation or resolving it? The last thing I want is to restart because so much progress has been made, I’m going to definitely refactor and reorganize my project but insight and advice from other devs would be nice. submitted by /u/TartOpposite2170 to r/gamedev [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qh9g8e/im_returning_to_a_project_ive_been_working_on_for/",
+      "author": "/u/TartOpposite2170",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T16:52:33.338018"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qh9c9q",
+      "type": "search",
+      "subreddit": "rockstar",
+      "title": "My MANHUNT poster concept",
+      "content": "I tried to reference the lore of the game as in the fact that the games events are all recorded and is distributed as a snuff movie after the ending of the game. If you like this poster, consider following my instagram page for more posters to come @DevGraphicDesign submitted by /u/Popular-Cancel-4808 to r/rockstar [link] [comments]",
+      "link": "https://www.reddit.com/r/rockstar/comments/1qh9c9q/my_manhunt_poster_concept/",
+      "author": "/u/Popular-Cancel-4808",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T16:52:33.338135"
     }
   ],
-  "last_updated": "2026-01-19T16:16:37.314191"
+  "last_updated": "2026-01-19T16:54:07.236515"
 }
