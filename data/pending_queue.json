@@ -1,90 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qg8z0j",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Ebay Sim Autobattler",
-      "content": "Hi all, I am working on a game, some kind of eBay Autobattler Simulator. I just posted on itch a first Build of the game ( basic demo ) and Would love to hear some feedback about what's working and what's not. Deals and Duels Wish you all a good Sunday for working on your projects :) submitted by /u/Key-Soft-8248 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qg8z0j/ebay_sim_autobattler/",
-      "author": "/u/Key-Soft-8248",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T14:08:54.828684"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qg9h2t",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Animation .res and fbx",
-      "content": "Hi! I’m currently learning how godot handles animations. I have imported some animations by using different fbx files, then created an animation library and save each animation and the library itself as .res. Should I keep the original animations fbx or erase them? Thanks submitted by /u/OutOfZenny [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qg9h2t/animation_res_and_fbx/",
-      "author": "/u/OutOfZenny",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T14:08:54.828699"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qg9fvg",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Guys how do you organize the development of your game?",
-      "content": "submitted by /u/ZAy_ZAYber7 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qg9fvg/guys_how_do_you_organize_the_development_of_your/",
-      "author": "/u/ZAy_ZAYber7",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T14:08:54.828706"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qg9af8",
-      "type": "search",
-      "subreddit": "CODWarzone",
-      "title": "Does anyone here not?",
-      "content": "Play fallout 76 and have a code, I been in contact with Beth and Activision and no dice. Played like 10 games starting on the 12th. Hit me up with a dm please submitted by /u/vagabondjubei to r/CODWarzone [link] [comments]",
-      "link": "https://www.reddit.com/r/CODWarzone/comments/1qg9af8/does_anyone_here_not/",
-      "author": "/u/vagabondjubei",
-      "search_keyword": "no code game",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T14:08:54.829550"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qg9hg9",
-      "type": "search",
-      "subreddit": "ExJordan",
-      "title": "My people i need an advice",
-      "content": "Hey everyone, My friend is from a small village and studied in ma’an she finally graduated after a really hard journey, but the university won’t release her certificate because she still owes a small amount of money she currently has no income and literally can’t start working without her certificate, which makes this situation even harder Has anyone dealt with something like this before? Are there any charities, organizations, or programs that help with cases like this? Any advice would mean a lot 🙏 submitted by /u/Aggravating_Bid_3558 to r/ExJordan [link] [comments]",
-      "link": "https://www.reddit.com/r/ExJordan/comments/1qg9hg9/my_people_i_need_an_advice/",
-      "author": "/u/Aggravating_Bid_3558",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T14:08:54.829841"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qg9hfq",
-      "type": "search",
-      "subreddit": "gamemaker",
-      "title": "Git or Github Desktop?",
-      "content": "Hey guys! So, currently I am trying to set up source control on my latest project. Its something I want to sell, so, I need to use some sort of version control system, obviously lol. I've done a few hours of research, and it seems that the most common methods for doing source control for game maker are not to use the internal source method, but rather, use Git + GitHub Desktop, or just GitHub Desktop itself. What do you guys think? Also, just a side question, you need ti manually commit a change to the repository, right? GHD will store the changes locally, but in order to cloud save them, you commit manually right? Anyways, what do you guys think! submitted by /u/Hot_head444 to r/gamemaker [link] [comments]",
-      "link": "https://www.reddit.com/r/gamemaker/comments/1qg9hfq/git_or_github_desktop/",
-      "author": "/u/Hot_head444",
-      "search_keyword": "AI game maker",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T14:08:54.830492"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qg9e78",
-      "type": "search",
-      "subreddit": "MarvelPuzzleQuest",
-      "title": "When devs don't know the game they're coding...",
-      "content": "... or don't care? I had to try both to know which one is the correct one... submitted by /u/AdobeScripts to r/MarvelPuzzleQuest [link] [comments]",
-      "link": "https://www.reddit.com/r/MarvelPuzzleQuest/comments/1qg9e78/when_devs_dont_know_the_game_theyre_coding/",
-      "author": "/u/AdobeScripts",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T14:08:54.830724"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qg9eq0",
       "type": "search",
       "subreddit": "Thief",
@@ -6779,7 +6695,127 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-01-19T20:43:11.815418"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qhgkm5",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "The best sushi a goblin can find in the cave! My chaotic restaurant game finally has a release date! :)",
+      "content": "submitted by /u/AdSad9018 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qhgkm5/the_best_sushi_a_goblin_can_find_in_the_cave_my/",
+      "author": "/u/AdSad9018",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T21:09:43.939725"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qhgdb6",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Trying to make a good horror game for Android - Don't Breathe in Space",
+      "content": "submitted by /u/letrosfera [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qhgdb6/trying_to_make_a_good_horror_game_for_android/",
+      "author": "/u/letrosfera",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T21:09:43.939754"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qhg9p0",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "We just launched our first indie game on Steam, Hungry Horrors, a card based adventure through British & Irish folklore. Feed monsters with traditional dishes or become their next meal.",
+      "content": "submitted by /u/AskEducational8800 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qhg9p0/we_just_launched_our_first_indie_game_on_steam/",
+      "author": "/u/AskEducational8800",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T21:09:43.939762"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qhgqdx",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Does this small gif make the game look fun? How do you communicate the feel of a game without actually handing someone the controller?",
+      "content": "submitted by /u/ScrwFlandrs [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qhgqdx/does_this_small_gif_make_the_game_look_fun_how_do/",
+      "author": "/u/ScrwFlandrs",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T21:09:43.939791"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qhgh0x",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Is this translation correct (Simplified Chinese)",
+      "content": "For those who can read simplified Chinese, does this translation feel natural / make sense? Thank you! submitted by /u/jordanottesen [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qhgh0x/is_this_translation_correct_simplified_chinese/",
+      "author": "/u/jordanottesen",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T21:09:43.939800"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qhgtdt",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Popup does not keep anchor sizes when running the app",
+      "content": "What it says in the title, I have been trying to create a popup that shows up once the \"new proyect\" button is pressed. Even though I have already sized the popup's child nodes, and anchored them, every time I run the app they all become the same size. Does anyone know why this happens? Thank you to anyone that answers submitted by /u/PinkFlamingoe00 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qhgtdt/popup_does_not_keep_anchor_sizes_when_running_the/",
+      "author": "/u/PinkFlamingoe00",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T21:09:43.939820"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qhglll",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "(sound on) I got ange-yaghi realistic engine sounds working in Godot!",
+      "content": "I ported ange-yaghi's engine-sim over into gdExtension so that I could have realistic engine sounds inside my game! The code is a real mess but it works! submitted by /u/jak6jak1 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qhglll/sound_on_i_got_angeyaghi_realistic_engine_sounds/",
+      "author": "/u/jak6jak1",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T21:09:43.939829"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qhgfi6",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "did I make any mistakes with this class nodes?",
+      "content": "I'm trying to change the variable using class nodes and it changes but then goes right back to to it's original value. any Ideas why? submitted by /u/Top_Pay_5692 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qhgfi6/did_i_make_any_mistakes_with_this_class_nodes/",
+      "author": "/u/Top_Pay_5692",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T21:09:43.939837"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qhg7h7",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "👀👀👀👀👀",
+      "content": "What do you guys think of this? This is also my first time adding sound to a game submitted by /u/SweetberryJerry [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qhg7h7/_/",
+      "author": "/u/SweetberryJerry",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T21:09:43.939846"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qhgt3h",
+      "type": "search",
+      "subreddit": "Trophies",
+      "title": "[tetris effect] attempting my second 10/10 difficulty platinum after I did fall guys a couple years ago, wish me luck!",
+      "content": "I beat this game a long time ago on PSVR1 for PS4? but now that I have PSVR2 for the PS5 I’m replaying the updated version and going for the platinum now. It honestly surprised me at first that it was a 10/10 difficulty, but after looking at what I have to do I get why 😭 submitted by /u/TunaSalad888 to r/Trophies [link] [comments]",
+      "link": "https://www.reddit.com/r/Trophies/comments/1qhgt3h/tetris_effect_attempting_my_second_1010/",
+      "author": "/u/TunaSalad888",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T21:09:43.942417"
     }
   ],
-  "last_updated": "2026-01-19T20:44:59.027884"
+  "last_updated": "2026-01-19T21:11:19.844097"
 }
