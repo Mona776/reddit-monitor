@@ -8963,7 +8963,103 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-20T22:41:14.148210"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qigm5q",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "Is the problem with performance in some RTS games is due to the camera?",
+      "content": "Free 3D RTS camera like Total War will need to render sometimes most of the units in the map. Whereas an isometric camera will render only those in the view that normally dont exceed more than a few thousand. Add into this the fact Isometric camera can use sprites instead of 3D models. submitted by /u/FutureLynx_ [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qigm5q/is_the_problem_with_performance_in_some_rts_games/",
+      "author": "/u/FutureLynx_",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T23:10:54.973229"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qighbo",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "my narrative rpg-game releases in less than 7 weeks :))",
+      "content": "About the game: Shame & choices = possible apocalypse. You need to figure out what’s causing the apocalypse to happen, so that you can prevent it. 2 playable characters with different relations to shame → 2 unique perspectives of the same story. Complicated families, branching choices and unforgiving consequences. if you’re interested in the game: https://store.steampowered.com/app/3767990/The_Shame_of_a_Daydreamer/ submitted by /u/journalofshame [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qighbo/my_narrative_rpggame_releases_in_less_than_7_weeks/",
+      "author": "/u/journalofshame",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T23:10:54.973279"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qigdlq",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "New party game called Lunars, feels like Mario Party in 2026",
+      "content": "submitted by /u/RankoYU [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qigdlq/new_party_game_called_lunars_feels_like_mario/",
+      "author": "/u/RankoYU",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T23:10:54.973285"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qig5up",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Our environment artist cooked hard",
+      "content": "Got sent this recently and I had to share, it's really pretty! submitted by /u/ThrusterGames [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qig5up/our_environment_artist_cooked_hard/",
+      "author": "/u/ThrusterGames",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T23:10:54.973379"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qigroy",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Forest of the Dead God",
+      "content": "Two person studio; slowly but surely, replacing the placeholders I got off itch with proprietary art! The background shown is one of the many locations in our upcoming match-3 roguelite. Will be replacing the bottom screen soon, just to have something that feels \"our own\" while we are still developing. Narratively, you play a Runecaster , scrying into the scenes of battle, using rune-casting and divination to alter the fate of your chosen champion, as they traverse the perilous island of Helgistat. Mechanically, its heavily inspired by games like Slay the Spire, Cloverpit, and the Match-3 genre. Still in early development and prototyping. Developed in Godot. submitted by /u/Salt_Punk [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qigroy/forest_of_the_dead_god/",
+      "author": "/u/Salt_Punk",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T23:10:54.973398"
+    },
+    {
+      "id": "https://www.reddit.com/r/unrealengine/t3_1qigjpx",
+      "type": "post",
+      "subreddit": "unrealengine",
+      "title": "Upgrading cpp projects",
+      "content": "Hi. Noob here. I realized that there are a lot of errors when upgrading a cpp project. How do professionals solve this problem? This is the only reason I avoid using cpp with unreal submitted by /u/saoeifjasasef2 [link] [comments]",
+      "link": "https://www.reddit.com/r/unrealengine/comments/1qigjpx/upgrading_cpp_projects/",
+      "author": "/u/saoeifjasasef2",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T23:10:54.973479"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qignph",
+      "type": "search",
+      "subreddit": "FUTMobile",
+      "title": "why is this game so fucking bad ?",
+      "content": "I cannot believe a game like this exists, let alone believe how many players are actively playing it and worst yet are PAYING for it. Wtf is wrong with you people? How can you play a game that is fully rigged and scripted? I don't understand. What do you find appealing at this shitty ass gameplay? It is sickening how every match is scripted. Your skill, your controls, your players, your OVR, your stats whatever, all of it DON'T MATTER because it's all fking scripted and it's horrible. The most important aspect of any game is being able to fucking play it, but in this \"game\" the only one that's being played is YOU. I really wanted to play this game but it's fucking disgusting, I cannot believe this exists and is popular. Humanity has gone to shit if we can't even recognize a good game from a bad one. FK this game, fk the devs, and most importantly FK EA for producing this SHIT. submitted by /u/bobaloooo to r/FUTMobile [link] [comments]",
+      "link": "https://www.reddit.com/r/FUTMobile/comments/1qignph/why_is_this_game_so_fucking_bad/",
+      "author": "/u/bobaloooo",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T23:10:54.974909"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qigic1",
+      "type": "search",
+      "subreddit": "gameverifying",
+      "title": "Black 2 and White 2 - check before buying",
+      "content": "Hello guys, are these legitimate?, thank you. submitted by /u/Krow-7171 to r/gameverifying [link] [comments]",
+      "link": "https://www.reddit.com/r/gameverifying/comments/1qigic1/black_2_and_white_2_check_before_buying/",
+      "author": "/u/Krow-7171",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T23:10:54.975066"
     }
   ],
-  "last_updated": "2026-01-20T22:42:46.578144"
+  "last_updated": "2026-01-20T23:12:27.859591"
 }
