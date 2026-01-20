@@ -1,42 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/t3_1qgd50i",
-      "type": "search",
-      "subreddit": "HybridAnimalsGame",
-      "title": "Nah that's just sad",
-      "content": "submitted by /u/Public_Science_5750 to r/HybridAnimalsGame [link] [comments]",
-      "link": "https://www.reddit.com/r/HybridAnimalsGame/comments/1qgd50i/nah_thats_just_sad/",
-      "author": "/u/Public_Science_5750",
-      "search_keyword": "AI game maker",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T16:44:46.575111"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qgdefr",
-      "type": "search",
-      "subreddit": "BloodOnTheClocktower",
-      "title": "Thoughts on this script",
-      "content": "submitted by /u/Numerous_Chemist_221 to r/BloodOnTheClocktower [link] [comments]",
-      "link": "https://www.reddit.com/r/BloodOnTheClocktower/comments/1qgdefr/thoughts_on_this_script/",
-      "author": "/u/Numerous_Chemist_221",
-      "search_keyword": "how to make a game",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T16:44:46.575375"
-    },
-    {
-      "id": "https://www.reddit.com/r/unrealengine/t3_1qge10i",
-      "type": "post",
-      "subreddit": "unrealengine",
-      "title": "Mutant Acid Spider",
-      "content": "submitted by /u/CaracticusExistence [link] [comments]",
-      "link": "https://www.reddit.com/r/unrealengine/comments/1qge10i/mutant_acid_spider/",
-      "author": "/u/CaracticusExistence",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T17:08:06.741859"
-    },
-    {
       "id": "https://www.reddit.com/r/unrealengine/t3_1qgdwlo",
       "type": "post",
       "subreddit": "unrealengine",
@@ -7583,7 +7547,115 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-01-20T04:01:29.170504"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qhr4xx",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "After 10 months of solo development, my strategy shooting roguelite game Rule Seeker is finally up on Steam. =",
+      "content": "Rule Seeker is a bullet hell shooter where you combine skills, modify weapons, and face enemies with unique mechanics (like damage immunity shields or sequence-based healing). It's been a long journey working on this alone. submitted by /u/Positive_Ad1729 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qhr4xx/after_10_months_of_solo_development_my_strategy/",
+      "author": "/u/Positive_Ad1729",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T05:00:57.878002"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qhrlbn",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Flat UI Problem",
+      "content": "Hi friends! The clip you see is of the transition into a job for my game, how can I make the mission UI look less flat and boring? If anyone has any tips, I would appreciate it! submitted by /u/Studio404Found [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qhrlbn/flat_ui_problem/",
+      "author": "/u/Studio404Found",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T05:00:57.878080"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qhri3c",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Sneak Peak on My Latest Project!",
+      "content": "submitted by /u/yonuel_interactive [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qhri3c/sneak_peak_on_my_latest_project/",
+      "author": "/u/yonuel_interactive",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T05:00:57.878087"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qhre6v",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "What does your preferred coding session look like?",
+      "content": "I'm sitting here on my couch tuning some bicycle behaviour in my game, sipping a nice cup of tea. I also have a 2 monitor desktop that I use if I need to really focus. I generally prefer the casual code & chill on the couch though. What's your IRL development environment like right now? I generally just develop a few hours of week, in the evenings (full time job and all that). When it goes well it's a lovely little hobby. submitted by /u/weaselwescyclingsim [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qhre6v/what_does_your_preferred_coding_session_look_like/",
+      "author": "/u/weaselwescyclingsim",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T05:00:57.878101"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qhqyr9",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Which Spin Stick Animation Do you guys prefer?",
+      "content": "First One is made by my brother and Second one is made my me any feedbacks are more than welcome submitted by /u/tearerry99 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qhqyr9/which_spin_stick_animation_do_you_guys_prefer/",
+      "author": "/u/tearerry99",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T05:00:57.878144"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qhqpgq",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "I recently upgraded my temporary capsule to one made by a friend, but my brother says he likes the old one better. What do you think?",
+      "content": "submitted by /u/Infamous-Eggplant-65 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qhqpgq/i_recently_upgraded_my_temporary_capsule_to_one/",
+      "author": "/u/Infamous-Eggplant-65",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T05:00:57.878187"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qhrmvh",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Flat UI Problem",
+      "content": "Hi friends! The clip you see is of the transition into a job for my game, how can I make the mission UI look less flat and boring? If anyone has any tips, I would appreciate it! submitted by /u/Studio404Found [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qhrmvh/flat_ui_problem/",
+      "author": "/u/Studio404Found",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T05:00:57.878308"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qhrg0t",
+      "type": "search",
+      "subreddit": "ArcBabies",
+      "title": "The game is dying",
+      "content": "submitted by /u/shockvaluezero to r/ArcBabies [link] [comments]",
+      "link": "https://www.reddit.com/r/ArcBabies/comments/1qhrg0t/the_game_is_dying/",
+      "author": "/u/shockvaluezero",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T05:00:57.879255"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qhrqrk",
+      "type": "search",
+      "subreddit": "WatcherofRealmsGame",
+      "title": "Are the Oracle Trials rigged?",
+      "content": "Ok, new-ish to the game (right about 100 days in) please someone make this make sense.....the Oracle Trials seem to be a huge scam, I've been scrapping for the top spot with the same two or three....then one day before it ends, BOOM, random name takes the top spot with more than 3K what I've spent the last few days amassing!! They didnt climb up like everyone else, just \"appeared\" at the top, and this seems to happen every Trial! How are they dropping in with that high of a score, without ever being lower on the leader board before they're suddenly #1? Is this a bot thing? A scam thing? Or am I missing something? submitted by /u/fuzzbubble37 to r/WatcherofRealmsGame [link] [comments]",
+      "link": "https://www.reddit.com/r/WatcherofRealmsGame/comments/1qhrqrk/are_the_oracle_trials_rigged/",
+      "author": "/u/fuzzbubble37",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T05:00:57.879637"
     }
   ],
-  "last_updated": "2026-01-20T04:03:10.122097"
+  "last_updated": "2026-01-20T05:02:41.982838"
 }
