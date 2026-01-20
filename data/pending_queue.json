@@ -1,18 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qgthh8",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "Satisfying Space Combat",
-      "content": "Now that my voxel spaceship editor is up and running, it’s just a matter of time before I finish all my handcrafted ships. I’ve built five weapon types, a ship & turret editor, and the combat already feels very satisfying. Hope you enjoy. submitted by /u/Charlie_Sierra_996 [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qgthh8/satisfying_space_combat/",
-      "author": "/u/Charlie_Sierra_996",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T04:12:44.816772"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qgtycs",
       "type": "search",
       "subreddit": "horror",
@@ -7919,7 +7907,67 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-01-20T17:51:03.666105"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qi8lqo",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "I'm adding cosmetics to my game, how do they look? And does the UI look \"amateur\"?",
+      "content": "Would love to get some feedback on the UI and some suggestions for more outfit colors and hats! submitted by /u/NewKingCole11 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qi8lqo/im_adding_cosmetics_to_my_game_how_do_they_look/",
+      "author": "/u/NewKingCole11",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T18:19:16.611829"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qi8kq9",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Cannot call non-static function \"clamp()\" on the class \"Vector3\" directly. Make an instance instead.",
+      "content": "idk what to put here, i think the title and picture leave it clear submitted by /u/CloudyPapon [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qi8kq9/cannot_call_nonstatic_function_clamp_on_the_class/",
+      "author": "/u/CloudyPapon",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T18:19:16.611986"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qi8cgn",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "i have fucked up somehow 4.5.1 please help",
+      "content": "image 2 is intended and image 1 happens when i walk/sprint for a bit, but only sometimes only have seen it on the left side but it wasn't stress tested image 3 is the filter settings (not sure what repeat does but when i disabled it it made it less common but it still happens assume this is stating the obvious but this isn't in my sprite sheet edit: i switched to 4 recently i don't remember or noticing anything like this happening in 3 so i assume it is to do with nearest rather than not being able to disable texture filtering? should i just switch back to 3 or just accept that this will happen (don't really want to do either) submitted by /u/Venom-IDIDIDIO [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qi8cgn/i_have_fucked_up_somehow_451_please_help/",
+      "author": "/u/Venom-IDIDIDIO",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T18:19:16.612025"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qi84b6",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "I created a turn-based tactics game for players who love efficiency.",
+      "content": "The core of Blob Wars is completing challenges in as few turns as possible by using each Blob’s abilities wisely. Steam demo is already out if you want to try it out. Hope you enjoy it! https://store.steampowered.com/app/4298750/Blob_Wars/ submitted by /u/Jaded_Job_9780 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qi84b6/i_created_a_turnbased_tactics_game_for_players/",
+      "author": "/u/Jaded_Job_9780",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T18:19:16.612039"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qi84fl",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Just wanted to share a small (but huge) milestone for me - my solo game just hit the Top 1000 most wishlisted games on Steam! I’ve been working on it for 3+ years and still have a few months to go, but yeah, that was pretty cool to see. Ok, back to work now🫡",
+      "content": "submitted by /u/darkjay_bs [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qi84fl/just_wanted_to_share_a_small_but_huge_milestone/",
+      "author": "/u/darkjay_bs",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T18:19:16.612097"
     }
   ],
-  "last_updated": "2026-01-20T17:52:38.932985"
+  "last_updated": "2026-01-20T18:20:50.071846"
 }
