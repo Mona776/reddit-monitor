@@ -1,6 +1,18 @@
 {
   "queue": [
     {
+      "id": "https://www.reddit.com/t3_1qi0hve",
+      "type": "search",
+      "subreddit": "Unity3D",
+      "title": "Unity French entity closing this year",
+      "content": "In the continuity of previous layoffs, Unity started the process to close the French entity, all of the France offices, and lay off all the French employees. To give an idea about what that means : - VFX graph originated from there and most of the dev team is in France. Do you really need all those shiny particles ? - Did you like PIXYZ ? Off - Some very competent and dynamic product managers : out - Talented company support members that help games and projects to succeed : bye In the past Unity France led great innovation, with the development of HDRP and a few dedicated researchers in realtime graphics. All were quietly laid off or left without replacement. You may have noticed that HDRP didn't evolve for a while, right ? According to French official government data, it's between 50 and 100 persons that will loose their job. A small droplet in the video game industry, and for the Unity group in a whole, but it shows how it cares about the humans that actually make things grow. submitted by /u/A_Unity_Guy to r/Unity3D [link] [comments]",
+      "link": "https://www.reddit.com/r/Unity3D/comments/1qi0hve/unity_french_entity_closing_this_year/",
+      "author": "/u/A_Unity_Guy",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 1,
+      "added_at": "2026-01-20T13:16:21.994386"
+    },
+    {
       "id": "https://www.reddit.com/r/indiegaming/t3_1qgmq1u",
       "type": "post",
       "subreddit": "indiegaming",
@@ -7487,7 +7499,187 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-01-20T12:21:57.256814"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qi0jq9",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "What's the best way to implement 2d character animations if I'm gonna use a lot of them?",
+      "content": "I'm thinking about spritesheets but animating decent quality animations with them are tedious and complicated, and I don't have that much time to work on one game. Another option is having individual pictures for each frame but that would take up tons of storage. What's y'all's take? submitted by /u/IAmEpiX189 [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qi0jq9/whats_the_best_way_to_implement_2d_character/",
+      "author": "/u/IAmEpiX189",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T13:16:21.992872"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qi0mci",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "We made some visual changes. What do you think?",
+      "content": "submitted by /u/LuhreAejon [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qi0mci/we_made_some_visual_changes_what_do_you_think/",
+      "author": "/u/LuhreAejon",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T13:16:21.992943"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qi0kw1",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "We're updating the capsule for our co-op game on Steam and can't decide between these two. Which one grabs your attention more? Left or right?",
+      "content": "submitted by /u/Emergency_Delivery74 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qi0kw1/were_updating_the_capsule_for_our_coop_game_on/",
+      "author": "/u/Emergency_Delivery74",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T13:16:21.992951"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qi0jc2",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "We spent months building a game inspired by Disco Elysium. Now we need your honest (and brutal) feedback",
+      "content": "submitted by /u/yusuf_turgut [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qi0jc2/we_spent_months_building_a_game_inspired_by_disco/",
+      "author": "/u/yusuf_turgut",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T13:16:21.992960"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qi0gz3",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Finally have the steam capsule art done for my UFO horror game based on reported cases in the 1950s",
+      "content": "submitted by /u/johnny3674 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qi0gz3/finally_have_the_steam_capsule_art_done_for_my/",
+      "author": "/u/johnny3674",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T13:16:21.992969"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qi0e4x",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Would love feedback on pricing my first indie game",
+      "content": "submitted by /u/Elegant_Thanks_4247 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qi0e4x/would_love_feedback_on_pricing_my_first_indie_game/",
+      "author": "/u/Elegant_Thanks_4247",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T13:16:21.992975"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qi08hw",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "The game I made just got ‘Overwhelmingly Positive’ on Steam! So happy rn.",
+      "content": "submitted by /u/thehen [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qi08hw/the_game_i_made_just_got_overwhelmingly_positive/",
+      "author": "/u/thehen",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T13:16:21.993009"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qi06i5",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Looking testers for my card game",
+      "content": "submitted by /u/purplecalf9 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qi06i5/looking_testers_for_my_card_game/",
+      "author": "/u/purplecalf9",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T13:16:21.993015"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qi0poi",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "My favorite method of doing art is murdering my shaders and seeing what comes out of it",
+      "content": "Something might be broken here... submitted by /u/vvyun [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qi0poi/my_favorite_method_of_doing_art_is_murdering_my/",
+      "author": "/u/vvyun",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T13:16:21.993123"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qi0dz4",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Water added to FERAN, the single player extraction shooter FPS I am working on",
+      "content": "If you like this update join the Discord and wishlist FERAN on Steam! submitted by /u/bre-dev [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qi0dz4/water_added_to_feran_the_single_player_extraction/",
+      "author": "/u/bre-dev",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T13:16:21.993168"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qi0ru2",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "I made a tetris inventory for my 2d coop survival/extraction shooter. Managing loot is half the fun, right?",
+      "content": "submitted by /u/SuccessfulEnergy4466 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qi0ru2/i_made_a_tetris_inventory_for_my_2d_coop/",
+      "author": "/u/SuccessfulEnergy4466",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T13:16:21.993247"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qi0nmj",
+      "type": "search",
+      "subreddit": "AmazonofDeals",
+      "title": "17 Miscellaneous steals !",
+      "content": "1- #Ad ECO-WORTHY 12V 300Ah LiFePO4 Lithium Battery w/ Bluetooth & LED $390.99 + Free Shipping @ eBay, Promo Code NEWFAVE15 2- #Ad Open-Box Beats Solo Buds Wireless Bluetooth Earbuds $39 + Free Shipping @ eBay, Promo Code Auto-applied in cart 3- #Ad Govee DreamView T1 TV Backlight (55-65\" TV Strip Lights) $42 + Free Shipping @ eBay, Promo Code VIPOUTLET2026 4- #Ad Vivitar Skyhawk Foldable Video Drone (1080p HD, GPS, 32GB SD Card) $28.98 + Free Shipping @ eBay, Promo Code VIPOUTLET26NEWY 5- #Ad Open-Box Samsung 27\" Odyssey G55C QHD 165Hz 1ms Curved Gaming Monitor $117 + Free Shipping @ eBay, Promo Code VIPOUTLET2026 6- #Ad Open-Box onn. 32\" 2.1 Soundbar with Wireless Subwoofer $43 + Free Shipping @ eBay, Promo Code VIPOUTLET2026 7- #Ad Razor Black Label E90 Electric Scooter $66 + Free Shipping @ eBay, Promo Code VIPOUTLET2026 8- #Ad Certified Refurbished Skullcandy Crusher ANC 2 Wireless Headphones $83.59 + Free Shipping @ eBay, Promo Code FAVEFINDS20 9- #Ad Refurbished Lenovo ThinkPad X1 Yoga Gen 6 (14\" 1200p Touch, i7-1165G7, 16GB RAM, 512GB SSD) $397 + Free Shipping @ eBay 10- #Ad Certified Refurbished Acer Aspire 5 (15.6\", Intel i5-13420H, 16GB RAM, 512GB SSD) $302.99 + Free Shipping @ eBay, Promo Code FAVEFINDS20 11- #Ad Samsonite Detour Convertible Wheeled Hybrid Backpack $63.99 + Free Shipping @ eBay, Promo Code FAVEFINDS20 12- #Ad Certified Refurbished Dyson V8 Origin Cordless Vacuum (Purple) $170.39 + Free Shipping @ eBay, Promo Code FAVEFINDS20 13- #Ad Refurbished Lenovo IdeaPad Pro 5i (16\" 2K OLED 120Hz, Ultra 9 185H, RTX 4050, 32GB RAM, 1TB SSD) $847.99 + Free Shipping @ eBay, Promo Code FAVEFINDS20 14- #Ad BLUETTI Elite 30 V2 288Wh Portable Power Station (Refurbished) $129 + Free Shipping @ eBay, Promo Code NEWFAV15 15- #Ad Certified Refurbished Acer Nitro 31.5\" QHD 180Hz Curved Gaming Monitor $120.89 + Free Shipping @ eBay 16- #Ad Refurbished MSI G274QPF 27\" 1440p 170Hz IPS Gaming Monitor $111.99 + Free Shipping @ eBay, Promo Code FAVEFINDS20 17- #Ad ECO-WORTHY 48V 100Ah LiFePO4 Golf Cart Battery w/ Bluetooth Monitor $637.49 + Free Shipping @ eBay, Promo Code NEWFAVE15 submitted by /u/427Powered to r/AmazonofDeals [link] [comments]",
+      "link": "https://www.reddit.com/r/AmazonofDeals/comments/1qi0nmj/17_miscellaneous_steals/",
+      "author": "/u/427Powered",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T13:16:21.993392"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qi0t5o",
+      "type": "search",
+      "subreddit": "TheCallistoProtocol",
+      "title": "The bosses",
+      "content": "The bosses in this game in my opinion are the greatest. There’s 6 bosses in the game and there 2 of the same thing. You fight Ferris twice. And you pretty much do the same (expect he has 2 phases in the final boss which is a lil different so there’s that). But the other 4 bosses are LITERALLY JUST THE SAME FIGHT WITH THE TWO-HEAD. And each fight with a two head is the same. They could’ve at least changed each fight a lil bit to make em different. Like one fight you can only use your weapons (kinda like with Ferris’s second phase during the final boss). Or another fight where you can only use your stun baton. I know that’s not that much of a difference but it’s atleast something different. submitted by /u/EmotionalGuitar7723 to r/TheCallistoProtocol [link] [comments]",
+      "link": "https://www.reddit.com/r/TheCallistoProtocol/comments/1qi0t5o/the_bosses/",
+      "author": "/u/EmotionalGuitar7723",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T13:16:21.993422"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qi0s9q",
+      "type": "search",
+      "subreddit": "u_PurpleSectorStudios",
+      "title": "Wishlist our first PC game 'Pixel Aquarium' now on Steam!",
+      "content": "Our first PC game Pixel Aquarium now has a Steam page! We will release a free demo on there soon. Make sure to wishlist the game, so you get notified on any updates. Thank you! submitted by /u/PurpleSectorStudios to u/PurpleSectorStudios [link] [comments]",
+      "link": "https://www.reddit.com/r/u_PurpleSectorStudios/comments/1qi0s9q/wishlist_our_first_pc_game_pixel_aquarium_now_on/",
+      "author": "/u/PurpleSectorStudios",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T13:16:21.993566"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qi0pg1",
+      "type": "search",
+      "subreddit": "SWGalaxyOfHeroes",
+      "title": "Hard mode nerfed?",
+      "content": "Hey gang, I'm trying to figure it the devs announced the change to hard conquest, capping it at r5. Or is my game glitched ? submitted by /u/No_Conversation4517 to r/SWGalaxyOfHeroes [link] [comments]",
+      "link": "https://www.reddit.com/r/SWGalaxyOfHeroes/comments/1qi0pg1/hard_mode_nerfed/",
+      "author": "/u/No_Conversation4517",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T13:16:21.994132"
     }
   ],
-  "last_updated": "2026-01-20T12:23:49.926570"
+  "last_updated": "2026-01-20T13:18:16.648923"
 }
