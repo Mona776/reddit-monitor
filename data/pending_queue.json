@@ -1,102 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/unrealengine/t3_1qgdwlo",
-      "type": "post",
-      "subreddit": "unrealengine",
-      "title": "You Finally Convinced Me to Make a Procedural City, Starting With Roads",
-      "content": "submitted by /u/Krozjin [link] [comments]",
-      "link": "https://www.reddit.com/r/unrealengine/comments/1qgdwlo/you_finally_convinced_me_to_make_a_procedural/",
-      "author": "/u/Krozjin",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T17:08:06.741865"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qgdzpd",
-      "type": "search",
-      "subreddit": "SparkingZero",
-      "title": "Switch port = Better PC optimization?",
-      "content": "Since the devs managed to get the game to run on the OG Nintendo Switch, did it result in better optimization for low-end PCs? I imagine it wouldn't be too hard to use that development work they've already done to retroactively patch the PC version in order to allow it to work on weaker hardware, enabling some extra sales from people like me. submitted by /u/SfactorSam to r/SparkingZero [link] [comments]",
-      "link": "https://www.reddit.com/r/SparkingZero/comments/1qgdzpd/switch_port_better_pc_optimization/",
-      "author": "/u/SfactorSam",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T17:08:06.743495"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qgdxgq",
-      "type": "search",
-      "subreddit": "CitiesSkylines2",
-      "title": "Any updates since the new devs took over? Any improvements?",
-      "content": "With the new devs taking over, has the game improved much yet? submitted by /u/Sanctus_Poopabumsus to r/CitiesSkylines2 [link] [comments]",
-      "link": "https://www.reddit.com/r/CitiesSkylines2/comments/1qgdxgq/any_updates_since_the_new_devs_took_over_any/",
-      "author": "/u/Sanctus_Poopabumsus",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T17:08:06.743503"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qgds75",
-      "type": "search",
-      "subreddit": "CronstedtsTreachery",
-      "title": "Mini-Teaser #7 - The faces of Cronstedt's Treachery",
-      "content": "Hello everyone, its been a long time since the last teaser/dev diary, so here are even more leaders and generals you might encounter in Cronstedt's Treachery during your game ! submitted by /u/Torchon_Twiste to r/CronstedtsTreachery [link] [comments]",
-      "link": "https://www.reddit.com/r/CronstedtsTreachery/comments/1qgds75/miniteaser_7_the_faces_of_cronstedts_treachery/",
-      "author": "/u/Torchon_Twiste",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T17:08:06.743550"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qgeaij",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Some weather effects for my voxel world that I did.",
-      "content": "submitted by /u/latticeGlade [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qgeaij/some_weather_effects_for_my_voxel_world_that_i_did/",
-      "author": "/u/latticeGlade",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T17:39:09.523585"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qge7hs",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Interaction ✋ in Anomaly 404",
-      "content": "submitted by /u/WryMim [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qge7hs/interaction_in_anomaly_404/",
-      "author": "/u/WryMim",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T17:39:09.523594"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qgedqp",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Lightning shadow bug IRL lol",
-      "content": "submitted by /u/DiePoolnudel [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qgedqp/lightning_shadow_bug_irl_lol/",
-      "author": "/u/DiePoolnudel",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T17:39:09.523622"
-    },
-    {
-      "id": "https://www.reddit.com/r/unrealengine/t3_1qge9uo",
-      "type": "post",
-      "subreddit": "unrealengine",
-      "title": "The BEST Mini Map System for Unreal Engine 5 (FREE DOWNLOAD)",
-      "content": "Hello, This is Complete Mini Map tutorial for Unreal Engine . Download The Project from below. Please subscribe my channel if you like my content submitted by /u/Sifu-A [link] [comments]",
-      "link": "https://www.reddit.com/r/unrealengine/comments/1qge9uo/the_best_mini_map_system_for_unreal_engine_5_free/",
-      "author": "/u/Sifu-A",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T17:39:09.523691"
-    },
-    {
       "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qgeq10",
       "type": "post",
       "subreddit": "SoloDevelopment",
@@ -7655,7 +7559,79 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-01-20T05:00:57.879637"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qhrzpe",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "How much do players care about a singleplayer game being \"playable offline\"?",
+      "content": "As the title suggests! Would it make or break your experience? Is it a key factor you look out for? I'm trying to figure out if my mobile game being playable offline is a key selling point i should advertise in the app screenshots. submitted by /u/Not_Lem [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qhrzpe/how_much_do_players_care_about_a_singleplayer/",
+      "author": "/u/Not_Lem",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T05:49:51.721230"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qhsnxo",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Something Wormg: I think worm wanna be pill bug",
+      "content": "I just hit the giant worm while developing. It's suddenly trying to become pill bug. OMG.... submitted by /u/BusyNectarine6795 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qhsnxo/something_wormg_i_think_worm_wanna_be_pill_bug/",
+      "author": "/u/BusyNectarine6795",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T05:49:51.721286"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qhsj29",
+      "type": "search",
+      "subreddit": "FORSAKENROBLOX",
+      "title": "Fanmade c00lkidd skin",
+      "content": "It is appropriately called “Unstoppable”, and it is one of a few skins that have actual lore. Turns out, he was some sort of corrupt virus that showed up on the creator's computer someday. And faced with nothing, the developers decide to scrap it. But what they realized was that every time they tried to scrap the skin, the game would just would not work. No matter how many times they tried to fix him, where it turns out, he brings in code with him that keeps the game stable every time he gets deleted. So the devs were forced to keep him in the game for all of eternity. And he has completely custom animations for everything, including custom voice lines, intros, and outros, and etc. where it's a lot more choppy and glitchy. submitted by /u/StudioCompetitive472 to r/FORSAKENROBLOX [link] [comments]",
+      "link": "https://www.reddit.com/r/FORSAKENROBLOX/comments/1qhsj29/fanmade_c00lkidd_skin/",
+      "author": "/u/StudioCompetitive472",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T05:49:51.721577"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qhsus0",
+      "type": "search",
+      "subreddit": "TheFirstDescendant",
+      "title": "Which Descendant should I put 60 Cats into? And which is the rarest 60 catted descendant have you seen?",
+      "content": "Hello everyone, this is my first post on here. A bit of a random question/ opinion tbh, just trying to get some perspective from the community. I’ve been playing this since pre-season and have basically tried & built ever descendant in game currently. I have 5 characters right now that are fully catalyzed; those being(Gley, Valby, Sharen, Luna, and Freyna) but seeing how there is basically nothing else content wise for about 3 weeks I figured i’d max out another Descendant. But honestly idk which one to choose, i use all of them semi-constantly depending on the activity or how I’m feeling given day. If i had to choose my least played characters, it would be Jayber or Keelan. The poll options will show only the characters im actually willing to catalyze, and be used to make my decision of which character I should invest more donuts into. Thank you for your vote. As for the follow up question? Has anyone ever seen a 60 catted Keelan, Jayber, Kyle or Esiemo before in the wild lol? If so what were they doing when you seen them? I play this game every day and still haven’t seen those characters i just mentioned fully maxed. I think i seen a 46 catted Esiemo player in albion once but thats it tbh. They are like exotic creatures or something, especially with the player count being low. I know xAlisa on YouTube has all descendants fully maxed but he can’t be the only one, Right? Maybe I’m trippin out or something. View Poll submitted by /u/UlionOnMe to r/TheFirstDescendant [link] [comments]",
+      "link": "https://www.reddit.com/r/TheFirstDescendant/comments/1qhsus0/which_descendant_should_i_put_60_cats_into_and/",
+      "author": "/u/UlionOnMe",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T05:49:51.721734"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qhstxk",
+      "type": "search",
+      "subreddit": "DynastyFF",
+      "title": "Mendoza trending up or down after Natty?",
+      "content": "I was really hoping he would’ve wowed me tonight to make my decision to pick him easier. He didn’t look that amazing but also don’t lose his team the game. He did have a game defining run which helps. Does his performance tonight increase or decrease his dynasty draft stock? How about in a Superflex league? submitted by /u/ChiTownKid99 to r/DynastyFF [link] [comments]",
+      "link": "https://www.reddit.com/r/DynastyFF/comments/1qhstxk/mendoza_trending_up_or_down_after_natty/",
+      "author": "/u/ChiTownKid99",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T05:49:51.721858"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qhsr5e",
+      "type": "search",
+      "subreddit": "AMDHelp",
+      "title": "xfx 6800 xt problems",
+      "content": "hi, so i bought a referbished 6800 xt on newegg and ever since i got it ive been getting weird issues. in like 2 games, the pc randomly cuts display and on my old motherboard it would give a vga light, the 2 games are cod (mw3 2023, bo6 and bo7) and bonelab. in windows it also gives me a weird error, error being \"Device PCI\\VEN_1002&DEV_73BF&SUBSYS_67011EAE&REV_C1\\6&3919949d&0&00000019 had a problem starting. Driver Name: oem6.inf Class Guid: {4d36e968-e325-11ce-bfc1-08002be10318} Service: amduw23g-420421-41d8ada4 Lower Filters: Upper Filters: Problem: 0x0 Problem Status: 0xC00000E5\" the drivers load fine, i just dont know why this is here yk? submitted by /u/onsidewalk69420 to r/AMDHelp [link] [comments]",
+      "link": "https://www.reddit.com/r/AMDHelp/comments/1qhsr5e/xfx_6800_xt_problems/",
+      "author": "/u/onsidewalk69420",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T05:49:51.724017"
     }
   ],
-  "last_updated": "2026-01-20T05:02:41.982838"
+  "last_updated": "2026-01-20T05:51:30.801022"
 }
