@@ -1,90 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qh6qtk",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "One year at a time...",
-      "content": "submitted by /u/FallingPlatypus [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qh6qtk/one_year_at_a_time/",
-      "author": "/u/FallingPlatypus",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T15:15:21.563994"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qh6l72",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "My artist is reworking the giants in my game to make them more realistic. Which version do you prefer?",
-      "content": "submitted by /u/After-Analysis-4151 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qh6l72/my_artist_is_reworking_the_giants_in_my_game_to/",
-      "author": "/u/After-Analysis-4151",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T15:15:21.564020"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qh6gmg",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Game Jams. Do They Help Or Hurt?",
-      "content": "Been seeing some discussion lately about whether participating in game jams really helps you with development as much as some people say. Would love to spark a discussion here and see some people's opinions. submitted by /u/TwisleWasTaken [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qh6gmg/game_jams_do_they_help_or_hurt/",
-      "author": "/u/TwisleWasTaken",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T15:15:21.564037"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qh67rj",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Added a CRT shader to my own map editor",
-      "content": "Finally added this (really useless) feature displaying the map and the tile editor with a CRT shader in Sprite Fusion (my web-based tilemap editor). Pretty happy about it! :D submitted by /u/HugoDzz [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qh67rj/added_a_crt_shader_to_my_own_map_editor/",
-      "author": "/u/HugoDzz",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T15:15:21.564058"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qh6q61",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Develop Multiplayer Games",
-      "content": "How difficult do you find it to develop an online multiplayer game on Godot? I'm not talking about a big MMO, but a game to play with friends with one person acting as host. What should be taken into account? submitted by /u/LimonLemmon [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qh6q61/develop_multiplayer_games/",
-      "author": "/u/LimonLemmon",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T15:15:21.564068"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qh6m15",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Week in review",
-      "content": "​ This is the end of the second weeks production for this game. In this time I finished off many of the games core architecture. My storage system was locked in this week that allows for thousands-millions of books on shelves and inventoried and searchable by any metric that people want, (Name, author, genre, shelf, ect.) The base ordering/inventory/auction UI system is locked in. My ledger connects to my inventory manager and allows the player to place bids, order wholesale and view stocked inventory. I got a lot of work done on the NPC systems including spawning, taking books from shelves, queuing, placing books on counter and exiting shop. I even installed a rudimentary pathing system so they don't get stuck as easily on objects, and I also added a feature that lets the player push the NPCs around, so even if they get stuck you can push them around. So yeah, pretty fun week. submitted by /u/Lucky-Space6065 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qh6m15/week_in_review/",
-      "author": "/u/Lucky-Space6065",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T15:15:21.564097"
-    },
-    {
-      "id": "https://www.reddit.com/r/unity/t3_1qh6e1p",
-      "type": "post",
-      "subreddit": "unity",
-      "title": "From a small dev team of a survival horror team, what do you like to see when it comes to making gunplay more tense? (This is not a promotion, as we don't even have the damn thing programmed yet, and can't decide on a real name for it.)",
-      "content": "submitted by /u/BackgroundCheek3797 [link] [comments]",
-      "link": "https://www.reddit.com/r/unity/comments/1qh6e1p/from_a_small_dev_team_of_a_survival_horror_team/",
-      "author": "/u/BackgroundCheek3797",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T15:15:21.564108"
-    },
-    {
       "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qh6qr8",
       "type": "post",
       "subreddit": "SoloDevelopment",
@@ -9311,7 +9227,139 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-01-21T11:14:45.350730"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qivn3f",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "I finally gave NPCs the courage to fight back during carjackings... and the police immediately humbled him.",
+      "content": "submitted by /u/Bufuak_ [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qivn3f/i_finally_gave_npcs_the_courage_to_fight_back/",
+      "author": "/u/Bufuak_",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-21T11:42:59.989873"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qivkwr",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Couch co-op or friendslop?",
+      "content": "We were wondering what kind of games you'd describe as friendslop rather than couch co-op or are they still used interchangeably? What do you see used more often these days? Any examples? submitted by /u/bongfishofficial [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qivkwr/couch_coop_or_friendslop/",
+      "author": "/u/bongfishofficial",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-21T11:42:59.989882"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qivc8p",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Minivan internals view of my game about survival on the road.",
+      "content": "submitted by /u/_Paracorn_ [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qivc8p/minivan_internals_view_of_my_game_about_survival/",
+      "author": "/u/_Paracorn_",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-21T11:42:59.989890"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qivlv5",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "I finally gave NPCs the courage to fight back during carjackings... and the police immediately humbled him.",
+      "content": "submitted by /u/Bufuak_ [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qivlv5/i_finally_gave_npcs_the_courage_to_fight_back/",
+      "author": "/u/Bufuak_",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-21T11:42:59.989945"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qivk16",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Trying out some shading styles for my game idea. Which do you prefer?",
+      "content": "submitted by /u/RYanntastisch [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qivk16/trying_out_some_shading_styles_for_my_game_idea/",
+      "author": "/u/RYanntastisch",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-21T11:42:59.989952"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qivb0z",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "any tips for commitment?",
+      "content": "I want to make a game, as it’s something i love to learn and it’s so rewarding to finally accomplish that goal, but i just get stuck in a cycle of either not wanting to figure things out for the day, not finding a solution to the problem, or putting it off for “another day” that never comes. what are some good tips to stay motivated and get a small project finished (first finished project ideally)? submitted by /u/BubblyResearch2214 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qivb0z/any_tips_for_commitment/",
+      "author": "/u/BubblyResearch2214",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-21T11:42:59.989978"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qivmb5",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "I finally gave NPCs the courage to fight back during carjackings... and the police immediately humbled him.",
+      "content": "submitted by /u/Bufuak_ [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qivmb5/i_finally_gave_npcs_the_courage_to_fight_back/",
+      "author": "/u/Bufuak_",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-21T11:42:59.989987"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qivbwk",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Finally the game is Developed! Do check it out, wish-listing would support me alott",
+      "content": "#solodev #gamedev #wishlistwednesday #steam submitted by /u/Neither_Affect4507 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qivbwk/finally_the_game_is_developed_do_check_it_out/",
+      "author": "/u/Neither_Affect4507",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-21T11:42:59.989994"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qiv84d",
+      "type": "search",
+      "subreddit": "projects",
+      "title": "I built a gaming platform to make joining private games easy. I’d really appreciate your honest thoughts.",
+      "content": "submitted by /u/Alert-Ad-5918 to r/projects [link] [comments]",
+      "link": "https://www.reddit.com/r/projects/comments/1qiv84d/i_built_a_gaming_platform_to_make_joining_private/",
+      "author": "/u/Alert-Ad-5918",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-21T11:42:59.990712"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qivp56",
+      "type": "search",
+      "subreddit": "RSDragonwilds",
+      "title": "Game keep crashing and many texture bugs",
+      "content": "Hi everyone, the game keeps crashing after a few minutes of playing in an online world. I tried : - insert both -vulkan and -dx11 in the startup commands - chance the properties of the .exe making it run as administrator and with compatibility -verify integrity of files on steam -change graphics settings All my drivers are updated and my BIOS too, other games work as they should… Instead in the game the textures of the Sky at like geometric figures and grass are like pixels… Thanks in advance guys! submitted by /u/TalaKun to r/RSDragonwilds [link] [comments]",
+      "link": "https://www.reddit.com/r/RSDragonwilds/comments/1qivp56/game_keep_crashing_and_many_texture_bugs/",
+      "author": "/u/TalaKun",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-21T11:42:59.990746"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qivov7",
+      "type": "search",
+      "subreddit": "oneplus",
+      "title": "OnePlus 12 - CPH2573_16.0.3.500(V120P02) update released (India)",
+      "content": "submitted by /u/LastOfLateBrakers to r/oneplus [link] [comments]",
+      "link": "https://www.reddit.com/r/oneplus/comments/1qivov7/oneplus_12_cph2573_1603500v120p02_update_released/",
+      "author": "/u/LastOfLateBrakers",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-21T11:42:59.990829"
     }
   ],
-  "last_updated": "2026-01-21T11:16:20.174938"
+  "last_updated": "2026-01-21T11:44:43.691088"
 }
