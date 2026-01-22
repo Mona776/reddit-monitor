@@ -1,114 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/unity/t3_1qhdlvu",
-      "type": "post",
-      "subreddit": "unity",
-      "title": "How can i move the rotation object on a 2D UI object?",
-      "content": "Im making a clock and i need both the hands on the clock and a penumbra on the outside of the clock to rotate around the centre of the clock. How can i move where the object rotates from? submitted by /u/Fun_Philosophy_7606 [link] [comments]",
-      "link": "https://www.reddit.com/r/unity/comments/1qhdlvu/how_can_i_move_the_rotation_object_on_a_2d_ui/",
-      "author": "/u/Fun_Philosophy_7606",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T19:36:59.455817"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedesign/t3_1qhdu05",
-      "type": "post",
-      "subreddit": "gamedesign",
-      "title": "Two game design problems stuck in my head",
-      "content": "1) In an auto battler, would it make sense to have stun chances, like enchant, freeze, silence chance as character stats. Your unit count varies, at most 12-13. 2)In my game map every tile influences the unit on them in different ways. Sometimes negatively, sometimes positively. In game there will be things that makes these negative effects useful, but I still think player will never want their units on these negative hexes and they will feel very unlucky when their unit landed on them. Is it too much rng? (Since game is an auto battler they dont have direct control over where the unit will go during battle.) Do you know any games with too many unit stats, around 20-25. Do you know any games that has hexes that effects the units negatively, but you dont have complete control if unit goes there, it is part of the risk management submitted by /u/whyNamesTurkiye [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedesign/comments/1qhdu05/two_game_design_problems_stuck_in_my_head/",
-      "author": "/u/whyNamesTurkiye",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T19:36:59.455839"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qhe8d1",
-      "type": "search",
-      "subreddit": "CasualUK",
-      "title": "Best bring it on then.",
-      "content": "and you won't hear from me because I can't be bothered putting effort into filling in the form. Iove the red printed stamp with the different colour signature that makes it feel as if it was hand signed. submitted by /u/ajfromuk to r/CasualUK [link] [comments]",
-      "link": "https://www.reddit.com/r/CasualUK/comments/1qhe8d1/best_bring_it_on_then/",
-      "author": "/u/ajfromuk",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T19:36:59.457520"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qhe1d8",
-      "type": "search",
-      "subreddit": "EmperorsChildren",
-      "title": "First time playing knights",
-      "content": "First time Fulgrim killed someone and didnt die. Him and Lucius W/FB were champs. submitted by /u/The_MockingJace to r/EmperorsChildren [link] [comments]",
-      "link": "https://www.reddit.com/r/EmperorsChildren/comments/1qhe1d8/first_time_playing_knights/",
-      "author": "/u/The_MockingJace",
-      "search_keyword": "AI game maker",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T19:36:59.457796"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qhdxyk",
-      "type": "search",
-      "subreddit": "Marathon",
-      "title": "Potential buyer with a question, what's the gameplay loop here?",
-      "content": "So with some games having stuff outside the match like stashes, traders, quests, etc. is this like a super casual not really extraction shooter like dmz? Or a mix between arc and tarky? Like what lvl of depth are we expecting here other than fps class based shooter. What are we extracting? How much depth is outside the match? I think if it's got some depth as an extraction game my friend group would dig it. I saw a vid of the devs going over classes but didn't see anything on what I'm referring towards. submitted by /u/kajun-mulisha to r/Marathon [link] [comments]",
-      "link": "https://www.reddit.com/r/Marathon/comments/1qhdxyk/potential_buyer_with_a_question_whats_the/",
-      "author": "/u/kajun-mulisha",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T19:36:59.458135"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qhe7bv",
-      "type": "search",
-      "subreddit": "Palia",
-      "title": "I need HELP with the estate housing line",
-      "content": "I want to build 2 houses next to eachother (part of a larger project), but the game's autosnap, or whatever is called, is just not having it. In photo 1 you see the first house in the right, next to it on its left is the footprint of the second house made with log fences. In photo 2 you see how the game is forcing me to place the new base room, connected to the existing house. In photo 3 you see the closest the game \"allows\" me to place the new base room, and that just is to far. Is there some trick I do not know ? Does anyone, please, have any ideas ? I have sunk 100+ hours in this plot, the thought of canceling the project is making me very sad :(. submitted by /u/ComfortableRead3949 to r/Palia [link] [comments]",
-      "link": "https://www.reddit.com/r/Palia/comments/1qhe7bv/i_need_help_with_the_estate_housing_line/",
-      "author": "/u/ComfortableRead3949",
-      "search_keyword": "how to make a game",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T19:36:59.458199"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qhf2r4",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "I’m making a cozy city-builder on flying islands. Here’s an early in-engine look.",
-      "content": "Hi everyone, I'm developing an indie cozy city-building / management game where you build villages on flying islands. Key features: • Organic village growth • Light resource management • Trading between islands using flying ships • Relaxed, cozy pacing Here’s a short in-engine camera flyover showing the current art direction. The project is still early in development, so feedback is very welcome. Steam wishlist page: https://store.steampowered.com/app/4000470/Skyline_Settlers/ Thanks for checking it out. submitted by /u/No-Discussion-3199 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qhf2r4/im_making_a_cozy_citybuilder_on_flying_islands/",
-      "author": "/u/No-Discussion-3199",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T20:11:52.191345"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qhevkv",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "ARKEN AGE – Full Gameplay + Ending",
-      "content": "Just finished Arken Age and holy hell, this game is a full‑on sci‑fi fever dream. Mutant creatures, insane biomechs, corrupted robots, and a final red‑robot ending that hits you out of nowhere. Video link: https://youtu.be/_mOfO9PoiY4 submitted by /u/No-Account6689 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qhevkv/arken_age_full_gameplay_ending/",
-      "author": "/u/No-Account6689",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T20:11:52.191358"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qhf2yb",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Data Citadel - A SQL Mystery",
-      "content": "submitted by /u/akarsh_tripathi [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qhf2yb/data_citadel_a_sql_mystery/",
-      "author": "/u/akarsh_tripathi",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T20:11:52.191427"
-    },
-    {
       "id": "https://www.reddit.com/r/IndieDev/t3_1qhelch",
       "type": "post",
       "subreddit": "IndieDev",
@@ -12239,7 +12131,67 @@
       "search_keyword": "AI game maker",
       "relevance_score": 0,
       "added_at": "2026-01-22T05:50:05.986789"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qjmr8p",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Am I Using @export To Much",
+      "content": "I was thinking about this and was wondering what others have to say, do I use @export to much and what is are downside of using it. I like having the ability to control variables for testing and also being able to change stuff dynamically and it appearing in the editor is nice, but like 95% of all my variables are @export. Looking at my current open scripts I got 3/5 2/2 8/8 and 11/11 variables as @export and I'm wondering if that's a lot and I'm weird for it or how others feel. It would also be nice to know if there is any reason why I shouldn't be doing this submitted by /u/DiamondInTheRough429 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qjmr8p/am_i_using_export_to_much/",
+      "author": "/u/DiamondInTheRough429",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T06:17:57.681485"
+    },
+    {
+      "id": "https://www.reddit.com/r/unity/t3_1qjmt7z",
+      "type": "post",
+      "subreddit": "unity",
+      "title": "Should anyone start in 2026?",
+      "content": "Hi everyone! I hope it’s okay to ask this here. I’m currently at a major turning point in my life. I’ve worked as a restaurant manager for over 10 years, coordinating large teams, but I feel like it’s time for a change. I’ve been thinking about starting a Unity course, however I should be clear that my programming knowledge is basically zero. How realistic is it to get into Unity development in 2026? I’m genuinely interested in it, but of course job opportunities are a big factor as well. My English is at a high level, so that’s not an issue. Thanks a lot for your time and any advice! submitted by /u/No_Ozi [link] [comments]",
+      "link": "https://www.reddit.com/r/unity/comments/1qjmt7z/should_anyone_start_in_2026/",
+      "author": "/u/No_Ozi",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T06:17:57.681564"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qjmjxh",
+      "type": "search",
+      "subreddit": "gamecollecting",
+      "title": "My game collection is growing, so is my backlog",
+      "content": "submitted by /u/Working_Ad_503 to r/gamecollecting [link] [comments]",
+      "link": "https://www.reddit.com/r/gamecollecting/comments/1qjmjxh/my_game_collection_is_growing_so_is_my_backlog/",
+      "author": "/u/Working_Ad_503",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T06:17:57.681607"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qjmxig",
+      "type": "search",
+      "subreddit": "PcBuild",
+      "title": "Is there anything that needs fixing?",
+      "content": "My budget for this pc is 2300 dollars and i want to know if theres any upgrades that can be made for this gaming pc without sacrificing performance from other parts. I am from iceland which has crazy pricing on shipping but there should be some of these parts in stores near me. submitted by /u/Grouchy-Ball-957 to r/PcBuild [link] [comments]",
+      "link": "https://www.reddit.com/r/PcBuild/comments/1qjmxig/is_there_anything_that_needs_fixing/",
+      "author": "/u/Grouchy-Ball-957",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T06:17:57.681753"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qjmusu",
+      "type": "search",
+      "subreddit": "RPGdesign",
+      "title": "Making my own system",
+      "content": "So making my own system for my world. First thing is converting a custom currency. For early drafts for reference I wanna convert some adventures and I wanna do the treasure and stuff. My idea is in my game 1 cp is 1 dollar. 1 sp is 100 dollars. And 1 gp is 1000 dollars. When converting to my system it seems the gold rewards are all over the place. How would y’all advice to convert the dnd stuff to my currency? Thinking of converting the dnd stuff to a usd amount and then converting to my currency. Also a big thing is gold is exp in the world. First level needs 2000 copper (or 2 gp) to level to 2 for reference submitted by /u/Practical-Class-9033 to r/RPGdesign [link] [comments]",
+      "link": "https://www.reddit.com/r/RPGdesign/comments/1qjmusu/making_my_own_system/",
+      "author": "/u/Practical-Class-9033",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T06:17:57.682706"
     }
   ],
-  "last_updated": "2026-01-22T05:51:41.517862"
+  "last_updated": "2026-01-22T06:19:39.656796"
 }
