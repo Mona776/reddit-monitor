@@ -1,102 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qhdrzj",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "“why isn’t she responding?” The situation I am in",
-      "content": "The Vow: Vampire’s Curse submitted by /u/SensitiveKeyboard [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qhdrzj/why_isnt_she_responding_the_situation_i_am_in/",
-      "author": "/u/SensitiveKeyboard",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T19:36:59.455650"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qhdpgl",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "MIMETIC - DEMO (Prop Hunt - Hide & Seek)",
-      "content": "Hunt or be Hunted in our new generation upcoming prop hunt game ! Play the demo NOW and wishlist ! https://store.steampowered.com/app/1580020/Mimetic__Prop_hunt_hide_and_seek/ submitted by /u/ClockNotionStudio [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qhdpgl/mimetic_demo_prop_hunt_hide_seek/",
-      "author": "/u/ClockNotionStudio",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T19:36:59.455676"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qhdmkx",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Does this giant robotic hand fit into its surroundings?",
-      "content": "submitted by /u/Past-Addendum851 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qhdmkx/does_this_giant_robotic_hand_fit_into_its/",
-      "author": "/u/Past-Addendum851",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T19:36:59.455698"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qhdm6b",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "I'm making this Bomba game, but people say it's just a clone. What mechanic should I add to make it feel 100% unique?",
-      "content": "submitted by /u/Life-Heron-6533 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qhdm6b/im_making_this_bomba_game_but_people_say_its_just/",
-      "author": "/u/Life-Heron-6533",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T19:36:59.455707"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qhdvhs",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "I got a visibility boost from Steam after getting 10 reviews on Dec 23 But Steam was down most of the next day Dec 24. Is this drop off normal?",
-      "content": "Anyone have data from when they got 10 reviews and what happed after? Did the visibility reduce back down to the level before getting 10 reviews? The attached image shows the 3rd peak on Dec 23 got 1000 impressions then the next day dropped off to half that the next day which, maybe is not too bad, since Steam was down most of the day. But since then it continued to decrease. Was thinking that maybe the algorithm looked at the decline for the day that Steam was down and interpreted it as a decrease in visits and lowered its future visibility. Or maybe this is normal, since sales were very low also. I'm basically posting to see if others have the same pattern as shown here. Is this normal? or is visibility typically higher after getting the 10 reviews required for Steam to give it a review score. here a link if you need to see the context steam page submitted by /u/cuttinged [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qhdvhs/i_got_a_visibility_boost_from_steam_after_getting/",
-      "author": "/u/cuttinged",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T19:36:59.455748"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qhds00",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "General tips for making a fully 3D game",
-      "content": "I have a lot of experience with Unity, but I've only made 2D or at most 2.5D games. I've forced myself to take the next step and make a fully 3D game. Do you have any advice for me regarding post-processing, performance, and animations? I'm very ignorant about LODs. Having worked mostly in 2D, I've never really cared much about them. I'd love to get as much advice as possible to avoid making any major mistakes that could jeopardize my development. submitted by /u/SnooPets2641 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qhds00/general_tips_for_making_a_fully_3d_game/",
-      "author": "/u/SnooPets2641",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T19:36:59.455761"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qhdn2q",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "After 9 months of suffering it hit 4K wishlists. Demo is live & Offering free hugs inside",
-      "content": "submitted by /u/aente [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qhdn2q/after_9_months_of_suffering_it_hit_4k_wishlists/",
-      "author": "/u/aente",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T19:36:59.455768"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qhdz44",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Working on some explosions. What kinds of effects should I do next?",
-      "content": "I'm exoloring more one-shot styled impact vfx like explosions. What other things should I try making? Or do you think I could add something to this one? submitted by /u/binbun3 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qhdz44/working_on_some_explosions_what_kinds_of_effects/",
-      "author": "/u/binbun3",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T19:36:59.455807"
-    },
-    {
       "id": "https://www.reddit.com/r/unity/t3_1qhdlvu",
       "type": "post",
       "subreddit": "unity",
@@ -12239,7 +12143,103 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-22T05:02:01.788311"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qjm5nr",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "Dealing with rejection?",
+      "content": "Hello, I’m a recent grad trying to get into the games industry in pretty much any way I can. I just spent 2 months interviewing for a company and after 6 rounds of interviews I got a rejection. Is this normal for an entry level role? It was for a medium sized studio based in California. submitted by /u/gregraystinger [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qjm5nr/dealing_with_rejection/",
+      "author": "/u/gregraystinger",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T05:50:05.985373"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qjlxo6",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Added a shotgun that is very effective at close range.",
+      "content": "submitted by /u/alignment_zero [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qjlxo6/added_a_shotgun_that_is_very_effective_at_close/",
+      "author": "/u/alignment_zero",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T05:50:05.985396"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qjlwuf",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "I built a self-balancing ragdoll in Unity using physics + procedural animation, not sure what to do now.. thoughts?",
+      "content": "submitted by /u/Rudy_AA [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qjlwuf/i_built_a_selfbalancing_ragdoll_in_unity_using/",
+      "author": "/u/Rudy_AA",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T05:50:05.985403"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qjly58",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Custom Engine Art Pipeline",
+      "content": "Made a nice pipeline for my custom engine to pump out game art efficiently! https://youtu.be/brbSq54dGI8 submitted by /u/x8664mmx_intrin_adds [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qjly58/custom_engine_art_pipeline/",
+      "author": "/u/x8664mmx_intrin_adds",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T05:50:05.985415"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qjlxdp",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "I built a self-balancing ragdoll in Unity using physics + procedural animation, not sure what to do now.. thoughts?",
+      "content": "submitted by /u/Rudy_AA [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qjlxdp/i_built_a_selfbalancing_ragdoll_in_unity_using/",
+      "author": "/u/Rudy_AA",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T05:50:05.985422"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qjlo2k",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Yes that’s right, I made an incredible niche and free game because I like money.",
+      "content": "submitted by /u/Deklaration [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qjlo2k/yes_thats_right_i_made_an_incredible_niche_and/",
+      "author": "/u/Deklaration",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T05:50:05.985447"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qjmd8q",
+      "type": "search",
+      "subreddit": "OPBR",
+      "title": "So I guess 14 support characters is coming?",
+      "content": "I've been seeing this weird spacing, I'm guessing there gonna make it 14 support characters. So if 178% is max for rgb for 10 support characters. That adds up to 17.8% per character if 4 star boost 4. That'd push rgb to roughly 244% support on a maxed account. On light and dark elements it push it past 260% easy. I'm not sure if this is a good change since the disparity between New players and old players will be huge. It will probably make rerolling less viable since the gap is to much. Have yall seen this too? Or is my game glitching ? submitted by /u/Civil-Understanding5 to r/OPBR [link] [comments]",
+      "link": "https://www.reddit.com/r/OPBR/comments/1qjmd8q/so_i_guess_14_support_characters_is_coming/",
+      "author": "/u/Civil-Understanding5",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T05:50:05.986597"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qjm6z7",
+      "type": "search",
+      "subreddit": "gamememes",
+      "title": "which game is that,",
+      "content": "submitted by /u/PHRsharp_YouTube to r/gamememes [link] [comments]",
+      "link": "https://www.reddit.com/r/gamememes/comments/1qjm6z7/which_game_is_that/",
+      "author": "/u/PHRsharp_YouTube",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T05:50:05.986789"
     }
   ],
-  "last_updated": "2026-01-22T05:03:49.230316"
+  "last_updated": "2026-01-22T05:51:41.517862"
 }
