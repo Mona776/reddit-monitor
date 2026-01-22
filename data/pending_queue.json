@@ -1,162 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qhelch",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "New bug unlocked.. gladiator discovers the arena boundary and decides to leave",
-      "content": "Caught a fun one today. A gladiator glitches at the combat boundary and slips outside the arena entrance. Exiting and entering the arena is not a feature yet, just such a mess lol.. Calling it a day before I accidentally turn this into a morale system. submitted by /u/GladiatorCommand [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qhelch/new_bug_unlocked_gladiator_discovers_the_arena/",
-      "author": "/u/GladiatorCommand",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T20:11:52.191447"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qhedgz",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Action and Adventure-leaning Metroidvanias do better on Steam?",
-      "content": "submitted by /u/Y_F_N_A [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qhedgz/action_and_adventureleaning_metroidvanias_do/",
-      "author": "/u/Y_F_N_A",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T20:11:52.191458"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qhedba",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "You suggested it, so of course I had to add rod spinning to my Foosball Manager game",
-      "content": "This is what spin to win tactic looks like. Ball is moving unpredictably and could also go backwards while spinning. This will be introduced as a \"skill\" that a player can have in the game. Might ban this move in the higher leagues, let's see... If you are interested in the game and want to be among the first to test it, consider joining the game's discord: https://discord.gg/4sZ5BqWZQB submitted by /u/machnikl [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qhedba/you_suggested_it_so_of_course_i_had_to_add_rod/",
-      "author": "/u/machnikl",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T20:11:52.191472"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qhengi",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Why are there 3 ways to get the screen space position in a shader?",
-      "content": "I am trying to write some screen shaders and realised that there are multiple ways to get the (seemingly) same information. So to get the position of a fragment one can: Simply use VERTEX in the fragment shader COLOR.rgb = vec3(VERTEX, 0); Use FRAGCOORD.xy COLOR.rgb = vec3(FRAGCOORD.xy, 0); Get it from the vertex shader varying vec2 screen_pos; void vertex(){ screen_pos = (CANVAS_MATRIX * MODEL_MATRIX * vec4(VERTEX, 0,1.)).xy; } void fragment(){ COLOR.rgb = vec3(screen_pos,0); } Am I missing something? Seems weird to have 3 ways for the same information. I get the FRAGCOORD has some extra info but other than that, is there a reason for it or am I getting something wrong? submitted by /u/Zestyclose_Edge1027 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qhengi/why_are_there_3_ways_to_get_the_screen_space/",
-      "author": "/u/Zestyclose_Edge1027",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T20:11:52.191500"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qhezq3",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "¡Implementando el multijugador por primera vez!",
-      "content": "submitted by /u/Feisty_Hour6612 [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qhezq3/implementando_el_multijugador_por_primera_vez/",
-      "author": "/u/Feisty_Hour6612",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T20:11:52.191520"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qhekpv",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "Skating game - Daytime on a frozen lake",
-      "content": "I'm working on a little game about ice skating. what do you think, does this look appealing to you? Feedback welcome! submitted by /u/lzynjacat [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qhekpv/skating_game_daytime_on_a_frozen_lake/",
-      "author": "/u/lzynjacat",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T20:11:52.191528"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qhevwd",
-      "type": "search",
-      "subreddit": "PokemonQuestions",
-      "title": "It’s this worth anything?",
-      "content": "I just found it🤷‍♂️ submitted by /u/Spirited_Property_52 to r/PokemonQuestions [link] [comments]",
-      "link": "https://www.reddit.com/r/PokemonQuestions/comments/1qhevwd/its_this_worth_anything/",
-      "author": "/u/Spirited_Property_52",
-      "search_keyword": "AI game maker",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T20:11:52.192961"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qhf4hz",
-      "type": "search",
-      "subreddit": "kingdomcome",
-      "title": "[KCD2] Came back to play after months, RAM issue?",
-      "content": "I'm not sure if it is related to the newest DLC/updates, but no matter what I do, I cannot get the game to run. I saw a few posts that make me feel like this isn't just me. I'm not a that savvy with my PC, so if anyone has any tips on how I might fix this on my end, please share 🥹 I miss Henry. submitted by /u/BunnyHops23 to r/kingdomcome [link] [comments]",
-      "link": "https://www.reddit.com/r/kingdomcome/comments/1qhf4hz/kcd2_came_back_to_play_after_months_ram_issue/",
-      "author": "/u/BunnyHops23",
-      "search_keyword": "how to make a game",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T20:11:52.193579"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedev/t3_1qhfy55",
-      "type": "post",
-      "subreddit": "gamedev",
-      "title": "anonymity and being faceless",
-      "content": "So ive developed a game with a couple friends in uni and we have been invited to our city´s game award show. The thing is, i signed the credits of the game under an alias as i am a very reserved man and dont want my face/name associated with my gamedev identity. If we win the awards, they will ask for a group picture, videos and a speech etc, how do i keep being faceless in this situation? Thank you for reading submitted by /u/yetiic [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedev/comments/1qhfy55/anonymity_and_being_faceless/",
-      "author": "/u/yetiic",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T20:43:11.813807"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qhg27c",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Art of distruction in psycologial dramatic shooter",
-      "content": "submitted by /u/ObjectiveWilling3958 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qhg27c/art_of_distruction_in_psycologial_dramatic_shooter/",
-      "author": "/u/ObjectiveWilling3958",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T20:43:11.813947"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qhftiq",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "My game: Ravenhille: Awakened is 50% off right now!",
-      "content": "submitted by /u/Putrid_Storage_7101 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qhftiq/my_game_ravenhille_awakened_is_50_off_right_now/",
-      "author": "/u/Putrid_Storage_7101",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T20:43:11.813957"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qhfp6o",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Just launched my steam page: Turret Boy",
-      "content": "This is the store page: https://store.steampowered.com/app/4329850/Turret_Boy/ any feedback? what do you think of the game or the page? submitted by /u/unknownterritory9173 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qhfp6o/just_launched_my_steam_page_turret_boy/",
-      "author": "/u/unknownterritory9173",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T20:43:11.813967"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qhfnhq",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "My game: Ravenhille: Awakened is 50% off right now!",
-      "content": "Ravenhille is an atmospheric open world horror hunting game set in the WW2. If you wanna try it out this is the perfect time to grab a copy! Game link in the comments submitted by /u/Putrid_Storage_7101 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qhfnhq/my_game_ravenhille_awakened_is_50_off_right_now/",
-      "author": "/u/Putrid_Storage_7101",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T20:43:11.813976"
-    },
-    {
       "id": "https://www.reddit.com/r/indiegaming/t3_1qhfe0b",
       "type": "post",
       "subreddit": "indiegaming",
@@ -12191,7 +12035,79 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-01-22T06:17:57.682706"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qjneyn",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "I’m having a playtest for my game, CHROMADI. Would love if you guys tried it out, thanks!",
+      "content": "If you guys would like the try the game out, you can head over to our discord and grab the link. Thanks! https://discord.chromadi.fun submitted by /u/Kleanup-Games [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qjneyn/im_having_a_playtest_for_my_game_chromadi_would/",
+      "author": "/u/Kleanup-Games",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T06:56:48.529747"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qjn6eq",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Nano Banana Technique ka Kamaal! 🍌🚀 #Gaming",
+      "content": "submitted by /u/Physical_Law_1178 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qjn6eq/nano_banana_technique_ka_kamaal_gaming/",
+      "author": "/u/Physical_Law_1178",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T06:56:48.529759"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qjn3dz",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Is my 1 v 5 horror game concept worth working on?",
+      "content": "I had the idea for a game like Friday the 13th and Dead by Daylight where one player is the monster and the other 5 have to escape To make it more unique I want to make it less of a escape game and more of a survival game so either a timer runs out and the survivors win or the last survivor alive can do something to win I had the idea of making it to where the monster gets stronger as the players die off to make it more fun as it progresses Would this be a good first project? I’m new to game development and I wanted to make a few smaller games like this before I start working on the bigger ideas I have submitted by /u/Many-Butterscotch553 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qjn3dz/is_my_1_v_5_horror_game_concept_worth_working_on/",
+      "author": "/u/Many-Butterscotch553",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T06:56:48.529785"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qjniwy",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "I built a Spotlight-style tab switcher for Chrome (TabSpot)",
+      "content": "submitted by /u/cond_cond [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qjniwy/i_built_a_spotlightstyle_tab_switcher_for_chrome/",
+      "author": "/u/cond_cond",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T06:56:48.529801"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qjnihm",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Single line pitch for my game CHROMADI is “The Dark Souls of Candy Crush”.",
+      "content": "If you guys would like to try the game out, you can head over to our discord and grab the link. Thanks!! https://discord.chromadi.fun submitted by /u/Kleanup-Games [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qjnihm/single_line_pitch_for_my_game_chromadi_is_the/",
+      "author": "/u/Kleanup-Games",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T06:56:48.529815"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qjnmd0",
+      "type": "search",
+      "subreddit": "MakeNewFriendsHere",
+      "title": "20M | Looking to make new friends with similar interests",
+      "content": "Hey, I’m 20 and looking to make some genuine friends here. I’m really into video games, especially story-driven games, but I also enjoy multiplayer when the vibe is right. I follow cricket, listen to a lot of melodic music and spend a good amount of time watching anime. I’m also deeply into cars. I value good conversations, shared interests, and chill interactions. If you’re someone who enjoys talking about games, anime, music, sports, or cars feel free to DM submitted by /u/PRimeKc_12 to r/MakeNewFriendsHere [link] [comments]",
+      "link": "https://www.reddit.com/r/MakeNewFriendsHere/comments/1qjnmd0/20m_looking_to_make_new_friends_with_similar/",
+      "author": "/u/PRimeKc_12",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T06:56:48.530022"
     }
   ],
-  "last_updated": "2026-01-22T06:19:39.656796"
+  "last_updated": "2026-01-22T06:58:34.832551"
 }
