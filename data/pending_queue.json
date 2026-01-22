@@ -12539,7 +12539,151 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-22T16:19:36.349442"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qjzkxd",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "Marketing and AAA employment",
+      "content": "Hello ! I have been working on a personal project for a while, and I am thinking more and more about putting videos / making posts talking about the game and the process of the development. The issue : I am currently employed in a AAA game dev company, and my contract is absolutely clear about non competitive stuff etc, I do not have any rights to publish a commercial project. Does that mean that I necessarily need to put a hold of my project ? Or is the only option for me is to quit and give it a try ? Anyone here had the same issue before ? Thanks submitted by /u/_frosty____ [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qjzkxd/marketing_and_aaa_employment/",
+      "author": "/u/_frosty____",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T16:57:10.482782"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qjzef9",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "Do 2D hand-drawn animators for video games animate with fixed frame durations?",
+      "content": "I’m currently working on a 2D video game doing frame-by-frame animation. I previously worked on another project like this as well, but in both cases I was the only animator, so I haven’t really had anyone to confirm whether this is a “common” practice. I work with animations at 60 fps, but I don’t use constant fixed values like 10 fps for all animations. Instead, I created timing tables so the programmer can implement them exactly as I planned. The key point is that I assign different frame durations to the sprites, not arbitrarily, but because I can clearly see and feel the difference in motion. However, when researching online whether this is a common practice, I couldn’t really find much information beyond discussions about animating at 60 vs 30 fps. submitted by /u/_onlydrop [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qjzef9/do_2d_handdrawn_animators_for_video_games_animate/",
+      "author": "/u/_onlydrop",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T16:57:10.482818"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qjzwhf",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "AAA Is Dying - And Indie Games Are Winning",
+      "content": "A short video essay I made about the rise of indie games and their success in 2025 - would love some feedback from fellow indie fans! Cheers :D submitted by /u/IndieScoutTV [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qjzwhf/aaa_is_dying_and_indie_games_are_winning/",
+      "author": "/u/IndieScoutTV",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T16:57:10.482845"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qjzena",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Update: I shared a party games app here last year — here’s what’s new 🎉",
+      "content": "submitted by /u/Xx_Mumo_xX [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qjzena/update_i_shared_a_party_games_app_here_last_year/",
+      "author": "/u/Xx_Mumo_xX",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T16:57:10.482906"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qjzf4l",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "And there we made sounds for our mobile game.",
+      "content": "submitted by /u/Only-Professional988 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qjzf4l/and_there_we_made_sounds_for_our_mobile_game/",
+      "author": "/u/Only-Professional988",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T16:57:10.482956"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qjz1nd",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "I built a distraction-free drawing coach because I kept watching tutorials instead of actually drawing",
+      "content": "submitted by /u/Casfaber_ [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qjz1nd/i_built_a_distractionfree_drawing_coach_because_i/",
+      "author": "/u/Casfaber_",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T16:57:10.483009"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qjz9a7",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "I'm making a demo map for my multiplayer rpg - Knightborn",
+      "content": "submitted by /u/cemuka [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qjz9a7/im_making_a_demo_map_for_my_multiplayer_rpg/",
+      "author": "/u/cemuka",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T16:57:10.483048"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qjzw85",
+      "type": "search",
+      "subreddit": "musicmarketing",
+      "title": "Need a better way to engage with fans",
+      "content": "I release music regularly, but most people just stream once and disappear. I want to build a small group of fans who actually stick around and engage. I’ve tried asking for follows or pre-saves, but it feels clunky and kind of awkward. I need something that makes it easier to give extra content without it feeling spammy. Anyone figured out a good and easier way to do this? submitted by /u/Southern_Hand5113 to r/musicmarketing [link] [comments]",
+      "link": "https://www.reddit.com/r/musicmarketing/comments/1qjzw85/need_a_better_way_to_engage_with_fans/",
+      "author": "/u/Southern_Hand5113",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T16:57:10.483519"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qjzvwk",
+      "type": "search",
+      "subreddit": "ITCareerQuestions",
+      "title": "Did a college degree help move your IT career forward?",
+      "content": "This is something that I'm always thinking about in the back of my mind, so I wanted to put some feelers out and see if I could get some feedback/experience from others in this subreddit. For context, I'm in my late 30's and only have a GED. I did some community college on/off, but my work/learning ethic back then was terrible, so after 6 years of part-time, barely committing to college I just sorta gave up. However, this is not a pity post and I've been extremely fortunate in my work life. I have past experience (5 years) at a FAANG company, 5 years in a senior role at a STaaS company, and I'm currently a Cloud Engineer at an edge compute services company. The reason why I wanted to ask this is because during my time at FAANG, to promote higher than an L6 required a degree - no exceptions. Many people could make a lifelong career out of L6 and below very easily, but there was always that ceiling that I would never be able to break through. I've thought about places like WGU and their CS degree, but it's a lot of time/money/effort to commit and I really want to ensure I'll be able to make use of it. So, people of IT - What has your career path been like with/without a college degree? Has anyone actually started their career without out, go for one, then find a difference in their careers? submitted by /u/Karmuhhhh to r/ITCareerQuestions [link] [comments]",
+      "link": "https://www.reddit.com/r/ITCareerQuestions/comments/1qjzvwk/did_a_college_degree_help_move_your_it_career/",
+      "author": "/u/Karmuhhhh",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T16:57:10.483753"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qjzkxd",
+      "type": "search",
+      "subreddit": "gamedev",
+      "title": "Marketing and AAA employment",
+      "content": "Hello ! I have been working on a personal project for a while, and I am thinking more and more about putting videos / making posts talking about the game and the process of the development. The issue : I am currently employed in a AAA game dev company, and my contract is absolutely clear about non competitive stuff etc, I do not have any rights to publish a commercial project. Does that mean that I necessarily need to put a hold of my project ? Or is the only option for me is to quit and give it a try ? Anyone here had the same issue before ? Thanks submitted by /u/_frosty____ to r/gamedev [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qjzkxd/marketing_and_aaa_employment/",
+      "author": "/u/_frosty____",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T16:57:10.484975"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qjztki",
+      "type": "search",
+      "subreddit": "PrinceOfPersia",
+      "title": "Should we start making some noise?",
+      "content": "guys. its officially over. but as other people i dont want to loose hope and back down from playing one of my favorite all time games. i would at least want for ubisoft to port/ emulate the game for modern consoles. the trilogy already has a hd port for the ps3 but its impossible to play on ps4. how dificult would it be not to remake jut just to make new textures, smooth models and upscale the game to play in 4k 60fps on the ps5. all 5 prince of persia games plus the old games (1, 2 and 3d) cant be played on modern playstation devices. i dont meed a remake, i dont need new weapons, new mechanics and new shit. i just want the old ps2 game running on my ps4. i want to make some noise ans actually force them to restart development. a ps5 port would cost them close to nothing while possibly generating hundreds submitted by /u/_Cake_assassin_ to r/PrinceOfPersia [link] [comments]",
+      "link": "https://www.reddit.com/r/PrinceOfPersia/comments/1qjztki/should_we_start_making_some_noise/",
+      "author": "/u/_Cake_assassin_",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T16:57:10.485200"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qjzsql",
+      "type": "search",
+      "subreddit": "fo76",
+      "title": "Mods? Am I just that unlucky?",
+      "content": "So I've played this game since release and I've got a dame good handle on the game. But ever since they changed mods to be craftable I've kinda lost my mark. I know that breaking down legendary weapons and mods has a chance to give you the plans to build them. However, I've literally been scrapping every legendary I don't want to keep from the moment they made the change, and I've unlocked around 6 mods. Am I just that unlucky? I've probably scrapped hundreds, if not thousands, of legendary items since the change, but only unlocked a tiny amount of plans and rarely had physical mods drop from scrapping. If this is the way it's supposed to be, so be it. But if so how am I ever supposed to collect the mods I want to make specific builds work the best? submitted by /u/broodingchao5 to r/fo76 [link] [comments]",
+      "link": "https://www.reddit.com/r/fo76/comments/1qjzsql/mods_am_i_just_that_unlucky/",
+      "author": "/u/broodingchao5",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T16:57:10.485217"
     }
   ],
-  "last_updated": "2026-01-22T16:21:05.465683"
+  "last_updated": "2026-01-22T16:58:36.476223"
 }
