@@ -1,30 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/t3_1qjsw9t",
-      "type": "search",
-      "subreddit": "blackdesertonline",
-      "title": "NewPlayer Looking to Become a Lifeskiller – Need Advice Before I Waste Time & Energy!",
-      "content": "Hi guys, I just started the game and recently finished the Kamasylvia main quest. I’m interested in becoming a life skill player, and I’d really appreciate some advice from experienced lifeskillers. .What are the best ways to increase Energy early on? •How can a new player make silver through life skills? •Do I need many alt characters for energy or life skills? •Any general tips or mistakes to avoid for someone starting life skills? Thanks in advance for your help submitted by /u/Potential-Pirate-418 to r/blackdesertonline [link] [comments]",
-      "link": "https://www.reddit.com/r/blackdesertonline/comments/1qjsw9t/newplayer_looking_to_become_a_lifeskiller_need/",
-      "author": "/u/Potential-Pirate-418",
-      "search_keyword": "how to make a game",
-      "relevance_score": 1,
-      "added_at": "2026-01-22T12:22:35.628185"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qhod6a",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Get array values in dictionary?",
-      "content": "Hey, dumb question. I had created a dictionary that keeps track of all the items the player picked up, with stats being held within arrays in the dictionary. They hold the item name, damage it does and an icon associated with the item. I am trying to display this icon within a UI element. However, when I try to access the texture, I can get the array but not the items in it. Here's my code: panel / itemPanel.gd (UI node i want to hold the image in): extends Panel var item: TextureRect = $aspRect/color/item var player: CharacterBody3D = $\"../player\" const FL_STUDIO = preload(\"uid://cky184lm61gh3\") @export var itemSlot: int # Called every frame. 'delta' is the elapsed time since the previous frame. func _process(delta: float) -> void: if player: item.texture = FL_STUDIO print(player.heldItems.values().get(itemSlot)) body / body.gd (AreaBody2D, child of a parent node, iconName and iconTxtr are vars within a script in the parent node): extends Area3D var parent: Node3D = $\"..\" @onready var mesh: MeshInstance3D = $\"../mesh\" func _on_body_entered(body: Node3D) -> void: if body.heldItems.size() < body.maxItems: var items = body.heldItems var itemStats: Array = [parent.itemName, parent.changeHealth, parent.iconTxtr] items[items.size()] = itemStats parent.queue_free() else: print(\"inventory full!\") Right now this accesses the array I need within the dictionary, but I can't actually get the values out of the arrays. I had attempted to look up the answer but had found no solution. Whenever I try to access the values in the array, I get error message \"Invalid access to property or key 'itemSlot' on a base object of type 'Dictionary[int, Array]'.\" It appears the error is on line 14 of itemPanel.gd. Any help is appreciated! submitted by /u/catdogdnky [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qhod6a/get_array_values_in_dictionary/",
-      "author": "/u/catdogdnky",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T02:54:48.614538"
-    },
-    {
       "id": "https://www.reddit.com/r/godot/t3_1qho6yg",
       "type": "post",
       "subreddit": "godot",
@@ -11855,7 +11831,199 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-22T12:22:35.627779"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qjtbn5",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "While base prices do, are on-sale prices also affecting the value perception of games?",
+      "content": "Would a 0.99$ price on sale be perceived as a worse quality game than a 2.99$ price on sale even with the same base price? Are deep sales a red flag? The Steam algorithm seems to push lower % higher price sales into discovery queue more as well... a fluke or not? submitted by /u/Anodaxia_Gamedevs [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qjtbn5/while_base_prices_do_are_onsale_prices_also/",
+      "author": "/u/Anodaxia_Gamedevs",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T13:24:38.193379"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qjudbg",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Lostade, an arcade style Diablo-like but with Endless and exponential Endgame scaling. Do you like the Idea ?",
+      "content": "The idea is to use Endless \"roguelites\" mechanics such as restarting the game over and over, but without losing progression, in an endless and exponential way: with new content, lore, enemies, quests, maps, and random events after each restarts (upon killing the last boss), mixed with a mysterious story in a retro arcade-style world. + Parts-based crafting. You can play Lostade demo on steam / wishlist if you like the idea. Made by POE fans ;] submitted by /u/Nuphar_Studio [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qjudbg/lostade_an_arcade_style_diablolike_but_with/",
+      "author": "/u/Nuphar_Studio",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T13:24:38.193395"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qju26g",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Finally got stealth working in my open-world American Frontier RPG",
+      "content": "--- submitted by /u/VedoTr [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qju26g/finally_got_stealth_working_in_my_openworld/",
+      "author": "/u/VedoTr",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T13:24:38.193415"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qjtn2v",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Donde puedo publicitar y dar a conocer mi beta?",
+      "content": "hola! actualemnte yo y un pequeño equipo estamos produciendo una beta de un juego q queremos dar a conocer nuestro trabajo. pero ni idea de donde puedo publicitarlo o concursos donde se pueda presentar betas en españa submitted by /u/neobanex [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qjtn2v/donde_puedo_publicitar_y_dar_a_conocer_mi_beta/",
+      "author": "/u/neobanex",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T13:24:38.193428"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qjt8g5",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "my dice-deck-building roguelike is growing out of control. Too little dice, too many things to use them",
+      "content": "the name of the game is Die or Die submitted by /u/oluwagembi [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qjt8g5/my_dicedeckbuilding_roguelike_is_growing_out_of/",
+      "author": "/u/oluwagembi",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T13:24:38.193447"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qjt640",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Here’s what 2 years of game development looks like in 40 seconds",
+      "content": "submitted by /u/theferfactor [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qjt640/heres_what_2_years_of_game_development_looks_like/",
+      "author": "/u/theferfactor",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T13:24:38.193456"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qjt9ad",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Here’s what 2 years of game development looks like in 40 seconds",
+      "content": "submitted by /u/theferfactor [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qjt9ad/heres_what_2_years_of_game_development_looks_like/",
+      "author": "/u/theferfactor",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T13:24:38.193506"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qjt8rv",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "my dice-deck-building roguelike is growing out of control. Too little dice, too many things to use them",
+      "content": "the name of the game is Die or Die submitted by /u/oluwagembi [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qjt8rv/my_dicedeckbuilding_roguelike_is_growing_out_of/",
+      "author": "/u/oluwagembi",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T13:24:38.193513"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qjubfl",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "My game “AxeSlinger”",
+      "content": "This is my first godot project!! AxeSlinger is an FPS roguelike where you fight your way through demon infested dungeons with guitar weapons. Shoot, loot and upgrade your stats until you’re an unstoppable axe-slinging machine! submitted by /u/ComplexAd7455 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qjubfl/my_game_axeslinger/",
+      "author": "/u/ComplexAd7455",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T13:24:38.193536"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qju5jh",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Is there a way to bypass the UNSAFE_METHOD_ACCESS debbuger warning?",
+      "content": "This is my code, it's part of a pool. Currently I only use it for Node3Ds but I want to use it for Node2Ds too. var node: Node if node.has_method(\"show\"): node.show() I know I can disable the warning in the project settings, but I don't want to disable it entirely. I figured, maybe there's something like the underscore in front of parameters, that let's the compiler know to ignore it. Or is the only solution to cast the node to Node2D and 3D? submitted by /u/ab_plus_ [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qju5jh/is_there_a_way_to_bypass_the_unsafe_method_access/",
+      "author": "/u/ab_plus_",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T13:24:38.193558"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qju3a8",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Invalid call. Nonexistent function 'get_item_by_position' in base 'Nil'.",
+      "content": "So in my game I have turn based combat encounters and during a battle there is an option to open a menu and use an item from the menu on one of the party members. I have run into a problem where when I open the inventory and use an item (inventory automatically closes after using an item) and then open the inventory for the second time, the game crashes and I get the error: Invalid call. Nonexistent function 'get_item_by_position' in base 'Nil'. Here is the code for the inventory menu: https://preview.redd.it/jc2nzp0zfweg1.png?width=1324&format=png&auto=webp&s=6d3100c7fa70359f8a8fd835e033d7d03eb8216e and here is the part of the code for the battle system: https://preview.redd.it/blexfnexfweg1.png?width=1283&format=png&auto=webp&s=4847ea9498fca32e0874a7f214d8d3f5e8c46ef7 submitted by /u/Hal_Ember [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qju3a8/invalid_call_nonexistent_function_get_item_by/",
+      "author": "/u/Hal_Ember",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T13:24:38.193578"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qjt9si",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "my dice-deck-building roguelike is growing out of control. Too little dice, too many things to use t",
+      "content": "the name of the game is Die or Die submitted by /u/oluwagembi [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qjt9si/my_dicedeckbuilding_roguelike_is_growing_out_of/",
+      "author": "/u/oluwagembi",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T13:24:38.193592"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qjtyzs",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Finally got stealth working in my open-world American Frontier RPG",
+      "content": "___ submitted by /u/VedoTr [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qjtyzs/finally_got_stealth_working_in_my_openworld/",
+      "author": "/u/VedoTr",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T13:24:38.193601"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qjtv54",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "For anyone else who received feedback that your game is underpriced, did a price increase result in any backlash?",
+      "content": "And not from the Steam algorithm, which prefers higher prices anyways. From the players Direct surveys seem to receive it well, but not everyone can be surveyed submitted by /u/Anodaxia_Gamedevs [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qjtv54/for_anyone_else_who_received_feedback_that_your/",
+      "author": "/u/Anodaxia_Gamedevs",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T13:24:38.193610"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qjt4za",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "My game is... is this real??",
+      "content": "That’s my game! It doesn’t seem to show up in everyone’s New & Trending section, but honestly, launching a game is an experience I can’t put into words. Take this as motivation, launch your game one day if you haven’t already. The mix of excitement, anxiety, pride, and “is this actually real?” hits all at once. After 4 years in development, Gem Miner TD is finally out on Steam. The biggest moment? My game was released two hours late because of Steam build review issues, but still, there were 30 players instantly hitting F5 to buy it and play, with no idea exactly when it would go live. That feeling is something else. Steam page: https://store.steampowered.com/app/2835780/Gem_Miner_TD/ submitted by /u/iFeral [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qjt4za/my_game_is_is_this_real/",
+      "author": "/u/iFeral",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T13:24:38.193633"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qjudbg",
+      "type": "search",
+      "subreddit": "IndieGaming",
+      "title": "Lostade, an arcade style Diablo-like but with Endless and exponential Endgame scaling. Do you like the Idea ?",
+      "content": "The idea is to use Endless \"roguelites\" mechanics such as restarting the game over and over, but without losing progression, in an endless and exponential way: with new content, lore, enemies, quests, maps, and random events after each restarts (upon killing the last boss), mixed with a mysterious story in a retro arcade-style world. + Parts-based crafting. You can play Lostade demo on steam / wishlist if you like the idea. Made by POE fans ;] submitted by /u/Nuphar_Studio to r/IndieGaming [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qjudbg/lostade_an_arcade_style_diablolike_but_with/",
+      "author": "/u/Nuphar_Studio",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T13:24:38.194433"
     }
   ],
-  "last_updated": "2026-01-22T12:24:26.780462"
+  "last_updated": "2026-01-22T13:26:22.370008"
 }
