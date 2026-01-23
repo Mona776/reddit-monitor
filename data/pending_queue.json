@@ -1,54 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qifold",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "First look at the Steam capsule art for my solo-dev horror game inspired by real UFO encounters from the 1950s",
-      "content": "submitted by /u/johnny3674 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qifold/first_look_at_the_steam_capsule_art_for_my/",
-      "author": "/u/johnny3674",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T22:41:14.146338"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qifqrz",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "WIP: Making a synth to teach audio fundamentals to my students.",
-      "content": "https://ssilenuss.github.io/4D_Synth/ submitted by /u/x_minus [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qifqrz/wip_making_a_synth_to_teach_audio_fundamentals_to/",
-      "author": "/u/x_minus",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T22:41:14.146346"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qifogy",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "What if we kissed in the forest of a dead god?",
-      "content": "Two person studio; slowly but surely, replacing the placeholders I got off itch with proprietary art! The battle scene taking place is one of the many locations in our upcoming match-3 roguelite. Working on replacing the tileboard, runes, and the desk the board sits on. Just to have something \"visually our own\" while we continue development. Narratively, you play a Runecaster , scrying into the scenes of battle, using rune-casting and divination to alter the fate of your chosen champion, as they traverse the perilous island of Helgistat. Mechanically, its heavily inspired by games like Slay the Spire, Cloverpit, and the Match-3 genre. Still in early development and prototyping. Developed in Godot. submitted by /u/Salt_Punk [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qifogy/what_if_we_kissed_in_the_forest_of_a_dead_god/",
-      "author": "/u/Salt_Punk",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T22:41:14.146364"
-    },
-    {
-      "id": "https://www.reddit.com/r/unrealengine/t3_1qifi7s",
-      "type": "post",
-      "subreddit": "unrealengine",
-      "title": "In the movie Free Guy(2021), they used Unreal Engine 4 to develop the game.",
-      "content": "submitted by /u/mothh9 [link] [comments]",
-      "link": "https://www.reddit.com/r/unrealengine/comments/1qifi7s/in_the_movie_free_guy2021_they_used_unreal_engine/",
-      "author": "/u/mothh9",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T22:41:14.146373"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qig1fv",
       "type": "search",
       "subreddit": "macgaming",
@@ -14903,7 +14855,79 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-23T19:16:01.446366"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1ql0mwq",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Devlog: Black Box: First Contact",
+      "content": "submitted by /u/iAutonomic [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1ql0mwq/devlog_black_box_first_contact/",
+      "author": "/u/iAutonomic",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T19:38:54.485910"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1ql0auu",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "With more than 14 million views of silly Ragdoll Videos on my You Tube channel, we decided to make a game and called it Ragdoll Physics Experiments!! One year later we have a demo 🎮🎮😎😎",
+      "content": "Imagine Garry’s Mod, meets The Stanley Parable set in the aperture science labs 😎😎 RMF’s Ragdoll Physics Experiments, a physics sandbox comedy set inside a sprawling research facility held together by warning signs, far too many doors, and a voice that judges every decision you make. submitted by /u/GiraffeHeadStudios [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1ql0auu/with_more_than_14_million_views_of_silly_ragdoll/",
+      "author": "/u/GiraffeHeadStudios",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T19:38:54.485931"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1ql09wq",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Last month I got the sudden urge to use my free will to make a roguelike 3D Mario clone with guns",
+      "content": "submitted by /u/SexySlowLoris [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1ql09wq/last_month_i_got_the_sudden_urge_to_use_my_free/",
+      "author": "/u/SexySlowLoris",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T19:38:54.485940"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1ql0nkr",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Copying to clipboard on HTML5 in Godot 4.5.1",
+      "content": "Hello, I am currently working on a small project and tried to implement a copy text feature on my Label node, it works 100% fine on desktop versions via .exe, but on the browser HTML5 the clipboard doesn't get the copied text, are there any way to fix this issue? submitted by /u/Lunyaru [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1ql0nkr/copying_to_clipboard_on_html5_in_godot_451/",
+      "author": "/u/Lunyaru",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T19:38:54.485951"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1ql06ge",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Last month I got this sudden urge to use my free will to make a roguelike 3D Mario with guns",
+      "content": "submitted by /u/SexySlowLoris [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1ql06ge/last_month_i_got_this_sudden_urge_to_use_my_free/",
+      "author": "/u/SexySlowLoris",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T19:38:54.485995"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1ql0arp",
+      "type": "search",
+      "subreddit": "linux_gaming",
+      "title": "Is Exodia Os good for gaming?",
+      "content": "I was using popos but the latest cosmic update broke it for me. I really like the Exodia's UI. My primary use cases are gaming and programming (usually app and website dev) plus studying. Is exodia a good option? What performance can i expect in games and will it be easy to setup for gaming? submitted by /u/Custard214 to r/linux_gaming [link] [comments]",
+      "link": "https://www.reddit.com/r/linux_gaming/comments/1ql0arp/is_exodia_os_good_for_gaming/",
+      "author": "/u/Custard214",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T19:38:54.486976"
     }
   ],
-  "last_updated": "2026-01-23T19:17:38.432253"
+  "last_updated": "2026-01-23T19:40:30.193256"
 }
