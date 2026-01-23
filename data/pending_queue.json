@@ -1,78 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/t3_1qi71f3",
-      "type": "search",
-      "subreddit": "razer",
-      "title": "Razer audio drivers for linux?",
-      "content": "I am using a Razer Blackshark V2 pro 2023 edition. I just moved over to Bazzite from Windows, but it seems Razer Synapse is Windows only.. :/ Without the drivers the audio is HORRENDOUS and the headset is literally unusable. Any way to make it sound good on linux? submitted by /u/MattiTheGamer to r/razer [link] [comments]",
-      "link": "https://www.reddit.com/r/razer/comments/1qi71f3/razer_audio_drivers_for_linux/",
-      "author": "/u/MattiTheGamer",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T17:21:31.576573"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qi711c",
-      "type": "search",
-      "subreddit": "MobileGaming",
-      "title": "What game(s) do have on your phone that are no longer in the app/play store?",
-      "content": "I’ll go first ~Sketch was the old Sony art social media they abandoned ~ and the other 2 are RPG maker horror games Hideandseek was THE game that got me into RPG maker horror games I’m happy I didn’t lose it but bummed others can’t play (at least on iPhone idk about android). It’s crazy a game that good was free submitted by /u/JunjiItoColaBear to r/MobileGaming [link] [comments]",
-      "link": "https://www.reddit.com/r/MobileGaming/comments/1qi711c/what_games_do_have_on_your_phone_that_are_no/",
-      "author": "/u/JunjiItoColaBear",
-      "search_keyword": "AI game maker",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T17:21:31.576719"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qi71kc",
-      "type": "search",
-      "subreddit": "Dragon_Traveler",
-      "title": "EU players how do you feel about this?",
-      "content": "Guild auction open time i mean. Since game doesnt have dedicated EU servers, for us eu folks on US servers it opens very late at night (4am for me for example). There are some rly good items i would like to buy but there is no way in hell i am sacrificing my precious sleep for this so i'll just pretend it doesnt exist. Shame tbh, hope devs do something about this since we are forced to play on US servers submitted by /u/Monkguan to r/Dragon_Traveler [link] [comments]",
-      "link": "https://www.reddit.com/r/Dragon_Traveler/comments/1qi71kc/eu_players_how_do_you_feel_about_this/",
-      "author": "/u/Monkguan",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T17:21:31.576909"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qi6xux",
-      "type": "search",
-      "subreddit": "superautopets",
-      "title": "Day 559 of creating Shiny Pets until the devs add Shiny Pets to the game:",
-      "content": "submitted by /u/Mimikyew to r/superautopets [link] [comments]",
-      "link": "https://www.reddit.com/r/superautopets/comments/1qi6xux/day_559_of_creating_shiny_pets_until_the_devs_add/",
-      "author": "/u/Mimikyew",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T17:21:31.576915"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qi6l1g",
-      "type": "search",
-      "subreddit": "unity",
-      "title": "unity serialization error",
-      "content": "hi fellow devs, i have been having this issue with both unity games i play (tarkov and rust) and wondered if any of you might be able to crack the code. here is the error logs from tarkov and event viewer. https://preview.redd.it/4dgcntd0cjeg1.png?width=705&format=png&auto=webp&s=499fb1756e8d03c1d8158bbd851b459a6c328524 https://preview.redd.it/0xr1oz11cjeg1.png?width=720&format=png&auto=webp&s=1291b4404f06ff2718d62cf43fd07e48b3c9fb35 https://preview.redd.it/ty97b6w1cjeg1.png?width=720&format=png&auto=webp&s=f80169fec1525130e43e853fc9016570360aeb1d we have tried all basic fixes. and replaced all hardware. any ideas please shoot them as i am loosing my marbles submitted by /u/Many-Surround9219 to r/unity [link] [comments]",
-      "link": "https://www.reddit.com/r/unity/comments/1qi6l1g/unity_serialization_error/",
-      "author": "/u/Many-Surround9219",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T17:21:31.577085"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qi7t0p",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "proof of a concept i made in 2 hrs",
-      "content": "does it look like a something thats trying to escape a game submitted by /u/sadishguy [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qi7t0p/proof_of_a_concept_i_made_in_2_hrs/",
-      "author": "/u/sadishguy",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T17:51:03.665110"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qi7mf1",
       "type": "search",
       "subreddit": "Rematch",
@@ -13811,7 +13739,43 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-23T10:13:34.821138"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qknjks",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "The Loss of Meaningful Progression in Games",
+      "content": "In recent times, aside from AAA games, what do you think are the common shortcomings seen in both mobile and PC games? I don’t feel that games have the same charm they used to. Their progression systems mostly resemble idle games, becoming exponentially harder and often feeling like repetitive or endless loops without a clear purpose. I also don’t feel like I’ve accomplished or progressed anything. Am I the only one who feels this way? submitted by /u/einhd [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qknjks/the_loss_of_meaningful_progression_in_games/",
+      "author": "/u/einhd",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T10:48:15.067605"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qkna1e",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "I finally finished implementing an EMF Scanner into my Horror Game",
+      "content": "let me know what you guys think of the design. submitted by /u/VinBorch [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qkna1e/i_finally_finished_implementing_an_emf_scanner/",
+      "author": "/u/VinBorch",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T10:48:15.067703"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qknc4i",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "When changing active camera, its transform is off by a little bit for the first frame?",
+      "content": "When I change the active camera in Godot, this thing happens. I don't understand what is causing this, since nothing should be changing the new camera's transform afterwards. Code posted into the comments. submitted by /u/SanttuPOIKA---- [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qknc4i/when_changing_active_camera_its_transform_is_off/",
+      "author": "/u/SanttuPOIKA----",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T10:48:15.067777"
     }
   ],
-  "last_updated": "2026-01-23T10:15:20.293600"
+  "last_updated": "2026-01-23T10:49:52.897348"
 }
