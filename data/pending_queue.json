@@ -1,114 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/unrealengine/t3_1qhyylr",
-      "type": "post",
-      "subreddit": "unrealengine",
-      "title": "5.7 changed FBX import? No longer creates a blueprint?",
-      "content": "I'm using Pixotope ( www.pixotope.com ) so this might be different from the official Unreal Engine version, and that is why I'm also asking... After they updated the Pixotope version to use UE 5.7 the \"Import into level\" has changed drastically compared to earlier versions for me. I'm just wondering how I import an FBX scene into Unreal now and create a blueprint class out of it. When I do it now, it just adds all the elements to the scene itself and no longer makes a blueprint for me. submitted by /u/Wareitar [link] [comments]",
-      "link": "https://www.reddit.com/r/unrealengine/comments/1qhyylr/57_changed_fbx_import_no_longer_creates_a/",
-      "author": "/u/Wareitar",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T12:21:57.255794"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qhzg5m",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "What needs \"polish\"?",
-      "content": "Hi all - I plan to release my new game The Comeback King in March, after the Steam Next Fest (which starts next month). I read a lot about indie game polish and have done everything I think I need to give the game as good a chance as possible. But I bet I've missed a lot... If you have a few minutes, please let me know how you think I can maximise my chances of making a good impression with the game, both on the Steam page and in the demo? https://preview.redd.it/fqzvqprjwheg1.png?width=2880&format=png&auto=webp&s=96cfc986d677ae8cd4960d8751fb326fa086d05c I can't promise to action every suggestion but all ideas are welcome. Thanks. https://store.steampowered.com/app/3833230/The_Comeback_King/ submitted by /u/TVCruelty [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qhzg5m/what_needs_polish/",
-      "author": "/u/TVCruelty",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T12:21:57.255812"
-    },
-    {
-      "id": "https://www.reddit.com/t5_2rb2y",
-      "type": "search",
-      "subreddit": "coding",
-      "title": "coding",
-      "content": "Fuck /u/spez. [link]",
-      "link": "https://www.reddit.com/r/coding/",
-      "author": "/u/tty2",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T12:21:57.256027"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qhzn34",
-      "type": "search",
-      "subreddit": "MinecraftServer",
-      "title": "I want to know about SquidServer",
-      "content": "I am new in minecraft and i got some friends to play minecraft with. So, I tried free hosting from Aternos and the experience was not so good. Now I found Squid Server Hosting, they hosts server from my PC without Port forwarding. So, how do they actually do it? and, Is it possible to share the Files and host from two different pc? Like, Imagine im hosting the game from my pc, but, for some reason, i am not being able to turn on my pc, then, one of my friend can host the same server from their pc but sharing the same progress file. Thanks in advanced. submitted by /u/tasin_exe to r/MinecraftServer [link] [comments]",
-      "link": "https://www.reddit.com/r/MinecraftServer/comments/1qhzn34/i_want_to_know_about_squidserver/",
-      "author": "/u/tasin_exe",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T12:21:57.256042"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qhzmt7",
-      "type": "search",
-      "subreddit": "Crushes",
-      "title": "How do i bring up my feelings without ruining things?",
-      "content": "I like someone i’m already friends with and i don’t want to make everything weird. is there a way to tell them i like them without risking our friendship completely? submitted by /u/Shawn_Ariana-101 to r/Crushes [link] [comments]",
-      "link": "https://www.reddit.com/r/Crushes/comments/1qhzmt7/how_do_i_bring_up_my_feelings_without_ruining/",
-      "author": "/u/Shawn_Ariana-101",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T12:21:57.256322"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qhzh6q",
-      "type": "search",
-      "subreddit": "tipofmyjoystick",
-      "title": "[PC][2010-2018] Anyone else played this creature maker girlsgogames game before?",
-      "content": "I'm trying to find this game for a bit. I know that it was on the website Girlsgogames.com during the years of 2010-2018, as that's when I played it. The games plot was about this kid who wanted to make a creature to terrorize his sister by combining things into a cauldron or something. To win was to make the creature the kid thought about, but it was hard to do so when I played it since every combination of ingredients made a creature that usually got bullied by the sister. Does anyone else remember or know of the game? submitted by /u/TvClaw to r/tipofmyjoystick [link] [comments]",
-      "link": "https://www.reddit.com/r/tipofmyjoystick/comments/1qhzh6q/pc20102018_anyone_else_played_this_creature_maker/",
-      "author": "/u/TvClaw",
-      "search_keyword": "AI game maker",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T12:21:57.256647"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qhzf4i",
-      "type": "search",
-      "subreddit": "Totaldrama",
-      "title": "got some production tea from terry :D",
-      "content": "submitted by /u/Brachy08_Scratch to r/Totaldrama [link] [comments]",
-      "link": "https://www.reddit.com/r/Totaldrama/comments/1qhzf4i/got_some_production_tea_from_terry_d/",
-      "author": "/u/Brachy08_Scratch",
-      "search_keyword": "AI game maker",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T12:21:57.256653"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qhzgrc",
-      "type": "search",
-      "subreddit": "gamedev",
-      "title": "I'm making a Cyberpunk RPG, Free Demo",
-      "content": "Game Title: Beta 3000 Demo Playable Link: https://store.steampowered.com/app/4016650/Beta_3000_Demo/ Platform: PC Windows Description: Retro Cyberpunk Action RPG. Party System up to 3 members, real time combat and semi open world. Solve puzzles, fight enemies and complete NPC quests. Free to Play Status: Free to play Demo Involvement: Solo Dev Feed back welcome! submitted by /u/Redsam121 to r/gamedev [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedev/comments/1qhzgrc/im_making_a_cyberpunk_rpg_free_demo/",
-      "author": "/u/Redsam121",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T12:21:57.256714"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qhzmqp",
-      "type": "search",
-      "subreddit": "PokemonGaming",
-      "title": "I want to be able to play as many of the games as I can in a way my save will be legit",
-      "content": "Never was able to play Pokemon as a kid. Didn’t own Nintendo or anything. So I’m wanting to see what there is to play the old stuff I don’t care about emulators or not. I only care that I can legit get my save into the Pokemon home thing so I can collect all the Pokemon I played emerald on an emulator, and I liked it So I bought a used switch and am enjoying diamond and I am 99% sure I will like arceus So I wanna make sure I’m understanding basically what id need to do, given the legacy stuff is so old Gen 1-3=-gameboy or DS with the game boy slot Gen 4-7 = 3ds 8+ = switch But it seems there’s event stuff from the past that I can’t get the Pokemon from. So are there any/many of gen 1-3 that are not in 4-7. - unsure, but I’m least interested in these as they’re old asf and seemingly poor QOL And are there any in 4-7 that can’t be gotten on switch - pretty sure there are ones I’d miss cause there’s lots of games in this era. But not sure how many. The DS was huuuge when I was a kid. And I missed out so. Wanna see what there is to see. I know I can trade and such. But, idk if I’m looking at 20-30 trades or like 100-150 that can’t be gotten at all thru the switch I also have Pokemon go. But live in the middle of nowhere so it’s a tad harder to rely on Thanks yall. submitted by /u/the_drifter6 to r/PokemonGaming [link] [comments]",
-      "link": "https://www.reddit.com/r/PokemonGaming/comments/1qhzmqp/i_want_to_be_able_to_play_as_many_of_the_games_as/",
-      "author": "/u/the_drifter6",
-      "search_keyword": "how to make a game",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T12:21:57.256814"
-    },
-    {
       "id": "https://www.reddit.com/r/gamedev/t3_1qi0jq9",
       "type": "post",
       "subreddit": "gamedev",
@@ -14243,7 +14135,43 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-23T05:48:20.050516"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qkiqu8",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Parade Day",
+      "content": "An end of demo scene in my dystopian game submitted by /u/MindTheGreaseGames [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qkiqu8/parade_day/",
+      "author": "/u/MindTheGreaseGames",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T06:17:42.498055"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qkj86j",
+      "type": "search",
+      "subreddit": "hytale",
+      "title": "Just lost all my essence of life - is there a command to fix this?",
+      "content": "I've got a world going that I've been on for a few days now. I've got a moderately sized farm going, and I've been racking up essence of life over time by planting purely turnips as they're one of the best plants I can grow right now given the tier of my farmer's workbench. I was planning on then breaking down all those hundreds of turnips I've built up over the last few days into even more essence of life, so I could make some eternal seeds for other plants. I built up a bit over 2,200 EoL and it took a while, considering the length of one in-game day. I wanted to primarily grow wheat, and I didn't have enough wheat to make the amount of eternal seeds needed, so I decided to make some standard wheat seed bags to grow more. Issue is, I must've \"fat moused\" (if that's a term) and accidentally hit ALL, rather than making them in smaller, appropriate amounts. So, just like that, I lost every damn bit of my EoL that I built up, and I have a bunch of useless seed bags that I don't need. Is there a command I could use to give myself back 2,200 EoL or am I just kind of screwed here? I tried looking it up first but the command I'm seeing online isn't working for whatever reason. Really bummed out about this. submitted by /u/scrolls1212 to r/hytale [link] [comments]",
+      "link": "https://www.reddit.com/r/hytale/comments/1qkj86j/just_lost_all_my_essence_of_life_is_there_a/",
+      "author": "/u/scrolls1212",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T06:17:42.499578"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qkj6gq",
+      "type": "search",
+      "subreddit": "bored",
+      "title": "36M Bored",
+      "content": "pick a # submitted by /u/UsefulSurprise2859 to r/bored [link] [comments]",
+      "link": "https://www.reddit.com/r/bored/comments/1qkj6gq/36m_bored/",
+      "author": "/u/UsefulSurprise2859",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T06:17:42.500148"
     }
   ],
-  "last_updated": "2026-01-23T05:50:19.675686"
+  "last_updated": "2026-01-23T06:19:45.516811"
 }
