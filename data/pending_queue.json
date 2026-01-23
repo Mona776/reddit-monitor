@@ -1,90 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/t3_1ql295m",
-      "type": "search",
-      "subreddit": "Rainbow6",
-      "title": "Teammates dont “suck” they are losing on purpose!",
-      "content": "Theres a bunch of post in here saying that the matchmaking isn’t making any sense and that their teammates always suck. It’s not even just reddit you can look at big creators like varsity gaming and they are saying the same thing about solo Queue. At this point after hours of watching match replays and watching how my teammates die, it just can’t be a coincidence anymore. Multiple games where I have adapted and tried to play around the fact that my team is throwing and in OT I will get team killed in spawn. Also during those same games, when I pick an opp that helps us win, the next round they will auto pick that opp then either go afk, or run in and die without even doing what the opp is supposed to do (example: picking thermite and not even trying to breach the main wall) I suspect that a lot of these accounts were previously cheating and once Ubi updated the anti cheat, these accounts just decided to throw for the Rest of the season. multiple times where after a game I pull up the tracker, and see the guy who looks like he never played an FPS before, was emerald last season with a positive KD. I get having bad days, but there has been a wave “Bad days” that is just inexplainable. I also think a few games I’ve played where one user Is controlling multiple Players in the game, and/or has a friend on the other team and they are feeding each other info and kills. either Two pcs or a pc and console. I have seen multiple post in this Reddit about how not only matchmaking taking forever, but also post saying “my friend queue sniped me”. Honestly it is not that hard to count down for 3 and press a button at the same time as someone else, and because matchmaking is taking so long, it wouldn’t surprise me if it was just throwing anyone in the game no matter what rank they are. its Pretty common that someone complains in here about how they are diamond and their teammates are silver lol. TLDR: something is up with siege and it’s bigger than the matchmaking submitted by /u/Far_Understanding272 to r/Rainbow6 [link] [comments]",
-      "link": "https://www.reddit.com/r/Rainbow6/comments/1ql295m/teammates_dont_suck_they_are_losing_on_purpose/",
-      "author": "/u/Far_Understanding272",
-      "search_keyword": "how to make a game",
-      "relevance_score": 1,
-      "added_at": "2026-01-23T20:44:43.049514"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qig1fv",
-      "type": "search",
-      "subreddit": "macgaming",
-      "title": "Multiplayer Shooters that Work via CrossOver",
-      "content": "Space-Marine II Playable outside of online co-op/multiplayer, but you can play with other players via private matches The Division 2 Fully accessible Marvel Rivals Fully accessible If you're aware of any other multiplayer shooters that are playable via CrossOver, add them in the comments please and thank you. If you're already playing Space-Marine, encourage the Devs on their Discord to looking into making the game's anti-cheat system compatible with Wine. submitted by /u/Nehan_Satori to r/macgaming [link] [comments]",
-      "link": "https://www.reddit.com/r/macgaming/comments/1qig1fv/multiplayer_shooters_that_work_via_crossover/",
-      "author": "/u/Nehan_Satori",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T22:41:14.147448"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qifxdx",
-      "type": "search",
-      "subreddit": "u_TheGamerzTheory",
-      "title": "Nikita Buyanov Teases COR3: Escape from Tarkov Creator's New Sci-Fi Game",
-      "content": "Nikita Buyanov, Escape from Tarkov creator, teases mysterious new project COR3 via cryptic social media posts and a countdown timer—set to end February 1, hinting at a sci-fi universe with space pirates and interplanetary travel. https://thegamerztheory.com/article/2026-01-20_tarkov-dev-newest-game-hinted-reveal-february-1 submitted by /u/TheGamerzTheory to u/TheGamerzTheory [link] [comments]",
-      "link": "https://www.reddit.com/r/u_TheGamerzTheory/comments/1qifxdx/nikita_buyanov_teases_cor3_escape_from_tarkov/",
-      "author": "/u/TheGamerzTheory",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T22:41:14.148135"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qiftuq",
-      "type": "search",
-      "subreddit": "tf2",
-      "title": "Anyone want this in the game?",
-      "content": "https://preview.redd.it/swhxkajhzkeg1.png?width=1500&format=png&auto=webp&s=3362d1f30b45e64c53c521a2cfaf36a0d4437d51 submitted by /u/NoMinimum1620 to r/tf2 [link] [comments]",
-      "link": "https://www.reddit.com/r/tf2/comments/1qiftuq/anyone_want_this_in_the_game/",
-      "author": "/u/NoMinimum1620",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T22:41:14.148204"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qifr2e",
-      "type": "search",
-      "subreddit": "DigitalArt",
-      "title": "puca labs! game dev team i got pleasure to work with for past year",
-      "content": "submitted by /u/toloma12 to r/DigitalArt [link] [comments]",
-      "link": "https://www.reddit.com/r/DigitalArt/comments/1qifr2e/puca_labs_game_dev_team_i_got_pleasure_to_work/",
-      "author": "/u/toloma12",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T22:41:14.148210"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedev/t3_1qigm5q",
-      "type": "post",
-      "subreddit": "gamedev",
-      "title": "Is the problem with performance in some RTS games is due to the camera?",
-      "content": "Free 3D RTS camera like Total War will need to render sometimes most of the units in the map. Whereas an isometric camera will render only those in the view that normally dont exceed more than a few thousand. Add into this the fact Isometric camera can use sprites instead of 3D models. submitted by /u/FutureLynx_ [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedev/comments/1qigm5q/is_the_problem_with_performance_in_some_rts_games/",
-      "author": "/u/FutureLynx_",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T23:10:54.973229"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qighbo",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "my narrative rpg-game releases in less than 7 weeks :))",
-      "content": "About the game: Shame & choices = possible apocalypse. You need to figure out what’s causing the apocalypse to happen, so that you can prevent it. 2 playable characters with different relations to shame → 2 unique perspectives of the same story. Complicated families, branching choices and unforgiving consequences. if you’re interested in the game: https://store.steampowered.com/app/3767990/The_Shame_of_a_Daydreamer/ submitted by /u/journalofshame [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qighbo/my_narrative_rpggame_releases_in_less_than_7_weeks/",
-      "author": "/u/journalofshame",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T23:10:54.973279"
-    },
-    {
       "id": "https://www.reddit.com/r/indiegaming/t3_1qigdlq",
       "type": "post",
       "subreddit": "indiegaming",
@@ -15251,7 +15167,79 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-23T20:44:43.049196"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1ql2y92",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "I published Clicker Ore Demo on itch.io",
+      "content": "submitted by /u/Unlikely-Pension4754 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1ql2y92/i_published_clicker_ore_demo_on_itchio/",
+      "author": "/u/Unlikely-Pension4754",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T21:10:36.076553"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1ql2fjb",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Red Hood Fanart",
+      "content": "submitted by /u/Koohii_Arts [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1ql2fjb/red_hood_fanart/",
+      "author": "/u/Koohii_Arts",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T21:10:36.076586"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1ql2xs2",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Anyone into RPG making games?",
+      "content": "I really wanna be part of a team and contribute storytelling etc cuz I have so much ideas and writing ;w; submitted by /u/Muted-Interaction-79 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1ql2xs2/anyone_into_rpg_making_games/",
+      "author": "/u/Muted-Interaction-79",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T21:10:36.076600"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1ql2p81",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Finally hit 150 users",
+      "content": "I've been working on a small iOS app on the side, mostly nights and weekends, with zero expectations. No ads, no big launch, no audience. Just building, fixing bugs, and hoping someone out there would find it usetul. Yesterday, I finally hit 150 users. I know it isn’t anything crazy but it’s a big milestone for me!! It’s been a big boost mentally, and if anybody is on the fence about shipping - just do it!! If anybody is curious, the app is called SpeakEasy ( speakeasy-app.com ). I’m genuinely open to feedback, especially around the feature set and the UI. If anyone wants to try it out, I’d really appreciate it 🙏🏽🙏🏽🙏🏽 Happy to answer any questions about the process or what I learned along the way. submitted by /u/disinton [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1ql2p81/finally_hit_150_users/",
+      "author": "/u/disinton",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T21:10:36.076811"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1ql30xp",
+      "type": "search",
+      "subreddit": "Archeology",
+      "title": "What tasks would an archeologist without arms be capable of performing?",
+      "content": "I'm writing a short story about an archeologist, however, she lacks arms (she's a Goomba.) I want to make my story as realistic as possible, so I'm wondering what kind of tasks someone without arms would be capable of performing in the archeology field. submitted by /u/AutumnRCS to r/Archeology [link] [comments]",
+      "link": "https://www.reddit.com/r/Archeology/comments/1ql30xp/what_tasks_would_an_archeologist_without_arms_be/",
+      "author": "/u/AutumnRCS",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T21:10:36.077528"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1ql2twd",
+      "type": "search",
+      "subreddit": "removed",
+      "title": "They removed thiz fine shite..",
+      "content": "fuck'm all submitted by /u/wastin-timee to r/removed [link] [comments]",
+      "link": "https://www.reddit.com/r/removed/comments/1ql2twd/they_removed_thiz_fine_shite/",
+      "author": "/u/wastin-timee",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T21:10:36.077982"
     }
   ],
-  "last_updated": "2026-01-23T20:46:23.800756"
+  "last_updated": "2026-01-23T21:12:06.905800"
 }
