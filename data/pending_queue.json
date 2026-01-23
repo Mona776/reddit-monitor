@@ -1,126 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/t3_1qi7jag",
-      "type": "search",
-      "subreddit": "zionistrevolution",
-      "title": "Police Report 12/13",
-      "content": "According to the police, this is what occurred on December 13. Ik Emma passed away now, but I promised the sub before her passing I would provide an update once I got it. All of this is public information, but I covered the address to be safe. submitted by /u/Express_Net3542 to r/zionistrevolution [link] [comments]",
-      "link": "https://www.reddit.com/r/zionistrevolution/comments/1qi7jag/police_report_1213/",
-      "author": "/u/Express_Net3542",
-      "search_keyword": "how to make a game",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T17:51:03.666105"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qi8lqo",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "I'm adding cosmetics to my game, how do they look? And does the UI look \"amateur\"?",
-      "content": "Would love to get some feedback on the UI and some suggestions for more outfit colors and hats! submitted by /u/NewKingCole11 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qi8lqo/im_adding_cosmetics_to_my_game_how_do_they_look/",
-      "author": "/u/NewKingCole11",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T18:19:16.611829"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qi8kq9",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Cannot call non-static function \"clamp()\" on the class \"Vector3\" directly. Make an instance instead.",
-      "content": "idk what to put here, i think the title and picture leave it clear submitted by /u/CloudyPapon [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qi8kq9/cannot_call_nonstatic_function_clamp_on_the_class/",
-      "author": "/u/CloudyPapon",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T18:19:16.611986"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qi8cgn",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "i have fucked up somehow 4.5.1 please help",
-      "content": "image 2 is intended and image 1 happens when i walk/sprint for a bit, but only sometimes only have seen it on the left side but it wasn't stress tested image 3 is the filter settings (not sure what repeat does but when i disabled it it made it less common but it still happens assume this is stating the obvious but this isn't in my sprite sheet edit: i switched to 4 recently i don't remember or noticing anything like this happening in 3 so i assume it is to do with nearest rather than not being able to disable texture filtering? should i just switch back to 3 or just accept that this will happen (don't really want to do either) submitted by /u/Venom-IDIDIDIO [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qi8cgn/i_have_fucked_up_somehow_451_please_help/",
-      "author": "/u/Venom-IDIDIDIO",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T18:19:16.612025"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qi84b6",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "I created a turn-based tactics game for players who love efficiency.",
-      "content": "The core of Blob Wars is completing challenges in as few turns as possible by using each Blob’s abilities wisely. Steam demo is already out if you want to try it out. Hope you enjoy it! https://store.steampowered.com/app/4298750/Blob_Wars/ submitted by /u/Jaded_Job_9780 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qi84b6/i_created_a_turnbased_tactics_game_for_players/",
-      "author": "/u/Jaded_Job_9780",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T18:19:16.612039"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qi84fl",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "Just wanted to share a small (but huge) milestone for me - my solo game just hit the Top 1000 most wishlisted games on Steam! I’ve been working on it for 3+ years and still have a few months to go, but yeah, that was pretty cool to see. Ok, back to work now🫡",
-      "content": "submitted by /u/darkjay_bs [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qi84fl/just_wanted_to_share_a_small_but_huge_milestone/",
-      "author": "/u/darkjay_bs",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T18:19:16.612097"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedev/t3_1qi8ybv",
-      "type": "post",
-      "subreddit": "gamedev",
-      "title": "No more features. I mean it.",
-      "content": "I finally added transition zones to my point-and-click adventure today. Now I’m really done adding features. I want to finally focus on scene production. And don’t you dare say, “But your cellphone flashlight doesn’t work yet.” I don’t want to hear it! submitted by /u/Mondkap [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedev/comments/1qi8ybv/no_more_features_i_mean_it/",
-      "author": "/u/Mondkap",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T19:36:05.667947"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qib0jm",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Lenin Street Geek Shop and Everyday Survival in Y2K Russia",
-      "content": "submitted by /u/IndieGamesDevel [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qib0jm/lenin_street_geek_shop_and_everyday_survival_in/",
-      "author": "/u/IndieGamesDevel",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T19:36:05.667953"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qiaymc",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Early dev update: chill-to-crazy incremental farming automation game",
-      "content": "submitted by /u/qK0FT3 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qiaymc/early_dev_update_chilltocrazy_incremental_farming/",
-      "author": "/u/qK0FT3",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T19:36:05.667960"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qiax5k",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Is “immersion” actually useful as a design goal?",
-      "content": "submitted by /u/player_immersely [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qiax5k/is_immersion_actually_useful_as_a_design_goal/",
-      "author": "/u/player_immersely",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T19:36:05.667974"
-    },
-    {
       "id": "https://www.reddit.com/r/indiegaming/t3_1qiatnw",
       "type": "post",
       "subreddit": "indiegaming",
@@ -13835,7 +13715,115 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-01-23T11:11:47.118334"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qko6wo",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "Manor Lords publisher Hooded Horse's CEO argues game agreements violate contract principles",
+      "content": "submitted by /u/Kaladinar [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qko6wo/manor_lords_publisher_hooded_horses_ceo_argues/",
+      "author": "/u/Kaladinar",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T11:40:21.450811"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qko3e2",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "what is better for a bullet hell game between ecs and oop?",
+      "content": "hello everyone, i'm pretty new to programming but i downloaded unity and i'm trying to make an isaac-like game, where bullets have lots of variation based on items you get. i was following a C# tutorial that was based on classes but i recently saw stuff about ecs that seemed.. interesting? as i have basically no knowledge on programming, i can't seem to see the difference long term, but what would be the best in uses? also, i saw people writing that you can actually use both at the same time, but how are they structured when used separately? submitted by /u/MrFocaccino [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qko3e2/what_is_better_for_a_bullet_hell_game_between_ecs/",
+      "author": "/u/MrFocaccino",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T11:40:21.450830"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qkoc1s",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "This game has a wisp that reacts to your backpack upgrades.",
+      "content": "submitted by /u/41sile [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qkoc1s/this_game_has_a_wisp_that_reacts_to_your_backpack/",
+      "author": "/u/41sile",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T11:40:21.450871"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qkodqi",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Hit 200 wishlists in ~45 days!!",
+      "content": "Just hit 200 wishlists in about 45 days!! Appreciate all the support 🙌 submitted by /u/Deep-Current-4757 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qkodqi/hit_200_wishlists_in_45_days/",
+      "author": "/u/Deep-Current-4757",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T11:40:21.450911"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qkob3v",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Some tricks to improve game feel on attacks~",
+      "content": "submitted by /u/alexevaldez [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qkob3v/some_tricks_to_improve_game_feel_on_attacks/",
+      "author": "/u/alexevaldez",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T11:40:21.450917"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qko7t1",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "what is better for a bullet hell game between ecs and oop?",
+      "content": "submitted by /u/MrFocaccino [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qko7t1/what_is_better_for_a_bullet_hell_game_between_ecs/",
+      "author": "/u/MrFocaccino",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T11:40:21.450923"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qko32w",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "How do you handle and store your dialog script?",
+      "content": "working on a visual novel type and it hasbeen a hassle when choices get a bit too complicated and more branches happen. I connect dialog blocks with tags, put them in dictionaries, and store them in json. How can I do better? How do other games handle more complex dialog branches and conditions? submitted by /u/KMG_Meika [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qko32w/how_do_you_handle_and_store_your_dialog_script/",
+      "author": "/u/KMG_Meika",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T11:40:21.450981"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qko4b5",
+      "type": "search",
+      "subreddit": "Sims3",
+      "title": "Is there a possibility key resellers might run out of stock?",
+      "content": "So I have close to a full sims 3 collection just by using the codes from my old games. I figure it wouldn’t cost that much to complete the clllection so I can run it always full with all packs very easily. However I don’t have a windows computer right now anyway so I can’t play. But I’m a few packs off a full collection which with keys is very cheap since they go for like 3-5 dollars. They’ve stayed very cheap for very long but I wonder if there’s a chance that they would run out of stock and suddenly it’s crazy expensive and I would have to buy at EA app prices? Or maybe I’m not understand correctly how the key sellers get their keys and it’s no problem. submitted by /u/Stoltlallare to r/Sims3 [link] [comments]",
+      "link": "https://www.reddit.com/r/Sims3/comments/1qko4b5/is_there_a_possibility_key_resellers_might_run/",
+      "author": "/u/Stoltlallare",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T11:40:21.451206"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qkogej",
+      "type": "search",
+      "subreddit": "carriercommand2",
+      "title": "Restocking ships not close to carrier help",
+      "content": "Hello all! Quite new to this game but enjoying it a lot! But I need help with something! So I wanted to make a patrol group out of 1 IR missle boat and 1 CIWS boat and have them patrol between some islands the enemy carrier is close to. But how do I refuel and restock those ships when they're not close to the carrier? submitted by /u/Murky_Recognition945 to r/carriercommand2 [link] [comments]",
+      "link": "https://www.reddit.com/r/carriercommand2/comments/1qkogej/restocking_ships_not_close_to_carrier_help/",
+      "author": "/u/Murky_Recognition945",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T11:40:21.452967"
     }
   ],
-  "last_updated": "2026-01-23T11:13:15.352687"
+  "last_updated": "2026-01-23T11:42:20.877956"
 }
