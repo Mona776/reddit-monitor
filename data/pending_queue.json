@@ -1,90 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qigdlq",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "New party game called Lunars, feels like Mario Party in 2026",
-      "content": "submitted by /u/RankoYU [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qigdlq/new_party_game_called_lunars_feels_like_mario/",
-      "author": "/u/RankoYU",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T23:10:54.973285"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qig5up",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Our environment artist cooked hard",
-      "content": "Got sent this recently and I had to share, it's really pretty! submitted by /u/ThrusterGames [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qig5up/our_environment_artist_cooked_hard/",
-      "author": "/u/ThrusterGames",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T23:10:54.973379"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qigroy",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Forest of the Dead God",
-      "content": "Two person studio; slowly but surely, replacing the placeholders I got off itch with proprietary art! The background shown is one of the many locations in our upcoming match-3 roguelite. Will be replacing the bottom screen soon, just to have something that feels \"our own\" while we are still developing. Narratively, you play a Runecaster , scrying into the scenes of battle, using rune-casting and divination to alter the fate of your chosen champion, as they traverse the perilous island of Helgistat. Mechanically, its heavily inspired by games like Slay the Spire, Cloverpit, and the Match-3 genre. Still in early development and prototyping. Developed in Godot. submitted by /u/Salt_Punk [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qigroy/forest_of_the_dead_god/",
-      "author": "/u/Salt_Punk",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T23:10:54.973398"
-    },
-    {
-      "id": "https://www.reddit.com/r/unrealengine/t3_1qigjpx",
-      "type": "post",
-      "subreddit": "unrealengine",
-      "title": "Upgrading cpp projects",
-      "content": "Hi. Noob here. I realized that there are a lot of errors when upgrading a cpp project. How do professionals solve this problem? This is the only reason I avoid using cpp with unreal submitted by /u/saoeifjasasef2 [link] [comments]",
-      "link": "https://www.reddit.com/r/unrealengine/comments/1qigjpx/upgrading_cpp_projects/",
-      "author": "/u/saoeifjasasef2",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T23:10:54.973479"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qignph",
-      "type": "search",
-      "subreddit": "FUTMobile",
-      "title": "why is this game so fucking bad ?",
-      "content": "I cannot believe a game like this exists, let alone believe how many players are actively playing it and worst yet are PAYING for it. Wtf is wrong with you people? How can you play a game that is fully rigged and scripted? I don't understand. What do you find appealing at this shitty ass gameplay? It is sickening how every match is scripted. Your skill, your controls, your players, your OVR, your stats whatever, all of it DON'T MATTER because it's all fking scripted and it's horrible. The most important aspect of any game is being able to fucking play it, but in this \"game\" the only one that's being played is YOU. I really wanted to play this game but it's fucking disgusting, I cannot believe this exists and is popular. Humanity has gone to shit if we can't even recognize a good game from a bad one. FK this game, fk the devs, and most importantly FK EA for producing this SHIT. submitted by /u/bobaloooo to r/FUTMobile [link] [comments]",
-      "link": "https://www.reddit.com/r/FUTMobile/comments/1qignph/why_is_this_game_so_fucking_bad/",
-      "author": "/u/bobaloooo",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T23:10:54.974909"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qigic1",
-      "type": "search",
-      "subreddit": "gameverifying",
-      "title": "Black 2 and White 2 - check before buying",
-      "content": "Hello guys, are these legitimate?, thank you. submitted by /u/Krow-7171 to r/gameverifying [link] [comments]",
-      "link": "https://www.reddit.com/r/gameverifying/comments/1qigic1/black_2_and_white_2_check_before_buying/",
-      "author": "/u/Krow-7171",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T23:10:54.975066"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedev/t3_1qih7xl",
-      "type": "post",
-      "subreddit": "gamedev",
-      "title": "What in your opinion is the best engine/framework for an old school isometric 2D game like Commandos 1/Desperados 1?",
-      "content": "Basically its 2d isometric fully made by sprites with Y-Sorting. I made a game like this in Unreal and it was a tough challenge. However, Godot and Unity seem good for it? Though i dont have enough experience in these 2 to decide. Which one would you go for? submitted by /u/FutureLynx_ [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedev/comments/1qih7xl/what_in_your_opinion_is_the_best_engineframework/",
-      "author": "/u/FutureLynx_",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T23:41:19.586640"
-    },
-    {
       "id": "https://www.reddit.com/r/indiegaming/t3_1qihhkx",
       "type": "post",
       "subreddit": "indiegaming",
@@ -15239,7 +15155,139 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-23T21:10:36.077982"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1ql3dj8",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "7 player classes to kill Eldritch beasts whichever way you like",
+      "content": "We’ve been working on Tombwater for a few years now and it’s getting close to launch! We’ve just revealed our seven player classes you can pick from: Soldier, Gunslinger, Occultist, Tinkerer, Spellblade, Drifter, and Nameless. We want players to have a reason to experiment with diverse playstyles across the vast world of Tombwater. We have a demo up now if you’d like to give it a run! https://store.steampowered.com/app/3308200/Tombwater/ submitted by /u/MaxMraz [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1ql3dj8/7_player_classes_to_kill_eldritch_beasts/",
+      "author": "/u/MaxMraz",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T21:39:47.463184"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1ql38mp",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "I’m making a game where you play as 100 FRIENDS (at the same time). Is it feeling juicy yet?",
+      "content": "submitted by /u/AdOwn3881 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1ql38mp/im_making_a_game_where_you_play_as_100_friends_at/",
+      "author": "/u/AdOwn3881",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T21:39:47.463194"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1ql3j4m",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Found a way to show off the team using in-game tech!",
+      "content": "submitted by /u/MurraySomerwolff [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1ql3j4m/found_a_way_to_show_off_the_team_using_ingame_tech/",
+      "author": "/u/MurraySomerwolff",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T21:39:47.463221"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1ql3ck0",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Godot engine",
+      "content": "Hey guys i was wondering whats the best version to use for godot? Is it steam version?flatpak or else? I am using cachyos submitted by /u/Icy_Analysis_58 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1ql3ck0/godot_engine/",
+      "author": "/u/Icy_Analysis_58",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T21:39:47.463263"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1ql3b7x",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "3D Model of an enemy for my new game",
+      "content": "https://preview.redd.it/bg1un67716fg1.png?width=679&format=png&auto=webp&s=19d652c7f4ac32c3eaf746e3da573a05dad0e5ab attacker from project death: run submitted by /u/NewLengthiness317 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1ql3b7x/3d_model_of_an_enemy_for_my_new_game/",
+      "author": "/u/NewLengthiness317",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T21:39:47.463271"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1ql3sg6",
+      "type": "search",
+      "subreddit": "lakers",
+      "title": "This can't be Real? \"This is the notice you receive if you try to wear a Lakers jersey in the Clippers' Wall fan section, from last night's game\"",
+      "content": "submitted by /u/ilikesportany to r/lakers [link] [comments]",
+      "link": "https://www.reddit.com/r/lakers/comments/1ql3sg6/this_cant_be_real_this_is_the_notice_you_receive/",
+      "author": "/u/ilikesportany",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T21:39:47.463338"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1ql38yo",
+      "type": "search",
+      "subreddit": "acnh",
+      "title": "What can I use instead of tacos?",
+      "content": "I found this really cute taco truck design code but there's no taco item in the game! Any tips on what I could use instead? Curry maybe? submitted by /u/emni13 to r/acnh [link] [comments]",
+      "link": "https://www.reddit.com/r/acnh/comments/1ql38yo/what_can_i_use_instead_of_tacos/",
+      "author": "/u/emni13",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T21:39:47.463594"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1ql3tg5",
+      "type": "search",
+      "subreddit": "batocera",
+      "title": "Getting pretty stuck",
+      "content": "All I want to do is run Persona 4 Golden on my batocera machine. I know it can run windows games I tested out Dirt 3 and works fine I’ve copied the game folder to roms/windows and named it with .pc at the end then used windows game fix for batocera which makes another folder ending in .wine and this shows up under the windows tab I’ve tried so many versions of proton and wine and I just can’t get it to launch at all. The game runs in windows fine I just can’t get it to start at all and it’s driving me nuts I just want to play this on my batocera machine and not having to swap between OS submitted by /u/General-Current-8723 to r/batocera [link] [comments]",
+      "link": "https://www.reddit.com/r/batocera/comments/1ql3tg5/getting_pretty_stuck/",
+      "author": "/u/General-Current-8723",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T21:39:47.463838"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1ql3tbr",
+      "type": "search",
+      "subreddit": "kingdomcome",
+      "title": "[KCD2] I don’t hate the game but..",
+      "content": "Every time I do something stealthy I wind up getting caught. I’m max in stealth and I steal usually at night, and I also make sure NOT to get CAUGHT, but somehow, these sedletz gaurds can smell the criminal essence. I’ve had to reload my save an absurd amount of times. Just trying to have fun and sometimes the game doesn’t feel fun especially when reload a save that sets me a half hour back. submitted by /u/Serilus to r/kingdomcome [link] [comments]",
+      "link": "https://www.reddit.com/r/kingdomcome/comments/1ql3tbr/kcd2_i_dont_hate_the_game_but/",
+      "author": "/u/Serilus",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T21:39:47.463884"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1ql3t6s",
+      "type": "search",
+      "subreddit": "HighSodiumSims",
+      "title": "Something I noticed about Sims 3 vs Sims 4",
+      "content": "I know some people don’t like when you compare the games, but that’s exactly what I’m going to do so😛Also this isn’t necessarily hate towards Sims 4, I have over 5000 hours on it and I love that game, but it does lack a lot of the soul and charm Sims 3 has. So I have 2 Simblr accounts, one where I post ts4 stuff and the other for ts3. They both follow similar formats- me reblogging cc I like, getting inspiration from other simmers, and most importantly posting my own gameplay and stories. I’m super active on my ts4 blog, posting edits, dialogue, gameplay, etc. But I haven’t been active on my ts3 blog in months. Is that because I find ts3 boring and not as fun as ts4? …No, actually the opposite. When I play my ts4 saves, I spend a lot of time taking screenshots, posing my sims, and getting the right angle. But when I play ts3, I feel so immersed in the gameplay that I simply don’t want to take screenshots and edit them/pose sims. I can play for 10 generations and not get bored because it will feel different and new each time. But in ts4, the thing that keeps me coming back to do more generations is knowing I can post pretty screenshots for tumblr. My favorite way to play sims is to do family/generational gameplay, and it just feels so much more fun in ts3. Sims 4 is pretty, but Sims 3 is fun. I don’t feel the need to get the perfect screenshot in ts3, I just enjoy playing. I’m always discovering something new about the game, and guess what, I only just started getting all the DLC! I’ve had this much fun already just with the base game and Seasons, so I’m sure I’ll have even more fun with the expansions. Even though I only have 500 hours on ts3 and 5000 in ts4, I like ts3 so much better. It also has that classic sims quirkiness that I feel like isn’t quite there in ts4. I love when my ts3 sims randomly scream (“wibna chogga dog!” anyone?), heckle each other, and fight just because they feel like it. And the biggest help? The freaking open world. Every time I want one of my sims to go out and do something in ts4, I get turned off because I know everyone else at home won’t get anything done and will still be awake with needs in the red even if my sim returns at 3am. It sucks and makes me not want to go out unless the whole family comes. But in ts3, my teen can go out and party while dad is at home watching tv, mom is cooking dinner, and the child sibling is doing homework. I don’t have to worry about their needs going to shit because they have basic survival instincts and will take care of them if they need to. I do plan on posting more on my ts3 blog, but for now I’m just enjoying the gameplay. I wish I started ts3 way sooner, it’s fucking awesome! submitted by /u/Zenphiree to r/HighSodiumSims [link] [comments]",
+      "link": "https://www.reddit.com/r/HighSodiumSims/comments/1ql3t6s/something_i_noticed_about_sims_3_vs_sims_4/",
+      "author": "/u/Zenphiree",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T21:39:47.464241"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1ql39dz",
+      "type": "search",
+      "subreddit": "HungryArtists",
+      "title": "[For Hire] Pixel Art Animation! Assets for GameDev, Social Media, Content Creation and More!",
+      "content": "submitted by /u/quartzstash to r/HungryArtists [link] [comments]",
+      "link": "https://www.reddit.com/r/HungryArtists/comments/1ql39dz/for_hire_pixel_art_animation_assets_for_gamedev/",
+      "author": "/u/quartzstash",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T21:39:47.464982"
     }
   ],
-  "last_updated": "2026-01-23T21:12:06.905800"
+  "last_updated": "2026-01-23T21:41:22.630278"
 }
