@@ -1,42 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qihhkx",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Concept art for my silly racing game pt3! (art by me wilmilky)",
-      "content": "Still deciding on a title for my game submitted by /u/wilmilky [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qihhkx/concept_art_for_my_silly_racing_game_pt3_art_by/",
-      "author": "/u/wilmilky",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T23:41:19.586678"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qihavk",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "First Public Demo of Queen of the Dead TM?",
-      "content": "submitted by /u/MissItalia2022 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qihavk/first_public_demo_of_queen_of_the_dead_tm/",
-      "author": "/u/MissItalia2022",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T23:41:19.586685"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qih2x4",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Questo nuovo gioco di fantascienza sembra lussuoso?",
-      "content": "submitted by /u/Physical-Orange-61 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qih2x4/questo_nuovo_gioco_di_fantascienza_sembra_lussuoso/",
-      "author": "/u/Physical-Orange-61",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T23:41:19.586693"
-    },
-    {
       "id": "https://www.reddit.com/r/IndieDev/t3_1qihjgu",
       "type": "post",
       "subreddit": "IndieDev",
@@ -15287,7 +15251,127 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-23T21:39:47.464982"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1ql4kuo",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "I'm working on mastering this pixel art style for a game project of mine. Any thoughts or feedback on it?",
+      "content": "submitted by /u/SeparateElephant3995 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1ql4kuo/im_working_on_mastering_this_pixel_art_style_for/",
+      "author": "/u/SeparateElephant3995",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T22:09:10.396475"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1ql46lz",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Yami Mura (terror game)",
+      "content": "This is my horror game (it's on Steam to add to your wishlist) submitted by /u/Radiant_Barracuda932 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1ql46lz/yami_mura_terror_game/",
+      "author": "/u/Radiant_Barracuda932",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T22:09:10.396552"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1ql4hpk",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Does this shaded ring effect improve the game or is it better before?",
+      "content": "submitted by /u/Brighter__Days [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1ql4hpk/does_this_shaded_ring_effect_improve_the_game_or/",
+      "author": "/u/Brighter__Days",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T22:09:10.396676"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1ql4drj",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "I need help with camera controls",
+      "content": "Godot Version 4.1 Question I am making camera controls for my 3d game and I've gotten the mouse controls to work but when I tried to add controller controls I got the error \"Invalid get index ‘JoypadMotion’ (on base: ‘InputEventJoypadMotion’).” my code is var rot_x = 0 var LOOKAROUND_SPEED = 0.01 func _input(event): if event is InputEventMouseMotion or InputEventJoypadMotion: rot_x += event.relative.x * LOOKAROUND_SPEED transform.basis = Basis() # reset rotation rotate_object_local(Vector3(0, -1, 0), rot_x) submitted by /u/Ill_Guess_5542 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1ql4drj/i_need_help_with_camera_controls/",
+      "author": "/u/Ill_Guess_5542",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T22:09:10.396695"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1ql49jr",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Making elemental-archery more juicy!",
+      "content": "submitted by /u/SnowDogg0 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1ql49jr/making_elementalarchery_more_juicy/",
+      "author": "/u/SnowDogg0",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T22:09:10.396700"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1ql4e78",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "I make sfx packs for devs - I’m having a 50% off sale on my new ambience and atmospheres packs!",
+      "content": "submitted by /u/sicklysweetstudios [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1ql4e78/i_make_sfx_packs_for_devs_im_having_a_50_off_sale/",
+      "author": "/u/sicklysweetstudios",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T22:09:10.396777"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1ql4dxk",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Elemental Archer vs Black Lynx in my RPG-Roguelike, Tuoni.",
+      "content": "submitted by /u/SnowDogg0 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1ql4dxk/elemental_archer_vs_black_lynx_in_my_rpgroguelike/",
+      "author": "/u/SnowDogg0",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T22:09:10.396782"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1ql46hs",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Made in real time...(YAY)",
+      "content": "submitted by /u/Annual-Repeat-4372 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1ql46hs/made_in_real_timeyay/",
+      "author": "/u/Annual-Repeat-4372",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T22:09:10.396788"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1ql4iq9",
+      "type": "search",
+      "subreddit": "RobloxPiggy",
+      "title": "Stuns Are Really Annoying",
+      "content": "Lowkey might be a skill issue, but on maps like Mall I am unable to play for half the game if the players just abuse the stuns, like getting all 3 bullets and using the helper npc. This accounts for around two minutes of just stun time. This with the player abilities like disarm, decoy, and invincibility all make the player side wayy to op. submitted by /u/Savings-Spray1804 to r/RobloxPiggy [link] [comments]",
+      "link": "https://www.reddit.com/r/RobloxPiggy/comments/1ql4iq9/stuns_are_really_annoying/",
+      "author": "/u/Savings-Spray1804",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T22:09:10.398724"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1ql4e5b",
+      "type": "search",
+      "subreddit": "deckbuildingroguelike",
+      "title": "I'm making a DBRL that mixes StS combat with MtG resource system based around 90s gaming memories. We just hit 5000 wishlist on Steam, I'm so excited!.",
+      "content": "The image comes from one of the latest cards we put in the game for the \"platformer\" character (coolest char so far during Dev). Check out the game here https://store.steampowered.com/app/3367950/Five_More_Minutes/ submitted by /u/PurpleTurtleOfficial to r/deckbuildingroguelike [link] [comments]",
+      "link": "https://www.reddit.com/r/deckbuildingroguelike/comments/1ql4e5b/im_making_a_dbrl_that_mixes_sts_combat_with_mtg/",
+      "author": "/u/PurpleTurtleOfficial",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T22:09:10.399507"
     }
   ],
-  "last_updated": "2026-01-23T21:41:22.630278"
+  "last_updated": "2026-01-23T22:10:34.794328"
 }
