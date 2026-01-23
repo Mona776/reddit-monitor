@@ -1,66 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/t3_1qicq6s",
-      "type": "search",
-      "subreddit": "greentext",
-      "title": "Gone in a flash",
-      "content": "submitted by /u/Meteorstar101 to r/greentext [link] [comments]",
-      "link": "https://www.reddit.com/r/greentext/comments/1qicq6s/gone_in_a_flash/",
-      "author": "/u/Meteorstar101",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T20:37:40.627549"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qickzy",
-      "type": "search",
-      "subreddit": "TheFireRisesMod",
-      "title": "A Dev confirmed that that Matthew Heimbach and the Traditionalist Worker Party is going to be added in future of the game(link for the discord comment in the comment section)",
-      "content": "submitted by /u/OutrageousBridge471 to r/TheFireRisesMod [link] [comments]",
-      "link": "https://www.reddit.com/r/TheFireRisesMod/comments/1qickzy/a_dev_confirmed_that_that_matthew_heimbach_and/",
-      "author": "/u/OutrageousBridge471",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T20:37:40.627716"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qicor1",
-      "type": "search",
-      "subreddit": "Warthunder",
-      "title": "[RANT] This vehicle was made by satan himself in the 4th circle of hell",
-      "content": "This post is nothing but a bunch of l2p/skill issue/crying. I've been spading the 13.0 Tornado F.3 Late, and after 75 games I am free of the stock BS but I just can't get over how demonic this plane is. Good FM, 6x PL-12s, 4x R-73s makes for an unholy combo and it only sits at 13.3. I have the heretical J-7D, but this thing proves that the J-7D was only crafted in the 2nd or maybe 3rd circle of hell by a lesser entity. Nothing else to add. Exorcise this plane out of 13.3. submitted by /u/DepartureMany507 to r/Warthunder [link] [comments]",
-      "link": "https://www.reddit.com/r/Warthunder/comments/1qicor1/rant_this_vehicle_was_made_by_satan_himself_in/",
-      "author": "/u/DepartureMany507",
-      "search_keyword": "how to make a game",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T20:37:40.627816"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qid8fn",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "New browser based lite-mmo",
-      "content": "submitted by /u/Affectionate_Pilot99 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qid8fn/new_browser_based_litemmo/",
-      "author": "/u/Affectionate_Pilot99",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T21:11:59.271968"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qid5vp",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Slow and steady... (Sealed Bite)",
-      "content": "submitted by /u/pineapple_works [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qid5vp/slow_and_steady_sealed_bite/",
-      "author": "/u/pineapple_works",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T21:11:59.271981"
-    },
-    {
       "id": "https://www.reddit.com/r/indiegaming/t3_1qid0wl",
       "type": "post",
       "subreddit": "indiegaming",
@@ -13955,7 +13895,163 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-01-23T14:16:31.503567"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qks3b9",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "Made a 3D raycasted Tic Tac Toe in Go",
+      "content": "Hi ! Me and a classmate built Gopher Dungeon for our Go course at school. It’s a Tic Tac Toe game made in Go using Ebitengine and rendered with raycasting and running in the browser with wasm. It was a very cool project to do and we learned go with this. I know the code could be cleaner and better structured but I’m really proud of the result. Game (only works on desktop, sry) : https://yungbricocoop.github.io/gopher-dungeon/ Repo : https://github.com/YungBricoCoop/gopher-dungeon submitted by /u/AnonymZ_ [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qks3b9/made_a_3d_raycasted_tic_tac_toe_in_go/",
+      "author": "/u/AnonymZ_",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T14:49:09.918823"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qksjjy",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "I’ve been sharing short lore drops for my indie game. Here’s one about The Strongman!",
+      "content": "submitted by /u/Red_Dunes_Games [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qksjjy/ive_been_sharing_short_lore_drops_for_my_indie/",
+      "author": "/u/Red_Dunes_Games",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T14:49:09.918834"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qksf0p",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "floppy-disk eyes and ping-pong / HEAVYDELIC",
+      "content": "Very soon, you’ll be able to launch the demo or jump into early access. Just a few things left to polish: the health bar, an in-game gallery, a mini arcade game, and a handful of animations… then the engines are ready for takeoff. For now, grab a TRINITRON, it looks best on that and we’ll see you on Itchio and Steam. Stay tuned. submitted by /u/eniacninja [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qksf0p/floppydisk_eyes_and_pingpong_heavydelic/",
+      "author": "/u/eniacninja",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T14:49:09.918871"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qksdx2",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "I like our shopkeeper. He is cool!",
+      "content": "https://reddit.com/link/1qksdx2/video/7bw51lz604fg1/player Any idea to make the shop fancier? Also feel free to check out our game, Duelist Guild ! submitted by /u/Popular_Molasses962 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qksdx2/i_like_our_shopkeeper_he_is_cool/",
+      "author": "/u/Popular_Molasses962",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T14:49:09.918883"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qks2mq",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Demonstration on weapon+enemy+background interaction on my game",
+      "content": "submitted by /u/ZealousidealWinner [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qks2mq/demonstration_on_weaponenemybackground/",
+      "author": "/u/ZealousidealWinner",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T14:49:09.918890"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qkslto",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Duck eat rock. Duck earn money. Duck buy upgrades",
+      "content": "This is my upcoming game! You're a duck that eats rocks and earns money by doing it. There will be some upgrades: Apple: Increases energy Banana: Increases energy recovery Chicken: Decreases chewing time required to eat rocks What do you guys think? You would play? I need to improve somethings and add sounds and song (The hardest part), but in general that's it :D submitted by /u/iagodobrawl [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qkslto/duck_eat_rock_duck_earn_money_duck_buy_upgrades/",
+      "author": "/u/iagodobrawl",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T14:49:09.918905"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qksh7l",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "I always dreamed of working with professional voice actors for one of my projects",
+      "content": "submitted by /u/Torchlight_Games [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qksh7l/i_always_dreamed_of_working_with_professional/",
+      "author": "/u/Torchlight_Games",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T14:49:09.918980"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qksebh",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "floppy-disk eyes and ping-pong / HEAVYDELIC",
+      "content": "Very soon, you’ll be able to launch the demo or jump into early access. Just a few things left to polish: the health bar, an in-game gallery, a mini arcade game, and a handful of animations… then the engines are ready for takeoff. For now, grab a TRINITRON, it looks best on that and we’ll see you on Itchio and Steam. Stay tuned. submitted by /u/eniacninja [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qksebh/floppydisk_eyes_and_pingpong_heavydelic/",
+      "author": "/u/eniacninja",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T14:49:09.919005"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qks3ko",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "I'm making a desktop idle game that uses your keyboard input to grow crops. Very cosy, much idle 😌",
+      "content": "submitted by /u/byXToGo [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qks3ko/im_making_a_desktop_idle_game_that_uses_your/",
+      "author": "/u/byXToGo",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T14:49:09.919028"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qks22x",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Steam demo should be on long before Next Fest?",
+      "content": "submitted by /u/Popular_Molasses962 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qks22x/steam_demo_should_be_on_long_before_next_fest/",
+      "author": "/u/Popular_Molasses962",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T14:49:09.919049"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qkskir",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "\"Shader baker\" in export settings doesnt stop particle/shader lag spikes",
+      "content": "Do all of my particles need to be saved to file? I noticed lots of my particles are unique instances and I'm wondering if this could be the cause of the issue. I'm just asking if there's a solution before I implement a shader precomp solution of my own submitted by /u/Venison-County-Dev [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qkskir/shader_baker_in_export_settings_doesnt_stop/",
+      "author": "/u/Venison-County-Dev",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T14:49:09.919059"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qksezl",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Steam demo is out for my arcade game!",
+      "content": "It's single player or 2 player local co op. Online leaderboards as well! Living Dead House Demo submitted by /u/jojo_3 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qksezl/steam_demo_is_out_for_my_arcade_game/",
+      "author": "/u/jojo_3",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T14:49:09.919079"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qks3nd",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "I'm making a desktop idle game that uses your keyboard input to grow crops. Very cosy, much idle 😌",
+      "content": "submitted by /u/byXToGo [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qks3nd/im_making_a_desktop_idle_game_that_uses_your/",
+      "author": "/u/byXToGo",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T14:49:09.919108"
     }
   ],
-  "last_updated": "2026-01-23T14:18:09.275505"
+  "last_updated": "2026-01-23T14:50:59.495385"
 }
