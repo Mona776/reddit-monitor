@@ -1,126 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qj19yj",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Project Zero – Browser-based multiplayer hacking MMO with real-world inspired mechanics (PvP/PvE)",
-      "content": "submitted by /u/Erpawer1 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qj19yj/project_zero_browserbased_multiplayer_hacking_mmo/",
-      "author": "/u/Erpawer1",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T15:54:04.072521"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qj0uxc",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Well we finally got there - 'Fear & Hope' Out Now on Steam!",
-      "content": "submitted by /u/Imaginings_Software [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qj0uxc/well_we_finally_got_there_fear_hope_out_now_on/",
-      "author": "/u/Imaginings_Software",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T15:54:04.072537"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qj0xas",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Well we finally got there (I was not sure we would) - 'Fear & Hope' Out Now on Steam!",
-      "content": "submitted by /u/Imaginings_Software [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qj0xas/well_we_finally_got_there_i_was_not_sure_we_would/",
-      "author": "/u/Imaginings_Software",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T15:54:04.072642"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qj1fwb",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Can't find it",
-      "content": "In the right there was a menu where you could change the objects size etc. but I accidently did something and I can't find it anymore. https://preview.redd.it/2qpglzua4qeg1.png?width=1920&format=png&auto=webp&s=0db510edcdfbcb0d01aa26b859e58a940116f23d (Guys, I am VERY new to Godot so please don't flame me.) submitted by /u/AwarenessSuperb2232 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qj1fwb/cant_find_it/",
-      "author": "/u/AwarenessSuperb2232",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T15:54:04.072659"
-    },
-    {
-      "id": "https://www.reddit.com/r/unity/t3_1qj1h9i",
-      "type": "post",
-      "subreddit": "unity",
-      "title": "Switching from PC to Mac M2 via Unity Repository",
-      "content": "I have a strange issue, really have no clue what the cause is, but for some reason I believe the input system is getting completely ignored. I have a project on the unity repository that works fine when opened on PC. BUT - When I open it on mac, there is absolutely no input detected. It can detect the soon to be deprecated input, but no input from the new input system is being detected. Has anyone ever experienced this? submitted by /u/LemurSquad [link] [comments]",
-      "link": "https://www.reddit.com/r/unity/comments/1qj1h9i/switching_from_pc_to_mac_m2_via_unity_repository/",
-      "author": "/u/LemurSquad",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T15:54:04.072770"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qj0y7i",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "Testing the on/off lighting system. I'm very happy with the results!",
-      "content": "Hi, I'm working on and testing the lighting system for my game DinoSwarm, to make the ambient deeper and more distinctive. I'm honestly very happy with the results. submitted by /u/Chaos_Power_ [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qj0y7i/testing_the_onoff_lighting_system_im_very_happy/",
-      "author": "/u/Chaos_Power_",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T15:54:04.072815"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qj0xhr",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "I've Just Launched My Steam Page",
-      "content": "submitted by /u/AcrylicPixelGames [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qj0xhr/ive_just_launched_my_steam_page/",
-      "author": "/u/AcrylicPixelGames",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T15:54:04.072820"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qj1kb9",
-      "type": "search",
-      "subreddit": "pcmasterrace",
-      "title": "Straw that broke the camel's back",
-      "content": "https://preview.redd.it/bg0lgjbw4qeg1.jpg?width=3575&format=pjpg&auto=webp&s=c5b63e6133b11dc597909092d8cf8520a2240273 I will finally leave this shithole of an operating system for good. submitted by /u/StellarOwl to r/pcmasterrace [link] [comments]",
-      "link": "https://www.reddit.com/r/pcmasterrace/comments/1qj1kb9/straw_that_broke_the_camels_back/",
-      "author": "/u/StellarOwl",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T15:54:04.073739"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qj1fxq",
-      "type": "search",
-      "subreddit": "NewYouTubeChannels",
-      "title": "What do you think about using part of this as an intro?",
-      "content": "Hey, I’m Tim from WastedGaming. I made this short because I liked the sound, and a few friends suggested I should use part of it as an intro for my videos. One of the SULFUR devs even commented “amazing,” which was really cool to see. that’s why I’m seriously considering using part of it as an intro. What do you think? Which part would you use? :) submitted by /u/Repulsive_Spend_857 to r/NewYouTubeChannels [link] [comments]",
-      "link": "https://www.reddit.com/r/NewYouTubeChannels/comments/1qj1fxq/what_do_you_think_about_using_part_of_this_as_an/",
-      "author": "/u/Repulsive_Spend_857",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T15:54:04.073870"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qj1f2m",
-      "type": "search",
-      "subreddit": "PokemonXenoverseGuide",
-      "title": "Does the starter fight still softlock you if you go in under prepared?",
-      "content": "Honestly my biggest gripe with the game As amazing as the game is I don't know what the devs were thinking designing this submitted by /u/9878B to r/PokemonXenoverseGuide [link] [comments]",
-      "link": "https://www.reddit.com/r/PokemonXenoverseGuide/comments/1qj1f2m/does_the_starter_fight_still_softlock_you_if_you/",
-      "author": "/u/9878B",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T15:54:04.073879"
-    },
-    {
       "id": "https://www.reddit.com/r/indiegaming/t3_1qj21cr",
       "type": "post",
       "subreddit": "indiegaming",
@@ -15479,7 +15359,79 @@
       "search_keyword": "AI game maker",
       "relevance_score": 0,
       "added_at": "2026-01-24T16:45:38.695164"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qls9bj",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Who says developer art is a bad idea?",
+      "content": "To be honest, I'm tempted to give up the coding side of things and work as a texture artist instead. /s (My favourite is the third season tile, it kind of...it kind of got away from me.) submitted by /u/fcol88 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qls9bj/who_says_developer_art_is_a_bad_idea/",
+      "author": "/u/fcol88",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T17:08:19.543210"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qls13k",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "New Game Dev Log is up ✨",
+      "content": "submitted by /u/KuroiGleamStudios [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qls13k/new_game_dev_log_is_up/",
+      "author": "/u/KuroiGleamStudios",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T17:08:19.543220"
+    },
+    {
+      "id": "https://www.reddit.com/r/unrealengine/t3_1qlsdcz",
+      "type": "post",
+      "subreddit": "unrealengine",
+      "title": "looks like logo is most important part of GASP level :)",
+      "content": "I keep getting memory pressure and out of video memory budget so looking at some stats and noticed the logo in GASP 5.7 is biggest one instead of my character textures or gigantic floor 😂😂 https://imgur.com/a/aezgiKU submitted by /u/willboy237 [link] [comments]",
+      "link": "https://www.reddit.com/r/unrealengine/comments/1qlsdcz/looks_like_logo_is_most_important_part_of_gasp/",
+      "author": "/u/willboy237",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T17:08:19.543241"
+    },
+    {
+      "id": "https://www.reddit.com/r/unrealengine/t3_1qlsbmr",
+      "type": "post",
+      "subreddit": "unrealengine",
+      "title": "How can I import a demo project as a normal project in UE5?",
+      "content": "I made a custom game with a tutorial and want to review it to study how the game mechanics work (controls, character, logic, etc.) but all I can find is a Windows file. Is there any way I can import it as a normal project? submitted by /u/Tough-Composer918 [link] [comments]",
+      "link": "https://www.reddit.com/r/unrealengine/comments/1qlsbmr/how_can_i_import_a_demo_project_as_a_normal/",
+      "author": "/u/Tough-Composer918",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T17:08:19.543253"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qlsfv3",
+      "type": "search",
+      "subreddit": "Megaten",
+      "title": "SMT Devil Summoner: Soul Hackers makes it on Mat Piscatella's 2025 List of Games that have only sold 1 physical unit all year",
+      "content": "submitted by /u/Funnypenguin97 to r/Megaten [link] [comments]",
+      "link": "https://www.reddit.com/r/Megaten/comments/1qlsfv3/smt_devil_summoner_soul_hackers_makes_it_on_mat/",
+      "author": "/u/Funnypenguin97",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T17:08:19.543841"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qlsdhv",
+      "type": "search",
+      "subreddit": "WhereWindsMeet",
+      "title": "What are the chances??",
+      "content": "What are the chances to have a 3 section staff as a weapon in game. Is there a way to try an convince the devs to implement in the game 🤔 submitted by /u/FrancNot to r/WhereWindsMeet [link] [comments]",
+      "link": "https://www.reddit.com/r/WhereWindsMeet/comments/1qlsdhv/what_are_the_chances/",
+      "author": "/u/FrancNot",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T17:08:19.544650"
     }
   ],
-  "last_updated": "2026-01-24T16:47:04.333176"
+  "last_updated": "2026-01-24T17:09:55.258584"
 }
