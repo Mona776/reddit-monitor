@@ -1,30 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/t3_1qlu6iw",
-      "type": "search",
-      "subreddit": "ArcRaiders",
-      "title": "I don't know if i've seen worse rats/rotten humans than this in the game",
-      "content": "Me and my friend heard and saw these two guys having trouble getting to the extraction point to activate it since the two rocketeers were shooting at them/hovering over, but they wouldn't dare to run for it, so I had to make a run for it and tried to clear the way with the lure, at 50 seconds into the video, when i was slowly walking on the point without even having my weapons out, i was talking to them in game saying to help each other and that i wouldn't be shooting, just wanted to get out. Well, how they reacted you can see it for yourself. At least they were so worried to finish me for no reason that my friend could finish the extract and he survived, so they literally killed me just to make me lose stuff for the sake of being douchebags or annoying, since they couldn't even loot anything. https://reddit.com/link/1qlu6iw/video/yzyynnw46cfg1/player submitted by /u/YourFakeJack to r/ArcRaiders [link] [comments]",
-      "link": "https://www.reddit.com/r/ArcRaiders/comments/1qlu6iw/i_dont_know_if_ive_seen_worse_ratsrotten_humans/",
-      "author": "/u/YourFakeJack",
-      "search_keyword": "how to make a game",
-      "relevance_score": 1,
-      "added_at": "2026-01-24T18:14:36.211172"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qlu6fs",
-      "type": "search",
-      "subreddit": "MCFC",
-      "title": "Where can I watch Bournemouth vs Liverpool live streams today?",
-      "content": "Bournemouth vs Liverpool is always a tricky Premier League fixture, especially on the south coast. Bournemouth will hope to make home advantage count, with Dominic Solanke leading the line and Marcus Tavernier providing energy out wide. Liverpool come into this match with serious attacking depth. Mohamed Salah remains the main goal threat, while Darwin Núñez and Luis Díaz offer pace and movement that can stretch Bournemouth’s defence. In midfield, Alexis Mac Allister will be key in controlling the tempo away from home. If you’re trying to work out where to watch Bournemouth vs Liverpool live stream without a Sky or TNT subscription, it’s not always straightforward. Many fans mention Ant Sports for watching Premier League matches live. How is everyone watching this game today? submitted by /u/Grand-Hovercraft3 to r/MCFC [link] [comments]",
-      "link": "https://www.reddit.com/r/MCFC/comments/1qlu6fs/where_can_i_watch_bournemouth_vs_liverpool_live/",
-      "author": "/u/Grand-Hovercraft3",
-      "search_keyword": "how to make a game",
-      "relevance_score": 1,
-      "added_at": "2026-01-24T18:14:36.211198"
-    },
-    {
       "id": "https://www.reddit.com/r/indiegaming/t3_1qj1v68",
       "type": "post",
       "subreddit": "indiegaming",
@@ -15671,7 +15647,115 @@
       "search_keyword": "make game without coding",
       "relevance_score": 0,
       "added_at": "2026-01-24T18:14:36.210094"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qluusf",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Solo dev here! 🙋‍♂️ I got tired of boring numbers in Sudoku, so I replaced them with squishy Jellies. Just released it this week, would love your feedback!You can try searching for \"Jelly Sudoku\" on Google Play. Thanks.",
+      "content": "submitted by /u/Gate_Leather [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qluusf/solo_dev_here_i_got_tired_of_boring_numbers_in/",
+      "author": "/u/Gate_Leather",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T18:49:34.845900"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qludhf",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "I am a solo developer and made a horror game where you have to take pictures of ghosts and pet your cat to restore your sanity - Just like in real life!",
+      "content": "Hey everyone! I am the solo developer of The 18th Attic and I just launched the game after over 1 year in development! It's a horror game where you have to take pictures of ghosts and anomalies using your Polaroid camera (inspired by goat Fatal Frame!) but each time you get attacked or scared you have to pet your cat to restore your sanity. If it goes down, you can slow down and it will be harder to focus on catching ghosts! If you like, I would appreciate if you can check it out and share any feedback as it helps a ton. This is the game on steam: https://store.steampowered.com/app/3403660/The_18th_Attic__Paranormal_Anomaly_Hunting_Game Thank you all so much! :) submitted by /u/Steelkrill [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qludhf/i_am_a_solo_developer_and_made_a_horror_game/",
+      "author": "/u/Steelkrill",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T18:49:34.845973"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qluh6n",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Since we're talking about quality",
+      "content": "idea by /u/The-Chartreuse-Moose submitted by /u/Bobafat54 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qluh6n/since_were_talking_about_quality/",
+      "author": "/u/Bobafat54",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T18:49:34.846294"
+    },
+    {
+      "id": "https://www.reddit.com/r/unrealengine/t3_1qlundk",
+      "type": "post",
+      "subreddit": "unrealengine",
+      "title": "Actors vs Static Mesh Components when it comes to physics objects?",
+      "content": "Basically, almost every prop in my environment needs to be simulating physics and be interactable (through an interface). There are 2 ways to go about this: spawn each prop as a separate actor or spawn them as static mesh components attached to the same one actor. Obviously, the actor approach would be more flexible, but I don't know if the overhead is worth it. I also don't know the drawbacks of having an actor with dozens, or even hundreds, of static mesh components. Which approach would be considered the most \"correct\" one, and are there any better ones? submitted by /u/ImHereForTheBooty69 [link] [comments]",
+      "link": "https://www.reddit.com/r/unrealengine/comments/1qlundk/actors_vs_static_mesh_components_when_it_comes_to/",
+      "author": "/u/ImHereForTheBooty69",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T18:49:34.846345"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedesign/t3_1qluq3l",
+      "type": "post",
+      "subreddit": "gamedesign",
+      "title": "Weekly Show & Tell - January 24, 2026",
+      "content": "Please share information about a game or rules set that you have designed! We have updated the sub rules to encourage self-promotion, but only in this thread. Finished games, projects you are actively working on, or mods to an existing game are all fine. Links to your game are welcome, as are invitations for others to come help out with the game. Please be clear about what kind of feedback you would like from the community (play-through impressions? pedantic rules lawyering? a full critique?). Do not post blind links without a description of what they lead to. submitted by /u/AutoModerator [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedesign/comments/1qluq3l/weekly_show_tell_january_24_2026/",
+      "author": "/u/AutoModerator",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T18:49:34.846371"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qlv6u7",
+      "type": "search",
+      "subreddit": "mtg",
+      "title": "Ninja Turtles Commander Plate",
+      "content": "Hi there! I wanted to share my latest creation as you've been so supportive on my previous thread. it's not easy to work as an artist and this community has been amazing to me so far. I make custom MTG accessories and my focus is on custom commander plates that can be used to hold your commander, place dices and markers and a stress relief, worry stone piece in case the game gets too tense! Ninja turtles were a part of my childhood and I know there's lot of excitement for the upcoming set. I'm so happy! submitted by /u/A_Valkyrie_in_a_cup to r/mtg [link] [comments]",
+      "link": "https://www.reddit.com/r/mtg/comments/1qlv6u7/ninja_turtles_commander_plate/",
+      "author": "/u/A_Valkyrie_in_a_cup",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T18:49:34.848176"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qlv4tw",
+      "type": "search",
+      "subreddit": "vinyl",
+      "title": "MY BEAUTIFUL DARK TWISTED FANTASY - LIMITED EDITION 3LP (VINYL)",
+      "content": "Arguably one of, if not, the best album of all time. Kanye’s Magnum Opus. submitted by /u/jesuispattieb to r/vinyl [link] [comments]",
+      "link": "https://www.reddit.com/r/vinyl/comments/1qlv4tw/my_beautiful_dark_twisted_fantasy_limited_edition/",
+      "author": "/u/jesuispattieb",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T18:49:34.848202"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qluxdw",
+      "type": "search",
+      "subreddit": "Galacticpotatoes",
+      "title": "Game Giant Mario Maker 2 Spookario",
+      "content": "Information on spookario here!, Invite expires in 7 days. https://discord.gg/2sdvsCqw submitted by /u/GalacticPotatos to r/Galacticpotatoes [link] [comments]",
+      "link": "https://www.reddit.com/r/Galacticpotatoes/comments/1qluxdw/game_giant_mario_maker_2_spookario/",
+      "author": "/u/GalacticPotatos",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T18:49:34.848429"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qlv2kz",
+      "type": "search",
+      "subreddit": "WWEGames",
+      "title": "Imagine if 2k/Visual Concepts gives us an accurate representation of this set design",
+      "content": "....inb4 \"well 2k would have to redesign everyones entrances for it to work 🤓 \" we're paying damn near 100$ for this game and this is one of the biggest game devs and publishers working on one of the biggest franchises in gaming currently submitted by /u/BoxCon1 to r/WWEGames [link] [comments]",
+      "link": "https://www.reddit.com/r/WWEGames/comments/1qlv2kz/imagine_if_2kvisual_concepts_gives_us_an_accurate/",
+      "author": "/u/BoxCon1",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T18:49:34.848940"
     }
   ],
-  "last_updated": "2026-01-24T18:16:11.403086"
+  "last_updated": "2026-01-24T18:51:08.251492"
 }
