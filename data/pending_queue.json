@@ -1,150 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qiw41w",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "My Steam page got 100 wishlists after 2 months! (of almost 0 marketing)",
-      "content": "submitted by /u/BlueGuy503 [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qiw41w/my_steam_page_got_100_wishlists_after_2_months_of/",
-      "author": "/u/BlueGuy503",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T12:22:12.581878"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qiw97i",
-      "type": "search",
-      "subreddit": "KotakuInAction",
-      "title": "I checked the USK rules (german equivalent of ESBR that dictates the rules for publishers) and they don't forbid \"abusive depiction\" or \"female objectification\" on 16yo games (the BD2 one in Germany).",
-      "content": "Direct link on the USK 16 page: https://usk.de/en/the-usk-age-ratings/ What it means is that they don't forbid this kind of content and depiction. It's just that they inform that it is present in the game (like \"gore, violence\"). That's all. It's only informative and not forcing devs to make changes in the game. So it's not Germany the real culprit of the BD2 will of global censorship and new orientation (before the backpedaling from devs forced by the underestimated intensity of the backlash). submitted by /u/gadesabc to r/KotakuInAction [link] [comments]",
-      "link": "https://www.reddit.com/r/KotakuInAction/comments/1qiw97i/i_checked_the_usk_rules_german_equivalent_of_esbr/",
-      "author": "/u/gadesabc",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T12:22:12.582834"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qiwe1u",
-      "type": "search",
-      "subreddit": "FreeCash",
-      "title": "New to Freecash: Are these Monopoly Go \"Burning Rewards\" worth the grind? Should I spend money to speed up?",
-      "content": "Hi everyone, I just started using Freecash and I’m currently playing Monopoly Go. I noticed the 'Burning Rewards' system where the reward amounts slightly decrease every 3 days. ​I'm currently at Board 17 and progressing a bit slowly because I’m also completing 'watch an ad' tasks in Idle Bank Tycoon at the same time. ​My questions are: ​Is it worth pushing for these rewards despite the 'burning' mechanism? How much do they usually drop in the long run? ​Does it make sense to spend some money (in-game purchases) to speed up the process and reach higher boards (like Board 100 or 125)? ​For those who completed this offer, at what point did you find it getting too difficult to continue without spending? ​I've attached screenshots of my current reward table. Any tips or strategies would be greatly appreciated! Thanks submitted by /u/orbakurdek2 to r/FreeCash [link] [comments]",
-      "link": "https://www.reddit.com/r/FreeCash/comments/1qiwe1u/new_to_freecash_are_these_monopoly_go_burning/",
-      "author": "/u/orbakurdek2",
-      "search_keyword": "how to make a game",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T12:22:12.582864"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedev/t3_1qixcy0",
-      "type": "post",
-      "subreddit": "gamedev",
-      "title": "Is it better to coordinate resources centrally, or to gather resources during battle and craft weapons and ammunition ourselves?",
-      "content": "In 《Adventure Jam》, you can control various weapons to attack enemies, pick up and switch to new weapons, and utilize auxiliary skills to enhance your attack power and ammunition. This provides an optimal way to replenish weapons and ammunition in the game, allowing you to focus on combat and ammunition crafting. As a player, will you use this self-sufficient method, or prefer the game to provide everything you need? submitted by /u/liveflowertr [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedev/comments/1qixcy0/is_it_better_to_coordinate_resources_centrally_or/",
-      "author": "/u/liveflowertr",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T13:15:19.347680"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedev/t3_1qiwpk9",
-      "type": "post",
-      "subreddit": "gamedev",
-      "title": "Would you be angry if a beat'em'up was F2P with roguelite like upsells?",
-      "content": "What if a modern brawler like Absolum was F2P but regularly introduced new moves and upgrades as Patreon upsells - intially as expansion pack / season pass over a 1-year window, then eventually repackaged into the free base experience? This absolutely wouldn't work for multiplayer games, but for co-ops I think it might. The logic would be exactly the same as in buying booster packs for a card game, except the base experience would he F2P, and supporters would get early optional access to upgrades. Ib fact, given the videogame market saturation, this kind of approach could make for competitive advantage since it would lower barrier to player entry, along witn incentivizing community building as a way to get insider's scoops. Thoughts? submitted by /u/3xNEI [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedev/comments/1qiwpk9/would_you_be_angry_if_a_beatemup_was_f2p_with/",
-      "author": "/u/3xNEI",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T13:15:19.347731"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qixaev",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "My game: Dobbel Dungeon, a turnbased tactics rpg with dice, will be releasing in less than a month !!!! 🎲",
-      "content": "submitted by /u/miesmud [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qixaev/my_game_dobbel_dungeon_a_turnbased_tactics_rpg/",
-      "author": "/u/miesmud",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T13:15:19.347779"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qiwszw",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Making my own game (engine) pt. 8",
-      "content": "submitted by /u/322gg [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qiwszw/making_my_own_game_engine_pt_8/",
-      "author": "/u/322gg",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T13:15:19.347800"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qiwo6z",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Help! With design",
-      "content": "Good morning Reddit! I am a young designer who has a background in Graphic Design and just finish a post graduate program at UT for UxUi. I have always been interested in doing Ux or designing Ui in the game industry but the resources and information I am able to find are just really out or just scarce. I would love to know more about getting into the field, what do they want to see in the portfolio work, resources so I can learn more, and if I need to learn other softwares like Unreal, Unity, Blender or Framer. If I can get some guidance or even better a mentor! That would be amazing, thank you for reading (: submitted by /u/Economy-Suit-5192 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qiwo6z/help_with_design/",
-      "author": "/u/Economy-Suit-5192",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T13:15:19.347817"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qiwzlm",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Indie Math",
-      "content": "submitted by /u/dinguuuuuuus [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qiwzlm/indie_math/",
-      "author": "/u/dinguuuuuuus",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T13:15:19.347880"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qiwypn",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "First Godot Project: Fallout Terminal",
-      "content": "submitted by /u/Ursa_Maj [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qiwypn/first_godot_project_fallout_terminal/",
-      "author": "/u/Ursa_Maj",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T13:15:19.347886"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qiwuwy",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Making a game where you Destroy Scam Centers and Fraud Farms with orbital strikes.",
-      "content": "Hi guys, I’m building a game that lets you destroy scam centers and fraud farms with orbital strikes. It’s a tactical defense game where you command a satellite, find clients, acquire contracts, and take down scam centers targeting them. The UI and HUD are inspired by real SOC interfaces, so if you work in cybersecurity, it will feel familiar. Think of it like tower defense from space, but the enemies are scam call centers. The game is still in development, but you can play it now here: https://privasim.com/orbitalview Tons of new content will be added, and I’d love for you to join my Subreddit r/soc _ops and share your feedback. submitted by /u/itsdarkness_10 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qiwuwy/making_a_game_where_you_destroy_scam_centers_and/",
-      "author": "/u/itsdarkness_10",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T13:15:19.347910"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qiwran",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Making my own game (engine) pt. 8",
-      "content": "Nilu Engine development update! - Added a trigger system. - Integrated a scripting language (Lua) and built a basic control API. Scripts can be assigned to NPCs and triggers. - Added NPC \"vision\" zones (useful for stealth) and separate NPC-specific triggers (for example, to activate dialogue). - NPCs can now have two scripts: one for base behavior and another for a trigger. Unlike regular triggers, an NPC trigger moves together with the NPC. - Taught NPCs to use navmesh-based pathfinding. - Improved the shadow system. In the video: - One NPC constantly follows the player (script). - Another NPC patrols along a route defined by coordinates (script). - At the end of the video, I add a trigger and a script that turns off one of the light sources when the player enters the area. Next step: rebuilding the test scene to identify potential bugs and rough spots in the content workflow pipeline. submitted by /u/322gg [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qiwran/making_my_own_game_engine_pt_8/",
-      "author": "/u/322gg",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T13:15:19.347941"
-    },
-    {
       "id": "https://www.reddit.com/r/IndieDev/t3_1qiwp0v",
       "type": "post",
       "subreddit": "IndieDev",
@@ -15023,7 +14879,67 @@
       "search_keyword": "make game without coding",
       "relevance_score": 0,
       "added_at": "2026-01-24T10:42:23.064405"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qlk4zk",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Why is my car doing this? I followed a tutorial and used godot docs but this always happens",
+      "content": "im not pressing anything its like the wheels dont have collisions submitted by /u/Rude-Future245 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qlk4zk/why_is_my_car_doing_this_i_followed_a_tutorial/",
+      "author": "/u/Rude-Future245",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T11:08:29.200222"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qlk43j",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Don't forget to center your pivot offset before rotating something",
+      "content": "submitted by /u/DDevilAAngel [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qlk43j/dont_forget_to_center_your_pivot_offset_before/",
+      "author": "/u/DDevilAAngel",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T11:08:29.200229"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qlkbd0",
+      "type": "search",
+      "subreddit": "LoLFanArt",
+      "title": "Skin Concept: Felbound Kha'Zix",
+      "content": "I have had this idea in my head for years, but never been able to bring it to life myself (thanks Chat GPT for helping me). I used his original splash to get the design set and then got him in his own pose for an actual view of what his own splash art may be. The idea is, ive always wanted a Jurassic Kha'Zix, but i felt we could spice it up besides being skeletal. So, its as if he was summoned by a Necromancer or Warlock from the dead. Blood Wings/claws signifying some form of corrupted life has reanimated him, skeletal/undead body, engraved runes marking his bones showing some forbidden or dark ritual, and green fel energy flowing through the runes and his eyes (inspired by world of warcraft). Would love to see this in game! I also think it would make a really cool skin line. submitted by /u/PolyamorousMistakes to r/LoLFanArt [link] [comments]",
+      "link": "https://www.reddit.com/r/LoLFanArt/comments/1qlkbd0/skin_concept_felbound_khazix/",
+      "author": "/u/PolyamorousMistakes",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T11:08:29.201300"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qlk8wk",
+      "type": "search",
+      "subreddit": "blackops3",
+      "title": "the t7x and boiii is crashing immediately.",
+      "content": "I recently installed Black Ops 3 via Steam Family Library. The base game runs perfectly with no issues at all. However, I am having trouble getting the t7x ( Alterware ) or boiii ( Ezz-lol ) clients to work. When I place the exe files into the BO3 root folder and try to run them as instructed, the screen flashes briefly, and the application crashes immediately. There are no error messages or warnings to indicate what caused the crash. Both clients are experiencing the exact same issue. Steps I’ve already taken to fix it: Ran the applications as Administrator. Reinstalled the base game (BO3). Reinstalled both the boiii and t7x client files. Manually deleted all related files in File Explorer before re-attempting. Restarted my device multiple times. Despite these efforts, the problem persists. submitted by /u/ORL160 to r/blackops3 [link] [comments]",
+      "link": "https://www.reddit.com/r/blackops3/comments/1qlk8wk/the_t7x_and_boiii_is_crashing_immediately/",
+      "author": "/u/ORL160",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T11:08:29.201671"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qlk7jm",
+      "type": "search",
+      "subreddit": "PlayStation_X",
+      "title": "Bought DLC but it won’t show up? This is usually the real reason",
+      "content": "Ever notice how DLC problems almost always show up right when you’re ready to play? You buy it, it downloads, the store says installed, and the game acts like it doesn’t exist. I’ve seen this exact situation way too many times. Most people assume it’s a download glitch, but more often than not it’s a region mismatch. If the base game is a physical disc, its region has to match the region of the PlayStation account used to buy the DLC. If they don’t match, the console will happily take your money and install something the game will never recognize. Before panicking, I always check a few things. Press Options on the game tile and open Manage Content. If the DLC shows up there but says usable, it’s installed correctly. If it doesn’t show at all, that’s a red flag. Rebuilding the database or restoring licenses can help sometimes, but if the transaction is still pending, it may just be stuck in limbo. Personally, if I’m using a physical copy, I make sure the disc region and my PSN account line up before buying anything extra. Saves a lot of stress. If you’ve run into this, was it a region issue for you or did Sony support actually fix it? Curious how often this still catches people out. submitted by /u/edward_dd to r/PlayStation_X [link] [comments]",
+      "link": "https://www.reddit.com/r/PlayStation_X/comments/1qlk7jm/bought_dlc_but_it_wont_show_up_this_is_usually/",
+      "author": "/u/edward_dd",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T11:08:29.201975"
     }
   ],
-  "last_updated": "2026-01-24T10:44:00.194804"
+  "last_updated": "2026-01-24T11:10:10.867209"
 }
