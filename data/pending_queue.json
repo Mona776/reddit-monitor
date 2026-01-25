@@ -1,138 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/godot/t3_1qje9sy",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Using Godot for simulating destruction and debris dispersion",
-      "content": "I am looking to use Godot (or something similar) to simulate the destruction of man-made environments under different loading conditions - think a roof ripping off during a hurricane, or a wall falling over during an earthquake. I have seen some similar work done using PyBullet, but from what I have read, the Jolt physics engine may yield better results. My question for this subreddit is, is Godot a good choice for this sort of application? I am not looking to develop a game (though I have some personal interest in that area), this is primarily for realistic simulations of debris dispersion. I am also completely new to the world of game/physics engines, and have a solid, but basic, foundation in coding. Any advice regarding getting started would also be greatly appreciated! submitted by /u/Dr-LJG [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qje9sy/using_godot_for_simulating_destruction_and_debris/",
-      "author": "/u/Dr-LJG",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T23:43:53.100360"
-    },
-    {
-      "id": "https://www.reddit.com/r/unrealengine/t3_1qjdxky",
-      "type": "post",
-      "subreddit": "unrealengine",
-      "title": "Im going to make a Turn Based tactical game. Are these 2 templates good or should i start from scratch?",
-      "content": "1: Unreal Engine Strategy Template: https://www.fab.com/listings/f229a0dd-e4e5-4a95-a31a-5c25d6d384f3 https://www.youtube.com/watch?v=tEn3KstYfJQ Turn-Based Strategy RPG Template https://www.fab.com/listings/f3fe31dd-85f7-4720-b485-301bd77996e8 Turn Based Strategy https://www.fab.com/listings/3efedfe9-f1e8-4b33-9bdc-14155dbfebbe I'm normally hesitant to go for templates, especially if they are blueprints, because of how confusing everything seems. It seems most of the time it is better to do it yourself from scratch. Did anyone try any of these templates? Should i go with any of these? submitted by /u/FutureLynx_ [link] [comments]",
-      "link": "https://www.reddit.com/r/unrealengine/comments/1qjdxky/im_going_to_make_a_turn_based_tactical_game_are/",
-      "author": "/u/FutureLynx_",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T23:43:53.100382"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qje15s",
-      "type": "search",
-      "subreddit": "marvelrivals",
-      "title": "Is the Deadpool rewards event scamming anyone else with false wins?",
-      "content": "I rolled on the event today and it landed on 300 units but I got a pop up saying better luck next time? Is this possible to happen on all spaces even if I land on the correct one? As you can see the space landed on is still highlighted in the photo. 😔 submitted by /u/agenderghoul to r/marvelrivals [link] [comments]",
-      "link": "https://www.reddit.com/r/marvelrivals/comments/1qje15s/is_the_deadpool_rewards_event_scamming_anyone/",
-      "author": "/u/agenderghoul",
-      "search_keyword": "no code game",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T23:43:53.100655"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qjdxa3",
-      "type": "search",
-      "subreddit": "blackops7",
-      "title": "Fallout Promotion code",
-      "content": "Hello CoD community! I genuinely enjoyed playing a few matches of CoD which was a nice break from my usual Fallout rotation (and I hope members of this community have been able to check out the Fallout games as a result too)! But I wanted to see if any kind redditors had a spare code from the Fallout collaboration I had no issue playing CoD matches, but unfortunately I have yet to be granted anything. Both Bethesda Support and Activision Support haven't been helpful submitted by /u/CamTheNeko67 to r/blackops7 [link] [comments]",
-      "link": "https://www.reddit.com/r/blackops7/comments/1qjdxa3/fallout_promotion_code/",
-      "author": "/u/CamTheNeko67",
-      "search_keyword": "no code game",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T23:43:53.100670"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qje4a1",
-      "type": "search",
-      "subreddit": "WallStreetbetsELITE",
-      "title": "The most popular stocks on Reddit today",
-      "content": "Sandisk, Intel and Immunitybio are standing out as new hot stocks. If you had to pick one for the next 3–6 months, which would it be? submitted by /u/AltIndexApp to r/WallStreetbetsELITE [link] [comments]",
-      "link": "https://www.reddit.com/r/WallStreetbetsELITE/comments/1qje4a1/the_most_popular_stocks_on_reddit_today/",
-      "author": "/u/AltIndexApp",
-      "search_keyword": "AI game maker",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T23:43:53.102120"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qjeb3p",
-      "type": "search",
-      "subreddit": "Ultrakill",
-      "title": "Is Fraud trying to achieve something never before attempted in video games?",
-      "content": "Portals are in a good few games now, however I don't think any of them are as complex as Ultrakill. The obvious portal game that comes to mind is Portal. You are basically only bringing stationary objects through portals, the most complex being Turrets. However, Turrets don't have any pathfinding, and don't even look up. They just send hitscan fire through portals. I've seen people mention other games that have \"portal mechanics\" when in reality the portals are just PNGs that teleport you to another PNG. Not seamless like the portals seen in Portal and Fraud. The closest game that is somewhat similar to the mechanics seen in Fraud is Splitgate. It has both seamless portals and combat mechanics. However, Splitgate is PvP, meaning there are no NPCs that need to pathfind through portals. I'm making this post because I don't actually know a lot about Splitgate, or any other games that might include portals (except Portal). There might already be a game that combines portals and PvE. If not, then we have a reason why Fraud is taking so long. The game devs are trying make something that has never been made before. (Some stuff in this post is probably completely wrong, so please correct me) submitted by /u/radayrk to r/Ultrakill [link] [comments]",
-      "link": "https://www.reddit.com/r/Ultrakill/comments/1qjeb3p/is_fraud_trying_to_achieve_something_never_before/",
-      "author": "/u/radayrk",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T23:43:53.102170"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qje18q",
-      "type": "search",
-      "subreddit": "stellarblade",
-      "title": "Why Was The Game Called \"Stellar BLADE?\"",
-      "content": "I was always curious if the Dev team every mentioned why they decided to call the game \"Stellar BLADE?\" What is the game's relevance to that title? Why not something like \"EVE Protocol\" instead, as that has greater narrative relevance? submitted by /u/Farronhart to r/stellarblade [link] [comments]",
-      "link": "https://www.reddit.com/r/stellarblade/comments/1qje18q/why_was_the_game_called_stellar_blade/",
-      "author": "/u/Farronhart",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T23:43:53.102280"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qjfwpu",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Into the Crypt - my passion project deckbuilding roguelike",
-      "content": "Into the Crypt is a deep deckbuilding roguelike I have been passionately working on for several years. New screenshots and game info is up on Steam on. It's inspired by the likes of Slay the Spire, and builds on that vibe with familiar gameplay concepts, adding twists and mechanics of its own as well. The game will have a vast number of enemies, each with their own threat styles. There will be several distinct classes with their own decks, and a large number of artifacts, items, cards, and other cool things to find. Check it out on Steam if you're a fan of deckbuilders, and I know this genre is overly consumed in the market but it's my passion to craft a great deckbuilder (hopefully). submitted by /u/megaglope [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qjfwpu/into_the_crypt_my_passion_project_deckbuilding/",
-      "author": "/u/megaglope",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T00:50:25.518989"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qjf8zw",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Have you seen the upcoming indie cosmic horror game?",
-      "content": "https://store.steampowered.com/app/3702120/Life__Shadow_Celestial_Call submitted by /u/Additional-Cup-8074 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qjf8zw/have_you_seen_the_upcoming_indie_cosmic_horror/",
-      "author": "/u/Additional-Cup-8074",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T00:50:25.519016"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qjfsjy",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "I NEED YOUR HELP - Bird Duck",
-      "content": "submitted by /u/Over-Mud-9339 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qjfsjy/i_need_your_help_bird_duck/",
-      "author": "/u/Over-Mud-9339",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T00:50:25.519046"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qjfo4r",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "OneDrive file backup alternative for indie devs?",
-      "content": "so i do lots of unity development on my laptop and i recently got a new pc. having both computers on my microsoft account has been wrecking my computer files because onedrive is the devil, and i’ve specifically had the most issues with onedrive overwriting unity project files and github changes. so i am wondering what everyone uses to back up their non-game project files/whole computer? is a hard drive the best option if syncing software is incompatible with engine files? i have tried troubleshooting onedrive and i am fed up with it and now trying to find an alternative that actually is compatible with game project files and version control. i hear about similar problems with dropbox as well. and just for extra clarity since i’ve had such a hard time researching this question: i use github for my game projects and im happy with it, i am seeking some method for easily backing up the rest of my computer (not project files) that doesnt mess up those project files. i appreciate any ideas! submitted by /u/2blackbeans [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qjfo4r/onedrive_file_backup_alternative_for_indie_devs/",
-      "author": "/u/2blackbeans",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T00:50:25.519078"
-    },
-    {
       "id": "https://www.reddit.com/r/IndieDev/t3_1qjfixn",
       "type": "post",
       "subreddit": "IndieDev",
@@ -16043,7 +15911,91 @@
       "search_keyword": "make game without coding",
       "relevance_score": 0,
       "added_at": "2026-01-25T08:46:19.186733"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qmedfp",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "My first Low-poly 3D survival game made in 20 days",
+      "content": "submitted by /u/KidPudel [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qmedfp/my_first_lowpoly_3d_survival_game_made_in_20_days/",
+      "author": "/u/KidPudel",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T09:11:17.235395"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qmebp9",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Tried composing a track for the first area of my game, is it good ?",
+      "content": "Tried composing a track for the first area of my game, music is always a challenge and I'm slowly trying to learn. submitted by /u/icebox-91 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qmebp9/tried_composing_a_track_for_the_first_area_of_my/",
+      "author": "/u/icebox-91",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T09:11:17.235418"
+    },
+    {
+      "id": "https://www.reddit.com/r/unrealengine/t3_1qme0kb",
+      "type": "post",
+      "subreddit": "unrealengine",
+      "title": "Need a developer for creating a game?",
+      "content": "Hi everyone, Just had an idea regarding the creation of a game and wanted to know if anyone is interested in co-creating this game with me. I am very new to Unreal Engine and hence wanted to work with somebody. If you are someone who likes to work on projects that are well worth their time, then do ping me and we can work together. I am technically sound and happy to explore a way where you can earn something as well on the side. Let me know guys! submitted by /u/the_correct_guy [link] [comments]",
+      "link": "https://www.reddit.com/r/unrealengine/comments/1qme0kb/need_a_developer_for_creating_a_game/",
+      "author": "/u/the_correct_guy",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T09:11:17.235495"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qme5rk",
+      "type": "search",
+      "subreddit": "battlestations",
+      "title": "2026 Battlestation",
+      "content": "submitted by /u/wemius to r/battlestations [link] [comments]",
+      "link": "https://www.reddit.com/r/battlestations/comments/1qme5rk/2026_battlestation/",
+      "author": "/u/wemius",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T09:11:17.236392"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qme8na",
+      "type": "search",
+      "subreddit": "marvelrivals",
+      "title": "Xbox texture rendering bug",
+      "content": "This is affecting the entire Xbox platform, both Series X and Series S. I suggest everyone on Xbox make a big stink about this on Reddit, X, and Discord. Xbox is the minority player base, and because of that we’re prone to being ignored by devs, so we’ve gotta make a lot of noise to push for a patch ASAP. Also, make sure to use the in-game bug reporting feature: Settings > Other > ‘Report an Issue or Bug'. submitted by /u/Neon_Moons to r/marvelrivals [link] [comments]",
+      "link": "https://www.reddit.com/r/marvelrivals/comments/1qme8na/xbox_texture_rendering_bug/",
+      "author": "/u/Neon_Moons",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T09:11:17.236535"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qmec1k",
+      "type": "search",
+      "subreddit": "SBCGaming",
+      "title": "What types of games can I realistically play on the miyoo mini flip?",
+      "content": "I've been looking into getting the mini flip for an EDC device and was wondering if I could realistically play a game like Metroid: Zero Mission on it somewhat comfortably. The \"comfortability\" of a device isn't really just the overall size; The weight and buttons (especially the triggers in a game like Zero Mission) play a big part in it too. If we're getting nitpicky I've found the buttons on my brick are noticeably harder to press down than on other devices I've used, so I ended up finishing Zero Mission on my DSi instead. The extra pressure I needed to use on the brick made my hands cramp up sometimes playing it, with the only saving grace being that it would have been even worse if it wasn't as hefty as it is. I also own the regular miyoo mini v4, and while the face buttons are easy to press, the triggers were a nightmare when trying Zero Mission, and I also felt like I had to \"baby\" the device to not damage the screen. The clamshell design of the mini flip would solve this problem, with the bonus of having triggers that are actually flat rather than slanted. Even though I have medium-sized hands, I never really found small devices like these as uncomfortable as most people seem to say. Maybe it's just how I like to hold them compared to others but it's something to note. So all of that nitpicking is just to say that if the miyoo mini flip is lightweight AND has easy-to-press buttons then that might make it pass the Zero Mission test in my book. I wanted some other opinions on if I'm just delusional or not! submitted by /u/zase7 to r/SBCGaming [link] [comments]",
+      "link": "https://www.reddit.com/r/SBCGaming/comments/1qmec1k/what_types_of_games_can_i_realistically_play_on/",
+      "author": "/u/zase7",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T09:11:17.236568"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qmeaa2",
+      "type": "search",
+      "subreddit": "disneymagickingdoms",
+      "title": "so done with this ad",
+      "content": "i keep getting this 2 minute ad. unskipable every time, and its just 1 person talking about bitcoin for like 20 seconds on loop. its not just this game too, but some of the tapjoy games seem to have the same ad provider, so they also just randomly push 2 minutes of blonde woman talking about how easy bitcoin is! if youre curious, this is a bitvavo or bitvavio or whatever ad (i make it a point to look anywhere but the ad, thats why the name might me off) submitted by /u/femke0 to r/disneymagickingdoms [link] [comments]",
+      "link": "https://www.reddit.com/r/disneymagickingdoms/comments/1qmeaa2/so_done_with_this_ad/",
+      "author": "/u/femke0",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T09:11:17.236582"
     }
   ],
-  "last_updated": "2026-01-25T08:47:52.356211"
+  "last_updated": "2026-01-25T09:12:56.703021"
 }
