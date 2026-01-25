@@ -1,114 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qjlaeo",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Thank you to the community!",
-      "content": "I just wanted to thank the dev community for all the support and positivity. I feel that there's not a lot of places on the internet where this happens. I had someone reach out to me this morning and offer to create a logo for my game. No request for pay just because he loves doing it. Not only that i've had kind words supporting my demo drop, game feedback, and pulling me back when I was wanting to quit. So to everyone. Thank you! submitted by /u/No_Selection_6840 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qjlaeo/thank_you_to_the_community/",
-      "author": "/u/No_Selection_6840",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T05:02:01.787456"
-    },
-    {
-      "id": "https://www.reddit.com/r/unity/t3_1qjkzyn",
-      "type": "post",
-      "subreddit": "unity",
-      "title": "How Do I Delete The Current Gameobject",
-      "content": "my only option of objects to delete are in the assets folder, id like to delete just the current object. how do i do that? submitted by /u/kitchentablestudios [link] [comments]",
-      "link": "https://www.reddit.com/r/unity/comments/1qjkzyn/how_do_i_delete_the_current_gameobject/",
-      "author": "/u/kitchentablestudios",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T05:02:01.787572"
-    },
-    {
-      "id": "https://www.reddit.com/r/unity/t3_1qjkhd9",
-      "type": "post",
-      "subreddit": "unity",
-      "title": "Made my ball game really big! What do you think?",
-      "content": "submitted by /u/Traditional-Log-4270 [link] [comments]",
-      "link": "https://www.reddit.com/r/unity/comments/1qjkhd9/made_my_ball_game_really_big_what_do_you_think/",
-      "author": "/u/Traditional-Log-4270",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T05:02:01.787578"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qjkq95",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "Everron- Erasia versus screen plus am done coding her will be showing off gameplay this Saturday",
-      "content": "Here we got Erasia versus screen She's definitely not stressing for the fight with blade Death Soul Took a while but I got her done just on time submitted by /u/CautiousDirector3738 [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qjkq95/everron_erasia_versus_screen_plus_am_done_coding/",
-      "author": "/u/CautiousDirector3738",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T05:02:01.787590"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qjlg3f",
-      "type": "search",
-      "subreddit": "emulators",
-      "title": "Guess the emulation projects",
-      "content": "New PS3 Emulator ChuckyStation 3. This is currently early development like RPCS3 and a port of Android called APCS3. Your thoughts? submitted by /u/ItsMePoppyDWTrolls to r/emulators [link] [comments]",
-      "link": "https://www.reddit.com/r/emulators/comments/1qjlg3f/guess_the_emulation_projects/",
-      "author": "/u/ItsMePoppyDWTrolls",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T05:02:01.787892"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qjl2r1",
-      "type": "search",
-      "subreddit": "memes",
-      "title": "Most of the time is like this lol",
-      "content": "submitted by /u/bijelo123 to r/memes [link] [comments]",
-      "link": "https://www.reddit.com/r/memes/comments/1qjl2r1/most_of_the_time_is_like_this_lol/",
-      "author": "/u/bijelo123",
-      "search_keyword": "AI game maker",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T05:02:01.788209"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qjlaeo",
-      "type": "search",
-      "subreddit": "IndieDev",
-      "title": "Thank you to the community!",
-      "content": "I just wanted to thank the dev community for all the support and positivity. I feel that there's not a lot of places on the internet where this happens. I had someone reach out to me this morning and offer to create a logo for my game. No request for pay just because he loves doing it. Not only that i've had kind words supporting my demo drop, game feedback, and pulling me back when I was wanting to quit. So to everyone. Thank you! submitted by /u/No_Selection_6840 to r/IndieDev [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qjlaeo/thank_you_to_the_community/",
-      "author": "/u/No_Selection_6840",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T05:02:01.788311"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedev/t3_1qjm5nr",
-      "type": "post",
-      "subreddit": "gamedev",
-      "title": "Dealing with rejection?",
-      "content": "Hello, I’m a recent grad trying to get into the games industry in pretty much any way I can. I just spent 2 months interviewing for a company and after 6 rounds of interviews I got a rejection. Is this normal for an entry level role? It was for a medium sized studio based in California. submitted by /u/gregraystinger [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedev/comments/1qjm5nr/dealing_with_rejection/",
-      "author": "/u/gregraystinger",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T05:50:05.985373"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qjlxo6",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Added a shotgun that is very effective at close range.",
-      "content": "submitted by /u/alignment_zero [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qjlxo6/added_a_shotgun_that_is_very_effective_at_close/",
-      "author": "/u/alignment_zero",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T05:50:05.985396"
-    },
-    {
       "id": "https://www.reddit.com/r/indiegaming/t3_1qjlwuf",
       "type": "post",
       "subreddit": "indiegaming",
@@ -15803,7 +15695,127 @@
       "search_keyword": "make game without coding",
       "relevance_score": 0,
       "added_at": "2026-01-25T10:43:39.966454"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qmg603",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "Making my dream game at 17 Years Old",
+      "content": "Making my dream game at 17 Years Old submitted by /u/Previous_Mushroom_13 [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qmg603/making_my_dream_game_at_17_years_old/",
+      "author": "/u/Previous_Mushroom_13",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T11:08:25.088026"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qmg9kg",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Good Games 355 - Pixelbound",
+      "content": "A relaxing game in which you free pixels to make art. https://youtu.be/dz24VMjaCpg submitted by /u/FortKenmei [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qmg9kg/good_games_355_pixelbound/",
+      "author": "/u/FortKenmei",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T11:08:25.088175"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qmg7ss",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Making my dream game at 17 Years Old (video)",
+      "content": "Making my dream game at 17 Years Old - YouTube submitted by /u/Previous_Mushroom_13 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qmg7ss/making_my_dream_game_at_17_years_old_video/",
+      "author": "/u/Previous_Mushroom_13",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T11:08:25.088185"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qmg4ho",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Making my dream game at 17 Years Old (Godot)",
+      "content": "submitted by /u/Previous_Mushroom_13 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qmg4ho/making_my_dream_game_at_17_years_old_godot/",
+      "author": "/u/Previous_Mushroom_13",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T11:08:25.088205"
+    },
+    {
+      "id": "https://www.reddit.com/r/unrealengine/t3_1qmg540",
+      "type": "post",
+      "subreddit": "unrealengine",
+      "title": "Hi! I posted this Unreal scene before and made a bunch of improvements since then. It’s a cave-ruins environment with a shallow pond, god rays, a big stone head, a doorway, and a torch-lit character. Could you please critique the latest version and tell me what still looks off / unpolished. Thanks",
+      "content": "The old one. submitted by /u/AndrjuhaSVK [link] [comments]",
+      "link": "https://www.reddit.com/r/unrealengine/comments/1qmg540/hi_i_posted_this_unreal_scene_before_and_made_a/",
+      "author": "/u/AndrjuhaSVK",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T11:08:25.088240"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qmgdcf",
+      "type": "search",
+      "subreddit": "SpottedUprising",
+      "title": "Iherb Promo Codes | 30% Off January 2026 Coupons",
+      "content": "Use the iHerb coupon code in January 2026 . There is a wide selection of promo codes, coupons, and discount codes that are updated regularly for you to choose from and make your purchase more affordable. submitted by /u/cageyadages to r/SpottedUprising [link] [comments]",
+      "link": "https://www.reddit.com/r/SpottedUprising/comments/1qmgdcf/iherb_promo_codes_30_off_january_2026_coupons/",
+      "author": "/u/cageyadages",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T11:08:25.089368"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qmgd1l",
+      "type": "search",
+      "subreddit": "LoudlyGreasy",
+      "title": "Clarins Promo Codes | 30% Off January 2026 Coupons",
+      "content": "Use the Clarins coupon code in January 2026 . There is a wide selection of promo codes, coupons, and discount codes that are updated regularly for you to choose from and make your purchase more affordable. submitted by /u/flakyanemian to r/LoudlyGreasy [link] [comments]",
+      "link": "https://www.reddit.com/r/LoudlyGreasy/comments/1qmgd1l/clarins_promo_codes_30_off_january_2026_coupons/",
+      "author": "/u/flakyanemian",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T11:08:25.089386"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qmgcvg",
+      "type": "search",
+      "subreddit": "readingspace",
+      "title": "Practical Gifts for New Dads",
+      "content": "New dads don't need more \"cute stuff\" or generic gift baskets—they need gear that actually saves time at 2am feedings and makes those first chaotic months more manageable. Full list: Practical Gifts That Make the First Months Easier This list skips the fluff and focuses on practical wins that matter: handling diaper changes anywhere without drama, establishing better sleep routines, and small comfort upgrades that actually get used every single day instead of collecting dust. One standout from the roundup: a formula dispenser that makes a warm, perfectly measured bottle in literal seconds, no scooping, no measuring, no mixing at 3am while half asleep. It's the kind of gift that pays off immediately when you're running on zero sleep and just need something to work right the first time. The guide also covers other essentials like portable diaper stations, quality baby carriers that don't wreck your back, white noise machines that actually help babies sleep, and dad-specific gear that makes the learning curve less steep. What was your most-used piece of gear as a new parent, the thing you genuinely couldn't have survived without? submitted by /u/Important-Road-3493 to r/readingspace [link] [comments]",
+      "link": "https://www.reddit.com/r/readingspace/comments/1qmgcvg/practical_gifts_for_new_dads/",
+      "author": "/u/Important-Road-3493",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T11:08:25.089421"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qmgcai",
+      "type": "search",
+      "subreddit": "AntiForsaken",
+      "title": "Big L update 😂😂😂",
+      "content": "No high quality skins, rushed (and mid) event skins, sick concepts cancelled, more drama, the Nosferatu skin that I grind for HOURS is so BAD, RUSHED… NO Noli Milestones, bro I’m done. Blame John. I don’t know the future of Forsaken, it’s dying slowly… I just want this game to have good leaders bro, but it’s just too much to ask for… anyways, my thoughts on this update is that they’re just trying to distract us from all the drama these days, and maybe from the 25%… what you guys think about this update? I’m wrong? submitted by /u/MiguelSantana42 to r/AntiForsaken [link] [comments]",
+      "link": "https://www.reddit.com/r/AntiForsaken/comments/1qmgcai/big_l_update/",
+      "author": "/u/MiguelSantana42",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T11:08:25.089940"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qmg9vt",
+      "type": "search",
+      "subreddit": "dayzlfg",
+      "title": "Seeking friendship",
+      "content": "Recently moved from Xbox to PlayStation dayz having around 5000 hours between multiple accounts on Xbox.. so I know a bit about the game on how things work and how things go down out there in this dangerous world of dayz, been playing a few months now on the ps5 and been running solo I’m an Adult player 36 male uk based play most nights after 8pm for a few hours a night usually 4/5 with having work in the week, an weekends I’m on an put in a good 6/7 hours sessions Friday & Saturday night, preferably after uk time zone active players but anyone EU based who are similar to GMT interested in linking up an playing long term, I personally prefer official servers, DM me if their is anyone out their interested in linking up an making a good friendship on dayz 🫡 submitted by /u/Electronic_Camera_32 to r/dayzlfg [link] [comments]",
+      "link": "https://www.reddit.com/r/dayzlfg/comments/1qmg9vt/seeking_friendship/",
+      "author": "/u/Electronic_Camera_32",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T11:08:25.090233"
     }
   ],
-  "last_updated": "2026-01-25T10:45:27.274397"
+  "last_updated": "2026-01-25T11:10:03.453910"
 }
