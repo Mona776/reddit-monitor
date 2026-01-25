@@ -1,30 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qjn6eq",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Nano Banana Technique ka Kamaal! 🍌🚀 #Gaming",
-      "content": "submitted by /u/Physical_Law_1178 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qjn6eq/nano_banana_technique_ka_kamaal_gaming/",
-      "author": "/u/Physical_Law_1178",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T06:56:48.529759"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qjn3dz",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Is my 1 v 5 horror game concept worth working on?",
-      "content": "I had the idea for a game like Friday the 13th and Dead by Daylight where one player is the monster and the other 5 have to escape To make it more unique I want to make it less of a escape game and more of a survival game so either a timer runs out and the survivors win or the last survivor alive can do something to win I had the idea of making it to where the monster gets stronger as the players die off to make it more fun as it progresses Would this be a good first project? I’m new to game development and I wanted to make a few smaller games like this before I start working on the bigger ideas I have submitted by /u/Many-Butterscotch553 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qjn3dz/is_my_1_v_5_horror_game_concept_worth_working_on/",
-      "author": "/u/Many-Butterscotch553",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T06:56:48.529785"
-    },
-    {
       "id": "https://www.reddit.com/r/IndieDev/t3_1qjniwy",
       "type": "post",
       "subreddit": "IndieDev",
@@ -15863,7 +15839,151 @@
       "search_keyword": "make game without coding",
       "relevance_score": 0,
       "added_at": "2026-01-25T12:19:06.638839"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qmifu6",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "RGB is probably the most original game I've made",
+      "content": "submitted by /u/FiredUpForge [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qmifu6/rgb_is_probably_the_most_original_game_ive_made/",
+      "author": "/u/FiredUpForge",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T13:07:05.932957"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qmi67b",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Added Simplified Chinese support to my survival game ahead of EA launch",
+      "content": "Don't Freeze now supports Simplified Chinese! 🇨🇳 Wanted to make the game accessible to Chinese-speaking players before Early Access launch in March. Full UI, dialogue, and tutorial localization complete. Turn-based card survival game where time only moves when you act. Made it for people who get motion sickness from FPS games. Demo: https://store.steampowered.com/app/3853360/Dont_Freeze_A_Winter_Card_Survival_Demo/ 谢谢 to everyone who's supported the game so far! submitted by /u/yolo35games [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qmi67b/added_simplified_chinese_support_to_my_survival/",
+      "author": "/u/yolo35games",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T13:07:05.932981"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qmhvoa",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "completed my first indie game",
+      "content": "Ravy Davy: Attack on Ambiguity is now complete I started this project in May 2025 so after 9months I have birthed my first indie videogame, which I plan to release very soon! https://store.steampowered.com/app/3924590/Ravy\\_Davy\\_Attack\\_on\\_Ambiguity/ submitted by /u/davidgersch [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qmhvoa/completed_my_first_indie_game/",
+      "author": "/u/davidgersch",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T13:07:05.933034"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qmiizf",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Capsule AO",
+      "content": "When I was playing Nioh, I was wondering how they achieve this type of AO for character. This method can produce a very good ambient occulusion very effectively. So I completed it in Godot using compositor. submitted by /u/OwlImmediate4169 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qmiizf/capsule_ao/",
+      "author": "/u/OwlImmediate4169",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T13:07:05.933044"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qmi7tk",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Mesh not showing expected Albedo color",
+      "content": "Help with shader graph: I have this material set up, where the color of the mesh should change depending on the `health` parameter. When setting it from the shader graph, the inspected nodes show the color correctly, however the mesh itself seems to only change between 2 shades of yellow. Same happens when setting the parameter from the inspector on the right hand side. When I hook up the fraction part (goes from 0 -> 1) it correctly shows a grayscale color on the mesh. Am I missing something? submitted by /u/Tom3skkk [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qmi7tk/mesh_not_showing_expected_albedo_color/",
+      "author": "/u/Tom3skkk",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T13:07:05.933060"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qmi42n",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Should I use 4:3 or 16:9 as the aspect ratio in my photography game?",
+      "content": "I kinda like 4:3 since it is supposed to be a retro photography game but I'm worried it would look weird. submitted by /u/Zmashcat [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qmi42n/should_i_use_43_or_169_as_the_aspect_ratio_in_my/",
+      "author": "/u/Zmashcat",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T13:07:05.933069"
+    },
+    {
+      "id": "https://www.reddit.com/r/unity/t3_1qmi9dl",
+      "type": "post",
+      "subreddit": "unity",
+      "title": "Is this laptop good for unity and 3d modeling",
+      "content": "submitted by /u/NoticeGreedy8904 [link] [comments]",
+      "link": "https://www.reddit.com/r/unity/comments/1qmi9dl/is_this_laptop_good_for_unity_and_3d_modeling/",
+      "author": "/u/NoticeGreedy8904",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T13:07:05.933127"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qmikj6",
+      "type": "search",
+      "subreddit": "hoi4",
+      "title": "Game not starting on Linux",
+      "content": "The game isn't starting on Linux Arch. That's it. No Error codes, no logs, not even the launcher shows up. In fact, all the paradox games stopped working I'm running Full AMD Arch build, all from last gen, any help is appreciated submitted by /u/doc_Element63e to r/hoi4 [link] [comments]",
+      "link": "https://www.reddit.com/r/hoi4/comments/1qmikj6/game_not_starting_on_linux/",
+      "author": "/u/doc_Element63e",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T13:07:05.933267"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qmilyz",
+      "type": "search",
+      "subreddit": "CanadaReferralCodes",
+      "title": "Canadians can get up to $35 when signing up with Neo Financial",
+      "content": "If you make a credit account with Neo Financial. We both get $25. Then If you make a debit account (Neo Money) with Neo Financial and deposit $50 (just put it in the account, you do NOT have to spend anything so you can even move it back to your bank after!) we both get another $10 You can do one or the other. Or both for a total of $35! Not bad for NOT having to spend anything Both accounts are free to set up and use. Link: https://refer.neofinancial.com/neo-card/?nf_cv=E6B8C9Y7 Promo Code: E6B8C9Y7 If you have already signed up recently, you can also enter the code in the promo code section. submitted by /u/BeannePickles to r/CanadaReferralCodes [link] [comments]",
+      "link": "https://www.reddit.com/r/CanadaReferralCodes/comments/1qmilyz/canadians_can_get_up_to_35_when_signing_up_with/",
+      "author": "/u/BeannePickles",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T13:07:05.933889"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qmilxs",
+      "type": "search",
+      "subreddit": "PJODisney",
+      "title": "The show should have been animated.",
+      "content": "You know, I haven't heard many people talk about this, but I really think Percy Jackson would've been way better if it was animated. I mean, how do you even do \"Sea of Monsters\" without any monsters? Seriously, the show just can't seem to show off the fantasy stuff. Luke's boat was supposed to be packed with all sorts of monsters. And Argus, was not mention or seen. The hippocampi were only shown super far away, just their top halves, and no one even rode them. Heck, the Mist is barely a thing, and the Golden Fleece didn't even turn into a Letterman jacket like in the book. The only thing I can say the movies did right was actually making the fantasy elements feel real. If the show was animated, all those live-action problems wouldn't exist, and it would've been so much easier to see all the fantastical settings. submitted by /u/huslug to r/PJODisney [link] [comments]",
+      "link": "https://www.reddit.com/r/PJODisney/comments/1qmilxs/the_show_should_have_been_animated/",
+      "author": "/u/huslug",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T13:07:05.933909"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qmilg8",
+      "type": "search",
+      "subreddit": "SpottedUprising",
+      "title": "NFL Game Pass Promo Codes | 30% Off January 2026 Coupons",
+      "content": "Top NFL Game Pass Promo Codes for January 25, 2026 . Use NFL Game Pass coupons to save up to 30% off. Access the latest coupons and promo codes by visiting the link, featuring a regularly updated list of coupons, promo codes, and discounts. submitted by /u/cageyadages to r/SpottedUprising [link] [comments]",
+      "link": "https://www.reddit.com/r/SpottedUprising/comments/1qmilg8/nfl_game_pass_promo_codes_30_off_january_2026/",
+      "author": "/u/cageyadages",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T13:07:05.934071"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qmie3r",
+      "type": "search",
+      "subreddit": "platinumfive",
+      "title": "A weird issues I've been having recently",
+      "content": "Since a week or two, almost every time I join the game and go in OW, it sends me in a server with 2 to 4 guys max. It gets really lonely and barren after a while. Second issues is that Roblox killed communication, with their poopy \"security\" update, I can't hear anyone on comms cause of my old age group, nothing the devs can do 🫤 submitted by /u/Logical-Ad8617 to r/platinumfive [link] [comments]",
+      "link": "https://www.reddit.com/r/platinumfive/comments/1qmie3r/a_weird_issues_ive_been_having_recently/",
+      "author": "/u/Logical-Ad8617",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T13:07:05.934456"
     }
   ],
-  "last_updated": "2026-01-25T12:20:51.079510"
+  "last_updated": "2026-01-25T13:08:49.167925"
 }
