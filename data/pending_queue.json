@@ -1,90 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qjt8rv",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "my dice-deck-building roguelike is growing out of control. Too little dice, too many things to use them",
-      "content": "the name of the game is Die or Die submitted by /u/oluwagembi [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qjt8rv/my_dicedeckbuilding_roguelike_is_growing_out_of/",
-      "author": "/u/oluwagembi",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T13:24:38.193513"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qjubfl",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "My game “AxeSlinger”",
-      "content": "This is my first godot project!! AxeSlinger is an FPS roguelike where you fight your way through demon infested dungeons with guitar weapons. Shoot, loot and upgrade your stats until you’re an unstoppable axe-slinging machine! submitted by /u/ComplexAd7455 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qjubfl/my_game_axeslinger/",
-      "author": "/u/ComplexAd7455",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T13:24:38.193536"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qju5jh",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Is there a way to bypass the UNSAFE_METHOD_ACCESS debbuger warning?",
-      "content": "This is my code, it's part of a pool. Currently I only use it for Node3Ds but I want to use it for Node2Ds too. var node: Node if node.has_method(\"show\"): node.show() I know I can disable the warning in the project settings, but I don't want to disable it entirely. I figured, maybe there's something like the underscore in front of parameters, that let's the compiler know to ignore it. Or is the only solution to cast the node to Node2D and 3D? submitted by /u/ab_plus_ [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qju5jh/is_there_a_way_to_bypass_the_unsafe_method_access/",
-      "author": "/u/ab_plus_",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T13:24:38.193558"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qju3a8",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Invalid call. Nonexistent function 'get_item_by_position' in base 'Nil'.",
-      "content": "So in my game I have turn based combat encounters and during a battle there is an option to open a menu and use an item from the menu on one of the party members. I have run into a problem where when I open the inventory and use an item (inventory automatically closes after using an item) and then open the inventory for the second time, the game crashes and I get the error: Invalid call. Nonexistent function 'get_item_by_position' in base 'Nil'. Here is the code for the inventory menu: https://preview.redd.it/jc2nzp0zfweg1.png?width=1324&format=png&auto=webp&s=6d3100c7fa70359f8a8fd835e033d7d03eb8216e and here is the part of the code for the battle system: https://preview.redd.it/blexfnexfweg1.png?width=1283&format=png&auto=webp&s=4847ea9498fca32e0874a7f214d8d3f5e8c46ef7 submitted by /u/Hal_Ember [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qju3a8/invalid_call_nonexistent_function_get_item_by/",
-      "author": "/u/Hal_Ember",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T13:24:38.193578"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qjt9si",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "my dice-deck-building roguelike is growing out of control. Too little dice, too many things to use t",
-      "content": "the name of the game is Die or Die submitted by /u/oluwagembi [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qjt9si/my_dicedeckbuilding_roguelike_is_growing_out_of/",
-      "author": "/u/oluwagembi",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T13:24:38.193592"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qjtyzs",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "Finally got stealth working in my open-world American Frontier RPG",
-      "content": "___ submitted by /u/VedoTr [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qjtyzs/finally_got_stealth_working_in_my_openworld/",
-      "author": "/u/VedoTr",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T13:24:38.193601"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qjtv54",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "For anyone else who received feedback that your game is underpriced, did a price increase result in any backlash?",
-      "content": "And not from the Steam algorithm, which prefers higher prices anyways. From the players Direct surveys seem to receive it well, but not everyone can be surveyed submitted by /u/Anodaxia_Gamedevs [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qjtv54/for_anyone_else_who_received_feedback_that_your/",
-      "author": "/u/Anodaxia_Gamedevs",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T13:24:38.193610"
-    },
-    {
       "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qjt4za",
       "type": "post",
       "subreddit": "SoloDevelopment",
@@ -16895,7 +16811,115 @@
       "search_keyword": "make game without coding",
       "relevance_score": 0,
       "added_at": "2026-01-25T21:09:07.621639"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qmw1qw",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Solo dev: 6–7 In-A-Row (Coming Soon). No gravity (place anywhere), 2–4 players local or network. And a bit of humour!",
+      "content": "https://preview.redd.it/coomrjwqckfg1.png?width=920&format=png&auto=webp&s=94b796053ea8da72a51ffa4faf2bb96a0c58fb7b I’m a solo dev working on 6–7 In-A-Row , a Connect-4-inspired strategy game with a twist: no gravity, so you can place your piece anywhere. Goal: line up 6 to win… or go for 7+ if you want to show off. Is 6 a win? Meh… yes. We’ll accept it. 😄 Steam page: 6-7 In-A-Row (Coming Soon) (More screenshots than what is on the page currently coming soon! I did a lot this weekend, but need time to take some good screenshots!!) If you’re into tabletop/strategy games, I’d love a wishlist!! And if you have thoughts on features that don’t overcomplicate a pure board game, I’m all ears. Thanks in advance! submitted by /u/ResponsibleNoise6376 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qmw1qw/solo_dev_67_inarow_coming_soon_no_gravity_place/",
+      "author": "/u/ResponsibleNoise6376",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T21:38:04.944723"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qmvqmr",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Steam Capsule - Cartoon vs In game?",
+      "content": "I know the general rule is no in-game screenshots for Steam Capsule, but I like how it shows the sauce which is a key element of the game. Which do you like better? If you want to share and discuss your steam capsule as well, feel free. submitted by /u/AnimalStyleGame [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qmvqmr/steam_capsule_cartoon_vs_in_game/",
+      "author": "/u/AnimalStyleGame",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T21:38:04.944760"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qmvkn7",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Just released this game multiplayer like Agar.io. Need to stress test the server",
+      "content": "Hello guys, This game I made in 72h is just released and I would like to have some player to test it. The game is completly free to play. It's a remake of the famous Right Click To Necromance but in multiplayer so you don't play alone endlessly. You can play it here : https://conkest.io Your feedback is much appreciated. submitted by /u/clarkiagames [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qmvkn7/just_released_this_game_multiplayer_like_agario/",
+      "author": "/u/clarkiagames",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T21:38:04.944774"
+    },
+    {
+      "id": "https://www.reddit.com/r/unity/t3_1qmvq82",
+      "type": "post",
+      "subreddit": "unity",
+      "title": "I just upgraded my project to Unity 6.3 LTS, and I can't find the snapping increments feature, all I see is grid snapping.",
+      "content": "Help. submitted by /u/bemo_10 [link] [comments]",
+      "link": "https://www.reddit.com/r/unity/comments/1qmvq82/i_just_upgraded_my_project_to_unity_63_lts_and_i/",
+      "author": "/u/bemo_10",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T21:38:04.944853"
+    },
+    {
+      "id": "https://www.reddit.com/r/unrealengine/t3_1qmvvuu",
+      "type": "post",
+      "subreddit": "unrealengine",
+      "title": "Destroy Actor Weird Issue",
+      "content": "Anyone know why the actor is never destroyed once the loop is completed even though it print COMPLETED so the loop works fine.. https://imgur.com/a/kB12oIZ submitted by /u/Appropriate-Jelly-57 [link] [comments]",
+      "link": "https://www.reddit.com/r/unrealengine/comments/1qmvvuu/destroy_actor_weird_issue/",
+      "author": "/u/Appropriate-Jelly-57",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T21:38:04.944864"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qmw32d",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "After 1 Year Of Solo Development - My Fatal Frame-Inspired Horror Game Where You Cat Pets To Restore Sanity Just Released! Any feedback is more then welcome!",
+      "content": "Hey everyone! I am the solo developer of The 18th Attic and I recently just launched the game after over 1 year in development! It's a horror game where you have to take pictures of ghosts and anomalies using your Polaroid camera (inspired by goat Fatal Frame!) but each time you get attacked or scared you have to pet your cat to restore your sanity otherwise it will be harder to catch the real anomalies! If it goes all the way down, you can slow down and it will be harder to focus on catching ghosts! If you like, I would appreciate if you can check it out and share any feedback as it helps a ton! This is the game on steam: https://store.steampowered.com/app/3403660/The_18th_Attic__Paranormal_Anomaly_Hunting_Game Thank you all so much and appreciate any feedback! :) submitted by /u/Steelkrill [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qmw32d/after_1_year_of_solo_development_my_fatal/",
+      "author": "/u/Steelkrill",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T21:38:04.944893"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qmwa2s",
+      "type": "search",
+      "subreddit": "xbox",
+      "title": "Worst piece of hardware and software EVER made",
+      "content": "Every time I turn this pos on its something else. Oh you turned your xbox off? Well now it cant connect to the internet unless you unplug me(Not even a hard reset works) Oh and your party with your friends? Try getting removed without even being fucking told! Every time my friend gets a notification my other friend is removed from the party without his knowledge. And all of that is assuming parties even work at all that day! Want to play some of your games that were Free with Gold back in the day? Too fucking bad! Need to get in contact with a human being that can help you with an issue? Also too bad! We have NO support team! Me and my 4 friends will never be purchasing another piece of xbox hardware as long as we live. Not even my $1.5k library could EVER justify buying the next pos console 👍 Be ashamed Xbox, your console and service is utter fucking garbage submitted by /u/AriesLionheart to r/xbox [link] [comments]",
+      "link": "https://www.reddit.com/r/xbox/comments/1qmwa2s/worst_piece_of_hardware_and_software_ever_made/",
+      "author": "/u/AriesLionheart",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T21:38:04.945966"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qmw9z9",
+      "type": "search",
+      "subreddit": "runescape",
+      "title": "Memory Dowser is already powerful but it needs to be able to pick up fragments at range.",
+      "content": "So the item is designed to make you be able to afk easier. So when you afk Div you are usually going to do it on the Div server, high population and a lot of people on screen. The game glitches pretty hard with that many people. You have stuff disappearing and popping back up from time to time. It is easy to click on fragments by mistake and pull you out of where you were standing, that removes so much of the afk from the item. I get that the item is already powerful but doesn't this sorta interrupt the key point of the item? Maybe I'm just overreacting. submitted by /u/Dave-C to r/runescape [link] [comments]",
+      "link": "https://www.reddit.com/r/runescape/comments/1qmw9z9/memory_dowser_is_already_powerful_but_it_needs_to/",
+      "author": "/u/Dave-C",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T21:38:04.946199"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qmw9ry",
+      "type": "search",
+      "subreddit": "PWNedBy1400",
+      "title": "I got some dev in the same game, so here some clip of it",
+      "content": "Oh look its a guest forsaken skin reference submitted by /u/kry_23123 to r/PWNedBy1400 [link] [comments]",
+      "link": "https://www.reddit.com/r/PWNedBy1400/comments/1qmw9ry/i_got_some_dev_in_the_same_game_so_here_some_clip/",
+      "author": "/u/kry_23123",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T21:38:04.947115"
     }
   ],
-  "last_updated": "2026-01-25T21:10:28.292451"
+  "last_updated": "2026-01-25T21:39:54.058517"
 }
