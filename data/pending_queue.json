@@ -1,54 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/t3_1qjmjxh",
-      "type": "search",
-      "subreddit": "gamecollecting",
-      "title": "My game collection is growing, so is my backlog",
-      "content": "submitted by /u/Working_Ad_503 to r/gamecollecting [link] [comments]",
-      "link": "https://www.reddit.com/r/gamecollecting/comments/1qjmjxh/my_game_collection_is_growing_so_is_my_backlog/",
-      "author": "/u/Working_Ad_503",
-      "search_keyword": "no code game",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T06:17:57.681607"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qjmxig",
-      "type": "search",
-      "subreddit": "PcBuild",
-      "title": "Is there anything that needs fixing?",
-      "content": "My budget for this pc is 2300 dollars and i want to know if theres any upgrades that can be made for this gaming pc without sacrificing performance from other parts. I am from iceland which has crazy pricing on shipping but there should be some of these parts in stores near me. submitted by /u/Grouchy-Ball-957 to r/PcBuild [link] [comments]",
-      "link": "https://www.reddit.com/r/PcBuild/comments/1qjmxig/is_there_anything_that_needs_fixing/",
-      "author": "/u/Grouchy-Ball-957",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T06:17:57.681753"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qjmusu",
-      "type": "search",
-      "subreddit": "RPGdesign",
-      "title": "Making my own system",
-      "content": "So making my own system for my world. First thing is converting a custom currency. For early drafts for reference I wanna convert some adventures and I wanna do the treasure and stuff. My idea is in my game 1 cp is 1 dollar. 1 sp is 100 dollars. And 1 gp is 1000 dollars. When converting to my system it seems the gold rewards are all over the place. How would y’all advice to convert the dnd stuff to my currency? Thinking of converting the dnd stuff to a usd amount and then converting to my currency. Also a big thing is gold is exp in the world. First level needs 2000 copper (or 2 gp) to level to 2 for reference submitted by /u/Practical-Class-9033 to r/RPGdesign [link] [comments]",
-      "link": "https://www.reddit.com/r/RPGdesign/comments/1qjmusu/making_my_own_system/",
-      "author": "/u/Practical-Class-9033",
-      "search_keyword": "how to make a game",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T06:17:57.682706"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qjneyn",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "I’m having a playtest for my game, CHROMADI. Would love if you guys tried it out, thanks!",
-      "content": "If you guys would like the try the game out, you can head over to our discord and grab the link. Thanks! https://discord.chromadi.fun submitted by /u/Kleanup-Games [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qjneyn/im_having_a_playtest_for_my_game_chromadi_would/",
-      "author": "/u/Kleanup-Games",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T06:56:48.529747"
-    },
-    {
       "id": "https://www.reddit.com/r/indiegaming/t3_1qjn6eq",
       "type": "post",
       "subreddit": "indiegaming",
@@ -15839,7 +15791,79 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-01-25T11:35:40.866009"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qmh9uw",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Vampire boss fight and a silly cat-riding-cat combo from my RTS",
+      "content": "I’m a solo dev working on a small card-based lane RTS about cats called Claws of Power . You spend dried fish as a resource to summon different cats onto the lane and try to crack the enemy base. Each unit has its own role/skill, so it’s more about timing and cost management than pure spam. The two vampire gifs are from a later boss fight where the boss moves with the wave, throws out big attacks and can easily wipe your frontline if you mistime your summons. The last gif is a little interaction I like: a tiny knight cat jumps onto a big tank cat and rides along while attacking, so they move as one unit. I’m still tuning the balance, but if this kind of thing interests you, there’s a free demo on Steam here: https://store.steampowered.com/app/3998900/_/ submitted by /u/Zestyclose_Party8281 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qmh9uw/vampire_boss_fight_and_a_silly_catridingcat_combo/",
+      "author": "/u/Zestyclose_Party8281",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T12:19:06.638153"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qmh02u",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "I added a “TikTok/Phone Mode” to my 1-bit game",
+      "content": "submitted by /u/vvaalleerraa [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qmh02u/i_added_a_tiktokphone_mode_to_my_1bit_game/",
+      "author": "/u/vvaalleerraa",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T12:19:06.638173"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qmh8oe",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Sprite head and 3D body concept",
+      "content": "submitted by /u/lonku [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qmh8oe/sprite_head_and_3d_body_concept/",
+      "author": "/u/lonku",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T12:19:06.638230"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qmh2lp",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "[AMA] Solodev-ing a game since 2012, releasing in few days on PS4/PS5 (earlier on Switch, Switch 2, Xbox One, Xbox Series, Steam, Windows Store)",
+      "content": "Some history: I started working on “Chickens Madness” around 2012 on a game engine called Shiva, and several months later moved to Unity3d. In 2014 moved and restated everything on UE4, was very excited about the engine going public. Since then, the game was on every release of the Engine, since 4.0, the demo released on 4.17 and the final game released on 4.20 on Steam in 2018 (it was a Greenlight game at the early days of the program and was greenlit in ~6 days), then on 4.22 on Xbox and Switch in 2020. Been ID@ Xbox and Nindies developer since day one of these programs, but Sony always rejected being a developer due to some paperwork. Anyways, then for new generation of the same platforms in 2025 on 5.6 and in few days on PS4 & PS5 still on 5.6. The game been localized to 16 languages, had some special engine features that are never part of Unreal, and been worked alone during all those years! It has been a wild journey! submitted by /u/VikongGames [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qmh2lp/ama_solodeving_a_game_since_2012_releasing_in_few/",
+      "author": "/u/VikongGames",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T12:19:06.638267"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qmh2ie",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Making my dream game at 17 Years Old",
+      "content": "https://www.youtube.com/watch?v=a72xle0LCKA submitted by /u/Previous_Mushroom_13 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qmh2ie/making_my_dream_game_at_17_years_old/",
+      "author": "/u/Previous_Mushroom_13",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T12:19:06.638297"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qmhn02",
+      "type": "search",
+      "subreddit": "LoudlyGreasy",
+      "title": "East Dane Promo Codes | 30% Off January 2026 Coupons",
+      "content": "Use the East Dane coupon code in January 2026 . There is a wide selection of promo codes, coupons, and discount codes that are updated regularly for you to choose from and make your purchase more affordable. submitted by /u/flakyanemian to r/LoudlyGreasy [link] [comments]",
+      "link": "https://www.reddit.com/r/LoudlyGreasy/comments/1qmhn02/east_dane_promo_codes_30_off_january_2026_coupons/",
+      "author": "/u/flakyanemian",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T12:19:06.638839"
     }
   ],
-  "last_updated": "2026-01-25T11:37:34.981284"
+  "last_updated": "2026-01-25T12:20:51.079510"
 }
