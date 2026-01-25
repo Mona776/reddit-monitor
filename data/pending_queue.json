@@ -1,42 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qjr6v3",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "I made items that can be consumed or thrown at enemies for no reason",
-      "content": "submitted by /u/datadiisk_ [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qjr6v3/i_made_items_that_can_be_consumed_or_thrown_at/",
-      "author": "/u/datadiisk_",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T10:51:00.531626"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qjr30i",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Friend's Pass: I need advice",
-      "content": "I’m currently developing a party game with a friend, and we’re thinking about setting up a “Friend's Pass”, where one player who owns the game can invite friends who don’t own it to play with them. We’d love to get some feedback from other developers who have already tried something like this, whether from a technical, financial, or community point of view. Do you think this is a good idea overall? We’re planning to price the game around $7–$10, so we’re also wondering if letting people play for free through a friend's pass really makes sense at that price point. Or could it actually help bring in more players and give the game more visibility? Any thoughts or experiences would be really appreciated. <3 submitted by /u/FallingPlatypus [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qjr30i/friends_pass_i_need_advice/",
-      "author": "/u/FallingPlatypus",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T10:51:00.531665"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qjqy8i",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Working on a new location in my game",
-      "content": "https://store.steampowered.com/app/3061950/Nightmare_Within/ submitted by /u/No-Surprise7327 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qjqy8i/working_on_a_new_location_in_my_game/",
-      "author": "/u/No-Surprise7327",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T10:51:00.531673"
-    },
-    {
       "id": "https://www.reddit.com/r/unity/t3_1qjqx3b",
       "type": "post",
       "subreddit": "unity",
@@ -16391,7 +16355,79 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-25T17:08:21.310390"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qmpezb",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "I coded a small hex grid math library in C# while making a strategy game. If anyone wants to use it.",
+      "content": "https://github.com/ashishkarn/HexMath It uses cubic coordinate system and implements basic hex math functions as well as pixel to hex and hex to pixel coordinates conversion functions. submitted by /u/abyssDweller1700 [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qmpezb/i_coded_a_small_hex_grid_math_library_in_c_while/",
+      "author": "/u/abyssDweller1700",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T17:39:48.290636"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qmpo02",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "I will be posting weekly my 2-year journey creating my rhythm game and publishing it on steam with sales numbers.",
+      "content": "I have been working on a new rhythm game called Beats of Fury on Steam, and I am getting ready to publish it in the next few months. I will share videos of the development, and at the end, I will publish the marketing techniques I used and the sales numbers. submitted by /u/BubbleHeadGames [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qmpo02/i_will_be_posting_weekly_my_2year_journey/",
+      "author": "/u/BubbleHeadGames",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T17:39:48.290682"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qmoun4",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "I’m working on a psychological narrative game about pressure, guilt, and how people cope.",
+      "content": "You play a high school student living in the shadow of a “perfect” older sibling who died under extreme academic expectations. The game is about uncovering the truth about his death and how you live afterwards. There’s no health bar, only stress. Conflicts aren’t fights, they’re conversations, memories, and expectations. Your choices aren’t good vs evil, but confront vs deflection: face what hurts, or keep functioning by pushing it aside. The game tracks patterns over time to decide the final outcome. Im still working on it but i really want to know if this is something people would be interested in. submitted by /u/Away_Photograph_4171 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qmoun4/im_working_on_a_psychological_narrative_game/",
+      "author": "/u/Away_Photograph_4171",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T17:39:48.290725"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qmou4w",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Keepers of Vyrellia - A retro 8-bit deck builder roguelike with '80s vibes",
+      "content": "We’ve just launched a brand-new itch page for Keepers of Vyrellia, along with a fresh demo that includes our latest improvements and additions. This new demo better represents the direction of the game, and we’d love for you to give it a try and share your thoughts. Your feedback helps us shape Vyrellia moving forward. Thanks for the continued support! https://ghostpixel-games.itch.io/keepers-of-vyrellia submitted by /u/New_Age_7541 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qmou4w/keepers_of_vyrellia_a_retro_8bit_deck_builder/",
+      "author": "/u/New_Age_7541",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T17:39:48.290825"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedesign/t3_1qmp68y",
+      "type": "post",
+      "subreddit": "gamedesign",
+      "title": "Fake Voice Acting Examples",
+      "content": "Games voicing dialogs can be summarized into a few types: Mute Typing sounds Voice Acting SFX Blablabla, Aaaa AAaaa AA, Haa ee hooo. I'm looking to for examples about the last one and where or not they add someting to the game. submitted by /u/wardrol_ [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedesign/comments/1qmp68y/fake_voice_acting_examples/",
+      "author": "/u/wardrol_",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T17:39:48.290862"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qmpnqd",
+      "type": "search",
+      "subreddit": "Sixthgrade",
+      "title": "HALF LIFE REFERENCE?",
+      "content": "No way submitted by /u/mcreazy_11h to r/Sixthgrade [link] [comments]",
+      "link": "https://www.reddit.com/r/Sixthgrade/comments/1qmpnqd/half_life_reference/",
+      "author": "/u/mcreazy_11h",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T17:39:48.291337"
     }
   ],
-  "last_updated": "2026-01-25T17:09:44.074375"
+  "last_updated": "2026-01-25T17:41:29.818140"
 }
