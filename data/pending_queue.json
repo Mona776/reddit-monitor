@@ -1,102 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qjt34a",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "My game is... is this real??",
-      "content": "That’s my game! It doesn’t seem to show up in everyone’s New & Trending section, but honestly, launching a game is an experience I can’t put into words. Take this as motivation, launch your game one day if you haven’t already. The mix of excitement, anxiety, pride, and “is this actually real?” hits all at once. After 4 years in development, Gem Miner TD is finally out on Steam. The biggest moment? My game was released two hours late because of Steam build review issues, but still, there were 30 players instantly hitting F5 to buy it and play, with no idea exactly when it would go live. That feeling is something else. Steam page: https://store.steampowered.com/app/2835780/Gem_Miner_TD/ submitted by /u/iFeral [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qjt34a/my_game_is_is_this_real/",
-      "author": "/u/iFeral",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T12:22:35.626034"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qjswiv",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "I’m making a game where you can stick hamsters all over your Desktop",
-      "content": "For the new year, we started a side project called Hamster's Sticker Book . It’s a cozy desktop overlay where you collect cute stickers and actually attach them to your screen while you work. I just finished the animation for the sticker machine. Does it look rewarding enough to make you want to pull for more**?** We really want to get that one-more-roll feeling right. submitted by /u/Dotori_Doguldan [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qjswiv/im_making_a_game_where_you_can_stick_hamsters_all/",
-      "author": "/u/Dotori_Doguldan",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T12:22:35.626052"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qjst4t",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Anyone interested in trying a free demo of a psychological toy-crafting game (Jan 26)?",
-      "content": "We're excited to announce that toy crafter, a psychological toy-crafting game where you assemble dolls and uncover subtle, unsettling anomalies is releasing a free playable DEMO on january 26th ! submitted by /u/Good_Artichoke_1321 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qjst4t/anyone_interested_in_trying_a_free_demo_of_a/",
-      "author": "/u/Good_Artichoke_1321",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T12:22:35.626059"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qjsi58",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Is it just me or does the ground look slightly red?",
-      "content": "To me, it looks like the lighter part is very slightly tinted red, but in reality it's actually entirely blue. I just want to see if I'm the only one seeing this or if it's some kind of optical illusion. submitted by /u/PeekyChew [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qjsi58/is_it_just_me_or_does_the_ground_look_slightly_red/",
-      "author": "/u/PeekyChew",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T12:22:35.626097"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qjsd6r",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "I need marketing advices before Next Fest!",
-      "content": "submitted by /u/AkreliaStudio [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qjsd6r/i_need_marketing_advices_before_next_fest/",
-      "author": "/u/AkreliaStudio",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T12:22:35.626102"
-    },
-    {
-      "id": "https://www.reddit.com/r/unrealengine/t3_1qjsow4",
-      "type": "post",
-      "subreddit": "unrealengine",
-      "title": "Best method for baked lighting in Unreal Engine 5.5?",
-      "content": "Hey everyone, What is currently the best method for baked lighting in Unreal Engine? I was advised to use Luoshuang’s GPULightmass, but unfortunately I couldn’t find a version compatible with UE 5.5.4. Are there any similar plugins or better alternatives that work with this version? Thanks in advance. submitted by /u/Paranoid_Reaper [link] [comments]",
-      "link": "https://www.reddit.com/r/unrealengine/comments/1qjsow4/best_method_for_baked_lighting_in_unreal_engine_55/",
-      "author": "/u/Paranoid_Reaper",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T12:22:35.626156"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qjst83",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "How Fake Founder Stories Are Warping Startup Expectations",
-      "content": "You open Reddit. You find r/SaaS . And there it is: someone just hit $100k in three months. Someone else sold for €20 million after four months of work. Another founder quit their job, learned to code from YouTube, and now makes $35k/month… submitted by /u/bishwasbhn [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qjst83/how_fake_founder_stories_are_warping_startup/",
-      "author": "/u/bishwasbhn",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T12:22:35.626171"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qjsuvw",
-      "type": "search",
-      "subreddit": "PlayFragPunk",
-      "title": "I don't try to sound disrespectful, but.",
-      "content": "How do Fragpunk devs give away money/fragpunk coins all the time and give us so much free stuff while the game is dying? Is the game popular in China? Because all I'm seeing is free stuff and tons of updates with a dying player base. submitted by /u/Meat_sl4yer to r/PlayFragPunk [link] [comments]",
-      "link": "https://www.reddit.com/r/PlayFragPunk/comments/1qjsuvw/i_dont_try_to_sound_disrespectful_but/",
-      "author": "/u/Meat_sl4yer",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T12:22:35.627750"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qjsuje",
       "type": "search",
       "subreddit": "PUBATTLEGROUNDS",
@@ -16835,7 +16739,115 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-01-25T20:11:33.123030"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qmunj3",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "I made a game where I can bully my friends :D",
+      "content": "submitted by /u/Buff_me_plz [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qmunj3/i_made_a_game_where_i_can_bully_my_friends_d/",
+      "author": "/u/Buff_me_plz",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T20:42:17.575686"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qmu6j7",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Any thoughts on this little player controller?",
+      "content": "Hi! I'm making a 2D metroidvania, where you play as this creature in a big world. eventually he will walk on big moving creatures. Any thoughts/feedback on how the controllers looks? submitted by /u/LarsMaas7 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qmu6j7/any_thoughts_on_this_little_player_controller/",
+      "author": "/u/LarsMaas7",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T20:42:17.575708"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qmu5sl",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "My gift to the community: a library of 3d assets and textures. The coupon is valid for 26 more hours",
+      "content": "❤️ If you find these useful, please consider leaving a rating: https://pizzadoggy.itch.io/psx-mega-pack/rate ❤️ Coupon: https://pizzadoggy.itch.io/PMTRKXG6T4 The 3d assets were made in Blender, and the scenes were rendered in Godot submitted by /u/Pizza_Doggy [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qmu5sl/my_gift_to_the_community_a_library_of_3d_assets/",
+      "author": "/u/Pizza_Doggy",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T20:42:17.575789"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qmty5e",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "strange black capsule shape in viewport",
+      "content": "any idea what this is? it's visible even after i hide everything in the scene submitted by /u/ggidk_llc [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qmty5e/strange_black_capsule_shape_in_viewport/",
+      "author": "/u/ggidk_llc",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T20:42:17.575797"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qmuiiu",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Any suggestions of what to add or remove in this capsule?",
+      "content": "submitted by /u/FiscoGames [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qmuiiu/any_suggestions_of_what_to_add_or_remove_in_this/",
+      "author": "/u/FiscoGames",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T20:42:17.575815"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qmu5bh",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "steam or itch.io for visual novels?? both???",
+      "content": "i’m working on my first visual novel, but wondering if steam or itch.io would be a better platform for it! or would it be more beneficial to use both? i’m very new to game creation so i hope this doesn’t seem silly 😰 submitted by /u/MedicalAd9859 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qmu5bh/steam_or_itchio_for_visual_novels_both/",
+      "author": "/u/MedicalAd9859",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T20:42:17.575830"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qmuptj",
+      "type": "search",
+      "subreddit": "balkans_irl",
+      "title": "What was he cooking",
+      "content": "Random fact of the day Music is the arrangement of sound to create some combination of form, harmony, melody, rhythm, or otherwise expressive content.[1][2][3] Music is generally agreed to be a cultural universal that is present in all human societies.[4] Definitions of music vary widely in substance and approach.[5] While scholars agree that music is defined by a small number of specific elements, there is no consensus as to what these necessary elements are.[6] Music is often characterized as a highly versatile medium for expressing human creativity.[7] Diverse activities are involved in the creation of music, and are often divided into categories of composition, improvisation, and performance.[8] Music may be performed using a wide variety of musical instruments, including the human voice. It can also be composed, sequenced, or otherwise produced to be indirectly played mechanically or electronically, such as via a music box, barrel organ, or digital audio workstation software on a computer. Music often plays a key role in social events and religious ceremonies. The techniques of making music are often transmitted as part of a cultural tradition. Music is played in public and private contexts, highlighted at events such as festivals and concerts for various different types of ensembles. Music is used in the production of other media, such as in soundtracks to films, TV shows, operas, and video games. submitted by /u/Flaviphone to r/balkans_irl [link] [comments]",
+      "link": "https://www.reddit.com/r/balkans_irl/comments/1qmuptj/what_was_he_cooking/",
+      "author": "/u/Flaviphone",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T20:42:17.576657"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qmukpq",
+      "type": "search",
+      "subreddit": "Humanornot",
+      "title": "I copied the bot's responses and this is what I got",
+      "content": "The worst part is that i got fooled 😭😭 submitted by /u/Iinksafebot to r/Humanornot [link] [comments]",
+      "link": "https://www.reddit.com/r/Humanornot/comments/1qmukpq/i_copied_the_bots_responses_and_this_is_what_i_got/",
+      "author": "/u/Iinksafebot",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T20:42:17.577300"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qmuo5o",
+      "type": "search",
+      "subreddit": "GameboyAdvance",
+      "title": "Clear Orange",
+      "content": "Some people speculate this was never a real color and is the result of fading and ultraviolet light. Not sure as I can't seem to find a definitive answer. submitted by /u/Cougar_Focus to r/GameboyAdvance [link] [comments]",
+      "link": "https://www.reddit.com/r/GameboyAdvance/comments/1qmuo5o/clear_orange/",
+      "author": "/u/Cougar_Focus",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T20:42:17.577406"
     }
   ],
-  "last_updated": "2026-01-25T20:13:12.200393"
+  "last_updated": "2026-01-25T20:44:10.701530"
 }
