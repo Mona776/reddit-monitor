@@ -1,6 +1,30 @@
 {
   "queue": [
     {
+      "id": "https://www.reddit.com/t3_1qmmy63",
+      "type": "search",
+      "subreddit": "MobileGameDiscoveries",
+      "title": "🚀 Share Your Game Sunday – Indie Devs & Gamers Unite",
+      "content": "It’s Share Your Game Sunday 🚀 This thread is for: 🔧 Indie Devs → Share your own game (screens, clips, or links encouraged!) 🎮 Gamers → Check out what devs are building & give feedback 🤝 A chance for the community to support each other Whether you’ve launched, soft-launched, or just have a prototype – drop it here 👇 submitted by /u/AutoModerator to r/MobileGameDiscoveries [link] [comments]",
+      "link": "https://www.reddit.com/r/MobileGameDiscoveries/comments/1qmmy63/share_your_game_sunday_indie_devs_gamers_unite/",
+      "author": "/u/AutoModerator",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 1,
+      "added_at": "2026-01-25T16:11:47.138775"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qmn54l",
+      "type": "search",
+      "subreddit": "RDCWorld",
+      "title": "Love the W in 64, but y'all should pay attention to how Mark interacted with people",
+      "content": "That speed run was good damn hilarious, literally watched 2 niggas train on a 30 year old game for 5 hours. What made it entertaining was the interactions with the 3. There's a reason why Mark gets praise from other streamers when it comes to IRL interactions. Let me tell y'all a life hack for socializing, the best way to connect is to treat the other person as if you're in \"awe\" of them. We all want to be the most interesting person in a convo, but most people don't give a fuck initially. If you watch the stream again, Mark took full interest in Coach RDCimply. Because of marks interest we learned: He's been speed running since 2012 He used to speed run Zelda He has a top 50 world record time in 64 There are different categories for speed runs(TAS,etc) Coach plays smash and is a self proclaimed demon Etc Rage spent most of his time locked into his persona, I ain't talking shit, but rage got himself in a corner where he can't even act \"normal\" in front of the camera. Everything that nigga was doing was over the top and Saturday cartoonish, but that's how he makes his money I ain't hating. In any case, this was just a small observation I had while watching the stream, I try not to get into it that deep, but the contrast of those 2 personalities was amazing. Burns think piece cap submitted by /u/Pegsareus to r/RDCWorld [link] [comments]",
+      "link": "https://www.reddit.com/r/RDCWorld/comments/1qmn54l/love_the_w_in_64_but_yall_should_pay_attention_to/",
+      "author": "/u/Pegsareus",
+      "search_keyword": "how to make a game",
+      "relevance_score": 1,
+      "added_at": "2026-01-25T16:11:47.139140"
+    },
+    {
       "id": "https://www.reddit.com/t3_1qjqsgp",
       "type": "search",
       "subreddit": "MyHeroUltraRumble",
@@ -16079,7 +16103,187 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-25T15:39:22.374083"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qmmy1y",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "GLB.NINJA - A Texverse repository (600K+ free 3D GLB models)",
+      "content": "Hi there, Just wanted to let anyone who might be interested, I built GLB.NINJA It's a free website listing all the models from the TexVerse dataset, both via a UI and a free API. I hope you guys enjoy it. PS: It's currently free. If usage costs rise I'll have to monetize it, for now, you guys do what you want with it. submitted by /u/Livid_Lengthiness_20 [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qmmy1y/glbninja_a_texverse_repository_600k_free_3d_glb/",
+      "author": "/u/Livid_Lengthiness_20",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T16:11:47.136743"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qmn669",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Some of the things people have been making in my game is so impressive, I can just find a few words",
+      "content": "submitted by /u/yathern [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qmn669/some_of_the_things_people_have_been_making_in_my/",
+      "author": "/u/yathern",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T16:11:47.136806"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qmn599",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Testing blood particles and decals in unity for my game #indiedev #indiegame",
+      "content": "submitted by /u/datadiisk_ [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qmn599/testing_blood_particles_and_decals_in_unity_for/",
+      "author": "/u/datadiisk_",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T16:11:47.136813"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qmmrmw",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "What if Your Kitchen Table Became a Battlefield?",
+      "content": "Ever wonder what tabletop strategy game would look like in your own kitchen table? This is an experimental mock-up using Tactica’s game engine (our turn-based strategy game that’s already on the Meta Quest Store ). No promises on a real release—just exploring new ideas for fun and possible future expansions! Would you play a game like this? Let us know your thoughts and feedback! submitted by /u/ArtiXRGames [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qmmrmw/what_if_your_kitchen_table_became_a_battlefield/",
+      "author": "/u/ArtiXRGames",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T16:11:47.136835"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qmn5nm",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Testing blood particles and decals in unity for my game #indiedev #indiegame",
+      "content": "submitted by /u/datadiisk_ [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qmn5nm/testing_blood_particles_and_decals_in_unity_for/",
+      "author": "/u/datadiisk_",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T16:11:47.136909"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qmn58r",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Hoping to hit 20,000 words found in words.zip today!",
+      "content": "submitted by /u/yathern [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qmn58r/hoping_to_hit_20000_words_found_in_wordszip_today/",
+      "author": "/u/yathern",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T16:11:47.136915"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qmmgq5",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "What if Your Kitchen Table Became a Battlefield?",
+      "content": "Ever wonder what tabletop strategy game would look like in your own kitchen table? This is an experimental mock-up using Tactica’s game engine (our turn-based strategy game that’s already on the Meta Quest Store ). No promises on a real release—just exploring new ideas for fun and possible future expansions! Would you play a game like this? Let us know your thoughts and feedback! submitted by /u/ArtiXRGames [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qmmgq5/what_if_your_kitchen_table_became_a_battlefield/",
+      "author": "/u/ArtiXRGames",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T16:11:47.137094"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qmmgkj",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Help make the next mobile hit game",
+      "content": "Hi You can watch a demo of the game here: https://youtu.be/OSTE5-ZUzFE?si=pwKXssYUtiusYQoy It's a game to get people to explore their environment. As an introvert, I need all the motivation to leave the house sometimes. If you've made mobile games before and want to make something globally important DM or send a friend request. This is a partnership to build/own and has no upfront payment. submitted by /u/Lennycool [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qmmgkj/help_make_the_next_mobile_hit_game/",
+      "author": "/u/Lennycool",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T16:11:47.137109"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qmn1de",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Help why no work",
+      "content": "submitted by /u/Scyhunter [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qmn1de/help_why_no_work/",
+      "author": "/u/Scyhunter",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T16:11:47.137130"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qmn0rr",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Scene Image Optimization Query",
+      "content": "Screenshot of the scene Png image used for the background Greetings, I am a decent programmer who is just getting into godot with little to no game dev knowledge. I was checking processes and whenever I load into this scene it takes forever and the vram spikes. I have a preloader setup, which preloads rooms adjacent to relieve some stress but even still it takes forever to load. I reiterate I have no clue how the best way to optimize this might be. The image is big but I don't want to step on the art made by my colleague. Is separating it into chunks like puzzle pieces worth it or does the quality need to be reduced. As a programmer I am obsessed with trying to optimize it as much as possible. Any tips are appreciated. submitted by /u/Chankleto [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qmn0rr/scene_image_optimization_query/",
+      "author": "/u/Chankleto",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T16:11:47.137150"
+    },
+    {
+      "id": "https://www.reddit.com/r/unity/t3_1qmn4qy",
+      "type": "post",
+      "subreddit": "unity",
+      "title": "Testing blood particles and decals in unity for my game #indiedev #indiegame",
+      "content": "submitted by /u/datadiisk_ [link] [comments]",
+      "link": "https://www.reddit.com/r/unity/comments/1qmn4qy/testing_blood_particles_and_decals_in_unity_for/",
+      "author": "/u/datadiisk_",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T16:11:47.137169"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qmn7nn",
+      "type": "search",
+      "subreddit": "jind",
+      "title": "Where to watch Los Angeles Rams vs Seattle Seahawks live stream today?",
+      "content": "Los Angeles Rams vs Seattle Seahawks is always one of the most intense divisional matchups in the NFL. The Rams’ offence runs through Matthew Stafford, with Cooper Kupp and Puka Nacua capable of breaking open the game at any moment. Seattle will look to stay balanced. Geno Smith needs to protect the ball, while DK Metcalf and Tyler Lockett provide serious downfield threat. Defensively, Seattle’s pressure up front could be crucial. If you’re trying to work out where to watch Rams vs Seahawks live stream today without cable or local TV coverage, it can get confusing. Many fans mention Ant Sports for watching NFL games live. How are you watching this one? submitted by /u/VLucifer55 to r/jind [link] [comments]",
+      "link": "https://www.reddit.com/r/jind/comments/1qmn7nn/where_to_watch_los_angeles_rams_vs_seattle/",
+      "author": "/u/VLucifer55",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T16:11:47.138159"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qmn0pc",
+      "type": "search",
+      "subreddit": "WhitePeopleTwitter",
+      "title": "How Alex Pretti’s murder is being reported by NYT today",
+      "content": "The front page of the New York Times today, Sunday, January 25, 2026. Alex Pretti was an American citizen murdered by Trump’s gestapo for exercising his 1st and 2nd amendment rights. The NYT didn’t think it was fit to mention this except in the very bottom left hand corner of the front page. submitted by /u/ManJamimah to r/WhitePeopleTwitter [link] [comments]",
+      "link": "https://www.reddit.com/r/WhitePeopleTwitter/comments/1qmn0pc/how_alex_prettis_murder_is_being_reported_by_nyt/",
+      "author": "/u/ManJamimah",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T16:11:47.138314"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qmn1r3",
+      "type": "search",
+      "subreddit": "u_MLCafe",
+      "title": "Aprende inglés en Málaga con Multi-Language Cafe",
+      "content": "¡Descubre el mundo del inglés con Multi-Language Cafe en la vibrante Málaga! Nuestra plataforma ofrece clases de inglés personalizadas y flexibles, adaptadas a tus necesidades, tanto si eres principiante como si buscas perfeccionar tus habilidades. Únete a nuestras clases de conversación impartidas por profesores apasionados como Kosma o Vianey. Sumérgete en sesiones divertidas e interactivas centradas en la conversación, la gramática y el inglés cotidiano, diseñadas para aumentar tu confianza y fluidez. https://preview.redd.it/3g4absw0rifg1.png?width=896&format=png&auto=webp&s=b3e2dbaaf050511546a36cd190f63c2acc2a75d9 https://www.multilanguagecafe.com/courses/english/malaga-es/ submitted by /u/MLCafe to u/MLCafe [link] [comments]",
+      "link": "https://www.reddit.com/r/u_MLCafe/comments/1qmn1r3/aprende_inglés_en_málaga_con_multilanguage_cafe/",
+      "author": "/u/MLCafe",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T16:11:47.138722"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qmn0rr",
+      "type": "search",
+      "subreddit": "godot",
+      "title": "Scene Image Optimization Query",
+      "content": "Screenshot of the scene Png image used for the background Greetings, I am a decent programmer who is just getting into godot with little to no game dev knowledge. I was checking processes and whenever I load into this scene it takes forever and the vram spikes. I have a preloader setup, which preloads rooms adjacent to relieve some stress but even still it takes forever to load. I reiterate I have no clue how the best way to optimize this might be. The image is big but I don't want to step on the art made by my colleague. Is separating it into chunks like puzzle pieces worth it or does the quality need to be reduced. As a programmer I am obsessed with trying to optimize it as much as possible. Any tips are appreciated. submitted by /u/Chankleto to r/godot [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qmn0rr/scene_image_optimization_query/",
+      "author": "/u/Chankleto",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T16:11:47.138742"
     }
   ],
-  "last_updated": "2026-01-25T15:41:05.153738"
+  "last_updated": "2026-01-25T16:13:14.846751"
 }
