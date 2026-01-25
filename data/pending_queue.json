@@ -1,90 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qjniwy",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "I built a Spotlight-style tab switcher for Chrome (TabSpot)",
-      "content": "submitted by /u/cond_cond [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qjniwy/i_built_a_spotlightstyle_tab_switcher_for_chrome/",
-      "author": "/u/cond_cond",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T06:56:48.529801"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qjnihm",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Single line pitch for my game CHROMADI is “The Dark Souls of Candy Crush”.",
-      "content": "If you guys would like to try the game out, you can head over to our discord and grab the link. Thanks!! https://discord.chromadi.fun submitted by /u/Kleanup-Games [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qjnihm/single_line_pitch_for_my_game_chromadi_is_the/",
-      "author": "/u/Kleanup-Games",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T06:56:48.529815"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qjnmd0",
-      "type": "search",
-      "subreddit": "MakeNewFriendsHere",
-      "title": "20M | Looking to make new friends with similar interests",
-      "content": "Hey, I’m 20 and looking to make some genuine friends here. I’m really into video games, especially story-driven games, but I also enjoy multiplayer when the vibe is right. I follow cricket, listen to a lot of melodic music and spend a good amount of time watching anime. I’m also deeply into cars. I value good conversations, shared interests, and chill interactions. If you’re someone who enjoys talking about games, anime, music, sports, or cars feel free to DM submitted by /u/PRimeKc_12 to r/MakeNewFriendsHere [link] [comments]",
-      "link": "https://www.reddit.com/r/MakeNewFriendsHere/comments/1qjnmd0/20m_looking_to_make_new_friends_with_similar/",
-      "author": "/u/PRimeKc_12",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T06:56:48.530022"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedev/t3_1qjnneu",
-      "type": "post",
-      "subreddit": "gamedev",
-      "title": "How does this hyper-realistic 3D games have get made?",
-      "content": "How does this hyper-realistic game that breaks the plastic look that 99% of 3D games have get made? There are few super hyper-realistic usually FPS games. How are they made? Unreal high-poly modeling? submitted by /u/umen [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedev/comments/1qjnneu/how_does_this_hyperrealistic_3d_games_have_get/",
-      "author": "/u/umen",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T07:21:22.734296"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qjnwme",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Am I really that bad at capsule art?",
-      "content": "I’ve published my game’s store page on Steam, but I’m having trouble understanding what makes capsule art effective. I’m not an artist, so I did my best. Is the capsule art acceptable, or is it bad? Feel free to be brutally honest. submitted by /u/dgzip [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qjnwme/am_i_really_that_bad_at_capsule_art/",
-      "author": "/u/dgzip",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T07:21:22.734361"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qjo0yz",
-      "type": "search",
-      "subreddit": "buildapc",
-      "title": "Worth upgrading a Ryzen 5700X to 5950X?",
-      "content": "My current system is as below: Ryzen 5700X Radeon 9070 non-XT (upgraded from a 4070 Super for the extra 4GB VRAM before they too jump in price) 32GB DDR4 PC3200 2TB Crucial T500 Would it make sense to upgrade the CPU to a 5950X? Would this allow me to ride the next 1-2 years before hopefully being able to upgrade then? I use my PC for coding (C++/C# on Visual Studio mostly) and some VMs (Android Emulator) from time to time besides gaming. Gaming-wise, I target 4K on a VRR capable display but I also run emulators (Cemu/RPCS3) from time to time, so I fear I am more CPU bottlenecked than just pure gaming workloads. submitted by /u/GroomedHedgehog to r/buildapc [link] [comments]",
-      "link": "https://www.reddit.com/r/buildapc/comments/1qjo0yz/worth_upgrading_a_ryzen_5700x_to_5950x/",
-      "author": "/u/GroomedHedgehog",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T07:21:22.735483"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qjo0yj",
-      "type": "search",
-      "subreddit": "AdoptMeRBX",
-      "title": "Need help Coloring cat?",
-      "content": "Hi, this is my alley cat and this is my irl cat - I was wondering if there's a way that the color codes work to make it so my in-game pet looks more like my irl one? Or what colors to do to make him look more like my real cat? Thank you sm! submitted by /u/Mobile-Worker4077 to r/AdoptMeRBX [link] [comments]",
-      "link": "https://www.reddit.com/r/AdoptMeRBX/comments/1qjo0yj/need_help_coloring_cat/",
-      "author": "/u/Mobile-Worker4077",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T07:21:22.735494"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qjnvpn",
       "type": "search",
       "subreddit": "pcmasterrace",
@@ -15983,7 +15899,103 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-25T13:07:05.934456"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qmitlx",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "my progress First build vs Last build",
+      "content": "is it a good result? submitted by /u/OlympStudio [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qmitlx/my_progress_first_build_vs_last_build/",
+      "author": "/u/OlympStudio",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T13:47:37.667982"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qmj8r5",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Turning on the light is dangerous!",
+      "content": "At the beginning of the VR game Xenolocus, the zombies are quite slow, but once you turn on the light they start moving toward it and can surround any careless player. What do you think, is it better to fight in the dark, or with light but a greater risk of being eaten? :) submitted by /u/RelevantOperation422 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qmj8r5/turning_on_the_light_is_dangerous/",
+      "author": "/u/RelevantOperation422",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T13:47:37.667997"
+    },
+    {
+      "id": "https://www.reddit.com/r/unrealengine/t3_1qmj1ko",
+      "type": "post",
+      "subreddit": "unrealengine",
+      "title": "How does Material Instances help with performance?",
+      "content": "I don't understand why they are better than just using a unique material every time? Does the material only get loaded once and for the instances only the changed values? Does it somehow reduce draw calls? submitted by /u/LalaCrowGhost [link] [comments]",
+      "link": "https://www.reddit.com/r/unrealengine/comments/1qmj1ko/how_does_material_instances_help_with_performance/",
+      "author": "/u/LalaCrowGhost",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T13:47:37.668064"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qmiva3",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "MY GAME PROGRESS - The First build vs The Last build",
+      "content": "range is about 3-4 months. Is it a good result? submitted by /u/OlympStudio [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qmiva3/my_game_progress_the_first_build_vs_the_last_build/",
+      "author": "/u/OlympStudio",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T13:47:37.668086"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qmjhtx",
+      "type": "search",
+      "subreddit": "hockeyrefs",
+      "title": "Question on reporting a coach",
+      "content": "I've been coaching for four years and have never come close to having a situation like this. Our team played a U10 (USA Hockey) game last night. The team we played was out of control- elbows to the head, charging, actual checking, cheap shots, you name it, it was there. They ended up racking up 16 penalties. I know per USA Hockey rules, anything after 12 and the coach misses the next game. How is that reported/enforced? Is it up to us to reach out to our local USA Hockey affiliate or will the ref make a report to them? We won and only had three penalties, so this isn't sour grapes, I'm legitimately concerned about the kids' safety out there. We had several injuries on our end. submitted by /u/rfuree11 to r/hockeyrefs [link] [comments]",
+      "link": "https://www.reddit.com/r/hockeyrefs/comments/1qmjhtx/question_on_reporting_a_coach/",
+      "author": "/u/rfuree11",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T13:47:37.669881"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qmjhoq",
+      "type": "search",
+      "subreddit": "LoudlyGreasy",
+      "title": "Your Mechanic Promo Codes | 30% Off January 2026 Coupons",
+      "content": "Top Your Mechanic Promo Codes for January 25, 2026 . Save up to 30% off with Your Mechanic coupons. There is a wide selection of promo codes, coupons, and discount codes that are updated regularly for you to choose from and make your purchase more affordable. submitted by /u/flakyanemian to r/LoudlyGreasy [link] [comments]",
+      "link": "https://www.reddit.com/r/LoudlyGreasy/comments/1qmjhoq/your_mechanic_promo_codes_30_off_january_2026/",
+      "author": "/u/flakyanemian",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T13:47:37.670286"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qmjf47",
+      "type": "search",
+      "subreddit": "expedition33",
+      "title": "hidden pictos in game files question for games devs and mods",
+      "content": "hi everyone, recently I discovered a lot of unused pictos in the game files and all of them are playable but some of them just dont have any bonus stats so was wondering if theirs a chance we get them at some point or just abandonned and why there is this many had to repost because the vid was not working ​ submitted by /u/Original-Ship9402 to r/expedition33 [link] [comments]",
+      "link": "https://www.reddit.com/r/expedition33/comments/1qmjf47/hidden_pictos_in_game_files_question_for_games/",
+      "author": "/u/Original-Ship9402",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T13:47:37.671066"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qmjexu",
+      "type": "search",
+      "subreddit": "GhostRecon",
+      "title": "Ubisoft and Shot Show",
+      "content": "I'm praying that Ubi has started sending some devs/ reps to Shot Show, to see the latest developments, in firearms and military gear. You can find cutting edge tech, for everything that a unit like the Ghosts, could use. From body armour and helmets to new weapons, optics and suppressors. There's also a ton of smaller companies at the show, that would probably jump at the chance to feature their products in a Ghost Recon game. Things like a pistol mounted red dot sight, with integrated thermal, a new PDW from Geissele, and a new quad NVG, that can also display a video feed, from a drone. submitted by /u/Megalodon26 to r/GhostRecon [link] [comments]",
+      "link": "https://www.reddit.com/r/GhostRecon/comments/1qmjexu/ubisoft_and_shot_show/",
+      "author": "/u/Megalodon26",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T13:47:37.671082"
     }
   ],
-  "last_updated": "2026-01-25T13:08:49.167925"
+  "last_updated": "2026-01-25T13:49:21.945285"
 }
