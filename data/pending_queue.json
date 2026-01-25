@@ -1,150 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qjax80",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "My first devlog for my metroidvania The Prodigal Chicken!",
-      "content": "submitted by /u/iamTheRealIndie [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qjax80/my_first_devlog_for_my_metroidvania_the_prodigal/",
-      "author": "/u/iamTheRealIndie",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T21:48:17.358200"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qjawm3",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Added Stealth and Takedowns to Little Frontier !",
-      "content": "Hey everyone ! I'm still fine tuning combat in my passion project - Little Frontier but I guess I'm somewhat comfortable of sharing the stealth takedowns :) Each weapon has 5-ish different takedown animations to keep things from getting repetitive. You need to approach enemies from behind, while in stealth mode to trigger them, which works nicely with the detection mechanics I've built. This is a project made by me in my spare time and if you wish to support Little Frontier - just have a go and give it a wishlist ! https://store.steampowered.com/app/4182440/Little_Frontier/ In the meantime, If anyone's interested in the stealth mechanics and how I made them, I wrote up a blog post breaking it all down. https://www.little-frontier.com/blog/devlog-05/ Cheers ! submitted by /u/VedoTr [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qjawm3/added_stealth_and_takedowns_to_little_frontier/",
-      "author": "/u/VedoTr",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T21:48:17.358220"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qjaulr",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Trying to find the right visual identity for my game – thoughts?",
-      "content": "I’m working on a small indie game and I’m currently testing two visual directions. The core gameplay is basically a roguelike where you build the music with different weapons. Personally, I feel the first version is more authentic and has more personality, while the second one is easier to read and understand at a glance. I’m curious which one feels better to play/watch for you, and why. submitted by /u/mikomoares [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qjaulr/trying_to_find_the_right_visual_identity_for_my/",
-      "author": "/u/mikomoares",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T21:48:17.358245"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qjazhs",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "A new capsule, and deep love for our old capsule",
-      "content": "Our game, Letter Lost, is coming out later this year, and we decided to make a shift on our capsule art. We loved so much about our old art, but found that at conventions, it gave people the wrong impression. People would see our banners and immediately assume our game was a point and click mystery rather than a dystopic work sim set in a 3D environment. I do think we lose a sense of the narrative focus of the game with our new capsule, but capture the vibes of the gameplay in a more tangible way. Would love to hear what you think when you see each capsule, and if one draws you in more! submitted by /u/joojabean [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qjazhs/a_new_capsule_and_deep_love_for_our_old_capsule/",
-      "author": "/u/joojabean",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T21:48:17.358299"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qjavrp",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Trying to find the right visual identity for my game – thoughts?",
-      "content": "I’m working on a small indie game and I’m currently testing two visual directions. The core gameplay is basically a roguelike where you build the music with different weapons. Personally, I feel the first version is more authentic and has more personality, while the second one is easier to read and understand at a glance. I’m curious which one feels better to play/watch for you, and why. submitted by /u/mikomoares [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qjavrp/trying_to_find_the_right_visual_identity_for_my/",
-      "author": "/u/mikomoares",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T21:48:17.358315"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qjasyb",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Blank game project stuck at 30 FPS on powerful rig",
-      "content": "Hello, for some reason I have an artificial cap to 30fps in my blank project when played (no issue in editor I reach 200fps). I've checked and V-sync is disabled and Max FPS is at 0 in the settings. What could it be ? RTX 3080ti / 7800x3D / 32Gb DDR5 submitted by /u/NodrawTexture [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qjasyb/blank_game_project_stuck_at_30_fps_on_powerful_rig/",
-      "author": "/u/NodrawTexture",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T21:48:17.358388"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qjauy6",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "Trying to find the right visual identity for my game – thoughts?",
-      "content": "I’m working on a small indie game and I’m currently testing two visual directions. The core gameplay is basically a roguelike where you build the music with different weapons. Personally, I feel the first version is more authentic and has more personality, while the second one is easier to read and understand at a glance. I’m curious which one feels better to play/watch for you, and why. submitted by /u/mikomoares [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qjauy6/trying_to_find_the_right_visual_identity_for_my/",
-      "author": "/u/mikomoares",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T21:48:17.358426"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qjax54",
-      "type": "search",
-      "subreddit": "PlaneCrazyCommunity",
-      "title": "Hey Dev!! i like Your game but Map so small will u make Map bigger? #PlsBiggerMap",
-      "content": "submitted by /u/Haunting-Still6465 to r/PlaneCrazyCommunity [link] [comments]",
-      "link": "https://www.reddit.com/r/PlaneCrazyCommunity/comments/1qjax54/hey_dev_i_like_your_game_but_map_so_small_will_u/",
-      "author": "/u/Haunting-Still6465",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T21:48:17.360098"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qjatob",
-      "type": "search",
-      "subreddit": "superautopets",
-      "title": "Day 1/1 of thanking everyone in this amazing community:",
-      "content": "Guys…. It’s over…. 560 days later and it’s over. I’ve got mixed emotions right now, very very bittersweet. This quest for Shiny Pets has seen me through a new and better job, my son turning 2 and 3, my daughter turning 1 and 2, a root canal, week long trips to Vegas and Alaska, my dog’s surgery on his eye, my grandmother succumbing to dementia, me winning $500 on a scratch off, my weight-loss journey losing over 30lbs so far, getting a shoutout from the devs, all of life’s ups and downs. Throughout everything I’ve been through, this was something that kept me constant. Kept me going even during the hard times and giving me something to look forward to everyday. Having something to do and interact with such an amazing community has been a blessing. I truly enjoyed every single time someone would comment and let me know how much they enjoyed a Shiny Pet, had ideas, questioned how Shiny Pets would work, wondered about future Shiny Pets. This started as just a funny little project but as the days climbed it became something I truly enjoyed doing. I am lucky to be part of such an amazing community, and make a name for myself as “The Shiny Pets” guy. I also want to thank Arkuni for even indulging me and adding the Shiny Pets intro animation. It really means a lot to me that I inspired something in a game that means so much to me. Even though I may not be posting everyday anymore, I’ll still be here in the subreddit. Upvoting all Sloth wins, upvoting all big PP hedgehog builds, being helpful and answering any questions for new people, theorycrafting new and crazy builds. Thank you all. For everything. submitted by /u/Mimikyew to r/superautopets [link] [comments]",
-      "link": "https://www.reddit.com/r/superautopets/comments/1qjatob/day_11_of_thanking_everyone_in_this_amazing/",
-      "author": "/u/Mimikyew",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T21:48:17.360208"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qjbzs8",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "From idea to Steam page: our first indie game journey!",
-      "content": "Hey everyone! 👋 We’re a small team of indie devs working on our very first Steam title — Koko Loco Block Blast . It started as a weekend experiment to make something bright, relaxing, and satisfying, and somehow turned into a full-on passion project. Our goal was to capture that feeling of “just one more move” in a colorful, logic-based puzzle world. We’ve been building different visual themes — Underwater, Neon, Egypt, Halloween, and more — to keep it fresh while you clear the board. We just launched our “Coming Soon” page on Steam, and we’d love to know what you think of how it’s shaping up so far — visuals, tone, or anything that stands out (good or bad!). Steam link: submitted by /u/Jimey_Grimey [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qjbzs8/from_idea_to_steam_page_our_first_indie_game/",
-      "author": "/u/Jimey_Grimey",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T22:13:11.265514"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qjbx0q",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Finished the demo, need some feedback",
-      "content": "Can be played in browser: Frame Drop submitted by /u/-KillerBear- [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qjbx0q/finished_the_demo_need_some_feedback/",
-      "author": "/u/-KillerBear-",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T22:13:11.265521"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qjbnd6",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Building an incremental fishing game. 4 months in. Incremental/Idle/Clicker",
-      "content": "The game name is More Fish - Idle Clicker https://store.steampowered.com/app/4293750/More_fish__Idle_Clicker/?utm_source=reddit So if you like some fishing or incremental games, feel free to wishlist it submitted by /u/Altruistic_Bad2195 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qjbnd6/building_an_incremental_fishing_game_4_months_in/",
-      "author": "/u/Altruistic_Bad2195",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T22:13:11.265531"
-    },
-    {
       "id": "https://www.reddit.com/r/indiegaming/t3_1qjbgyh",
       "type": "post",
       "subreddit": "indiegaming",
@@ -16319,7 +16175,67 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-01-25T06:52:37.789665"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qmcbfa",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "I need feedback on a space game",
+      "content": "submitted by /u/realsinancengiz [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qmcbfa/i_need_feedback_on_a_space_game/",
+      "author": "/u/realsinancengiz",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T07:13:22.434583"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qmc0of",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Feels good releasing soon",
+      "content": "Release day coming ever so closer, super psyched. Freaking out a bit though trying to get everything right before the big day. submitted by /u/Grumpy_Wizard_ [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qmc0of/feels_good_releasing_soon/",
+      "author": "/u/Grumpy_Wizard_",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T07:13:22.434623"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qmcbxt",
+      "type": "search",
+      "subreddit": "thelastofus",
+      "title": "HBO Last of us show is an absolute dog shit",
+      "content": "As someone who played the games multiple times across different generations and platforms I have to say the Last of us HBO show is an absolute disgrace compared to the game. Pedro Pascal plays phenomenally there is so much you can do with bad directing and script. It goes without saying but writing a script for a TV show is NOT the same as writing a script for a videogame and eveyone pretty much just reading from a script that was written for a VIDEOGAME with little to no actual acting skills just ruin the show. I heard Bella Ramsey (Actress who plays Ellie) has dawn syndrome which really feels out of place on set. She is nothing like Ellie, she has really odd facial expressions and why the fuck did they make Sara Black ?? like wtf is this bs I get they are trying to be more inclusive for ffs man this is just bad. Bro this is just sad submitted by /u/Ok-Carry-7759 to r/thelastofus [link] [comments]",
+      "link": "https://www.reddit.com/r/thelastofus/comments/1qmcbxt/hbo_last_of_us_show_is_an_absolute_dog_shit/",
+      "author": "/u/Ok-Carry-7759",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T07:13:22.435463"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qmc9zt",
+      "type": "search",
+      "subreddit": "ForeverAloneDating",
+      "title": "26[F4M] Canada Unloveable for unloveable",
+      "content": "Hey yall, being lonely is horrible. Surrounded by friends and family and never been looked at. It gets so loud sometimes how undesired I am lol. Anyways I’m on here trying my luck, maybe I find something really worthwhile or maybe not. Some things about me is I’m funny, I love to laugh and make people laugh. I’m pretty blunt but in a nice way . I love to talk , about movies, psychology or just anything really. I have a weird life story so its will never be a dull moment. I’m a night owl so I’m up pretty late most nights. I like some videos games like Apex or stardew. I’m a workaholic so I work quite a bit and yeah. I really don’t have much to say here but you can ask me anything. Anywho , best of lucky to all the lonely hearts. submitted by /u/Awkward-Laugh808 to r/ForeverAloneDating [link] [comments]",
+      "link": "https://www.reddit.com/r/ForeverAloneDating/comments/1qmc9zt/26f4m_canada_unloveable_for_unloveable/",
+      "author": "/u/Awkward-Laugh808",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T07:13:22.436804"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qmc8f2",
+      "type": "search",
+      "subreddit": "PinoyUnsentLetters",
+      "title": "The day before chaos",
+      "content": "09 June 2025 C, You probably don’t know this, but the way you casually say “hey” in a row after showing me a gym bag? It makes my heart smile. You probably don’t think it’s a big deal when you send me a screenshot of the thing you just bought or compliment my fitness progress nth times but to me those are anchors. You’re giving me emotional landmarks in a day that would otherwise blur together. You don’t love bomb. You don’t future-fake. You don’t manipulate me with big words. Instead, you show up. Quietly. Steadily. In your own time. And God—you didn't know how much I missed that version of you until you came back. The version of you I first met. The one who made me laugh, kept me curious, made me feel safe without ever saying the words out loud. I used to think connection had to be loud to be real. I used to fall for men who were fluent in poetry but bankrupt in presence. You’re different. You don’t play the game and yet somehow you still win my day. Even when you’re far away. Even when it’s just laundry updates, work rants and gym wins. Even when you disappear for a bit and I doubt everything — you still come back with that quiet spark in your messages like, “What? You missed me?” Yeah. I did. So just in case no one’s told you lately: You’re appreciated. And somewhere out here, there’s a girl smiling to herself at 5 a.m. Because you remembered to say good morning. (And also because you woke her up with your text...) Yours, J/N🇵🇭 submitted by /u/NIKIBravestSoldier to r/PinoyUnsentLetters [link] [comments]",
+      "link": "https://www.reddit.com/r/PinoyUnsentLetters/comments/1qmc8f2/the_day_before_chaos/",
+      "author": "/u/NIKIBravestSoldier",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T07:13:22.436849"
     }
   ],
-  "last_updated": "2026-01-25T06:54:09.054339"
+  "last_updated": "2026-01-25T07:14:57.268242"
 }
