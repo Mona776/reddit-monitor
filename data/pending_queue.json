@@ -1,126 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/t3_1qjyozx",
-      "type": "search",
-      "subreddit": "HPVictus",
-      "title": "What to do with these files",
-      "content": "should i get rid of them or as they ask me to mive them in setup or something submitted by /u/Puzzleheaded_Bit6199 to r/HPVictus [link] [comments]",
-      "link": "https://www.reddit.com/r/HPVictus/comments/1qjyozx/what_to_do_with_these_files/",
-      "author": "/u/Puzzleheaded_Bit6199",
-      "search_keyword": "AI game maker",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T16:19:36.349370"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qjyts4",
-      "type": "search",
-      "subreddit": "AndroidGaming",
-      "title": "[DEV] Somatu, an intuitive math puzzle game",
-      "content": "Play Store Link: Somatu in Google Play Store Somatu is a game fully created and developed by me and also happens to be my first released game. Somatu is a game where you solve puzzles by using the adding operation. You can beat the puzzles by changing numbers around, so that the sums are correct in all rows and columns at the same time . Start with \"Classic\" mode where you can explore different difficulty levels and play without pressure. When you are ready for a more intense experience, you can try \"Challenge\" mode. In this mode, every second counts and you can test your skill with other players. submitted by /u/obake25 to r/AndroidGaming [link] [comments]",
-      "link": "https://www.reddit.com/r/AndroidGaming/comments/1qjyts4/dev_somatu_an_intuitive_math_puzzle_game/",
-      "author": "/u/obake25",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T16:19:36.349408"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qjyn80",
-      "type": "search",
-      "subreddit": "tf2",
-      "title": "Vs Saxton Hale logging",
-      "content": "I had an idea to make a java program where an audio file plays in the voicechat depending on what move Saxton hale is using. Im not sure if I need to use the dev console or game state integration, but is there a log on console that shows the current state of Saxtons’s special moves? submitted by /u/Ok_Expression1754 to r/tf2 [link] [comments]",
-      "link": "https://www.reddit.com/r/tf2/comments/1qjyn80/vs_saxton_hale_logging/",
-      "author": "/u/Ok_Expression1754",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T16:19:36.349442"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedev/t3_1qjzkxd",
-      "type": "post",
-      "subreddit": "gamedev",
-      "title": "Marketing and AAA employment",
-      "content": "Hello ! I have been working on a personal project for a while, and I am thinking more and more about putting videos / making posts talking about the game and the process of the development. The issue : I am currently employed in a AAA game dev company, and my contract is absolutely clear about non competitive stuff etc, I do not have any rights to publish a commercial project. Does that mean that I necessarily need to put a hold of my project ? Or is the only option for me is to quit and give it a try ? Anyone here had the same issue before ? Thanks submitted by /u/_frosty____ [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedev/comments/1qjzkxd/marketing_and_aaa_employment/",
-      "author": "/u/_frosty____",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T16:57:10.482782"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedev/t3_1qjzef9",
-      "type": "post",
-      "subreddit": "gamedev",
-      "title": "Do 2D hand-drawn animators for video games animate with fixed frame durations?",
-      "content": "I’m currently working on a 2D video game doing frame-by-frame animation. I previously worked on another project like this as well, but in both cases I was the only animator, so I haven’t really had anyone to confirm whether this is a “common” practice. I work with animations at 60 fps, but I don’t use constant fixed values like 10 fps for all animations. Instead, I created timing tables so the programmer can implement them exactly as I planned. The key point is that I assign different frame durations to the sprites, not arbitrarily, but because I can clearly see and feel the difference in motion. However, when researching online whether this is a common practice, I couldn’t really find much information beyond discussions about animating at 60 vs 30 fps. submitted by /u/_onlydrop [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedev/comments/1qjzef9/do_2d_handdrawn_animators_for_video_games_animate/",
-      "author": "/u/_onlydrop",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T16:57:10.482818"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qjzwhf",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "AAA Is Dying - And Indie Games Are Winning",
-      "content": "A short video essay I made about the rise of indie games and their success in 2025 - would love some feedback from fellow indie fans! Cheers :D submitted by /u/IndieScoutTV [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qjzwhf/aaa_is_dying_and_indie_games_are_winning/",
-      "author": "/u/IndieScoutTV",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T16:57:10.482845"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qjzena",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Update: I shared a party games app here last year — here’s what’s new 🎉",
-      "content": "submitted by /u/Xx_Mumo_xX [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qjzena/update_i_shared_a_party_games_app_here_last_year/",
-      "author": "/u/Xx_Mumo_xX",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T16:57:10.482906"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qjzf4l",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "And there we made sounds for our mobile game.",
-      "content": "submitted by /u/Only-Professional988 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qjzf4l/and_there_we_made_sounds_for_our_mobile_game/",
-      "author": "/u/Only-Professional988",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T16:57:10.482956"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qjz1nd",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "I built a distraction-free drawing coach because I kept watching tutorials instead of actually drawing",
-      "content": "submitted by /u/Casfaber_ [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qjz1nd/i_built_a_distractionfree_drawing_coach_because_i/",
-      "author": "/u/Casfaber_",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T16:57:10.483009"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qjz9a7",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "I'm making a demo map for my multiplayer rpg - Knightborn",
-      "content": "submitted by /u/cemuka [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qjz9a7/im_making_a_demo_map_for_my_multiplayer_rpg/",
-      "author": "/u/cemuka",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T16:57:10.483048"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qjzw85",
       "type": "search",
       "subreddit": "musicmarketing",
@@ -17231,7 +17111,67 @@
       "search_keyword": "AI game maker",
       "relevance_score": 0,
       "added_at": "2026-01-26T05:51:50.811832"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qn89k0",
+      "type": "search",
+      "subreddit": "ScrapMetal",
+      "title": "I have 100s of this",
+      "content": "What's the best way to make some money on these gold-plated brass souvenir spoon from the 1976 Montreal Olympic Games. submitted by /u/LickMyLolliePop to r/ScrapMetal [link] [comments]",
+      "link": "https://www.reddit.com/r/ScrapMetal/comments/1qn89k0/i_have_100s_of_this/",
+      "author": "/u/LickMyLolliePop",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T06:21:12.255861"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qn89ah",
+      "type": "search",
+      "subreddit": "BanjoKazooie",
+      "title": "Banjo Tooie randomisations made me think I had false memories",
+      "content": "I recently got the 64 games on switch. My first time replaying them in years and I have a good memory for things generally. I always knew the Jinjos were randomised of cause. However, I was totally confused when I could not find the eldest boggy kid down the side of the Dodgem Dome....thinking what a random false memory I had created. Than the jinjo in the shipwreck and code for Chris P Bacon had changed.... and finally I thought \"red for real mumbo\"(how I remembered as a kid) in cloud cuckooland and he was in the blue home. I did not realise all these things are randomised each time. That got me thinking... is there anything else randomised each playthrough? submitted by /u/Friendly_Wallaby_812 to r/BanjoKazooie [link] [comments]",
+      "link": "https://www.reddit.com/r/BanjoKazooie/comments/1qn89ah/banjo_tooie_randomisations_made_me_think_i_had/",
+      "author": "/u/Friendly_Wallaby_812",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T06:21:12.256237"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qn8155",
+      "type": "search",
+      "subreddit": "CapCut",
+      "title": "You guys!!! It’s back!!!!!",
+      "content": "It’s back!!!! submitted by /u/crispy1987 to r/CapCut [link] [comments]",
+      "link": "https://www.reddit.com/r/CapCut/comments/1qn8155/you_guys_its_back/",
+      "author": "/u/crispy1987",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T06:21:12.256385"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qn86r3",
+      "type": "search",
+      "subreddit": "marvelrivals",
+      "title": "August 2026 is when Fantastic Four #1 (the first comic from the \"modern\" \"Marvel Age\" of comics) turns 65 years old. Do you guys think we'll get in-game content related to that anniversary month?",
+      "content": "I had some ideas like a classic Fantastic Four skin pack or maybe mini-pass as I doubt August's season will be entirely focused on the FF. But I do hope we eventually get more classic or \"Year One\" skins soon. Since this game is very tied to the comics I doubt the devs will ignore a special occasion like that. submitted by /u/R4nd0mB01 to r/marvelrivals [link] [comments]",
+      "link": "https://www.reddit.com/r/marvelrivals/comments/1qn86r3/august_2026_is_when_fantastic_four_1_the_first/",
+      "author": "/u/R4nd0mB01",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T06:21:12.256663"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qn86vo",
+      "type": "search",
+      "subreddit": "Patriots",
+      "title": "This is probably a bad idea but can you give me reasons why you think you’ll win the Super Bowl?",
+      "content": "I’ve heard it all about why the Seahawks are going to win it and how the NFC championship game was the unofficial Super Bowl. From analysts, from friends, from YouTubers, and from every POS Seachickens fan that I can’t stand. I’m a big 49ers guy and the thought of Seattle makes me want to choke small animals. So I’m ur guys’ fan on Super Bowl Sunday. But I’m not gonna lie, it’s looking grim, it’s making me wanna not even think about football, and I feel like I need some reasons to believe in New England. The only place I feel like I’ll get people who are actually looking at scenarios where the Pats pull off the upset, is with fans themselves. So tell me, what is your strong suit over Seattle? And please don’t talk about upsets of the past like your 2001 team or the ‘07 Giants. submitted by /u/UltratoonFanclubTV to r/Patriots [link] [comments]",
+      "link": "https://www.reddit.com/r/Patriots/comments/1qn86vo/this_is_probably_a_bad_idea_but_can_you_give_me/",
+      "author": "/u/UltratoonFanclubTV",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T06:21:12.256876"
     }
   ],
-  "last_updated": "2026-01-26T05:53:27.315460"
+  "last_updated": "2026-01-26T06:22:58.753069"
 }
