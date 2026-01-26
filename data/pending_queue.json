@@ -1,78 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/unrealengine/t3_1qkcixs",
-      "type": "post",
-      "subreddit": "unrealengine",
-      "title": "The Rumbling (Attack On Titan)",
-      "content": "submitted by /u/jnexhip [link] [comments]",
-      "link": "https://www.reddit.com/r/unrealengine/comments/1qkcixs/the_rumbling_attack_on_titan/",
-      "author": "/u/jnexhip",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T02:53:42.411697"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qkdaw4",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "My horror puzzle game about masks just got released....",
-      "content": "I just launched Liar Masks . You have to find the liar among masked guards to survive the subway. It’s 20% off for launch week—I'd love your feedback! [steam] submitted by /u/iris_minecraft [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qkdaw4/my_horror_puzzle_game_about_masks_just_got/",
-      "author": "/u/iris_minecraft",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T02:53:42.411743"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qkdatb",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "Deep Dive: Mechanics and Progression in the Carnival Roulette Demo",
-      "content": "submitted by /u/Future_Bear_8853 [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qkdatb/deep_dive_mechanics_and_progression_in_the/",
-      "author": "/u/Future_Bear_8853",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T02:53:42.411748"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qkezv4",
-      "type": "search",
-      "subreddit": "ContentWarningGame",
-      "title": "Vídeo not extracting",
-      "content": "I can't even record without using more than 95% of the camera, or else my game just crashes, and when i try to extract the video it gets stuck in extracting video forever, it also happens with my friends when im in their server so im the problem, i tried pressing F3 to extract the video manually, disabled all mods, re-installed the game restarted my computer, absolutely nothing works, this has really been bothering me as i literally cannot play with my friends because of this problem PLEASE HELP!!! submitted by /u/randomdude1234569 to r/ContentWarningGame [link] [comments]",
-      "link": "https://www.reddit.com/r/ContentWarningGame/comments/1qkezv4/vídeo_not_extracting/",
-      "author": "/u/randomdude1234569",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T02:53:42.413018"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qkezir",
-      "type": "search",
-      "subreddit": "hygiene",
-      "title": "Is there a specific order to using skincare products?",
-      "content": "I'm new to a multi-steep skincare routine and I'm a bit confused about the order of operations. I've got a cleanser, toner, serum, moisturizer, and sunscreen. Does anyone have a generally accepted order for these, especially when it comes to the serum and moisturizer? I want to make sure I'm getting the most out of my products without cancelling them out. submitted by /u/Sea_Problem_301 to r/hygiene [link] [comments]",
-      "link": "https://www.reddit.com/r/hygiene/comments/1qkezir/is_there_a_specific_order_to_using_skincare/",
-      "author": "/u/Sea_Problem_301",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T02:53:42.413031"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qketzh",
-      "type": "search",
-      "subreddit": "SonicEXEOutcomeMemory",
-      "title": "OUTCOME MEMORIES IS COMING BACK WHEN IN THE RE - CODE UPDATE",
-      "content": "WE HAVE 2 OWNERS TO THE GAME NOW, THE GAME MIGHT BE SAVED submitted by /u/Diligent_University3 to r/SonicEXEOutcomeMemory [link] [comments]",
-      "link": "https://www.reddit.com/r/SonicEXEOutcomeMemory/comments/1qketzh/outcome_memories_is_coming_back_when_in_the_re/",
-      "author": "/u/Diligent_University3",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T02:53:42.413440"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qkekf0",
       "type": "search",
       "subreddit": "ArenaBreakoutInfinite",
@@ -17699,7 +17627,151 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-26T19:19:20.863954"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qnqcmx",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "I want to make a ps2 action game, how do i start?",
+      "content": "Hello everyone! just landed here. Ever since i was very little i wanted to be a game developer, life went on and i kinda strayed from that path. But recently after replaying ps2 games such as prince of persia SoT, God of war 1 and 2 and chaos legion i got a nagging feeling of wanting to play a game that doesn't exist; a mix of chaos legion with shinobi and DMC 5. Then i realise that i could just try to make it myself!... But i have 0 game dev experience. I want to make a sellshaded hack n' slash in with summons, where do i start? c++? unity? any and all feedback is appreciated! thx for your time! submitted by /u/Viktor_Camilo [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qnqcmx/i_want_to_make_a_ps2_action_game_how_do_i_start/",
+      "author": "/u/Viktor_Camilo",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T19:42:07.990674"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qnqaus",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "A really stupid question for a very niche case.",
+      "content": "Like in the title this question is going to be really stupid and really niche. Is there some kind of strict level editor/ image manipulator that can export to a txt file. More specifically when I mean text file I mean red = 0, blue = 2, sprite = 15 etc. Also preferably a grid based editor. Any help appreciated. submitted by /u/BradTheBj [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qnqaus/a_really_stupid_question_for_a_very_niche_case/",
+      "author": "/u/BradTheBj",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T19:42:07.990687"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qnq2dw",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Using items VFX",
+      "content": "It's been a ton of VFX in the making!! Amara will soon animate when she's consuming a potion and there will be an effect! We will be getting Amara's scarf in soon ;) https://reddit.com/link/1qnq2dw/video/v5m6512qvqfg1/player https://reddit.com/link/1qnq2dw/video/qlutm7rpvqfg1/player submitted by /u/nataliadalomba [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qnq2dw/using_items_vfx/",
+      "author": "/u/nataliadalomba",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T19:42:07.990764"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qnqgb3",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Packaging animation for our butcher simulator",
+      "content": "Hey all! Any feedback on his this meat packing animation look for our zombie butcher simulator? Does it feel smooth or choppy? Any feedback what to add? Game is Zombutcher https://store.steampowered.com/app/4039900/ZOMBUTCHER\\_Monster\\_Business\\_Simulator/ submitted by /u/Zombutcher_Game [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qnqgb3/packaging_animation_for_our_butcher_simulator/",
+      "author": "/u/Zombutcher_Game",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T19:42:07.990788"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qnq9ej",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Being a videogame skeleton is rough - you'll just be vibing and then something like this happens",
+      "content": "submitted by /u/InglenookGames [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qnq9ej/being_a_videogame_skeleton_is_rough_youll_just_be/",
+      "author": "/u/InglenookGames",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T19:42:07.990798"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qnpybf",
+      "type": "search",
+      "subreddit": "Dodocodes",
+      "title": "Celeste is here on Chaos",
+      "content": "Celeste is here on the island of Chaos - come get your celestial DIY. (Optional dress code: Starstruck Beach Disco!) I also have the beach all full of gifts, and I’m taking requests! DIY swap is in front of Nook’s. Island rules: Exploring is encouraged, shops open for 2hr All harvesting is allowed NO adding custom designs to Able’s please Comment here with your game names and I’ll DM you when it’s your turn. I’ll invite only a few people at a time. submitted by /u/thebugfromchaos to r/Dodocodes [link] [comments]",
+      "link": "https://www.reddit.com/r/Dodocodes/comments/1qnpybf/celeste_is_here_on_chaos/",
+      "author": "/u/thebugfromchaos",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T19:42:07.991038"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qnqi5h",
+      "type": "search",
+      "subreddit": "Tarots",
+      "title": "What will our marriage look like?",
+      "content": "We got engaged last year. We started planning our wedding recently, and I decided to ask tarot for fun what our future would look like after marriage. No specific timeliness, just an over all vibe of our married life. Card Positions... Top: Overall energy - King of Cups First row: Mental connection - Queen of Swords Emotional connection - Ace of Swords Physical connection - Knight of Wands Bottom row: Finances/careers - The Chariot Home/Children - 10 of Cups Healing/Self-Growth - 8 of Pentacles Bottom of the deck: Queen of Cups My interpretation: I understand most of this, and it very much alignes with what I expected (I love when that happens lol) Our mental connection is so good and our communication is direct and clear. We quite literally read each others minds without knowing/trying(we have scorpio mercuries that are exact conjunct / our gemini moons as well), and we talk all the damn time. We never run out of conversation with one another. The queen of swords makes sense here given our current intellectual connection. The ace of swords for emotional connections is interesting... first I thought it meant we may intellectualize more than feel, but there is so much emotion all over the rest of this, that I think it may be saying we are always emotionally honest with one another. Idk.. feel free to leave opinions on this. Knight of Wands is well... I feel like this is self explanatory haha but if I have to give an interpretation, I'll try to keep it PG by saying I think it's pointing to our love of keeping things fresh, exciting, passionate, impulsive, and adventurous. The Chariot is another one I didn't immediately understand. I am thinking it means we will keep moving forward towards our goals, maybe? Idk...help on this one would be cool 10 of cups I feel is obvious as well. We want kids and i think this leans towards saying we will have them, but regardless, our home will be filled with love. Healing and self-growth also tracks to me. We are both really passionate about our healing journeys, growing and being accountable for ourselves. We have healed a lot in this connection. We have a lot of past traumas, coping mechanisms, and things we need to heal and work on, and I think this is saying it's something we will continue to put in the work to do. Also, I loved that the overall energy was the King of cups and the bottom of the deck complimented that with the queen 🥰 Overall, I felt this was a really positive omen for my future marriage. Curious if anyone sees something different or has more clarity on the Chariot or ace of swords. Thank you 🤍 submitted by /u/mindlessly-dreaming to r/Tarots [link] [comments]",
+      "link": "https://www.reddit.com/r/Tarots/comments/1qnqi5h/what_will_our_marriage_look_like/",
+      "author": "/u/mindlessly-dreaming",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T19:42:07.991438"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qnqhx9",
+      "type": "search",
+      "subreddit": "content_marketing",
+      "title": "How do you actually grow brand visibility without running ads?",
+      "content": "I’ve been thinking a lot about this lately. Ads feel like the obvious answer, but they also feel kind of… temporary. You pay, you get attention, and when you stop, it’s gone. I’m more curious about the slow, organic side of things the stuff that makes people recognize a name over time without being pushed by a budget. For those of you who’ve done this before, what actually worked for you? Content, community, partnerships, SEO, just showing up everywhere? Would love to hear real experiences, not just theory. submitted by /u/CrewSpecialist3618 to r/content_marketing [link] [comments]",
+      "link": "https://www.reddit.com/r/content_marketing/comments/1qnqhx9/how_do_you_actually_grow_brand_visibility_without/",
+      "author": "/u/CrewSpecialist3618",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T19:42:07.991476"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qnqcmx",
+      "type": "search",
+      "subreddit": "gamedev",
+      "title": "I want to make a ps2 action game, how do i start?",
+      "content": "Hello everyone! just landed here. Ever since i was very little i wanted to be a game developer, life went on and i kinda strayed from that path. But recently after replaying ps2 games such as prince of persia SoT, God of war 1 and 2 and chaos legion i got a nagging feeling of wanting to play a game that doesn't exist; a mix of chaos legion with shinobi and DMC 5. Then i realise that i could just try to make it myself!... But i have 0 game dev experience. I want to make a sellshaded hack n' slash in with summons, where do i start? c++? unity? any and all feedback is appreciated! thx for your time! submitted by /u/Viktor_Camilo to r/gamedev [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qnqcmx/i_want_to_make_a_ps2_action_game_how_do_i_start/",
+      "author": "/u/Viktor_Camilo",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T19:42:07.992028"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qnq8rq",
+      "type": "search",
+      "subreddit": "Fallout1",
+      "title": "Solo dev here - showing off the new scenes for my Fallout-inspired survival game",
+      "content": "submitted by /u/DeekiNeedles to r/Fallout1 [link] [comments]",
+      "link": "https://www.reddit.com/r/Fallout1/comments/1qnq8rq/solo_dev_here_showing_off_the_new_scenes_for_my/",
+      "author": "/u/DeekiNeedles",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T19:42:07.992064"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qnq854",
+      "type": "search",
+      "subreddit": "UnrealEngine5",
+      "title": "Unreal Engine 5 scope in India",
+      "content": "Hey guys wanted to know whether learning Unreal Engine 5 would prove useful in India, where Unity devs are more preferred due to the massive mobile gaming market. submitted by /u/Objective-Advisor699 to r/UnrealEngine5 [link] [comments]",
+      "link": "https://www.reddit.com/r/UnrealEngine5/comments/1qnq854/unreal_engine_5_scope_in_india/",
+      "author": "/u/Objective-Advisor699",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T19:42:07.992097"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qnqh0t",
+      "type": "search",
+      "subreddit": "RPGdesign",
+      "title": "Thoughts on balancing this damage solution for maneuvers in combat?",
+      "content": "I’m building a narrative, OSR-like system (d20 roll-over, with stat blocks from OSE being compatible). On their turn, a player can move, make a weapon attack, or take a maneuver, a maneuver being anything that actively tries to do damage to an enemy(make a poison, cut a chandelier rope, hurl a boulder). I want creative maneuvers to produce big, dramatic moments. Here’s the mechanic that's still very much a work in progress: • Player states intent; GM assigns an attribute. • The PC’s attribute modifier = number of dice (e.g. +4 = 4 dice). • The player rolls one d20 to determine the die type: • 1–5 = no effect • 6–10 = d4 • 11–15 = d6 • 16–19 = d8 • 20+ = d10 Example: crafting a poison uses INT. PC has +4 and rolls a 17 → poison deals 4d8 damage. So they get to roll 4d8 to see how much damage they do. • Targets get a save to take half damage (a natural 20 on the save = no damage). I like this because it creates a single cinematic moment where creativity is rewarded, and it would be the only time in my game players get to roll multiple dice at once. Buuuut it also feels like it most likely will completely break the game, making boss fights a walk in the park if you're creative and lucky. An alternative is to have the GM choose the die type and let the d20 determine the number of dice, but that pushes a lot of balancing onto the GM mid-combat. Any thoughts or advice? submitted by /u/OompaLoompaGodzilla to r/RPGdesign [link] [comments]",
+      "link": "https://www.reddit.com/r/RPGdesign/comments/1qnqh0t/thoughts_on_balancing_this_damage_solution_for/",
+      "author": "/u/OompaLoompaGodzilla",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T19:42:07.992155"
     }
   ],
-  "last_updated": "2026-01-26T19:20:47.268515"
+  "last_updated": "2026-01-26T19:43:43.663650"
 }
