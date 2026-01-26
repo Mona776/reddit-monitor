@@ -1,102 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/t3_1qkekf0",
-      "type": "search",
-      "subreddit": "ArenaBreakoutInfinite",
-      "title": "cheater with 70% extract",
-      "content": "Been running into rampant cheating 1 out of 3 games in even lockdown. This ones just irritating, just look at this guy historical seasonal stats and you already know what hes up to. This guy for example has clearly been cheating for 3 seasons and has done so much damage to the integrity of this game. it really highlight dev security team incompetence. submitted by /u/Pizzaboy0511 to r/ArenaBreakoutInfinite [link] [comments]",
-      "link": "https://www.reddit.com/r/ArenaBreakoutInfinite/comments/1qkekf0/cheater_with_70_extract/",
-      "author": "/u/Pizzaboy0511",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T02:53:42.413513"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qkfx2r",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "\"Don't worry bro, it's just a tower defense game\" The first wave:",
-      "content": "submitted by /u/tolgatr0n [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qkfx2r/dont_worry_bro_its_just_a_tower_defense_game_the/",
-      "author": "/u/tolgatr0n",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T03:59:56.234551"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qkfjay",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "UPgrading my Graphics! : Bouncy Kingdoms DevLog",
-      "content": "This week I've been adding a new Toon Art Style to my game, along with a new SkyBox,Grass, Lava and a Graphics Settings menu. Here it is condensed down to 1.45 submitted by /u/Artist6995 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qkfjay/upgrading_my_graphics_bouncy_kingdoms_devlog/",
-      "author": "/u/Artist6995",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T03:59:56.234675"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qkfhei",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Point Light Help",
-      "content": "Currently the way the lighting is working is that it brightens the pixels where the point light is, making them look less saturated and more ugly. This happens with a canvas modulate too. Is there a way for me to have a light subtract the opacity from a canvas modulate or colorrect node so the brightest a pixel could be is the actual color it is in the sprite. Thanks for any help https://preview.redd.it/mre21x09n0fg1.png?width=1340&format=png&auto=webp&s=8b92658142e483779918d01cc307421fbc8cb587 submitted by /u/dontleftclick [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qkfhei/point_light_help/",
-      "author": "/u/dontleftclick",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T03:59:56.234691"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qkgajd",
-      "type": "search",
-      "subreddit": "Deltarune",
-      "title": "I'm making my Deltarune fangame.",
-      "content": "Hey everyone! I started a new project, a Deltarune fangame I'm making in RPG Maker 2003 on my old computer. The game is still in its early stages and I can't post an image of the game because Reddit only accepts images larger than 20 pixels >:P But do you think my project has potential? submitted by /u/userklepiossauros to r/Deltarune [link] [comments]",
-      "link": "https://www.reddit.com/r/Deltarune/comments/1qkgajd/im_making_my_deltarune_fangame/",
-      "author": "/u/userklepiossauros",
-      "search_keyword": "AI game maker",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T03:59:56.235832"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qkhcmd",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "I recently reworked my capsule art. How does it feel?",
-      "content": "I wanted to focus more on rope-based action and a noir mood. I'd love to hear what feels clearer or stronger now. Thanks for reading! submitted by /u/Few_Tension2844 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qkhcmd/i_recently_reworked_my_capsule_art_how_does_it/",
-      "author": "/u/Few_Tension2844",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T04:43:01.304881"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qkgy5e",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "William 2 0.0.1.8",
-      "content": "submitted by /u/overshotby9000 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qkgy5e/william_2_0018/",
-      "author": "/u/overshotby9000",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T04:43:01.304888"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qkh98o",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "I recently reworked my capsule art. How does it feel?",
-      "content": "I wanted to focus more on rope-based action and a noir mood. I'd love to hear what feels clearer or stronger now. Thanks for reading! submitted by /u/Few_Tension2844 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qkh98o/i_recently_reworked_my_capsule_art_how_does_it/",
-      "author": "/u/Few_Tension2844",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T04:43:01.304900"
-    },
-    {
       "id": "https://www.reddit.com/r/IndieDev/t3_1qkgwxm",
       "type": "post",
       "subreddit": "IndieDev",
@@ -17771,7 +17675,139 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-01-26T19:42:07.992155"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qnrc68",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Fellow indie devs, please make backups of your work",
+      "content": "And please be careful about what you download on your computer. This is what happened recently to David Wehle, the developer of The First Tree. submitted by /u/StillPulsing [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qnrc68/fellow_indie_devs_please_make_backups_of_your_work/",
+      "author": "/u/StillPulsing",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T20:12:57.047599"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qnqvxb",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Our game just hit 1000 Wishlists!",
+      "content": "10 months after we first revealed our game we have just hit a major milestone for us. It was not an easy year, we had to leave our comfort zone and make some marketing which worked sometimes x.x submitted by /u/MrDartmoor [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qnqvxb/our_game_just_hit_1000_wishlists/",
+      "author": "/u/MrDartmoor",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T20:12:57.047608"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qnr6ue",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Is there any way to get this effect?",
+      "content": "https://preview.redd.it/hf5nbuam1rfg1.png?width=865&format=png&auto=webp&s=6902efa68041c3c94175670e46f755521269744f I want to make the interior not have any ambient lighting, making it look completely black. I've tried using fog, negative lights, reflection probes, light maps, baking, pretty much everything that I could find online. It seems like the outer wilds devs talked about how they got this look in unity, but it looked like they were using a custom light occlusion volume. Is there an equivalent in godot? submitted by /u/Dogfly1 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qnr6ue/is_there_any_way_to_get_this_effect/",
+      "author": "/u/Dogfly1",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T20:12:57.047625"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qnr3rb",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Same input detected by two different Area2Ds",
+      "content": "I have two Area2D nodes that can overlap. Both have an _input_event() callback that triggers when clicked. When one Area2D spawns on top of the other, clicking on the top one also triggers the _input_event() of the underlying one. How can I make it so that only the top Area2D receives the click and the other one does not? submitted by /u/Silver_Reason9629 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qnr3rb/same_input_detected_by_two_different_area2ds/",
+      "author": "/u/Silver_Reason9629",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T20:12:57.047640"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qnqww1",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Our Godot game just hit 1000 Wishlists!",
+      "content": "10 months after we first revealed our game we have just hit a major milestone for us. It was not an easy year, we had to leave our comfort zone and make some marketing which worked sometimes x.x submitted by /u/MrDartmoor [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qnqww1/our_godot_game_just_hit_1000_wishlists/",
+      "author": "/u/MrDartmoor",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T20:12:57.047652"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qnqw5v",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Tremaux algorithm for maze crawling",
+      "content": "It seems that I've finally locked in an optimized Tremaux algorithm for maze crawling. In the recording, the blue @ is an NPC exploring the maze with this algorithm. Since the NPC records only the entry and exit points of each juncture (rather than every tile visited) it is much more memory-efficient. submitted by /u/Haunting-Baker5521 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qnqw5v/tremaux_algorithm_for_maze_crawling/",
+      "author": "/u/Haunting-Baker5521",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T20:12:57.047680"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qnr548",
+      "type": "search",
+      "subreddit": "microphone",
+      "title": "How can i make my blue yeti sound the best it can?(until i upgrade)",
+      "content": "So I’m starting a gaming YouTube channel and I have this Blue Yeti mic that I’ve never really used. I want to upgrade to something better later on, but for now I’m trying to work with what I have. I’m not really knowledgeable about microphones or audio stuff, which is why I’m asking for advice here. How can I make it sound the best it can? What software, settings, or other things should I use? It doesn’t need to be professional quality, just good enough to record with until I upgrade. submitted by /u/RevolutionaryCup7455 to r/microphone [link] [comments]",
+      "link": "https://www.reddit.com/r/microphone/comments/1qnr548/how_can_i_make_my_blue_yeti_sound_the_best_it/",
+      "author": "/u/RevolutionaryCup7455",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T20:12:57.048132"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qnr4no",
+      "type": "search",
+      "subreddit": "subaruimpreza",
+      "title": "Is It Done For?",
+      "content": "So I have been trying to diagnose a very rough idle on my 03 Impreza Outback for the last few weeks and can't seem to figure it out. The codes were giving IAC and MAF sensor issues. Both of these have been replaced as well as the Fuel Pressure Regulator and PCV. I also checked for vacuum leaks with no success. I ran it through an idle reset process which fixed the pulsating idle (have video of this) but it still runs very rough when cold. When it warms up it sounds better as well as when I pull the throttle (see video). When I go to put it in gear is when it really sounds bad, like the engine is about to kill (800 or less rpms). There is no forbidden milkshake in the oil or coolant. The engine has had a tick since I bought it (roughly 2 years ago). The exhaust was next on my list to replace and sounds terrible which doesn't help the diagnosis. My consensus is that the engine is toast but I don't want that to be it. I have photos of the spark plugs. They were covered in carbon but didn't seem too bad. I cleaned these up to see if that would help but it didn't change much. Do any of you guys know what the issue might be and if it is fixable without dumping a lot of money into it? Do I just cut my losses and junk it? I have photos of the codes and spark plugs as well as other videos of the idling issues that seem to have been resolved. Cheers and I appreciate the input here, I really don't want to get rid of this car but it's looking more and more like I might have to. (sad face) submitted by /u/le_goos3 to r/subaruimpreza [link] [comments]",
+      "link": "https://www.reddit.com/r/subaruimpreza/comments/1qnr4no/is_it_done_for/",
+      "author": "/u/le_goos3",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T20:12:57.048339"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qnqzfp",
+      "type": "search",
+      "subreddit": "OutcomeMemories",
+      "title": "despite all the controversies, the miscommunication... you know... none of us really deserved this, even the devs. the game is now a \"what could have been\". it was one of the games I really actually liked, and it sucks to see it go, but at least it was fun.",
+      "content": "submitted by /u/Expensive_Wafer_8709 to r/OutcomeMemories [link] [comments]",
+      "link": "https://www.reddit.com/r/OutcomeMemories/comments/1qnqzfp/despite_all_the_controversies_the/",
+      "author": "/u/Expensive_Wafer_8709",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T20:12:57.048908"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qnqz5p",
+      "type": "search",
+      "subreddit": "OutcomeMemories",
+      "title": "The game is officially canceled",
+      "content": "In the discord they announced that the game will be canceled, due to bums doxing the owner, and bc no one knows much decency in the slightest and also the game will be shutdown/achieved, at the very least all this drama will finally be over, but to those who just harassed and bewildered the devs, u seriously have nothing better to do, do u? Anyways R.I.P Outcome Memories, we truly enjoyed every second, and to the devs who tried their hardest thank you submitted by /u/DragonfruitDense3608 to r/OutcomeMemories [link] [comments]",
+      "link": "https://www.reddit.com/r/OutcomeMemories/comments/1qnqz5p/the_game_is_officially_canceled/",
+      "author": "/u/DragonfruitDense3608",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T20:12:57.048923"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qnqkk0",
+      "type": "search",
+      "subreddit": "HelldiversUnfiltered",
+      "title": "Helldivers 2 turns off my pc",
+      "content": "Do the devs even care about fixing this problem? I feel like this has been a problem for a while and the devs don’t care about it, but recently for me the crashes has been happening a lot, I can play any other games fine expect for helldivers 2 and my specs are good enough to run helldivers on med-high graphics. I’ve tried everything in the book to make helldivers 2 works but the crashes keep happening. submitted by /u/Qloaker to r/HelldiversUnfiltered [link] [comments]",
+      "link": "https://www.reddit.com/r/HelldiversUnfiltered/comments/1qnqkk0/helldivers_2_turns_off_my_pc/",
+      "author": "/u/Qloaker",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T20:12:57.048988"
     }
   ],
-  "last_updated": "2026-01-26T19:43:43.663650"
+  "last_updated": "2026-01-26T20:14:41.906011"
 }
