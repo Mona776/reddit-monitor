@@ -1,66 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/godot/t3_1qk8zxh",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "TD Navigation Question",
-      "content": "I have manually created paths (tilemap layer) that have a navigation layer added to them based a tile's png 'shape'. I've been trying to have it so that enemies can pathfind on it, while player towers can be placed on the paths, which means the enemies need to try and find a path around the towers. Problem is that adding Nav Obstacles to towers and placing them doesn't seem to work. I've done a little research and it seems that Nav Obstacles don't work with tilemap layers. Is there anyway I could do this without having to add a navigation region to each path? Each path is made for one map so I'd rather not have to do anything that requires me to draw a path and then draw a navigation region afterwards... but tbh I'm clueless as to what else to do :/ Of course my enemies use NavigationAgent, I'm new to Godot so I'm not sure what the norm for pathfinding really is, I assume it's good XD submitted by /u/Physical_Metal6063 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qk8zxh/td_navigation_question/",
-      "author": "/u/Physical_Metal6063",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T22:45:12.959880"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qk8j3e",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "An early look at the first level of my game!",
-      "content": "Thematically this level is supposed to be a cross between a community living complex and a prison, I'm really trying to get that oppressive feeling in this one. The game's name is Dead Fantasia and has a page on Steam if you're interested! submitted by /u/Varpyg [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qk8j3e/an_early_look_at_the_first_level_of_my_game/",
-      "author": "/u/Varpyg",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T22:45:12.959907"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qk8itx",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Started working on a Metroidvania idea I have",
-      "content": "submitted by /u/cryptic-tree [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qk8itx/started_working_on_a_metroidvania_idea_i_have/",
-      "author": "/u/cryptic-tree",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T22:45:12.959925"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qk8ze5",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "Hollowmere - Classic Survival Horror x Medieval Setting",
-      "content": "submitted by /u/fbfv0906 [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qk8ze5/hollowmere_classic_survival_horror_x_medieval/",
-      "author": "/u/fbfv0906",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T22:45:12.959934"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qk8m7u",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "An early look at the first level of my game!",
-      "content": "Thematically this level is supposed to be a cross between a community living complex and a prison, I'm really trying to get that oppressive feeling in this one. The game's name is Dead Fantasia and has a page on Steam if you're interested! submitted by /u/Varpyg [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qk8m7u/an_early_look_at_the_first_level_of_my_game/",
-      "author": "/u/Varpyg",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T22:45:12.959956"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qk96p1",
       "type": "search",
       "subreddit": "buildapc",
@@ -16679,7 +16619,175 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-26T12:22:05.215294"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qnfla3",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "We are making a tension-driven comedy game about gambling for toilet paper (One More Wipe!)",
+      "content": "submitted by /u/OddRoof9525 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qnfla3/we_are_making_a_tensiondriven_comedy_game_about/",
+      "author": "/u/OddRoof9525",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T13:14:56.277951"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qnfj78",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Just working on a cozy seaside world. How does the atmosphere feel to you?",
+      "content": "submitted by /u/Recent-Cake7489 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qnfj78/just_working_on_a_cozy_seaside_world_how_does_the/",
+      "author": "/u/Recent-Cake7489",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T13:14:56.277958"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qnf0xr",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Play Bowldem - It's Wordle but for Cricket",
+      "content": "submitted by /u/UsedPudding2884 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qnf0xr/play_bowldem_its_wordle_but_for_cricket/",
+      "author": "/u/UsedPudding2884",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T13:14:56.278000"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qnetvw",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Made a little puzzle game, thoughts?",
+      "content": "submitted by /u/Previous-Film-2212 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qnetvw/made_a_little_puzzle_game_thoughts/",
+      "author": "/u/Previous-Film-2212",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T13:14:56.278006"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qnfk6w",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Any good resources for making gifs for your game?",
+      "content": "These are some old gifs from our game, I feel they convey the mechanics pretty well but they just feel a bit off. Does anyone have good resources with comprehensive \"best practices\" for making gameplay gifs to post on socials or use as assets within a steam page? submitted by /u/EtchVSketch [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qnfk6w/any_good_resources_for_making_gifs_for_your_game/",
+      "author": "/u/EtchVSketch",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T13:14:56.278019"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qnfjue",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "I was working on an LUT system and accidently turned Luminids into Virtual Boy",
+      "content": "Oddly creepy.. new art style? :D submitted by /u/Hostarro [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qnfjue/i_was_working_on_an_lut_system_and_accidently/",
+      "author": "/u/Hostarro",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T13:14:56.278029"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qnf6gu",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Reading Code is the worst part, use comments people",
+      "content": "submitted by /u/DesignationX_Offic [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qnf6gu/reading_code_is_the_worst_part_use_comments_people/",
+      "author": "/u/DesignationX_Offic",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T13:14:56.278079"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qnf3g7",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Game Name Suggestion",
+      "content": "Hi guys, so I have developed a game called Duelist Guild. I recently it is not a good name that fits my game's features well. I am planning to make a new name but I got no idea and want some advice. Here are some name in my mind: 1. Idle desktop game, set at the bottom of PC 2. auto battler, 4v4 2D combat 3. 90+ pixel fantasy JRPG style characters, characters will fight the characters instead of monster Here is the PV to introduce more a bit： https://reddit.com/link/1qnf3g7/video/34csckt7wofg1/player Here are some name in my mind: 1. Fantasy Idle Guild 2. Idle Adventure Guild 3. Fantasy Idle Expedition Please let me know if you any idea or advice, thank you! submitted by /u/Popular_Molasses962 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qnf3g7/game_name_suggestion/",
+      "author": "/u/Popular_Molasses962",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T13:14:56.278117"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qnfj0z",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "car controller : why the car is jammed when it touches the ground?",
+      "content": "submitted by /u/bowlofmuesliofficial [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qnfj0z/car_controller_why_the_car_is_jammed_when_it/",
+      "author": "/u/bowlofmuesliofficial",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T13:14:56.278155"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qnf5c4",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Most cost-effective 2D models production methods",
+      "content": "submitted by /u/ElPatitoNegro [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qnf5c4/most_costeffective_2d_models_production_methods/",
+      "author": "/u/ElPatitoNegro",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T13:14:56.278199"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qnf2g4",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Big day (and big stress): I'm launching the first public playtest for KAZ after months of solo dev",
+      "content": "After months of tweaking movement, fx and feedbacks in Unity, KAZ is finally ready for a public stress test. It’s a minimalist, dexterity-based roguelike . The goal was to create a pure \"flow state\" game: 4 keys, high speed, and instant restarts. The Playtest registration is live on Steam right now! (and playtest will start on January 30th) To make things interesting, I’m offering a $100 Steam Gift Card to the player who holds the #1 spot on the leaderboard when the playtest ends. I’d love to get your feedback on the controls and game feel! Link to join: https://store.steampowered.com/app/3633760 Discord : https://discord.gg/rWu7Emjsp3 submitted by /u/Punzk [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qnf2g4/big_day_and_big_stress_im_launching_the_first/",
+      "author": "/u/Punzk",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T13:14:56.278223"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qnfcom",
+      "type": "search",
+      "subreddit": "Lenovo",
+      "title": "GPU Dead",
+      "content": "So today I opened my laptop and turned on performance mode and started playing DOOM. But the loading screen felt very choppy I thought it was not big of an issue but once I was in the game, It started to lag and when I right-clicked, the Nvidia control panel wasn't there and when I searched for it and opened it, no Nvidia graphics card was detected. I checked the task manager and device manager and to my horror the gpu was not really there. I restarted it multiple times but every time after a few seconds the gpu just vanished with code 45 error. I reinstalled the drivers from Lenovo's website, did win+shift+ctrl+b but nothing worked. What should I do now? submitted by /u/Effective_Mind2314 to r/Lenovo [link] [comments]",
+      "link": "https://www.reddit.com/r/Lenovo/comments/1qnfcom/gpu_dead/",
+      "author": "/u/Effective_Mind2314",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T13:14:56.278267"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qnfmug",
+      "type": "search",
+      "subreddit": "SpottedUprising",
+      "title": "Home Depot New Credit Card Promo Code",
+      "content": "Use the Home Depot New Credit Card Promo Code . There is a wide selection of promo codes, coupons, and discount codes that are updated regularly for you to choose from and make your purchase more affordable. submitted by /u/desertedconcure to r/SpottedUprising [link] [comments]",
+      "link": "https://www.reddit.com/r/SpottedUprising/comments/1qnfmug/home_depot_new_credit_card_promo_code/",
+      "author": "/u/desertedconcure",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T13:14:56.278845"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qnfkuo",
+      "type": "search",
+      "subreddit": "Patriots",
+      "title": "Love it.",
+      "content": "submitted by /u/aashus777 to r/Patriots [link] [comments]",
+      "link": "https://www.reddit.com/r/Patriots/comments/1qnfkuo/love_it/",
+      "author": "/u/aashus777",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T13:14:56.278851"
     }
   ],
-  "last_updated": "2026-01-26T12:23:53.933608"
+  "last_updated": "2026-01-26T13:16:50.359282"
 }
