@@ -1,126 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/gamedesign/t3_1qk2zgr",
-      "type": "post",
-      "subreddit": "gamedesign",
-      "title": "What is the right difficulty for a puzzle?",
-      "content": "I’m making a grid-based puzzle game where the core rules stay the same, but new mechanics are introduced over time. Each block has a clear behavior, and the challenge comes from combining familiar mechanics in new ways. The goal is to create small “aha” moments through experimentation rather than explicit tutorials. AND I am wondering how hard should the puzzles be. (5min, 10...) submitted by /u/Fantastic-Bar-9997 [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedesign/comments/1qk2zgr/what_is_the_right_difficulty_for_a_puzzle/",
-      "author": "/u/Fantastic-Bar-9997",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T18:56:10.103405"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qk36qm",
-      "type": "search",
-      "subreddit": "ForzaHorizon",
-      "title": "All I hope for is a decent sim wheel implementation...",
-      "content": "I kinda moved on to actual sims for the past 2 years or so, I played every Horizon game and it was always the best controller car game but when I tried it with actual wheel I immiedietly unistalled it. I know the game will still be arcade but PLEASE make the wheel feel decent, give us settings for things like force feedback, wheel rotation etc. submitted by /u/Afjoo to r/ForzaHorizon [link] [comments]",
-      "link": "https://www.reddit.com/r/ForzaHorizon/comments/1qk36qm/all_i_hope_for_is_a_decent_sim_wheel/",
-      "author": "/u/Afjoo",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T18:56:10.104421"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qk35dq",
-      "type": "search",
-      "subreddit": "playstation",
-      "title": "Xbox Devloper Direct - All Games Showcased",
-      "content": "Link to Direct: https://www.youtube.com/live/hXn6bvU1Kh4?si=_MfcaL8RdZykagZQ Link To Spreadsheet: https://docs.google.com/spreadsheets/d/1EbGHsJjxt4VrpD8_0jPZn2JMB7WNz945S1hFgfXWddg/edit?usp=drivesdk submitted by /u/Howerev to r/playstation [link] [comments]",
-      "link": "https://www.reddit.com/r/playstation/comments/1qk35dq/xbox_devloper_direct_all_games_showcased/",
-      "author": "/u/Howerev",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T18:56:10.104782"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qk2ywr",
-      "type": "search",
-      "subreddit": "gamedev",
-      "title": "How do i find composers?",
-      "content": "Indie dev working on my first title. I cannot make OST no matter what, and budget's tight. Should i try to find a composer for free/shared revenue? or should i simply get good at making musc myself (which will most likely delay the game)? submitted by /u/Roditis_Alex to r/gamedev [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedev/comments/1qk2ywr/how_do_i_find_composers/",
-      "author": "/u/Roditis_Alex",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T18:56:10.105629"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedev/t3_1qk3qyi",
-      "type": "post",
-      "subreddit": "gamedev",
-      "title": "It used to take me 2 months to get 100 Wishlists. My new project just hit ~85 in 5 days. It's a small win, but huge for me.",
-      "content": "I've been making games for a while now (mostly mobile), but I recently shifted to solo indie development full-time. With my previous projects, the \"100 wishlist\" mark always felt like a slow crawl that took months. I just launched the Steam page for my new project, HeroInc (an Incremental RPG), and seeing the number jump to 85 in less than a week feels surreal. I know it's \"nothing big\" compared to the viral hits we see here often, but for a solo dev, seeing that conversion rate improve so drastically is a massive confidence booster. Just wanted to share this small milestone to remind everyone (and myself) that we do get better at this over time. Keep pushing! submitted by /u/Arefnue [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedev/comments/1qk3qyi/it_used_to_take_me_2_months_to_get_100_wishlists/",
-      "author": "/u/Arefnue",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T19:17:57.691009"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qk3mnq",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "After ten years of solo-dev I just released the DEMO, I'm so excited!! And the good news is that it's only 1.7 GB in size!!!",
-      "content": "It's an adventure game called Subsequence, if you are interested, here's the Steampage to try the game. Have a nice day guys! submitted by /u/ZoemiGames [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qk3mnq/after_ten_years_of_solodev_i_just_released_the/",
-      "author": "/u/ZoemiGames",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T19:17:57.691115"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qk3jgo",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "First time dev, I've been working on this game for a while and want to see what others think!",
-      "content": "Its called Fame or Folly and its a blend between Balatro and Quacks of Quedlinburg (Quacks is a board game that kinda works like BlackJack). Gameplay Example submitted by /u/BossGrand [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qk3jgo/first_time_dev_ive_been_working_on_this_game_for/",
-      "author": "/u/BossGrand",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T19:17:57.691149"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qk3k9a",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Help with resizing my window",
-      "content": "All I want to do is to keep the resolution the same but make it so that the playable part is teh biggest and its not surrounded by the gray bars https://preview.redd.it/u724fqzy8yeg1.png?width=1920&format=png&auto=webp&s=fae25d2f660a3ce1411aeae59aedb8baf595cfcb submitted by /u/name-txt33 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qk3k9a/help_with_resizing_my_window/",
-      "author": "/u/name-txt33",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T19:17:57.691217"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qk3r0x",
-      "type": "search",
-      "subreddit": "GeForceNOW",
-      "title": "MCC Isnt Working",
-      "content": "I own the game digitally but it keeps checking for gamepass subscription submitted by /u/SuperninjaJohn10 to r/GeForceNOW [link] [comments]",
-      "link": "https://www.reddit.com/r/GeForceNOW/comments/1qk3r0x/mcc_isnt_working/",
-      "author": "/u/SuperninjaJohn10",
-      "search_keyword": "no code game",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T19:17:57.691242"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qk3rcg",
-      "type": "search",
-      "subreddit": "CreaturesofSonaria",
-      "title": "Quitting",
-      "content": "Hey everyone. I’ve spent a long time in the cos community and have contributed a lot to it, but cos is becoming such a horribly neglected game that it’s getting ridiculous and I want no part in it. I sold my whole inventory and gave away some stuff, only keeping a dblr morth slot and the spec in case I come back, but I don’t think I will, unless the devs get it together. The past couple days I’ve been getting rid of my inventory, I got a good look at the trade realm, and not a single rev was less than 3k. Everything else was extremely overpriced, I had to pay nearly 25k to get a ghart because I’d accidentally put mine up on a stall for 11k, not realizing I had a slot to sell. I just think 25k for a ghart is a bit much. Not only is the cos economy completely wrecked, but the devs are extremely lazy, adding creatures with repeating features every week instead of tending to actual problems. The least this community needs right now is more creatures. This game has a lot of potential, and I’m very upset to be leaving this game, as it was my favorite game for a long time. But this whole community has gone to shit. Devs, please get it together. submitted by /u/UrGu4rdianD3vil to r/CreaturesofSonaria [link] [comments]",
-      "link": "https://www.reddit.com/r/CreaturesofSonaria/comments/1qk3rcg/quitting/",
-      "author": "/u/UrGu4rdianD3vil",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T19:17:57.692798"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qk3qyi",
       "type": "search",
       "subreddit": "gamedev",
@@ -16931,7 +16811,67 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-26T08:54:19.825586"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qnaxpy",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Chess is perfect information… but real life isn’t.",
+      "content": "submitted by /u/incend1es [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qnaxpy/chess_is_perfect_information_but_real_life_isnt/",
+      "author": "/u/incend1es",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T09:22:52.827204"
+    },
+    {
+      "id": "https://www.reddit.com/r/unity/t3_1qnb07v",
+      "type": "post",
+      "subreddit": "unity",
+      "title": "Is it possible to compile an HDRP project for Switch 2?",
+      "content": "I know that officially it’s not possible, but on the other hand, it seems like there are no longer any technical obstacles for it (compared to the original Switch). Maybe someone has experience with this? submitted by /u/Competitive_Beat_915 [link] [comments]",
+      "link": "https://www.reddit.com/r/unity/comments/1qnb07v/is_it_possible_to_compile_an_hdrp_project_for/",
+      "author": "/u/Competitive_Beat_915",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T09:22:52.827347"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qnb2k2",
+      "type": "search",
+      "subreddit": "PHbuildapc",
+      "title": "Budget friendly. 46k. is this good?",
+      "content": "https://preview.redd.it/atgczekisnfg1.png?width=1004&format=png&auto=webp&s=5e79ca4fc55e641509ab099f498f97c1a40edf51 Oks po ba tong build na to. budget friendly lang po 46k? submitted by /u/Tasty_Performance726 to r/PHbuildapc [link] [comments]",
+      "link": "https://www.reddit.com/r/PHbuildapc/comments/1qnb2k2/budget_friendly_46k_is_this_good/",
+      "author": "/u/Tasty_Performance726",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T09:22:52.827452"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qnb1u2",
+      "type": "search",
+      "subreddit": "TorchlightInfinite",
+      "title": "PC crashes only when playing Torchlight infinite or PoE2",
+      "content": "Hey, i have a big problem. My Pc crashes at random times while playing Torchlight or Path of Exile 2 and i have no idea whats causing it. Sometimes it happens after an Hour and sometimes after 10 Minutens. Im playing Games that are much harder to run like Expedition 33 on highest graphic settings and much more like Call of Duty or Baldurs Gate 3 and never had any crashes with my PC. Does someone have similar problems or knows whats wrong? Edit: No Bluescreen and No Error Codes just Blackscreen. Thanks in advance :) submitted by /u/JJENUU to r/TorchlightInfinite [link] [comments]",
+      "link": "https://www.reddit.com/r/TorchlightInfinite/comments/1qnb1u2/pc_crashes_only_when_playing_torchlight_infinite/",
+      "author": "/u/JJENUU",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T09:22:52.827468"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qnbddc",
+      "type": "search",
+      "subreddit": "Vedic_Astrology_free",
+      "title": "Your soul is carryin a heavy backpack",
+      "content": "what u did in yur past life. if u r naturally good at something without even trying its probably cuz u spent lifetimes doin it already. but shani or saturn is the one who brings the bill. it shows the lessons u skipped and why some things feel so hard for u right now compared to others. Are you following your true path? rahu is yur future and it usually feels super scary or weird because u havent done it before. most people stay stuck in their past karma cuz its comfortable but yur real growth is where rahu is sitting in yur chart. its like the compass for yur soul mission. You are the driver not the passenger dasha cycles r just seasons they dont force u to do anything. they just show when the seeds u planted r gonna grow. if u understand yur karma u can actually change yur future by making better choices today. its not about luck its about awareness. What do u think is yur biggest karmic lesson right now. lets talk about it. submitted by /u/JaguarAmazing2755 to r/Vedic_Astrology_free [link] [comments]",
+      "link": "https://www.reddit.com/r/Vedic_Astrology_free/comments/1qnbddc/your_soul_is_carryin_a_heavy_backpack/",
+      "author": "/u/JaguarAmazing2755",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T09:22:52.827943"
     }
   ],
-  "last_updated": "2026-01-26T08:56:13.809077"
+  "last_updated": "2026-01-26T09:24:33.607310"
 }
