@@ -1,66 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/t3_1qknw17",
-      "type": "search",
-      "subreddit": "LenovoLegion",
-      "title": "What do you think of this laptop?",
-      "content": "Is it worth buying in 2026 I was thinking of playing FOS games rivals , valiant and doing this with blender and game dev . It has 16gb vram as well submitted by /u/Heavy_Tax_6958 to r/LenovoLegion [link] [comments]",
-      "link": "https://www.reddit.com/r/LenovoLegion/comments/1qknw17/what_do_you_think_of_this_laptop/",
-      "author": "/u/Heavy_Tax_6958",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T11:11:47.118234"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qknzke",
-      "type": "search",
-      "subreddit": "leagueoflegends",
-      "title": "I’m quitting League after playing for 10 years",
-      "content": "Been playing this game since 2016. The game just isn’t the same anymore. The ranking system makes no sense, and the punishments are ridiculous. My cat accidentally turned off my PC, it took me literally two minutes to get back into the game, and somehow I end up with a 15 minute penalty for five games? How does that make any sense? It honestly feels like Riot is pushing people away from ranked and forcing them into normal games instead. The community has become insanely sensitive, the new champions feel pointless, and everything is a mess. They add things like Atakhan just to remove them, add new boots and then remove those too which just proves those updates were useless from the start. I’ve been saying I’d quit since 2023, but after hitting Challenger, this was the final moment. I’m done with the game. Good luck to the people who still enjoy this shii submitted by /u/SnooGrapes3884 to r/leagueoflegends [link] [comments]",
-      "link": "https://www.reddit.com/r/leagueoflegends/comments/1qknzke/im_quitting_league_after_playing_for_10_years/",
-      "author": "/u/SnooGrapes3884",
-      "search_keyword": "how to make a game",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T11:11:47.118334"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedev/t3_1qko6wo",
-      "type": "post",
-      "subreddit": "gamedev",
-      "title": "Manor Lords publisher Hooded Horse's CEO argues game agreements violate contract principles",
-      "content": "submitted by /u/Kaladinar [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedev/comments/1qko6wo/manor_lords_publisher_hooded_horses_ceo_argues/",
-      "author": "/u/Kaladinar",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T11:40:21.450811"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedev/t3_1qko3e2",
-      "type": "post",
-      "subreddit": "gamedev",
-      "title": "what is better for a bullet hell game between ecs and oop?",
-      "content": "hello everyone, i'm pretty new to programming but i downloaded unity and i'm trying to make an isaac-like game, where bullets have lots of variation based on items you get. i was following a C# tutorial that was based on classes but i recently saw stuff about ecs that seemed.. interesting? as i have basically no knowledge on programming, i can't seem to see the difference long term, but what would be the best in uses? also, i saw people writing that you can actually use both at the same time, but how are they structured when used separately? submitted by /u/MrFocaccino [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedev/comments/1qko3e2/what_is_better_for_a_bullet_hell_game_between_ecs/",
-      "author": "/u/MrFocaccino",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T11:40:21.450830"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qkoc1s",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "This game has a wisp that reacts to your backpack upgrades.",
-      "content": "submitted by /u/41sile [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qkoc1s/this_game_has_a_wisp_that_reacts_to_your_backpack/",
-      "author": "/u/41sile",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T11:40:21.450871"
-    },
-    {
       "id": "https://www.reddit.com/r/IndieDev/t3_1qkodqi",
       "type": "post",
       "subreddit": "IndieDev",
@@ -18419,7 +18359,67 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-27T06:57:44.257840"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qo6r9i",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Update 1.1 in my Incremental game just dropped!",
+      "content": "submitted by /u/Spherneedsnewmembers [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qo6r9i/update_11_in_my_incremental_game_just_dropped/",
+      "author": "/u/Spherneedsnewmembers",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T07:23:10.069479"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qo6r8u",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Dancing...",
+      "content": "submitted by /u/alperertugrul [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qo6r8u/dancing/",
+      "author": "/u/alperertugrul",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T07:23:10.069486"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qo7430",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Stylized Water in Unreal Engine 5 - Showcase Video",
+      "content": "submitted by /u/ANGRY_MESH [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qo7430/stylized_water_in_unreal_engine_5_showcase_video/",
+      "author": "/u/ANGRY_MESH",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T07:23:10.069497"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qo71ai",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Please don't break Please don't break Please don't break Please don't break",
+      "content": "submitted by /u/Ender_Fender [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qo71ai/please_dont_break_please_dont_break_please_dont/",
+      "author": "/u/Ender_Fender",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T07:23:10.069525"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qo6px7",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Demo coming soon to steam (INKURSION) 3 years solo dev no asset flips",
+      "content": "submitted by /u/MRX_Labs [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qo6px7/demo_coming_soon_to_steam_inkursion_3_years_solo/",
+      "author": "/u/MRX_Labs",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T07:23:10.069550"
     }
   ],
-  "last_updated": "2026-01-27T06:59:17.725769"
+  "last_updated": "2026-01-27T07:25:00.916784"
 }
