@@ -1,90 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/t3_1qkvzyz",
-      "type": "search",
-      "subreddit": "ShinyPokemon",
-      "title": "[Gen 3] Shiny Latios lonely nature, lol. (5192 SRs) southern island, sapphire.",
-      "content": "Hunt started: 17 Jan 2026 Date Caught: 23 Jan 2026 I'll keep huntin til I get a modest nature shiny latios or maybe other special attack natures, wouldnt mind as long as IV's are good. submitted by /u/hulakashaya to r/ShinyPokemon [link] [comments]",
-      "link": "https://www.reddit.com/r/ShinyPokemon/comments/1qkvzyz/gen_3_shiny_latios_lonely_nature_lol_5192_srs/",
-      "author": "/u/hulakashaya",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T16:53:43.355165"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qkvxqs",
-      "type": "search",
-      "subreddit": "GoodPizzaGreatPizza",
-      "title": "it's a jungle out here! [ID: 24823277]",
-      "content": "this overgrown woodsy aesthetic has always been one of my favourites to decorate my pizzeria in! it'd probably be super inconvenient for customers but i love it regardless 🥰 i hope the devs add even more whimsical planty decor in the game throughout 2026 🤞 submitted by /u/lilacrubies to r/GoodPizzaGreatPizza [link] [comments]",
-      "link": "https://www.reddit.com/r/GoodPizzaGreatPizza/comments/1qkvxqs/its_a_jungle_out_here_id_24823277/",
-      "author": "/u/lilacrubies",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T16:53:43.355249"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qkw627",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Release | Legends of Savvarah: Flowers and Scorpions",
-      "content": "submitted by /u/Unable_Limit_5772 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qkw627/release_legends_of_savvarah_flowers_and_scorpions/",
-      "author": "/u/Unable_Limit_5772",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T17:17:25.624160"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qkwpkj",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Here's why I think you NEED to create a playtest on steam now!",
-      "content": "We've been sharing our progress on our game for over a year now, and honestly it's not getting the attention we hoped yet, but a playtest on steam has been invaluable in getting more wishlists and more importantly improving our game! submitted by /u/DDevilAAngel [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qkwpkj/heres_why_i_think_you_need_to_create_a_playtest/",
-      "author": "/u/DDevilAAngel",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T17:17:25.624179"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qkwg27",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "So excited after years we finally opened our gaming studio! Need advice!",
-      "content": "submitted by /u/lumbino [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qkwg27/so_excited_after_years_we_finally_opened_our/",
-      "author": "/u/lumbino",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T17:17:25.624187"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qkwniw",
-      "type": "search",
-      "subreddit": "superjueves",
-      "title": "En mundo alternativo la estrellita moribunda y un Alibaba eran jugables en Paper Mario, fuimos robados",
-      "content": "submitted by /u/DobleM to r/superjueves [link] [comments]",
-      "link": "https://www.reddit.com/r/superjueves/comments/1qkwniw/en_mundo_alternativo_la_estrellita_moribunda_y_un/",
-      "author": "/u/DobleM",
-      "search_keyword": "no code game",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T17:17:25.624405"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qkwp5t",
-      "type": "search",
-      "subreddit": "golang",
-      "title": "OOP in Go",
-      "content": "Hey there! This is probably going to sound really dumb, but I'm just starting to learn Go. I went through the go.dev tutorial completely and two competing statements jumped out at me: Go does not support classes Functions can have explicit receivers To play around just a bit, I decided to try making a Tic Tac Toe game just to get some practice. My first gut instinct was to write a Board class: package board ... type Board struct { rows [][]string } func (b *Board) Initialize() { ... } func (b *Board) Place(row, col, marker) { ... } func (b *Board) PrintBoard() { ... } ``` Is this a distinction without a difference? Is there a more idiomatic way to simulate classes in Go? Also, and perhaps more controversially, where do y'all stand with single-letter variable names? They are all over the place from what I've seen so far. submitted by /u/Little-Worry8228 to r/golang [link] [comments]",
-      "link": "https://www.reddit.com/r/golang/comments/1qkwp5t/oop_in_go/",
-      "author": "/u/Little-Worry8228",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T17:17:25.625196"
-    },
-    {
       "id": "https://www.reddit.com/r/indiegaming/t3_1qkxg92",
       "type": "post",
       "subreddit": "indiegaming",
@@ -18695,7 +18611,151 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-27T14:31:04.192475"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qog5hu",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Difference in post-processing",
+      "content": "Difference in post-processing in my indie survival game submitted by /u/Zynres [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qog5hu/difference_in_postprocessing/",
+      "author": "/u/Zynres",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T15:19:39.619687"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qog8ew",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Difference in post-processing",
+      "content": "submitted by /u/Zynres [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qog8ew/difference_in_postprocessing/",
+      "author": "/u/Zynres",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T15:19:39.619745"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qoftqc",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "My plan was to finish my game by the end of 2018. Today, 8 years later... I'm finally pressing the release button.",
+      "content": "submitted by /u/duckytopia [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qoftqc/my_plan_was_to_finish_my_game_by_the_end_of_2018/",
+      "author": "/u/duckytopia",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T15:19:39.619770"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qofmmc",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Need some pro-tip on character loading screen",
+      "content": "submitted by /u/AccelixGames [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qofmmc/need_some_protip_on_character_loading_screen/",
+      "author": "/u/AccelixGames",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T15:19:39.619776"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qoghcl",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "why the car is flipping on one side due to collisonshape3d , even when perfectly aligned?",
+      "content": "https://preview.redd.it/3hnsekf7qwfg1.png?width=1920&format=png&auto=webp&s=19ce394f85c5566c8db7c3c4d43e217772c2938f https://preview.redd.it/hbazmnm8qwfg1.png?width=1152&format=png&auto=webp&s=8e71f277d9636f09b1c286c1deea5910981e682d weight of the car is 1500 , even tried adding different shape colliders still persists but also they arent suitable for rec-square cars submitted by /u/bowlofmuesliofficial [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qoghcl/why_the_car_is_flipping_on_one_side_due_to/",
+      "author": "/u/bowlofmuesliofficial",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T15:19:39.619790"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qogba9",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Tip: Enabling Godot 4.6 Classic Theme (Godot 3)",
+      "content": "To enable original classic theme of Godot: Click: Editor -> Editor Settings -> Interface -> Theme Select: Style -> Classic Select: Color Preset-> Godot 3 submitted by /u/BoQsc [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qogba9/tip_enabling_godot_46_classic_theme_godot_3/",
+      "author": "/u/BoQsc",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T15:19:39.619798"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qofqqr",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Steam Stats Question",
+      "content": "Lifetime free licenses (?) 500 Lifetime total units (?) 500 What does the above Game stats for my Demo mean.. Do not understand the (?) tip Thanks submitted by /u/skinnistudios [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qofqqr/steam_stats_question/",
+      "author": "/u/skinnistudios",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T15:19:39.619893"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qogjjj",
+      "type": "search",
+      "subreddit": "DuelLinks",
+      "title": "Need help with FIC",
+      "content": "Seems like mega thread isn’t really active and really trying to get the sky strikers deck. submitted by /u/YeloTrashKochHeckler to r/DuelLinks [link] [comments]",
+      "link": "https://www.reddit.com/r/DuelLinks/comments/1qogjjj/need_help_with_fic/",
+      "author": "/u/YeloTrashKochHeckler",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T15:19:39.620679"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qognar",
+      "type": "search",
+      "subreddit": "OutcomeMemories",
+      "title": "I dont have hope for Om But I have hope in YOU",
+      "content": "I know for a fact that the Old Om one made by the original devs is dead its gone forever But you know whos still left? the community who is full of talented and passionate people so for anyone who wants to remake the game I and Im sure others will be there to support it (just make sure to take your time and stay healthy) I wouldnt say this is hopium I would say Im diverting my hope to something else submitted by /u/Klutzy-Education-875 to r/OutcomeMemories [link] [comments]",
+      "link": "https://www.reddit.com/r/OutcomeMemories/comments/1qognar/i_dont_have_hope_for_om_but_i_have_hope_in_you/",
+      "author": "/u/Klutzy-Education-875",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T15:19:39.623692"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qoghgn",
+      "type": "search",
+      "subreddit": "OutcomeMemories",
+      "title": "Before the game is archived or closed, all the dev & tester characters should be released in private servers to play as",
+      "content": "Since the game is either closing or being archived, I think it would be a good idea to have a dev release all the dev characters and tester characters in private servers. It wouldn’t really hurt to do so right? View Poll submitted by /u/Outside_Jaguar4937 to r/OutcomeMemories [link] [comments]",
+      "link": "https://www.reddit.com/r/OutcomeMemories/comments/1qoghgn/before_the_game_is_archived_or_closed_all_the_dev/",
+      "author": "/u/Outside_Jaguar4937",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T15:19:39.623731"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qogl70",
+      "type": "search",
+      "subreddit": "fmupmemes",
+      "title": "Qarabağ vs Liverpool Champions League: how are people watching tonight?",
+      "content": "Qarabağ vs Liverpool is a big European night, especially with Liverpool travelling away in the Champions League. The Reds will expect to control the game, but away ties can still be awkward if chances aren’t taken early. Qarabağ will look to stay compact and make things difficult, particularly in the opening stages. Fans are asking how others are watching Qarabağ vs Liverpool tonight without TNT Sports. Many Champions League viewers mention Ant Sports when discussing online options. How are you watching this one? submitted by /u/Extra-Region-127 to r/fmupmemes [link] [comments]",
+      "link": "https://www.reddit.com/r/fmupmemes/comments/1qogl70/qarabağ_vs_liverpool_champions_league_how_are/",
+      "author": "/u/Extra-Region-127",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T15:19:39.623752"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qogj4g",
+      "type": "search",
+      "subreddit": "NFCWestMemeWar",
+      "title": "The NFC championship proved to everybody who the real MVP is and it’s not close",
+      "content": "After last Sunday it’s honestly insane that Sam Darnold isn’t the clear number one in MVP consideration and the only reason people don’t see it is because they’re box score watching casuals. If you actually watched the game you saw who controlled everything. Darnold dictated protections adjusted at the line and kept the offense on schedule all day. The Seahawks offense moved with purpose because of him not because of some stacked roster or gimmick scheme. His presence completely changes how defenses line up and how aggressive they can be. That is value. Meanwhile Stafford put up his usual empty production. A couple nice throws sure but zero control over the flow of the game. When things got tight he needed everything to be perfect around him. That’s been the story of his entire career. If the run game stalls or the script flips he turns into a high volume passenger. Darnold doesn’t need gaudy numbers to dominate a game. He forces defenses to respect the entire field he avoids negative plays and he keeps drives alive with decision making not hero ball. That shows up in wins not fantasy stats. MVP is about impact not name recognition or padded passing yards. If you watched last Sunday and came away thinking Stafford was more valuable than Darnold you’re telling on yourself. Sam Darnold affects winning on a level Stafford simply does not. submitted by /u/Correct_Sport_177 to r/NFCWestMemeWar [link] [comments]",
+      "link": "https://www.reddit.com/r/NFCWestMemeWar/comments/1qogj4g/the_nfc_championship_proved_to_everybody_who_the/",
+      "author": "/u/Correct_Sport_177",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T15:19:39.623792"
     }
   ],
-  "last_updated": "2026-01-27T14:32:52.311517"
+  "last_updated": "2026-01-27T15:21:16.963604"
 }
