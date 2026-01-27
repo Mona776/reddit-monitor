@@ -1,54 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/godot/t3_1qkz1oh",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "My Metroidvania Game - Work in Progress",
-      "content": "I'v been working on this game for nearly 6 months now, any feedback is appreciated, thanks submitted by /u/icebox-91 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qkz1oh/my_metroidvania_game_work_in_progress/",
-      "author": "/u/icebox-91",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T18:55:23.283789"
-    },
-    {
-      "id": "https://www.reddit.com/r/unity/t3_1qkyw2j",
-      "type": "post",
-      "subreddit": "unity",
-      "title": "Is this made with Unity?",
-      "content": "Hey guys, I have a question, it is possible to make things like in the video with Unity? submitted by /u/papdeac [link] [comments]",
-      "link": "https://www.reddit.com/r/unity/comments/1qkyw2j/is_this_made_with_unity/",
-      "author": "/u/papdeac",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T18:55:23.283811"
-    },
-    {
-      "id": "https://www.reddit.com/r/unrealengine/t3_1qkynre",
-      "type": "post",
-      "subreddit": "unrealengine",
-      "title": "UE 5.7 SOG importer + Niagara based Renderer Update (Budget Rendering, Octree, HLOD)",
-      "content": "About a month ago I shared a demo of my UE 5.7 SOG importer + Niagara Hybrid Gaussian Render pipeline. It takes unbundled SOG files and imports + converts them to UE usable textures, for sampling in shaders. It worked + looked great but since it was not a custom RHI, the performance did not scale well with large splat scenes. Last version was rendering 1M splat scenes at about 90FPS. This version runs 5M-10M splat scenes at 160-180 FPS . (havent tested larger scenes yet) The version now has: - Budget rendering for predicable frame rates ( a fixed size System is used for rendering so splat count is irrelevant ) - Deterministic slot assignment during Budget allocation ( necessary to combat atomic race issues in GPU stages) - Octree generation at import ( speeds up culling and LOD decisions) - HLOD (able to import up to 2 low res lod versions of the splat scene) - Per Splat LOD desicions ( decides whether or not to use full covariance calculation for unimportant, distant and small splats) Performance is still tied to Octree Node Count, so for larger splat scenes the leaf nodes just have more splats. Over draw can still be an issue when viewing dense regions up close. Biggest ball ache was actually dealing with the atomic race issues, which would lead to flickering during leaf node expansion after octree traversal. Theres a bunch of stuff thats also in there which I wont bore you with so yea... this is it. Stuff I still want/need to do : - smooth LOD transitions - reduce Texture size + lookups - LOD texture streaming - distance based budget allocation to deal with over draw in dense regions. submitted by /u/32bit_badman [link] [comments]",
-      "link": "https://www.reddit.com/r/unrealengine/comments/1qkynre/ue_57_sog_importer_niagara_based_renderer_update/",
-      "author": "/u/32bit_badman",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T18:55:23.283848"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qkzdx9",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "Just dropped a free demo for my game Scared by Squares on Steam. It was originally built for VR, but I’ve been working on a PC flatscreen version and would love to know how it feels outside of VR. If you give it a try, I’m really curious if it’s still fun and spooky on PC. Any feedback means a lot!",
-      "content": "submitted by /u/scaredbysquares [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qkzdx9/just_dropped_a_free_demo_for_my_game_scared_by/",
-      "author": "/u/scaredbysquares",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T18:55:23.283861"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qkzdrn",
       "type": "search",
       "subreddit": "whatdoIdo",
@@ -20303,7 +20255,151 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-01-27T23:11:16.180656"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qounf3",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "we just added a spitting mechanic to spit in your friends' faces. we didn't know we needed it until we made it...",
+      "content": "submitted by /u/at0micyz [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qounf3/we_just_added_a_spitting_mechanic_to_spit_in_your/",
+      "author": "/u/at0micyz",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T23:41:14.610324"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qoujfa",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "I am working on this grid-based tactical deckbuilder, let me know what you think!",
+      "content": "submitted by /u/doekamedia [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qoujfa/i_am_working_on_this_gridbased_tactical/",
+      "author": "/u/doekamedia",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T23:41:14.610332"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qou8xl",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "It Is The First Time I Make A Typer Game",
+      "content": "submitted by /u/No_Palpitation3007 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qou8xl/it_is_the_first_time_i_make_a_typer_game/",
+      "author": "/u/No_Palpitation3007",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T23:41:14.610373"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qouo0c",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "we just added a spitting mechanic to spit in your friends' faces. we didn't know we needed it until we made it...",
+      "content": "submitted by /u/at0micyz [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qouo0c/we_just_added_a_spitting_mechanic_to_spit_in_your/",
+      "author": "/u/at0micyz",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T23:41:14.610386"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qouklc",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Some random scenes of my upcoming cosmic horror game",
+      "content": "submitted by /u/Fit-Dragonfly9076 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qouklc/some_random_scenes_of_my_upcoming_cosmic_horror/",
+      "author": "/u/Fit-Dragonfly9076",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T23:41:14.610393"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qouce7",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Do you find it interesting the concept of my game?",
+      "content": "submitted by /u/ALandThere [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qouce7/do_you_find_it_interesting_the_concept_of_my_game/",
+      "author": "/u/ALandThere",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T23:41:14.610400"
+    },
+    {
+      "id": "https://www.reddit.com/r/unrealengine/t3_1qotyu5",
+      "type": "post",
+      "subreddit": "unrealengine",
+      "title": "Growing mechanism",
+      "content": "Hey, I'm super new to unreal but I wanted to replicate the isle growing mechanism (character grows in size while model and texture dynamicly changes). Is there a good tutorial for such thing somwhere or is it so advanced I can only dream about such thing? submitted by /u/Tsetka_ [link] [comments]",
+      "link": "https://www.reddit.com/r/unrealengine/comments/1qotyu5/growing_mechanism/",
+      "author": "/u/Tsetka_",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T23:41:14.610510"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qou92h",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Do you find it interesting the concept of my game?",
+      "content": "submitted by /u/ALandThere [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qou92h/do_you_find_it_interesting_the_concept_of_my_game/",
+      "author": "/u/ALandThere",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T23:41:14.610518"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qouocn",
+      "type": "search",
+      "subreddit": "darksouls",
+      "title": "serious question, who is oswald? and what happens to him?",
+      "content": "so this dude after showing no trace or attachment in and throughout the rest of lordran randomly appears at the bottom floor of the bell tower (a very out-of-the-way place to be, might i add) with a cool mask that isn't in ds3 for some reason, a creepy laugh, and the best gesture in the game. and he just...never moves. he stands there and sells purging stones until you go kill gwyn. for some reason he knows who petrus is or is somehow otherwise aware of the man's existence genuinely what the hell. where is he by the time of dark souls 3? why do we get pardoned at a velka statue?? seeing as only pardoners have ever been able to free you from sin, that seems to imply either oswald or cromwell has died and been encased inside a statue of his goddess in the sewers of a ghost town i think his laugh and his weird obsession with sin make him one of the creepiest characters in the franchise submitted by /u/taniii__ to r/darksouls [link] [comments]",
+      "link": "https://www.reddit.com/r/darksouls/comments/1qouocn/serious_question_who_is_oswald_and_what_happens/",
+      "author": "/u/taniii__",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T23:41:14.611054"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qoufhd",
+      "type": "search",
+      "subreddit": "radeon",
+      "title": "How do you adjust the max frequency offset?",
+      "content": "Im trying to change it to -150MHz as some people told me it would stop UE5 from crashing, but I dont get the option to do so. I read that some GPU's dont get that specific slider so im assuming that includes the RX 7600. So how would I replicate a max frequency offset of -150 with the sliders given? submitted by /u/Orakaze to r/radeon [link] [comments]",
+      "link": "https://www.reddit.com/r/radeon/comments/1qoufhd/how_do_you_adjust_the_max_frequency_offset/",
+      "author": "/u/Orakaze",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T23:41:14.611251"
+    },
+    {
+      "id": "https://www.reddit.com/t5_2qi0a",
+      "type": "search",
+      "subreddit": "gamedev",
+      "title": "Game Development Discussions on Reddit",
+      "content": "The subreddit covers various game development aspects, including programming, design, writing, art, game jams, postmortems, and marketing. It serves as a hub for game creators to discuss and share their insights, experiences, and expertise in the industry. [link]",
+      "link": "https://www.reddit.com/r/gamedev/",
+      "author": "unknown",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T23:41:14.611261"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qoukex",
+      "type": "search",
+      "subreddit": "BladesofFire",
+      "title": "Evolution of Relationship",
+      "content": "I wanted to share something I’ve come to love (among many) in Blades of Fire, and that’s the evolution of the relationship between Aran and Adso. The way it starts out and progresses into the brotherly bond is amazingly well done…better than films. It’s truly awesome to see a game pull this off with what seems like little effort, but was probably very hard to do. So yes, thank you Devs!!:) submitted by /u/MyNameIsJourUno to r/BladesofFire [link] [comments]",
+      "link": "https://www.reddit.com/r/BladesofFire/comments/1qoukex/evolution_of_relationship/",
+      "author": "/u/MyNameIsJourUno",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T23:41:14.611371"
     }
   ],
-  "last_updated": "2026-01-27T23:12:44.362089"
+  "last_updated": "2026-01-27T23:42:35.535699"
 }
