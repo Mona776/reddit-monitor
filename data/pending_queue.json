@@ -1,42 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/t3_1qoscel",
-      "type": "search",
-      "subreddit": "NCAA",
-      "title": "Calling All Former College Athletes!!!",
-      "content": "We need your opinions!!! Club Ralley is a community for current and former college athletes who still want to stay active, compete, and meet new people without it feeling like another boring rec league signup or fitness app. We put together a quick survey to better understand how former college athletes stay active post-grad, how you meet new people now, how you find pickup games, leagues, or workouts, and what would actually make an app like this worth using. Fill out the form above ( https://tally.so/r/eqazMJ ) where you can also sign up to be an early beta tester! Check out our Instagram @clubralley too :) submitted by /u/clubralley to r/NCAA [link] [comments]",
-      "link": "https://www.reddit.com/r/NCAA/comments/1qoscel/calling_all_former_college_athletes/",
-      "author": "/u/clubralley",
-      "search_keyword": "how to make a game",
-      "relevance_score": 1,
-      "added_at": "2026-01-27T22:12:03.899600"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qoscd6",
-      "type": "search",
-      "subreddit": "boomershooters",
-      "title": "The level theming is kind of bad in the back half of ion fury",
-      "content": "So I’m enjoying my time with the game so far. I like how dense the levels are, how many secrets there are to find, the consistently excellent pixel art and general art direction, and most of all I enjoy the arsenal. It’s a good sign when a shooters pistol remains useful throughout a game because it means the developers put a lot of time and care into balancing the combat. But my god did the levels fall off hard. Most everything after the die hard esque office building section is super bland and uninteresting compared to just how great the first chunk of levels were. Even the basic office building had that terrific sense of place and build engine atmosphere that makes the best blood and duke 3d levels feel like nothing else. But so much of the back half is dull uninteresting sewers, maintenance tunnels, sewers within maintenance tunnels, and it all blurs together into a bland blob. The game knew this too because in the hospital level you emerge outside and Shelley says “well isn’t this a breath of fresh air!” And almost IMMEDIATELY after you dive into a sewer system before emerging into the house proper. Older shooters had this issue too. I’m not going to pretend that every single Blood level is as awesome as, say, the train level (one of my favorites in any game ever) but ion fury was developed with close to 30 years of hindsight. I’m surprised more people don’t bring up how uninteresting the later levels in this game tend to be. Haskells house of horrors was absolutely a highlight in the middle of this, but I wish they’d spent a bit more time making all the levels as good as the early ones. submitted by /u/IAmThePonch to r/boomershooters [link] [comments]",
-      "link": "https://www.reddit.com/r/boomershooters/comments/1qoscd6/the_level_theming_is_kind_of_bad_in_the_back_half/",
-      "author": "/u/IAmThePonch",
-      "search_keyword": "how to make a game",
-      "relevance_score": 1,
-      "added_at": "2026-01-27T22:12:03.899646"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qkz6gr",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Collider Issue",
-      "content": "I am making a roulette wheel in Godot 4.5. Each 'slot' is individually modeled and uses a staticbody with a trimesh collider. No matter how thick I make the actual model, an therefore the auto made trimesh collider, the ball seems to clip slightly. On top of this, when the wheel slows the ball seems to entirely phase through a slot while the wheel stops. I cannot figure out why this happens and I'm not sure where to go from here. Any help is appreciated. submitted by /u/CrossbowCat317 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qkz6gr/collider_issue/",
-      "author": "/u/CrossbowCat317",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T18:55:23.283781"
-    },
-    {
       "id": "https://www.reddit.com/r/godot/t3_1qkz1oh",
       "type": "post",
       "subreddit": "godot",
@@ -20159,7 +20123,115 @@
       "search_keyword": "make game without coding",
       "relevance_score": 0,
       "added_at": "2026-01-27T22:12:03.899243"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qosoi8",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Creating BelirsizLik: Third Boss of NOT Surrender game",
+      "content": "I show the process of creating the third boss of NOT Surrender: BelirsizLik... a boss with a gothic but mysterious style, who will wield a katana that will make very powerful and evil attacks. submitted by /u/CharlesInterface [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qosoi8/creating_belirsizlik_third_boss_of_not_surrender/",
+      "author": "/u/CharlesInterface",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T22:43:39.578720"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qosgny",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Working on enemy visibility, what do you think?",
+      "content": "Working on enemy visibility, how do you feel about outlines? Game is called Crystal Harvest: Apex Operator if you want to check it out or wishlist on Steam. https://preview.redd.it/tqf9apfbuyfg1.png?width=3440&format=png&auto=webp&s=e595037f19fe81d14da1c7b90b7b9f473016ec1a https://preview.redd.it/antxpanbuyfg1.png?width=3440&format=png&auto=webp&s=763532ad987b9f4fcc8aaf324843d4fe3422950d submitted by /u/JCNienaber [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qosgny/working_on_enemy_visibility_what_do_you_think/",
+      "author": "/u/JCNienaber",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T22:43:39.578742"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qosp9p",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Creating BelirsizLik: Third Boss of NOT Surrender game",
+      "content": "I show the process of creating the third boss of NOT Surrender: BelirsizLik... a boss with a gothic but mysterious style, who will wield a katana that will make very powerful and evil attacks. submitted by /u/CharlesInterface [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qosp9p/creating_belirsizlik_third_boss_of_not_surrender/",
+      "author": "/u/CharlesInterface",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T22:43:39.578788"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qot543",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Is it normal after upgrading Godot to a newer version that anti virus suddenly quarantines you",
+      "content": "I was exporting a demo build to my Desktop and Surf Shark quarantined the exe. Does this happen sometimes after upgrading Godot? I updated to 4.6 today. For context, I’ve been using Surfshark for ages and never had this issue on the last few Godot versions. submitted by /u/GladiatorCommand [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qot543/is_it_normal_after_upgrading_godot_to_a_newer/",
+      "author": "/u/GladiatorCommand",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T22:43:39.578823"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qosgvj",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Color Correction doesn't work in Godot 4.6",
+      "content": "Hi everyone, I just upgraded my Godot project to Godot 4.6, and the scene looked a bit different like how it was in Godot 4.5.1 and I discovered that it was the color correction, I tried to make the same color correction like how I did in Godot 4.5.1 but it doesn't work at all even when I made a costume color correction it doesn't work, Thanks! Godot 4.5.1 Godot 4.6 submitted by /u/AdhesivenessWild7647 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qosgvj/color_correction_doesnt_work_in_godot_46/",
+      "author": "/u/AdhesivenessWild7647",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T22:43:39.578879"
+    },
+    {
+      "id": "https://www.reddit.com/r/unrealengine/t3_1qosyxy",
+      "type": "post",
+      "subreddit": "unrealengine",
+      "title": "Help with movement",
+      "content": "This is a real stupid question but I'm new why is it that in the preset IA it has action values but mine don't. submitted by /u/Realistic-Bowl-3442 [link] [comments]",
+      "link": "https://www.reddit.com/r/unrealengine/comments/1qosyxy/help_with_movement/",
+      "author": "/u/Realistic-Bowl-3442",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T22:43:39.578888"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qostf7",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Mellings demo",
+      "content": "https://reddit.com/link/1qostf7/video/eohargqgwyfg1/player Here's one minute of gameplay you can have in the demo of Mellings! I'm adding a lot of little animations and things that bring life to the characters in game! :D submitted by /u/aXelis_gamedev [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qostf7/mellings_demo/",
+      "author": "/u/aXelis_gamedev",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T22:43:39.578898"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qosghc",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Working on enemy visibility, what do you think?",
+      "content": "Working on enemy visibility, how do you feel about outlines? Game is called Crystal Harvest: Apex Operator if you want to check it out or wishlist on Steam. https://preview.redd.it/ipkx8neduyfg1.png?width=3440&format=png&auto=webp&s=195aabc82a60567ce5bde2310bee056f54815b4f https://preview.redd.it/blx7fjnduyfg1.png?width=3440&format=png&auto=webp&s=7a1903a43efa42f0cd42572f1a8e365556e888a1 submitted by /u/JCNienaber [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qosghc/working_on_enemy_visibility_what_do_you_think/",
+      "author": "/u/JCNienaber",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T22:43:39.578910"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qot4e2",
+      "type": "search",
+      "subreddit": "Thetower",
+      "title": "Tournament Changes | Project Rend",
+      "content": "Ok, so I'm definitely not maxing out my abilities here. To be honest, I never really put much stake into changing my setup for tournaments vs farming runs. I started using Project Rend (thank you for a mac version) and it has this handy tourny prep checklist. However, even though I'm mid game, most of these checklist items make no sense to me. Can someone give me an ELI5 on what I should be doing here? * How do I, and what would I change, to update my range and shockwave labs? * Why would I respec my workshop? * What cards should I use in Tournament (I have 14 slots and all cards maxed) vs farming? * What Modules should be used in Tournament vs farming? * What is \"update Freeum Locks?\" * Update guardian chips - Is this just spending my chips to upgrade my guardian(s) * What is a bot preset and how do you change it? * What is the damage slider and why would it not be 100% * Target Priority Order - Right now I priortize protectors. Should I change it for farming and tourny? * What UW would I want to turn off to start a tourny!? Thank you for coming to my stupid question symposium. submitted by /u/TheKrs1 to r/Thetower [link] [comments]",
+      "link": "https://www.reddit.com/r/Thetower/comments/1qot4e2/tournament_changes_project_rend/",
+      "author": "/u/TheKrs1",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T22:43:39.581200"
     }
   ],
-  "last_updated": "2026-01-27T22:13:24.047215"
+  "last_updated": "2026-01-27T22:44:57.468099"
 }
