@@ -1,30 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qkybqr",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "I built an iOS savings app to fix my own consistency problem—would love honest feedback",
-      "content": "submitted by /u/zakmac85 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qkybqr/i_built_an_ios_savings_app_to_fix_my_own/",
-      "author": "/u/zakmac85",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T18:16:58.156249"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qky9sg",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "No money to hire a capsule artist, made a new one, what would you add to make it better?",
-      "content": "submitted by /u/Radiant_Wing1708 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qky9sg/no_money_to_hire_a_capsule_artist_made_a_new_one/",
-      "author": "/u/Radiant_Wing1708",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T18:16:58.156256"
-    },
-    {
       "id": "https://www.reddit.com/r/IndieDev/t3_1qky8re",
       "type": "post",
       "subreddit": "IndieDev",
@@ -18863,7 +18839,127 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-27T16:16:42.671287"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qoilw3",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "Having hard times with programming",
+      "content": "Currently i’m a year 2 out of 3 student for game development, I’m realizing that after 2 years i haven’t learned anything and still having to relay on YouTube tutorials and unfortunately chatgpt to figure out basic stuff, and i’m just unable to remember anything. Is this normal submitted by /u/alanlyal [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qoilw3/having_hard_times_with_programming/",
+      "author": "/u/alanlyal",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T16:53:45.904777"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qoirme",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "This is part of a new boss that’s still in development. Any name ideas?",
+      "content": "what do you think? 🤔 submitted by /u/No-Bit3421 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qoirme/this_is_part_of_a_new_boss_thats_still_in/",
+      "author": "/u/No-Bit3421",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T16:53:45.904828"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qoiq2j",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "My game just hit 100 wishlists!!",
+      "content": "I launched my store page 2 weeks ago and it just hit over 100 wishlists today! I know it's a small win but I'm so excited!! Here is the link if you want to check it out! https://store.steampowered.com/app/4257320/MetaChess/ submitted by /u/leblanc-james [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qoiq2j/my_game_just_hit_100_wishlists/",
+      "author": "/u/leblanc-james",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T16:53:45.904838"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qois5s",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Do you prefer 2D or 3D on my tower defense game?",
+      "content": "I've begun converting my 2d game to 3d and trying to keep the art style. 3D has the benefits of lighting, effects, better animations, and other elements. But I have received some feedback that the 2d style was more unique and appealing. It's tough to decide and I need to pause to determine best approach, especially before investing more in 3d assets. Any thoughts or feedback are greatly appreciated! submitted by /u/mizerr [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qois5s/do_you_prefer_2d_or_3d_on_my_tower_defense_game/",
+      "author": "/u/mizerr",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T16:53:45.904870"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qoj6rc",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "My Steam page is finally live! It's a stealth roguelite set in the Chiloé Archipelago, made in godot",
+      "content": "submitted by /u/Quitral_Dev [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qoj6rc/my_steam_page_is_finally_live_its_a_stealth/",
+      "author": "/u/Quitral_Dev",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T16:53:45.904887"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qoizqs",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Godot 4.6 and Admob not working?!",
+      "content": "Hey there, Yesterday I upgraded my Android game \"Avocado Knight\" to Godot 4.6 and also updated the AdMob plugin (Poing Studios) from v3.1.3 to v4.0.1. Now, I can’t get the ads to work anymore. I followed everything exactly as described in the GitHub documentation: GitHub - poingstudios/godot-admob-plugin: This repository is for Godot's Addons to integrate natively AdMob to your Game Project without much configurations and directly inside Godot Editor! One of the biggest changes was to don't edit the AndroidManifest.xml, instead I edited the config.gd (like in the docs) Are there any known compatibility issues? Has anyone managed to get it working on Godot 4.6? submitted by /u/DangerousTelephone17 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qoizqs/godot_46_and_admob_not_working/",
+      "author": "/u/DangerousTelephone17",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T16:53:45.904931"
+    },
+    {
+      "id": "https://www.reddit.com/r/unrealengine/t3_1qoiv8u",
+      "type": "post",
+      "subreddit": "unrealengine",
+      "title": "The Night Hag",
+      "content": "submitted by /u/Biondo27 [link] [comments]",
+      "link": "https://www.reddit.com/r/unrealengine/comments/1qoiv8u/the_night_hag/",
+      "author": "/u/Biondo27",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T16:53:45.905071"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qoiv8k",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "The Shrooms can change!! It was hard to figure out",
+      "content": "It was a bit hard to figure out but I got it working. AND I tweaked the save system to save your choice so when you load back in it remembers your choice submitted by /u/throwaway000010292 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qoiv8k/the_shrooms_can_change_it_was_hard_to_figure_out/",
+      "author": "/u/throwaway000010292",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T16:53:45.905081"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qoj94e",
+      "type": "search",
+      "subreddit": "Referralcode",
+      "title": "$100 Ally Bank Referral (US)",
+      "content": "Hi all. If you open a new Ally bank account, you can get a reward of $100. US only. There are two options to receive the bonus, depending on the type of account you open. Option 1: Open a Savings account. Set up an automatic monthly deposit of $1 into your new account within 30 days, and keep it running for 3 months to receive the reward. Option 2: Open a Spending account. Make one Direct Deposit into your account from an employer or similar source to receive the reward. Use the link below to receive the reward. Feel free to share any questions you might have. Thanks!: https://ally.com/referral?code=6K9Z8J6R7R&cp=EML400004233 submitted by /u/raspbewyy to r/Referralcode [link] [comments]",
+      "link": "https://www.reddit.com/r/Referralcode/comments/1qoj94e/100_ally_bank_referral_us/",
+      "author": "/u/raspbewyy",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T16:53:45.905683"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qoj8wk",
+      "type": "search",
+      "subreddit": "GlobalOffensive",
+      "title": "Community maps",
+      "content": "Hello everyone, I don’t know how well known “Standoff 2” is amongst CS players, but a lot of people played that game on their phone’s from like 2017 onward (me included, didn’t have PC for CSGO). I would love to have some of the maps from that game ported into CS as workshop maps (Such as: Rust, Province, Zone 9, …). Sandstone is probably the most well known map of them all and there are a ton of versions on the workshop. The problem however: 99% are Russian slop that ask you to download another workshop map to even be able to play on the map. (So heck no from me) I don’t know how hard it is to port the maps over (if possible) but it would be fun to see. So TLDR: Could anyone that has some skills making maps port over some of the maps from Standoff 2? Just for fun ofcourse submitted by /u/Mean-Dog895 to r/GlobalOffensive [link] [comments]",
+      "link": "https://www.reddit.com/r/GlobalOffensive/comments/1qoj8wk/community_maps/",
+      "author": "/u/Mean-Dog895",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T16:53:45.905750"
     }
   ],
-  "last_updated": "2026-01-27T16:18:15.487805"
+  "last_updated": "2026-01-27T16:55:16.540304"
 }
