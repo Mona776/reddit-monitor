@@ -1,102 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qkpe96",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Thoughts on the fireball!",
-      "content": "We’re experimenting with a Diablo-inspired fireball and physics-based interactions. Feedback is welcome! #indiegame #indiedev #ARPG #Unity6 submitted by /u/Consistent-Candy6434 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qkpe96/thoughts_on_the_fireball/",
-      "author": "/u/Consistent-Candy6434",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T13:13:20.526770"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qkq0iy",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Only two wishlist between my game and huge market success!!",
-      "content": "submitted by /u/DimitryCoconut [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qkq0iy/only_two_wishlist_between_my_game_and_huge_market/",
-      "author": "/u/DimitryCoconut",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T13:13:20.526778"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qkpx49",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Development v0.0.8 Project Vilmar",
-      "content": "I'm already starting to work with the world submitted by /u/CreepsBronZ [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qkpx49/development_v008_project_vilmar/",
-      "author": "/u/CreepsBronZ",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T13:13:20.526785"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qkptes",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "From developing complex survival games to... digging holes?",
-      "content": "submitted by /u/Wenkly_Studio [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qkptes/from_developing_complex_survival_games_to_digging/",
-      "author": "/u/Wenkly_Studio",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T13:13:20.526791"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qkpned",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "My Improved UI interface and added new cards powers to my action roguelite survivor-like game, Feedback are welcome",
-      "content": "watch the video submitted by /u/BootPen [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qkpned/my_improved_ui_interface_and_added_new_cards/",
-      "author": "/u/BootPen",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T13:13:20.526804"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qkpji4",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Intro Video to Ravy Davy: Attack on Ambiguity Game",
-      "content": "submitted by /u/davidgersch [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qkpji4/intro_video_to_ravy_davy_attack_on_ambiguity_game/",
-      "author": "/u/davidgersch",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T13:13:20.526810"
-    },
-    {
-      "id": "https://www.reddit.com/r/unity/t3_1qkq8kk",
-      "type": "post",
-      "subreddit": "unity",
-      "title": "Satan's Ball on Steam",
-      "content": "submitted by /u/SatansBallGame [link] [comments]",
-      "link": "https://www.reddit.com/r/unity/comments/1qkq8kk/satans_ball_on_steam/",
-      "author": "/u/SatansBallGame",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T13:13:20.526879"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qkq1aq",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "Preview of my upcoming game MusicHell!",
-      "content": "please wishlist if this looks interesting! submitted by /u/Sindruid [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qkq1aq/preview_of_my_upcoming_game_musichell/",
-      "author": "/u/Sindruid",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T13:13:20.526928"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qkqefg",
       "type": "search",
       "subreddit": "reddeadredemption",
@@ -18299,7 +18203,127 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-01-27T08:17:06.564360"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qo8jjz",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "I have tunnel vision... Is this bad? How can I improve it?",
+      "content": "I'm developing this action roguelite + dice management game and I'm already having tunnel vision. I love this game but I'm no longer sure of how it is perceived from the outside: graphics, game feel, mechanics, the mix of twin stick shooting and dice management, the animations, etc. I'm specially concerned about the emptiness of the first levels. We're working on that, creating more animations, particles and even props for the rooftops. What do you think? How can I improve this? submitted by /u/oluwagembi [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qo8jjz/i_have_tunnel_vision_is_this_bad_how_can_i/",
+      "author": "/u/oluwagembi",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T08:54:10.169717"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qo8jmj",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "I have tunnel vision... Is this bad? How can I improve it?",
+      "content": "I'm developing this action roguelite + dice management game and I'm already having tunnel vision. I love this game but I'm no longer sure of how it is perceived from the outside: graphics, game feel, mechanics, the mix of twin stick shooting and dice management, the animations, etc. I'm specially concerned about the emptiness of the first levels. We're working on that, creating more animations, particles and even props for the rooftops. What do you think? How can I improve this? submitted by /u/oluwagembi [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qo8jmj/i_have_tunnel_vision_is_this_bad_how_can_i/",
+      "author": "/u/oluwagembi",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T08:54:10.169785"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qo8ijn",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "CREMATOR - Another early clip",
+      "content": "submitted by /u/Max_222rm [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qo8ijn/cremator_another_early_clip/",
+      "author": "/u/Max_222rm",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T08:54:10.169791"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qo8htm",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "I have tunnel vision... Is this bad? How can I improve it?",
+      "content": "I'm developing this action roguelite + dice management game and I'm already having tunnel vision. I love this game but I'm no longer sure of how it is perceived from the outside: graphics, game feel, mechanics, the mix of twin stick shooting and dice management, the animations, etc. What do you think? How can I improve this? submitted by /u/oluwagembi [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qo8htm/i_have_tunnel_vision_is_this_bad_how_can_i/",
+      "author": "/u/oluwagembi",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T08:54:10.169799"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qo8c6j",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Players wanted a new cozy bed - I made a coffin bed for them. :D",
+      "content": "submitted by /u/ivyjuicegames [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qo8c6j/players_wanted_a_new_cozy_bed_i_made_a_coffin_bed/",
+      "author": "/u/ivyjuicegames",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T08:54:10.169807"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qo8bki",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Southpaw Outlaw",
+      "content": "Getting done. Early access begins in 4 days. Chop chop. submitted by /u/SnooMemesjellies1659 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qo8bki/southpaw_outlaw/",
+      "author": "/u/SnooMemesjellies1659",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T08:54:10.169814"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qo83kb",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Sizzle & Success",
+      "content": "Sizzle & Success is a business simulator all based on managing a restaurant in a ruthless city full of competitors ready to shut you down. You don’t have to play the legal route you can always sabotage, pay actors to cause a scene at your competitor’s restaurants and even hire hitmen. Of course they will also be able to do the same so make sure to watch out. Coming soon! Discord and YouTube in comments if you are interested! submitted by /u/Sizzle_and_Success [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qo83kb/sizzle_success/",
+      "author": "/u/Sizzle_and_Success",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T08:54:10.169842"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qo8hse",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "I have tunnel vision... Is this bad? How can I improve it?",
+      "content": "We're developing this action roguelite + dice management game with Godot and we're already having tunnel vision. I love this game but I'm no longer sure of how it is perceived from the outside: graphics, game feel, mechanics, the mix of twin stick shooting and dice management, the animations, etc. What do you think? How can I improve this? submitted by /u/oluwagembi [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qo8hse/i_have_tunnel_vision_is_this_bad_how_can_i/",
+      "author": "/u/oluwagembi",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T08:54:10.169854"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qo8by6",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Southpaw Outlaw",
+      "content": "submitted by /u/SnooMemesjellies1659 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qo8by6/southpaw_outlaw/",
+      "author": "/u/SnooMemesjellies1659",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T08:54:10.169862"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qo8in0",
+      "type": "search",
+      "subreddit": "victoria3",
+      "title": "The Game Should Let You Murder More People",
+      "content": "It should be one of the things that make authoritarian dictatorships more attractive. The great purge happened in the game's timeframe. In dictatorships we should be able to kill peopole left and right. submitted by /u/ahmetnudu to r/victoria3 [link] [comments]",
+      "link": "https://www.reddit.com/r/victoria3/comments/1qo8in0/the_game_should_let_you_murder_more_people/",
+      "author": "/u/ahmetnudu",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T08:54:10.171742"
     }
   ],
-  "last_updated": "2026-01-27T08:19:05.980846"
+  "last_updated": "2026-01-27T08:56:03.855424"
 }
