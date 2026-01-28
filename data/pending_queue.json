@@ -1,78 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/t3_1qle676",
-      "type": "search",
-      "subreddit": "WhitePeopleTwitter",
-      "title": "Jeff Bezos joining in on Project 2025?iiii",
-      "content": "submitted by /u/ihatethiscountry76 to r/WhitePeopleTwitter [link] [comments]",
-      "link": "https://www.reddit.com/r/WhitePeopleTwitter/comments/1qle676/jeff_bezos_joining_in_on_project_2025iiii/",
-      "author": "/u/ihatethiscountry76",
-      "search_keyword": "AI game maker",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T05:41:43.912672"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qleinp",
-      "type": "search",
-      "subreddit": "Trophies",
-      "title": "[Discussion] Should online trophies be required for a platinum or do they punish solo players?",
-      "content": "Multiplayer trophies can be super annoying Sometimes servers shut downand lobbies are empty or u gotta rely on random players to cooperate That can make a platinum feel impossible even if u finished the whole single player game Some ppl likes online trophies \"cause they add variety and social challenges\" Others think they just punish solo players and turn platinums into a luck based grind So should online trophies be required for platinum or should devs just avoid them to keep platinums accessible for everyone? for me i think they just add them in a new list like the DLCs just for the 100% submitted by /u/Reeeeo_ to r/Trophies [link] [comments]",
-      "link": "https://www.reddit.com/r/Trophies/comments/1qleinp/discussion_should_online_trophies_be_required_for/",
-      "author": "/u/Reeeeo_",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T05:41:43.912738"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qle9yz",
-      "type": "search",
-      "subreddit": "finalfantasyx",
-      "title": "Guado enemies",
-      "content": "Is there a reason the Guado guards from the first Seymour boss battle release pyreflies when they die, while all the other ones (escape from Macalania, Wendigo boss fight, destruction of Home) seem to die without? Is the implication there that the Guados fighting alongside Seymour were already dead and transformed into fiends that happen to look like their former selves? Or maybe those guards were unsent from the start? Or did Seymour release the pyreflies so he could absorb them (a bit like how he consumes the guards' energy right before the second boss battle in Bevelle)? Or is it just an omission amongst the game devs? submitted by /u/jvalognes to r/finalfantasyx [link] [comments]",
-      "link": "https://www.reddit.com/r/finalfantasyx/comments/1qle9yz/guado_enemies/",
-      "author": "/u/jvalognes",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T05:41:43.912754"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qlelbe",
-      "type": "search",
-      "subreddit": "teenagers4real",
-      "title": "Conversations? 16m",
-      "content": "submitted by /u/LifeIsFraudulent to r/teenagers4real [link] [comments]",
-      "link": "https://www.reddit.com/r/teenagers4real/comments/1qlelbe/conversations_16m/",
-      "author": "/u/LifeIsFraudulent",
-      "search_keyword": "how to make a game",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T05:41:43.912926"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qlekkt",
-      "type": "search",
-      "subreddit": "TeenagersButEvenBeter",
-      "title": "Am bored, need a conversation",
-      "content": "submitted by /u/LifeIsFraudulent to r/TeenagersButEvenBeter [link] [comments]",
-      "link": "https://www.reddit.com/r/TeenagersButEvenBeter/comments/1qlekkt/am_bored_need_a_conversation/",
-      "author": "/u/LifeIsFraudulent",
-      "search_keyword": "how to make a game",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T05:41:43.912996"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qlfbi6",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "I’ve hit a bit of a design limbo.",
-      "content": "Hi, I'm making a small videogame, but right now I'm kind of stuck in a design limbo. I already have a mechanic where you can plant and grow crops, and the next step is making them harvestable. The problem is that I’m not sure what the best system would be. One idea is to use crates/boxes to collect the crops, and only allow selling them once the box is full. Another option is to add a small hotbar (like 2–3 slots) where the crops go when you harvest them. In both cases, I would add upgrades to these systems so the player can carry more items over time. However, I’m also planning to add automation systems later on, with machines/robots, conveyor belts, etc. So now I feel like I need to make a decision before continuing development 😅 Does anyone know which version works better in practice? Or if there’s another idea, I’m totally open to hearing it. https://reddit.com/link/1qlfbi6/video/1emf3j9lo8fg1/player submitted by /u/Economy-Company-7436 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qlfbi6/ive_hit_a_bit_of_a_design_limbo/",
-      "author": "/u/Economy-Company-7436",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T06:15:35.229234"
-    },
-    {
       "id": "https://www.reddit.com/r/godot/t3_1qlf1dh",
       "type": "post",
       "subreddit": "godot",
@@ -22427,7 +22355,79 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-01-28T18:57:39.145576"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qpl3ho",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "I'm working on my first ever game (Horror), how do you like the atmosphere so far?",
+      "content": "This is just from the start of the game submitted by /u/Anvandarnamn1080 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qpl3ho/im_working_on_my_first_ever_game_horror_how_do/",
+      "author": "/u/Anvandarnamn1080",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T19:23:03.892697"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qpkt3k",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Believr Pro Wrestling launches tomorrow",
+      "content": "submitted by /u/Believr-App [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qpkt3k/believr_pro_wrestling_launches_tomorrow/",
+      "author": "/u/Believr-App",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T19:23:03.892774"
+    },
+    {
+      "id": "https://www.reddit.com/r/unity/t3_1qpkgy5",
+      "type": "post",
+      "subreddit": "unity",
+      "title": "Just released our first demo :3",
+      "content": "Really excited to see players try out our minesweeper roguelite and what they will say about our game ! Feels like an accomplishment :3 Feel free to try out our demo and give us feedback on what you liked and don’t liked ! Here is the steam link if anyone wants to try it out :) https://store.steampowered.com/app/4346300/Coinsweeper\\_Demo/ Thanks in advance :) submitted by /u/Remarkable-Hand-6992 [link] [comments]",
+      "link": "https://www.reddit.com/r/unity/comments/1qpkgy5/just_released_our_first_demo_3/",
+      "author": "/u/Remarkable-Hand-6992",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T19:23:03.892931"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qpkx1y",
+      "type": "search",
+      "subreddit": "SHEINcodeShare",
+      "title": "Please use and I will use yours!",
+      "content": "If you use my code, comment below literally any of yours no matter what game and I will use it for you. I'm desperate. submitted by /u/Agile_Whereas8686 to r/SHEINcodeShare [link] [comments]",
+      "link": "https://www.reddit.com/r/SHEINcodeShare/comments/1qpkx1y/please_use_and_i_will_use_yours/",
+      "author": "/u/Agile_Whereas8686",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T19:23:03.893073"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qpl3vs",
+      "type": "search",
+      "subreddit": "JRPG",
+      "title": "Are there any true turn based games with party combo moves besides Metaphor?",
+      "content": "Chrono Trigger style double and triple techs are one of my favorite things in a JRPG battle system. However, I’m not a big fan of ATB, which was necessary to make CT’s system work. This is one of the things I really like about Metaphor, which manages to implement them via the press turn system. The only other game I can think of with combos is the Mario RPG remake, which added super moves based on your party combinations. Are there any others? I don’t think Persona 5 counts because the showtime attacks don’t require both characters to actually be in your party. submitted by /u/El__Jengibre to r/JRPG [link] [comments]",
+      "link": "https://www.reddit.com/r/JRPG/comments/1qpl3vs/are_there_any_true_turn_based_games_with_party/",
+      "author": "/u/El__Jengibre",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T19:23:03.893831"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qpkvpx",
+      "type": "search",
+      "subreddit": "LetTheRightOneIn",
+      "title": "Gave Eli and Oskar a small cameo in a german RPG Maker Game Im working on right now.",
+      "content": "One of my favorite movies. The game Im working on is one of the two most popular rpg maker games in germany (Along with vampires dawn) and is called Unterwegs in Düsterburg. (Which is kinda hard to translate, like, 'On the way through Darkcastle') which Im doing a rework of. The context of their cameo is a vampire castle with a vampire duke who is throwing a party for all monsters and vampires of the country. Both of them despise all the others but they're there to observe. The book on the table has the title of the german title of \"Let the right one in\" which is \"So finster die Nacht\" (So dark the night) submitted by /u/Wisewolf-Holo to r/LetTheRightOneIn [link] [comments]",
+      "link": "https://www.reddit.com/r/LetTheRightOneIn/comments/1qpkvpx/gave_eli_and_oskar_a_small_cameo_in_a_german_rpg/",
+      "author": "/u/Wisewolf-Holo",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T19:23:03.894656"
     }
   ],
-  "last_updated": "2026-01-28T18:59:11.690577"
+  "last_updated": "2026-01-28T19:24:30.720420"
 }
