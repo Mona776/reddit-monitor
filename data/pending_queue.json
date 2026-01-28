@@ -1,78 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/t3_1qlkbd0",
-      "type": "search",
-      "subreddit": "LoLFanArt",
-      "title": "Skin Concept: Felbound Kha'Zix",
-      "content": "I have had this idea in my head for years, but never been able to bring it to life myself (thanks Chat GPT for helping me). I used his original splash to get the design set and then got him in his own pose for an actual view of what his own splash art may be. The idea is, ive always wanted a Jurassic Kha'Zix, but i felt we could spice it up besides being skeletal. So, its as if he was summoned by a Necromancer or Warlock from the dead. Blood Wings/claws signifying some form of corrupted life has reanimated him, skeletal/undead body, engraved runes marking his bones showing some forbidden or dark ritual, and green fel energy flowing through the runes and his eyes (inspired by world of warcraft). Would love to see this in game! I also think it would make a really cool skin line. submitted by /u/PolyamorousMistakes to r/LoLFanArt [link] [comments]",
-      "link": "https://www.reddit.com/r/LoLFanArt/comments/1qlkbd0/skin_concept_felbound_khazix/",
-      "author": "/u/PolyamorousMistakes",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T11:08:29.201300"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qlk8wk",
-      "type": "search",
-      "subreddit": "blackops3",
-      "title": "the t7x and boiii is crashing immediately.",
-      "content": "I recently installed Black Ops 3 via Steam Family Library. The base game runs perfectly with no issues at all. However, I am having trouble getting the t7x ( Alterware ) or boiii ( Ezz-lol ) clients to work. When I place the exe files into the BO3 root folder and try to run them as instructed, the screen flashes briefly, and the application crashes immediately. There are no error messages or warnings to indicate what caused the crash. Both clients are experiencing the exact same issue. Steps I’ve already taken to fix it: Ran the applications as Administrator. Reinstalled the base game (BO3). Reinstalled both the boiii and t7x client files. Manually deleted all related files in File Explorer before re-attempting. Restarted my device multiple times. Despite these efforts, the problem persists. submitted by /u/ORL160 to r/blackops3 [link] [comments]",
-      "link": "https://www.reddit.com/r/blackops3/comments/1qlk8wk/the_t7x_and_boiii_is_crashing_immediately/",
-      "author": "/u/ORL160",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T11:08:29.201671"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qlk7jm",
-      "type": "search",
-      "subreddit": "PlayStation_X",
-      "title": "Bought DLC but it won’t show up? This is usually the real reason",
-      "content": "Ever notice how DLC problems almost always show up right when you’re ready to play? You buy it, it downloads, the store says installed, and the game acts like it doesn’t exist. I’ve seen this exact situation way too many times. Most people assume it’s a download glitch, but more often than not it’s a region mismatch. If the base game is a physical disc, its region has to match the region of the PlayStation account used to buy the DLC. If they don’t match, the console will happily take your money and install something the game will never recognize. Before panicking, I always check a few things. Press Options on the game tile and open Manage Content. If the DLC shows up there but says usable, it’s installed correctly. If it doesn’t show at all, that’s a red flag. Rebuilding the database or restoring licenses can help sometimes, but if the transaction is still pending, it may just be stuck in limbo. Personally, if I’m using a physical copy, I make sure the disc region and my PSN account line up before buying anything extra. Saves a lot of stress. If you’ve run into this, was it a region issue for you or did Sony support actually fix it? Curious how often this still catches people out. submitted by /u/edward_dd to r/PlayStation_X [link] [comments]",
-      "link": "https://www.reddit.com/r/PlayStation_X/comments/1qlk7jm/bought_dlc_but_it_wont_show_up_this_is_usually/",
-      "author": "/u/edward_dd",
-      "search_keyword": "how to make a game",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T11:08:29.201975"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qlknah",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "DIGGIN demo is live on Steam!",
-      "content": "After 4 months of work, we've finally finished and released the demo for Diggin! We're so excited to share it with you guys :D Go give it a try and let us know what you think!!! submitted by /u/nsbs27 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qlknah/diggin_demo_is_live_on_steam/",
-      "author": "/u/nsbs27",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T11:35:04.426873"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qlkl0y",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Updated my game's header graphics",
-      "content": "Just updated my dungeon crawler header graphics. I hope it tells kind of the game. submitted by /u/kotogames [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qlkl0y/updated_my_games_header_graphics/",
-      "author": "/u/kotogames",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T11:35:04.426882"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qlkhyl",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "I’m making a bird arena strategy game where your camp grows as you win matches",
-      "content": "I’m working on a bird-themed arena strategy game 🐦 You use living bugs as your hand of cards to launch attacks, with one ultimate goal: becoming the arena champion . Right now, I’m focusing on the progression system . By winning matches, players gradually expand their camp , slowly turning it into a real home of their own. You sleep better. The campfire burns warmer. And because of that… you head into the next day’s match with more strength and confidence . submitted by /u/Aviarena [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qlkhyl/im_making_a_bird_arena_strategy_game_where_your/",
-      "author": "/u/Aviarena",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T11:35:04.426943"
-    },
-    {
       "id": "https://www.reddit.com/r/IndieDev/t3_1qlknfh",
       "type": "post",
       "subreddit": "IndieDev",
@@ -22739,7 +22667,139 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-01-28T23:15:54.201936"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qprucb",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "YouTuber plays my game with a fan VR mod. It was so amazing that I decided to make it official.",
+      "content": "I am blown away how ridiculously cool my game in VR looks! I feel like watching a sci-fi action movie. This YouTuber and VR enthusiast convinced me that VR is the future and every third-person action game would look sick in VR! Decided that my game needs an official VR version and started working on it. The developer behind UEVR, Praydog, is doing absolutely amazing work! Footage for context: https://youtu.be/8jd6-cpzTRs?si=Leyo6OQ9kfZfy0TO submitted by /u/swamp__monster [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qprucb/youtuber_plays_my_game_with_a_fan_vr_mod_it_was/",
+      "author": "/u/swamp__monster",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T23:45:36.315100"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qpret4",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Visual improvements in my Dinosauria steam game!",
+      "content": "submitted by /u/todayisanormalday [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qpret4/visual_improvements_in_my_dinosauria_steam_game/",
+      "author": "/u/todayisanormalday",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T23:45:36.315219"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qpryw3",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "How is going my ocean made in godot",
+      "content": "submitted by /u/Electrical_Baker1173 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qpryw3/how_is_going_my_ocean_made_in_godot/",
+      "author": "/u/Electrical_Baker1173",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T23:45:36.315225"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qpro4o",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "I Tried to make a Ragdoll in Godot 4.6, and I really like it!",
+      "content": "submitted by /u/AdhesivenessWild7647 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qpro4o/i_tried_to_make_a_ragdoll_in_godot_46_and_i/",
+      "author": "/u/AdhesivenessWild7647",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T23:45:36.315231"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qpriyr",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Is the Godot Forum down?",
+      "content": "I am getting the Did Not connect error page from Firefox trying to got to https://forum.godotengine.org/ Is there a problem on that site? Did Not Connect: Potential Security Issue Firefox detected an issue and did not continue to forum.godotengine.org. The website is either misconfigured or your computer clock is set to the wrong time. It’s likely the website’s certificate is expired, which prevents Firefox from connecting securely. submitted by /u/Arch____Stanton [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qpriyr/is_the_godot_forum_down/",
+      "author": "/u/Arch____Stanton",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T23:45:36.315267"
+    },
+    {
+      "id": "https://www.reddit.com/r/unity/t3_1qprrkq",
+      "type": "post",
+      "subreddit": "unity",
+      "title": "New teaser for IN SILICO",
+      "content": "submitted by /u/NeroSaution [link] [comments]",
+      "link": "https://www.reddit.com/r/unity/comments/1qprrkq/new_teaser_for_in_silico/",
+      "author": "/u/NeroSaution",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T23:45:36.315287"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qprwwr",
+      "type": "search",
+      "subreddit": "TemuThings",
+      "title": "Free gifts Temu",
+      "content": "Temu Username aheathen84 Free Gifts 769424462 Use for new invitations or existent user. Will do your codes as well. Please no dm’s. You post a code and I’ll put it in, regardless if I’m playing that particular game or not, I’m here to help everyone. submitted by /u/Aheathen84 to r/TemuThings [link] [comments]",
+      "link": "https://www.reddit.com/r/TemuThings/comments/1qprwwr/free_gifts_temu/",
+      "author": "/u/Aheathen84",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T23:45:36.315305"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qps3i3",
+      "type": "search",
+      "subreddit": "r4r",
+      "title": "23 [M4A] #Online - I feel void right now. Wanna chat?",
+      "content": "I really can't sit down and do what I usually do. Drawing somehow got worse and after stuff that happened recently, I just can't help but feel depressed. I lost my only friend and now I have no one I can talk with. Some info about me: I'm an artist, writer and designer. I'm working on game developing as a side hustle because there are a lot of projects I have in mind that I wanna make a reality. I also play lots of stuff, like Pokemon and fighting games. If you have the same interests or feel like talking, then hit me up. I've also been wanting to share my ideas for a videogame if someone's interested in developing it with me. Thanks for reading. Have a good night :) submitted by /u/underwhelming_charm to r/r4r [link] [comments]",
+      "link": "https://www.reddit.com/r/r4r/comments/1qps3i3/23_m4a_online_i_feel_void_right_now_wanna_chat/",
+      "author": "/u/underwhelming_charm",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T23:45:36.315687"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qps333",
+      "type": "search",
+      "subreddit": "Neverbrokeabone",
+      "title": "saw this in the biology building at my school",
+      "content": "All I could think about was those lacking in milk, brittle boned losers, how dare they make a sign for something so pathetic. However, it also reminded me that my bones are stronger than steel, and that I will never stoop to their level, I used to want a cast, and I used to try to break my own bones, I would go outside be reckless and play games/sports, ride my bike and scooter and get dirty and work out, but my bones continued their legacy and would not bend even with my betrayal💪🏽 /s submitted by /u/LittleLeadership2831 to r/Neverbrokeabone [link] [comments]",
+      "link": "https://www.reddit.com/r/Neverbrokeabone/comments/1qps333/saw_this_in_the_biology_building_at_my_school/",
+      "author": "/u/LittleLeadership2831",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T23:45:36.315942"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qpruew",
+      "type": "search",
+      "subreddit": "Enshrouded",
+      "title": "Any word on infinite stamina?",
+      "content": "We've got health potions, we've got mana potions... where's that stamina potion guys? There should be a stamina potion in the game, Skyrim-style. If for whatever reason the devs don't want a stamina potion, then infinite stamina should be among the server settings. submitted by /u/Animus7160 to r/Enshrouded [link] [comments]",
+      "link": "https://www.reddit.com/r/Enshrouded/comments/1qpruew/any_word_on_infinite_stamina/",
+      "author": "/u/Animus7160",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T23:45:36.316294"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qps2an",
+      "type": "search",
+      "subreddit": "BeastGames",
+      "title": "Who I think will win",
+      "content": "Nick & August will probably make it far but probably won’t win in the end Tyler and Monika are honestly top 2 material and their talking and hug scene with Monika calling Tyler a good man probably contributes to the overall story too Jim/Jack both underdogs for sure but could still win Hannah/Cory/Brett/Kady All didn’t get enough screen time to justify them winning in my opinion, but one of them could take the 1m at the top 3 possibly, I think Hannah will get out in the next episode though because of how little screen time she got even though she turned down 1m Catie is for sure gone from the hearts game I think top 6 will be Monika, Nick, August, Tyler, Jack, Jim I think Monika will flip it or maybe give it to Jim to flip and hopefully they get 10m but might be 5m submitted by /u/Savings_Ad9129 to r/BeastGames [link] [comments]",
+      "link": "https://www.reddit.com/r/BeastGames/comments/1qps2an/who_i_think_will_win/",
+      "author": "/u/Savings_Ad9129",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T23:45:36.316353"
     }
   ],
-  "last_updated": "2026-01-28T23:17:28.698258"
+  "last_updated": "2026-01-28T23:47:20.686783"
 }
