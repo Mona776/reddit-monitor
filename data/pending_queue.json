@@ -1,78 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qlfllk",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "TCG Game being created",
-      "content": "I am working on a TCG Game in Raylib. What do you think? https://preview.redd.it/ot2q27gjr8fg1.jpg?width=1481&format=pjpg&auto=webp&s=289d5aa5d81c0377565df934a525c563bf1ab62c submitted by /u/Commercial-Drawer881 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qlfllk/tcg_game_being_created/",
-      "author": "/u/Commercial-Drawer881",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T06:51:18.610343"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qlfw5v",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "I looked at the early drafts for my game and laughed a lot… and decided to make this post",
-      "content": "I recently went back and looked at the very first draft drawings we made for Livber , and I honestly couldn’t stop laughing. So I decided to put together a small before and after comparison. These sketches are from about nine months ago. They were drawn in a coffee shop while we were still shaping the story, together with our narrative designer and me. At the time, they were just rough ideas on paper. Looking at them now, they feel like a really funny and oddly dear memory (I hope I don't have to add an NSFW tag because of the boobies lol). Seeing how far the visuals have come since then is genuinely heartwarming for us. I just wanted to share this little time jump and say thank you to everyone who’s been around during the process. We’re really glad you’re here, and we truly believe there’s more to come <3 submitted by /u/InevGames [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qlfw5v/i_looked_at_the_early_drafts_for_my_game_and/",
-      "author": "/u/InevGames",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T06:51:18.610380"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qlfrmq",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "I will help for wishlists",
-      "content": "You will have your wishlists yes submitted by /u/Intelligent_Set9829 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qlfrmq/i_will_help_for_wishlists/",
-      "author": "/u/Intelligent_Set9829",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T06:51:18.610389"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qlfde8",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "FOR loop , first is example from lesson while later is chatgpt saying first one won't work.",
-      "content": "it's from learn to code from zero lesson 17. func move_to_end(): for number in range(board_size.x -1): cell.x += 1 OR func move_to_end(): for number in range(cell.x, board_size.x - 1): cell.x += 1 i get the second logic as it has start and end of number inside range() and the number of sequence to loop is enough to reach the destination. but is 1st one wrong? wouldn't first just give total number with n-1? submitted by /u/gxesky [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qlfde8/for_loop_first_is_example_from_lesson_while_later/",
-      "author": "/u/gxesky",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T06:51:18.610520"
-    },
-    {
-      "id": "https://www.reddit.com/r/unrealengine/t3_1qlff1z",
-      "type": "post",
-      "subreddit": "unrealengine",
-      "title": "Need help slicing proc mesh",
-      "content": "I’ve been trying to create a system where the player can slice a mesh into two pieces resulting in both pieces also being sliceable. The problem I’m running into is that only the original half of the mesh is sliceable a second time and not the newly created other half. Currently my slice procedural mesh is happening in a “cutting station” BP and the Mesh BP is just turning the static mesh into a Procedural mesh. If anyone has any ideas I’d greatly appreciate the help! Using blueprints in UE5.7. submitted by /u/CharlieWorkSucks [link] [comments]",
-      "link": "https://www.reddit.com/r/unrealengine/comments/1qlff1z/need_help_slicing_proc_mesh/",
-      "author": "/u/CharlieWorkSucks",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T06:51:18.610544"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qlfd8g",
-      "type": "search",
-      "subreddit": "tipofmyjoystick",
-      "title": "[PC][2016] A non-default Minecraft launcher that specifically allowed players to use the galacticraft mod",
-      "content": "I don't know if I am tripping, but I remember specifically that during free time at a kids coding camp, I had a strange launcher that allowed me to play with specifically this mod installed. I believe it was tied to the education edition but can't remember for sure. I understand this is more of a game launcher than a game, but I would have no where else to post this besides here. submitted by /u/coursd_minecoraft to r/tipofmyjoystick [link] [comments]",
-      "link": "https://www.reddit.com/r/tipofmyjoystick/comments/1qlfd8g/pc2016_a_nondefault_minecraft_launcher_that/",
-      "author": "/u/coursd_minecoraft",
-      "search_keyword": "no code game",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T06:51:18.610854"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qlfxwl",
       "type": "search",
       "subreddit": "Brawlstars",
@@ -22595,7 +22523,151 @@
       "search_keyword": "AI game maker",
       "relevance_score": 0,
       "added_at": "2026-01-28T20:16:06.574116"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qpnhe3",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Participated at a Speedjam and thats my result \"Sugar Orbit\"",
+      "content": "The jam was about creating a Speedrun game with the theme orbit in 72h. i hope you like it :). I already pushed the demo to steam its currently in review stage by steam. submitted by /u/Life-Heron-6533 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qpnhe3/participated_at_a_speedjam_and_thats_my_result/",
+      "author": "/u/Life-Heron-6533",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T20:53:29.850264"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qpmqk7",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "[DEV] 3 Years of Passion, Pixels, and Progress: Our Isometric Multiplayer Party Game (King of the Hill) is Almost Ready for Early Access this February! (Before & After Video)",
+      "content": "Hey r/indiegaming ! We’ve spent the last 3 years building our dream project: a 3D multiplayer party game focused on chaotic King of the Hill battles. It’s been a wild journey of endless coding and iterations, so we wanted to share this Before & After to show how far we've come. Highlights: Genre: Multiplayer Party Game / King of the Hill. Dev Time: 3 years as a small indie team. Release: Launching into Early Access this February! submitted by /u/indiedev_fredrick [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qpmqk7/dev_3_years_of_passion_pixels_and_progress_our/",
+      "author": "/u/indiedev_fredrick",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T20:53:29.850303"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qpnk0g",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "I released my first demo but it is bad :( I need feedback",
+      "content": "I am very new on development. This demo took 1 month to make but I think the problem is not the time. Something is missing but I couldn't find out. Can you give me feedbacks so I can improve not just this game but myself as developer. https://store.steampowered.com/app/4297120/STEEL_HEAVEN_Demo/ note: I started game development 8 months ago. submitted by /u/Stunning_Manner_2231 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qpnk0g/i_released_my_first_demo_but_it_is_bad_i_need/",
+      "author": "/u/Stunning_Manner_2231",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T20:53:29.850343"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qpnf7z",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "My Stylised Gta Clone",
+      "content": "submitted by /u/thuris4x [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qpnf7z/my_stylised_gta_clone/",
+      "author": "/u/thuris4x",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T20:53:29.850350"
+    },
+    {
+      "id": "https://www.reddit.com/r/unity/t3_1qpn186",
+      "type": "post",
+      "subreddit": "unity",
+      "title": "How do i make projectiles deal damage",
+      "content": "submitted by /u/Toya-Aoyagay [link] [comments]",
+      "link": "https://www.reddit.com/r/unity/comments/1qpn186/how_do_i_make_projectiles_deal_damage/",
+      "author": "/u/Toya-Aoyagay",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T20:53:29.850501"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qpnlc1",
+      "type": "search",
+      "subreddit": "ParanoiaRPG",
+      "title": "Been a while since any of you have seen this?",
+      "content": "Off work today and saw someone had decompiled the code in git like seven years ago , spent a little time getting it working on my desktop, wanted to let people know it's still functional if you spend some time on it :) I'm by no means a programmer, I just like taking on weird projects to see if I can get them done, and I got it running in two hours, tops. Honestly, the hardest part has been figuring out how the fuck I'm supposed to format the character sheet text files and navigate the GUI (seeing as no actual manuals for this software specifically exist anymore online). I wouldn't particularly say it's the world's best playing experience - holy shit do I feel spoiled comparing my current gaming experience to this, it's the same feeling as comparing contemporary games to, say, the I Have No Mouth and I Must Scream adaptation - but it's definitely a very nostalgic experience to boot up. The 'Kill' button for Players from the admin screen keeps cracking me up lmao I'm mostly writing this post to say: if either Byron or the archivists who saved this and uploaded the files/tweaked the code so it runs properly are in this sub, thank you!!! You're the best for finding lost media like this and fixing it up for people like me to enjoy. Big I LOVE YOU from seven years in the future, lol. submitted by /u/AcademicArm7589 to r/ParanoiaRPG [link] [comments]",
+      "link": "https://www.reddit.com/r/ParanoiaRPG/comments/1qpnlc1/been_a_while_since_any_of_you_have_seen_this/",
+      "author": "/u/AcademicArm7589",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T20:53:29.850538"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qpmyto",
+      "type": "search",
+      "subreddit": "ROBLOXStudio",
+      "title": "Could anyone test if it works?",
+      "content": "I tried making a little code I wanted to add in another game, currently just a \"click button for music\" thing. It works for me no matter what device I am using, but apparently my friend couldn't play music no matter how often he clicked it, and it also showed in the error report. Not working yet! - Roblox Here's the test place, I wanted to see if the issue appears for other players too, so if anyone would test it out and tell me if music appears for them after clicking one of the buttons, I'd be really grateful!🙏🏼 submitted by /u/Hoverfly-Enthusiast to r/ROBLOXStudio [link] [comments]",
+      "link": "https://www.reddit.com/r/ROBLOXStudio/comments/1qpmyto/could_anyone_test_if_it_works/",
+      "author": "/u/Hoverfly-Enthusiast",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T20:53:29.851601"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qpnfls",
+      "type": "search",
+      "subreddit": "Warthunder",
+      "title": "Well, that was the most unexpected moment I've had yet out of all the ways to be killed in an OBJ 279",
+      "content": "I've died in some pretty silly way with the OBJ 279 before, it's just Warthunder. Even artillery to the roof once after countless 1000lb bombs survived and the like. Over pressure? Sure yeah from something large enough in the right spot. But 40mm HE-VT proxy to the side of the hull causing a one tap over pressure? The only place that I could find after 15mins plus that it could feasibly pen was a downward angle to the rear engine deck. Makes me wonder if the HE bug is back. Screenshots are taken from the server replay too as I tried looking back to see if it was a cupola hit etc. Sometimes you've just got to laugh I guess https://preview.redd.it/7e36be2si5gg1.png?width=348&format=png&auto=webp&s=c125b7f6acaee147040ef42440b5bf31d6ec4960 https://preview.redd.it/9bvpzkdxi5gg1.png?width=2559&format=png&auto=webp&s=e4a46040f8a264671178dc6459148ac056db7656 submitted by /u/Radzaarty to r/Warthunder [link] [comments]",
+      "link": "https://www.reddit.com/r/Warthunder/comments/1qpnfls/well_that_was_the_most_unexpected_moment_ive_had/",
+      "author": "/u/Radzaarty",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T20:53:29.852001"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qpndot",
+      "type": "search",
+      "subreddit": "pdfbooks",
+      "title": "100 Mental Models - Wisdom Theory",
+      "content": "This book is beyond amazing if you wanna sort your life out and build solid systems DM me if you want it! submitted by /u/Opening_Cow1994 to r/pdfbooks [link] [comments]",
+      "link": "https://www.reddit.com/r/pdfbooks/comments/1qpndot/100_mental_models_wisdom_theory/",
+      "author": "/u/Opening_Cow1994",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T20:53:29.852028"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qpnd1p",
+      "type": "search",
+      "subreddit": "CrossCode",
+      "title": "Crosscode Source Code",
+      "content": "I researched a bit and found out that this masterpiece was coded in HTML5 and Javascript. LIKE WHY?? HOW?? Where do you even begin with fucking html? Ok you have Javascript for the logic but it's not ideal to say the least. Were they planning to publish this as a browser game?? I thought they were using some kind of Engine like Unity, Godot or some real programming language like sane people would do. Mad respect to the devs! o7 submitted by /u/shoyuftw to r/CrossCode [link] [comments]",
+      "link": "https://www.reddit.com/r/CrossCode/comments/1qpnd1p/crosscode_source_code/",
+      "author": "/u/shoyuftw",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T20:53:29.852183"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qpnc1f",
+      "type": "search",
+      "subreddit": "TLOPO",
+      "title": "Tlopo: Dry Rot Boss Concept, Updated",
+      "content": "While Dry Rot does exist in hollowed woods during the fall...? I wanted to make him resemble the tattoo design, which gives him a more monstrous look. The sketch The Devs had used from me to make the tattoo! https://preview.redd.it/586o2pmvi5gg1.png?width=909&format=png&auto=webp&s=c248ed784d85ff2920842122b7ead1ca77505e12 My current concept of Dry Rot is that unlike most stumps which seem to be overall generally territorial but alright with more than one nearby like on the wild islands? Dry Rot itself is extremely hostile to anything, and has grown to a larger size and strength than the other stumps by just devouring whatever stumps were in Hollowed Woods with it. https://preview.redd.it/dpq47ybzi5gg1.png?width=1065&format=png&auto=webp&s=9277dac2996959e371d39efa87d3927f14f2014c https://preview.redd.it/7xt3k8t1j5gg1.png?width=973&format=png&auto=webp&s=b9f4a340c4bcbd8e3b7313318ac829511cbd568a Stumps according to the actual in-game models are around 10 to 11 feet (3.0 to 3.3 meters) tall... Dry Rot himself would be closer to 15 feet tall though, which I feel like fits better due to him being an obvious outlier from the others. submitted by /u/Adventurous-Nose-183 to r/TLOPO [link] [comments]",
+      "link": "https://www.reddit.com/r/TLOPO/comments/1qpnc1f/tlopo_dry_rot_boss_concept_updated/",
+      "author": "/u/Adventurous-Nose-183",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T20:53:29.852210"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qpnj1o",
+      "type": "search",
+      "subreddit": "battletech",
+      "title": "Just started",
+      "content": "I’ve been playing a lot of mechwarriors 5 mercenaries and I have now taken an interest in the lore, I asked my dad and he mostly summarised why the clans were better (combatants) and a bit about them. I’ve been collecting and playing Warhammer 40K and AGE OF SIGMAR before I really started to get into mechwarriors (here and there though game pass) and today I bought my first lance, I’m planning to make an inner sphere mercenary company (original, I know) but I’m wondering if there’s a large population of table top players in Gothenburg, Sweden and over all how the table top is like or how it works (similar or different from Warhammer etc), oh and also some advice on where to start learning the lore submitted by /u/nobitches4life3554 to r/battletech [link] [comments]",
+      "link": "https://www.reddit.com/r/battletech/comments/1qpnj1o/just_started/",
+      "author": "/u/nobitches4life3554",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T20:53:29.852613"
     }
   ],
-  "last_updated": "2026-01-28T20:17:52.585838"
+  "last_updated": "2026-01-28T20:55:23.860445"
 }
