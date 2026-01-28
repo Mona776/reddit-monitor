@@ -1,30 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qlbz8d",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "It's 0:22 and you are modeling an Upgrade Machine",
-      "content": "submitted by /u/Rich_Bee_120 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qlbz8d/its_022_and_you_are_modeling_an_upgrade_machine/",
-      "author": "/u/Rich_Bee_120",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T03:54:17.009440"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qlbmly",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "So tired of dev",
-      "content": "tired of handling errors tired of thinking something new tired of adjusting game balance . . . I think I should take a rest this weekend Thanks for reading submitted by /u/Over-Mud-9339 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qlbmly/so_tired_of_dev/",
-      "author": "/u/Over-Mud-9339",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T03:54:17.009449"
-    },
-    {
       "id": "https://www.reddit.com/r/unrealengine/t3_1qlbdcc",
       "type": "post",
       "subreddit": "unrealengine",
@@ -20711,7 +20687,139 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-28T11:41:45.282387"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qp9iy7",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "Game build advice",
+      "content": "Hi everyone! So I started making a game as a solo dev and would really appreciate some advice. (Story game but with a little exploration, top down 2D) I realise everyday how more complex making a game is but love it at the same time. Current i am in between making game assets Working in Godot Writing dialogue Writing the game story Logically trying to make all parts fit etc I feel a little overwhelmed and would appreciate any advice on what to focus on first? Thank you! submitted by /u/Flashy-Difference-12 [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qp9iy7/game_build_advice/",
+      "author": "/u/Flashy-Difference-12",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T12:22:43.152961"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qp9i3p",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "How many wishlists did you get after publishing your demo?",
+      "content": ". submitted by /u/100_BOSSES [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qp9i3p/how_many_wishlists_did_you_get_after_publishing/",
+      "author": "/u/100_BOSSES",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T12:22:43.152977"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qp9s17",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Umbrella gliding in our cozy exploration game",
+      "content": "The game focuses on quiet exploration, umbrella gliding, fishing, and boat travel in an atmospheric world Mossbound is currently in development, but you can check the page on Steam. Steam page: https://store.steampowered.com/app/4289170/Mossbound/ submitted by /u/RocketGecko_Studio [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qp9s17/umbrella_gliding_in_our_cozy_exploration_game/",
+      "author": "/u/RocketGecko_Studio",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T12:22:43.153015"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qp9mtn",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Many people have pointed out that just shooting magic might not be enough, so I’m starting work on melee combat and attacks!",
+      "content": "I’m currently working on a new attack for the game. Let me know what you think in the comments! Many people have pointed out that just shooting magic might not be enough, so I’m starting work on melee combat and attacks! steam link: https://store.steampowered.com/app/3964540/Asantria/ submitted by /u/Future_Yogurt_275 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qp9mtn/many_people_have_pointed_out_that_just_shooting/",
+      "author": "/u/Future_Yogurt_275",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T12:22:43.153041"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qp9i34",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Finaly a game im proud of :)",
+      "content": "https://reddit.com/link/1qp9i34/video/vak7bqphy2gg1/player Hello, I have just released my new game REFLECT and would love to hear your thoughts or comments about it. If you have anything to say about it (positive or negative), I'm all ears. BIG THANKS! https://testiie.itch.io/reflect submitted by /u/AlarmedAd468 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qp9i34/finaly_a_game_im_proud_of/",
+      "author": "/u/AlarmedAd468",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T12:22:43.153128"
+    },
+    {
+      "id": "https://www.reddit.com/r/unity/t3_1qp9kbn",
+      "type": "post",
+      "subreddit": "unity",
+      "title": "Building levels in my echolocation roguelite game. Literally my favourite part of game dev, playing around with tiles and prefabs and making it all come alive in one click.",
+      "content": "submitted by /u/3Hills_ [link] [comments]",
+      "link": "https://www.reddit.com/r/unity/comments/1qp9kbn/building_levels_in_my_echolocation_roguelite_game/",
+      "author": "/u/3Hills_",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T12:22:43.153199"
+    },
+    {
+      "id": "https://www.reddit.com/r/unity/t3_1qp968l",
+      "type": "post",
+      "subreddit": "unity",
+      "title": "Gliding with an umbrella in our atmospheric exploration game",
+      "content": "Mossbound is a small, atmospheric exploration game set in an overgrown miniature world. You play as Milo, a small mouse traveling across mossy islands, roots, and forgotten places to find a cure for his brother. The game focuses on quiet exploration, umbrella gliding, fishing, and traveling by boat, with subtle environmental storytelling woven into a melancholic, cozy-toned world. Mossbound is currently in development, but you can check the page on Steam. Steam: https://store.steampowered.com/app/4289170/Mossbound/ submitted by /u/RocketGecko_Studio [link] [comments]",
+      "link": "https://www.reddit.com/r/unity/comments/1qp968l/gliding_with_an_umbrella_in_our_atmospheric/",
+      "author": "/u/RocketGecko_Studio",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T12:22:43.153213"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qp9vrs",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Run cycle for my game",
+      "content": "Run cycle for my 2.5D game and its integration into the level. One of the most challenging aspects was getting the shader to integrate into the level, displaying a 2D character in a 3D world without losing the composition, respecting dynamic lighting and shadows, color palette, and effects. More news about this project coming soon. Follow me on itchi https://daveplayground.itch.io/ submitted by /u/Great-Fudge6330 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qp9vrs/run_cycle_for_my_game/",
+      "author": "/u/Great-Fudge6330",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T12:22:43.153228"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qp9pcf",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Many people have pointed out that just shooting magic might not be enough, so I’m starting work on melee combat and attacks!",
+      "content": "I’m currently working on a new attack for the game. Let me know what you think in the comments! Many people have pointed out that just shooting magic might not be enough, so I’m starting work on melee combat and attacks! steam link: https://store.steampowered.com/app/3964540/Asantria/ submitted by /u/Future_Yogurt_275 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qp9pcf/many_people_have_pointed_out_that_just_shooting/",
+      "author": "/u/Future_Yogurt_275",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T12:22:43.153243"
+    },
+    {
+      "id": "https://www.reddit.com/t5_akk4jk",
+      "type": "search",
+      "subreddit": "BC_Game_Code",
+      "title": "BC.Game Promo Code & Bonuses",
+      "content": "Welcome to our group with BC.Game casino promo codes & bonuses for gamblers all over the world! [link]",
+      "link": "https://www.reddit.com/r/BC_Game_Code/",
+      "author": "/u/AlexaGrow",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T12:22:43.153251"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qp9vrs",
+      "type": "search",
+      "subreddit": "SoloDevelopment",
+      "title": "Run cycle for my game",
+      "content": "Run cycle for my 2.5D game and its integration into the level. One of the most challenging aspects was getting the shader to integrate into the level, displaying a 2D character in a 3D world without losing the composition, respecting dynamic lighting and shadows, color palette, and effects. More news about this project coming soon. Follow me on itchi https://daveplayground.itch.io/ submitted by /u/Great-Fudge6330 to r/SoloDevelopment [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qp9vrs/run_cycle_for_my_game/",
+      "author": "/u/Great-Fudge6330",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T12:22:43.153992"
     }
   ],
-  "last_updated": "2026-01-28T11:43:29.848984"
+  "last_updated": "2026-01-28T12:24:35.637128"
 }
