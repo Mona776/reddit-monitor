@@ -1,90 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/godot/t3_1qlf1dh",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Tell me this is standard practice",
-      "content": "Example of shitty Code variable to dictionary to crap submitted by /u/Emergency_Proof4706 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qlf1dh/tell_me_this_is_standard_practice/",
-      "author": "/u/Emergency_Proof4706",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T06:15:35.229263"
-    },
-    {
-      "id": "https://www.reddit.com/r/unity/t3_1qlfc1y",
-      "type": "post",
-      "subreddit": "unity",
-      "title": "I added Skeleton Shield in my indie game 💀🛡️",
-      "content": "Part 1 of my SpinKnight devlog! Short clip for now, but I’ll keep posting progress updates. Got ideas for the game? Drop a comment 👇 Want to know what the game is about? 😄 : https://youtube.com/shorts/ZdfoQ3JAXvE?si=1_YKdksbzuMUe-Bw submitted by /u/Pure-Finance6375 [link] [comments]",
-      "link": "https://www.reddit.com/r/unity/comments/1qlfc1y/i_added_skeleton_shield_in_my_indie_game/",
-      "author": "/u/Pure-Finance6375",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T06:15:35.229278"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qlf314",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "Friend was redesigned",
-      "content": "Slowly updating old assets to go better with the new style and my vision while working on new things at the same time. It's nice to have distraction. submitted by /u/shidoarima [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qlf314/friend_was_redesigned/",
-      "author": "/u/shidoarima",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T06:15:35.229304"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qlf9ql",
-      "type": "search",
-      "subreddit": "Fc26TradingCoins",
-      "title": "Help Fc26",
-      "content": "Hey everyone! I’m from Europe (Romania) playing on Xbox One. I really want to play EA Sports FC 26 full game but can’t afford it right now. If anyone has a spare/unused redeem code (Xbox One compatible), please DM me privately! Super grateful 🙏⚽ No trades, just gift. Thanks! submitted by /u/NoStory8360 to r/Fc26TradingCoins [link] [comments]",
-      "link": "https://www.reddit.com/r/Fc26TradingCoins/comments/1qlf9ql/help_fc26/",
-      "author": "/u/NoStory8360",
-      "search_keyword": "no code game",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T06:15:35.229371"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qlf97l",
-      "type": "search",
-      "subreddit": "FC_26",
-      "title": "Fc26 Help",
-      "content": "Hey everyone! I’m from Europe (Romania) playing on Xbox One. I really want to play EA Sports FC 26 full game but can’t afford it right now. If anyone has a spare/unused redeem code (Xbox One compatible), please DM me privately! Super grateful 🙏⚽ No trades, just gift. Thanks! submitted by /u/NoStory8360 to r/FC_26 [link] [comments]",
-      "link": "https://www.reddit.com/r/FC_26/comments/1qlf97l/fc26_help/",
-      "author": "/u/NoStory8360",
-      "search_keyword": "no code game",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T06:15:35.229382"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qlf8wc",
-      "type": "search",
-      "subreddit": "Fc26UltimateTeam",
-      "title": "Fc26 Help",
-      "content": "Hey everyone! I’m from Europe (Romania) playing on Xbox One. I really want to play EA Sports FC 26 full game but can’t afford it right now. If anyone has a spare/unused redeem code (Xbox One compatible), please DM me privately! Super grateful 🙏⚽ No trades, just gift. Thanks! submitted by /u/NoStory8360 to r/Fc26UltimateTeam [link] [comments]",
-      "link": "https://www.reddit.com/r/Fc26UltimateTeam/comments/1qlf8wc/fc26_help/",
-      "author": "/u/NoStory8360",
-      "search_keyword": "no code game",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T06:15:35.229394"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qlfc02",
-      "type": "search",
-      "subreddit": "fo4",
-      "title": "Help needed with creation kit",
-      "content": "Wanted to start making some changes to the game with the creation kit, everything was going fine until I tried to save it, The CK wants me to save the .esp to the fallout4/data folder but when I click into the fallout 4 file its just empty. https://preview.redd.it/wqsm36gto8fg1.png?width=1920&format=png&auto=webp&s=124fc8d5adb360cdd4a0c63c6536aa7de01db63d submitted by /u/Additional-Put-5916 to r/fo4 [link] [comments]",
-      "link": "https://www.reddit.com/r/fo4/comments/1qlfc02/help_needed_with_creation_kit/",
-      "author": "/u/Additional-Put-5916",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T06:15:35.229589"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qlf9f9",
       "type": "search",
       "subreddit": "programmingmemes",
@@ -22427,7 +22343,115 @@
       "search_keyword": "AI game maker",
       "relevance_score": 0,
       "added_at": "2026-01-28T19:23:03.894656"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qplhbh",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "Where can one find a community manager",
+      "content": "Hey guys, Where can one find a community manager that has skills in video editing, as well as engaging with a fanbase ? If any of you ever found one, I would appreciate it if you could let me know submitted by /u/PoppingChamp [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qplhbh/where_can_one_find_a_community_manager/",
+      "author": "/u/PoppingChamp",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T19:47:59.320572"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qplsah",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Some top-down pixel art assets I made",
+      "content": "For the past few months I have been producing top down assets and posting them to Itch io. Attached are some mock ups put together in Godot. If you want to check out the assets, you can get them here: https://sebbyspoons.itch.io/ Would love your feedback and to hear what I should work on next. submitted by /u/sebbyspoons [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qplsah/some_topdown_pixel_art_assets_i_made/",
+      "author": "/u/sebbyspoons",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T19:47:59.320691"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qpl7id",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "We Cut a Core System After 18 Months. Here’s Why It Made the Game Better.",
+      "content": "submitted by /u/CorrtexGames [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qpl7id/we_cut_a_core_system_after_18_months_heres_why_it/",
+      "author": "/u/CorrtexGames",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T19:47:59.320708"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qplpo4",
+      "type": "search",
+      "subreddit": "gamingsuggestions",
+      "title": "are there any other movie-maker games like 3dmm and The Movies",
+      "content": "Specifically the MOVIE-MAKING part of both, so no hollywood mogul or filmmaker studio submitted by /u/justabandonwareuser to r/gamingsuggestions [link] [comments]",
+      "link": "https://www.reddit.com/r/gamingsuggestions/comments/1qplpo4/are_there_any_other_moviemaker_games_like_3dmm/",
+      "author": "/u/justabandonwareuser",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T19:47:59.322454"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qplm79",
+      "type": "search",
+      "subreddit": "Crunchyroll",
+      "title": "New interface on the web",
+      "content": "Did anyone else get this interface? I just refreshed the page and everything changed, and my language settings got reset. submitted by /u/murilo087 to r/Crunchyroll [link] [comments]",
+      "link": "https://www.reddit.com/r/Crunchyroll/comments/1qplm79/new_interface_on_the_web/",
+      "author": "/u/murilo087",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T19:47:59.322533"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qpllp3",
+      "type": "search",
+      "subreddit": "Metin2",
+      "title": "Metin2.dev Account",
+      "content": "Hi guys, I’m trying to create account in metin2.dev but currently registration is disabled. I am computer science student and trying to see files to understand logics to improve myself. This is kind of my childhood game and would be a good approach to understand logic behind of this game. Is there an any way to register as a junior developer? submitted by /u/yavuzhans to r/Metin2 [link] [comments]",
+      "link": "https://www.reddit.com/r/Metin2/comments/1qpllp3/metin2dev_account/",
+      "author": "/u/yavuzhans",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T19:47:59.322598"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qpll24",
+      "type": "search",
+      "subreddit": "blender",
+      "title": "Help with organizing uv's and texture.",
+      "content": "I'm an amateur game dev trying to get better at modeling characters. So I decided to try and model a low-poly version of Merrin from Jedi Fallen Order using Megaman Legends as a reference. However, I cannot wrap my head around organizing uv's into a sprite sheet. How should I approach this? Are there any good tutorials on organizing this? I was inspired by Mercurial Forges video \"Mega Man Legends' Timeless Look\" submitted by /u/Nesrovlah26 to r/blender [link] [comments]",
+      "link": "https://www.reddit.com/r/blender/comments/1qpll24/help_with_organizing_uvs_and_texture/",
+      "author": "/u/Nesrovlah26",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T19:47:59.322613"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qplqy9",
+      "type": "search",
+      "subreddit": "MythicBastionland",
+      "title": "How lethal are your games?",
+      "content": "So far I've run 3 one shots, I had 2 deaths on one session 0 on the other two. When I ran a much longer session it had 2 deaths, so the average is ~1 death per session. Which seems... low? When I run Knave, a different OSR game, I tend to have ~2 deaths per session, and I once had a player die twice in the same one-shot. But on the other hand, when running DnD you might only go to death's door once every 4 sessions or so. I feel like my games are super deadly by DnD standards and not deadly enough for OSR. So I was wondering how deadly do you make your games? submitted by /u/Tiago55 to r/MythicBastionland [link] [comments]",
+      "link": "https://www.reddit.com/r/MythicBastionland/comments/1qplqy9/how_lethal_are_your_games/",
+      "author": "/u/Tiago55",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T19:47:59.322659"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qplny1",
+      "type": "search",
+      "subreddit": "StarWars",
+      "title": "And the new additions to the Star Wars collection over the last couple of weeks",
+      "content": "And the new additions to the Star Wars collection over the last couple of weeks. A really lovely white Clamshell CBS Fox VHS and got the exclusive slipcover DVD and the USA Fullscreen DVDs. Very interested to watch the prequel trilogy this way. submitted by /u/the4kCollectivE to r/StarWars [link] [comments]",
+      "link": "https://www.reddit.com/r/StarWars/comments/1qplny1/and_the_new_additions_to_the_star_wars_collection/",
+      "author": "/u/the4kCollectivE",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T19:47:59.322757"
     }
   ],
-  "last_updated": "2026-01-28T19:24:30.720420"
+  "last_updated": "2026-01-28T19:49:40.665147"
 }
