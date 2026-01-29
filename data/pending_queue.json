@@ -1,42 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/t3_1qln28p",
-      "type": "search",
-      "subreddit": "AjsPlaceChat",
-      "title": "After 1 Year of Solo Dev - My Photography Horror Game The 18th Attic Is Finally On Steam!",
-      "content": "submitted by /u/Ajsplace to r/AjsPlaceChat [link] [comments]",
-      "link": "https://www.reddit.com/r/AjsPlaceChat/comments/1qln28p/after_1_year_of_solo_dev_my_photography_horror/",
-      "author": "/u/Ajsplace",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T13:45:47.555596"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qln1jq",
-      "type": "search",
-      "subreddit": "ZerowakeGATES",
-      "title": "I neither confirm nor deny.",
-      "content": "And thus I, a dev, tell you all that it is perfectly okay for you to sleep at night and not make this game your whole life. Thank you. Now please excuse me I'm off to get fired. submitted by /u/Low-Voice-887 to r/ZerowakeGATES [link] [comments]",
-      "link": "https://www.reddit.com/r/ZerowakeGATES/comments/1qln1jq/i_neither_confirm_nor_deny/",
-      "author": "/u/Low-Voice-887",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T13:45:47.555608"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qlnrl6",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "3 frame by frame animated bad guys",
-      "content": "submitted by /u/ObjectiveWilling3958 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qlnrl6/3_frame_by_frame_animated_bad_guys/",
-      "author": "/u/ObjectiveWilling3958",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T14:09:28.907676"
-    },
-    {
       "id": "https://www.reddit.com/r/indiegaming/t3_1qlnprw",
       "type": "post",
       "subreddit": "indiegaming",
@@ -23687,7 +23651,127 @@
       "search_keyword": "AI game maker",
       "relevance_score": 0,
       "added_at": "2026-01-29T10:02:49.056951"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qq5cu8",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Consistent players in our first demo make us so happy!",
+      "content": "submitted by /u/byrfx [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qq5cu8/consistent_players_in_our_first_demo_make_us_so/",
+      "author": "/u/byrfx",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T11:02:22.209680"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qq502k",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "How our key art (and game name) changed over the last five months",
+      "content": "I did not expect it would shift this dramatically, but here we are. It was a wild ride ever since I announced the game back in September. submitted by /u/Important-Play-7688 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qq502k/how_our_key_art_and_game_name_changed_over_the/",
+      "author": "/u/Important-Play-7688",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T11:02:22.209714"
+    },
+    {
+      "id": "https://www.reddit.com/r/unrealengine/t3_1qq51el",
+      "type": "post",
+      "subreddit": "unrealengine",
+      "title": "Difference between Anim Montage and in-game Animation",
+      "content": "So we are using same skeleton for preview and in-game character but the way it holds the bat is different, we've tried so many things but runing out of ideas, maybe someone know where to dig? The issue is in gap between hands. submitted by /u/Dastashka [link] [comments]",
+      "link": "https://www.reddit.com/r/unrealengine/comments/1qq51el/difference_between_anim_montage_and_ingame/",
+      "author": "/u/Dastashka",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T11:02:22.209827"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qq505f",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "How our key art (and game name) changed over the last five months",
+      "content": "I did not expect it would shift this dramatically, but here we are. It was a wild ride ever since I announced the game back in September. submitted by /u/Important-Play-7688 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qq505f/how_our_key_art_and_game_name_changed_over_the/",
+      "author": "/u/Important-Play-7688",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T11:02:22.209835"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qq5lhm",
+      "type": "search",
+      "subreddit": "sdl",
+      "title": "Any examples of SDL3 GPU in moderately complex projects?",
+      "content": "I'm trying to make a basic 3d game engine using SDL3_gpu, and would benefit from examples where people have managed to nicely wrap up their rendering pipelines rather than just calling everything from a single file, which seems to be the majority of tutorials/examples out there. Also any advice on how you organize your projects would be welcome. Thanks! submitted by /u/rejamaco to r/sdl [link] [comments]",
+      "link": "https://www.reddit.com/r/sdl/comments/1qq5lhm/any_examples_of_sdl3_gpu_in_moderately_complex/",
+      "author": "/u/rejamaco",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T11:02:22.211341"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qq5lda",
+      "type": "search",
+      "subreddit": "bolognafc",
+      "title": "Selling: 2 tickets for Bologna - Milan",
+      "content": "Sadly have had something come up and won't be able to make the game on the 03/02. Selling 2 tickets in the Distinti in Sector C1 next to the Curva Andrea Costa. submitted by /u/ScientificWhaling to r/bolognafc [link] [comments]",
+      "link": "https://www.reddit.com/r/bolognafc/comments/1qq5lda/selling_2_tickets_for_bologna_milan/",
+      "author": "/u/ScientificWhaling",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T11:02:22.211407"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qq5l2e",
+      "type": "search",
+      "subreddit": "XboxGamers",
+      "title": "\"Weekly What have you been playing Thread\"",
+      "content": "Please use this thread to discuss whatever you've been playing lately (old or new, any platform, AAA or indie). As usual, please don't just list the names of games as your entire post, make sure to elaborate with your thoughts on the games. Are you hunting achievements, are you a completionist, or just returning to a staple you can't get a way from? Writing the names of the games in **bold*\\ * is nice to make it easier for people skimming the thread to pick out the names. submitted by /u/poc9k to r/XboxGamers [link] [comments]",
+      "link": "https://www.reddit.com/r/XboxGamers/comments/1qq5l2e/weekly_what_have_you_been_playing_thread/",
+      "author": "/u/poc9k",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T11:02:22.211445"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qq5l1o",
+      "type": "search",
+      "subreddit": "ProfessorOak",
+      "title": "Pre badge 2 Pokemon X",
+      "content": "Longer than section 1 but at least the battle chataeu makes grinding easier. Wouldn’t even attempt this game without it. I also got chestnaught to level 97. submitted by /u/CableFrosty797 to r/ProfessorOak [link] [comments]",
+      "link": "https://www.reddit.com/r/ProfessorOak/comments/1qq5l1o/pre_badge_2_pokemon_x/",
+      "author": "/u/CableFrosty797",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T11:02:22.211457"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qq5jzi",
+      "type": "search",
+      "subreddit": "WarsimRpg",
+      "title": "Got a review I thought was a joke... Realised it was a real neighbour from 5 years ago who I gave ice cream to during the pandemic",
+      "content": "submitted by /u/Huw2k8 to r/WarsimRpg [link] [comments]",
+      "link": "https://www.reddit.com/r/WarsimRpg/comments/1qq5jzi/got_a_review_i_thought_was_a_joke_realised_it_was/",
+      "author": "/u/Huw2k8",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T11:02:22.211859"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qq5km1",
+      "type": "search",
+      "subreddit": "legoideas",
+      "title": "Crossy Road level and mascots",
+      "content": "After months of work, yesterday my LEGO Crossy Road diorama launched on Ideas! I wanted to capture the charm of the game’s voxel style and make a level that feels playable, busy, and fun — with traffic lanes, rivers, as well as large mascot builds as accompaniment display pieces. I've already built the whole thing IRL and displayed it at a LEGO exhibition last month. Seeing how positively people reacted to it made me realise I should at least try submitting it. Now, it’s already close to 200 supporters which has honestly blown me away. I did discover there’s another Crossy Road project already up — and I genuinely hope both get support, because it’s a game that means a lot to many people. If you’d like to support it, I’d be incredibly grateful ❤️ submitted by /u/stowball to r/legoideas [link] [comments]",
+      "link": "https://www.reddit.com/r/legoideas/comments/1qq5km1/crossy_road_level_and_mascots/",
+      "author": "/u/stowball",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T11:02:22.212013"
     }
   ],
-  "last_updated": "2026-01-29T10:03:17.595964"
+  "last_updated": "2026-01-29T11:02:50.482565"
 }
