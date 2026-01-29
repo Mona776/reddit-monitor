@@ -1,54 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/t3_1qlkro7",
-      "type": "search",
-      "subreddit": "NoRestForTheWicked",
-      "title": "Can't see friend location on map",
-      "content": "Just buy this game to coop with friends so i'm totally don't know anything. Anyone here can help why i can't see my friend location on map ? I can still see their \"direction\" and map maker but location. submitted by /u/Friendly_Ad9442 to r/NoRestForTheWicked [link] [comments]",
-      "link": "https://www.reddit.com/r/NoRestForTheWicked/comments/1qlkro7/cant_see_friend_location_on_map/",
-      "author": "/u/Friendly_Ad9442",
-      "search_keyword": "AI game maker",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T11:35:04.427511"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qlkmh9",
-      "type": "search",
-      "subreddit": "noida",
-      "title": "Hum bi AMA Karenge 🙂‍↔️✋🏼",
-      "content": "ache ache ques puchna yaawrr!! submitted by /u/anniii09 to r/noida [link] [comments]",
-      "link": "https://www.reddit.com/r/noida/comments/1qlkmh9/hum_bi_ama_karenge/",
-      "author": "/u/anniii09",
-      "search_keyword": "how to make a game",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T11:35:04.428060"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qllajv",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Updated the header graphics for my game",
-      "content": "Just updated my dungeon crawler header graphics. I hope it conveys the game's vibe. submitted by /u/kotogames [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qllajv/updated_the_header_graphics_for_my_game/",
-      "author": "/u/kotogames",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T12:18:00.474358"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qll1s0",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "The Butter-knife..",
-      "content": "submitted by /u/JesperS1208 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qll1s0/the_butterknife/",
-      "author": "/u/JesperS1208",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T12:18:00.474428"
-    },
-    {
       "id": "https://www.reddit.com/r/IndieDev/t3_1qlkzr6",
       "type": "post",
       "subreddit": "IndieDev",
@@ -23327,7 +23279,139 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-29T05:35:47.919572"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qq0j74",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Before // After of my action survivor-like game 👇",
+      "content": "submitted by /u/BootPen [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qq0j74/before_after_of_my_action_survivorlike_game/",
+      "author": "/u/BootPen",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T06:31:54.812242"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qq0q5l",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Been working on my game for about eight months now, rate my progress?",
+      "content": "My game is a multiplayer party game, most of my time so far was making the player model myself, animating it, hooking those up to movement and camera, and making sure that all of this replicates to the server. Thoughts so far? submitted by /u/TrianReallyHard [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qq0q5l/been_working_on_my_game_for_about_eight_months/",
+      "author": "/u/TrianReallyHard",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T06:31:54.812269"
+    },
+    {
+      "id": "https://www.reddit.com/r/unrealengine/t3_1qq0nga",
+      "type": "post",
+      "subreddit": "unrealengine",
+      "title": "Asset Compatibility Workaround?",
+      "content": "I’ve found some nice assets on Fab that I think would work well together, but aren’t compatible with matching version(s) of Unreal Engine. Is there a way to work around this? submitted by /u/clampfan101 [link] [comments]",
+      "link": "https://www.reddit.com/r/unrealengine/comments/1qq0nga/asset_compatibility_workaround/",
+      "author": "/u/clampfan101",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T06:31:54.812379"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qq0zun",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "It looks like I am solo art now 🤣",
+      "content": "I made my first 3d model in Blender ever submitted by /u/altulek [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qq0zun/it_looks_like_i_am_solo_art_now/",
+      "author": "/u/altulek",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T06:31:54.812389"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qq0qrl",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Wos' Burguers",
+      "content": "A short point and click horror game made in Clickteam fusion 2.5, no more than 20 minutes long, still in development but I hope to finish it. The premise is about making hamburgers for customers and surviving a killer who appears very late in the game. submitted by /u/pat3779 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qq0qrl/wos_burguers/",
+      "author": "/u/pat3779",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T06:31:54.812399"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qq0fdi",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Before // After of my action survivor-like game 👇",
+      "content": "submitted by /u/BootPen [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qq0fdi/before_after_of_my_action_survivorlike_game/",
+      "author": "/u/BootPen",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T06:31:54.812407"
+    },
+    {
+      "id": "https://www.reddit.com/t5_31ajv",
+      "type": "search",
+      "subreddit": "NoGameNoLife",
+      "title": "No Game No Life",
+      "content": "A subreddit for the popular series No Game No Life! [link]",
+      "link": "https://www.reddit.com/r/NoGameNoLife/",
+      "author": "/u/Burtry",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T06:31:54.812419"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qq0u9h",
+      "type": "search",
+      "subreddit": "temu_old_users",
+      "title": "Free gift codes",
+      "content": "Temu Username aheathen84 Free Gifts 763950190 Or 771656933 Use for new invitations or existent user. Will do your codes as well. Please no dm’s. You post a code and I’ll put it in, regardless if I’m playing that particular game or not, I’m here to help everyone. submitted by /u/Aheathen84 to r/temu_old_users [link] [comments]",
+      "link": "https://www.reddit.com/r/temu_old_users/comments/1qq0u9h/free_gift_codes/",
+      "author": "/u/Aheathen84",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T06:31:54.812467"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qq0rzv",
+      "type": "search",
+      "subreddit": "TemuThings",
+      "title": "Free gifts codes",
+      "content": "Temu Username aheathen84 Free Gifts 763950190 Or 771656933 Use for new invitations or existent user. Will do your codes as well. Please no dm’s. You post a code and I’ll put it in, regardless if I’m playing that particular game or not, I’m here to help everyone. submitted by /u/Aheathen84 to r/TemuThings [link] [comments]",
+      "link": "https://www.reddit.com/r/TemuThings/comments/1qq0rzv/free_gifts_codes/",
+      "author": "/u/Aheathen84",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T06:31:54.812511"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qq12ee",
+      "type": "search",
+      "subreddit": "scratch",
+      "title": "How do i make the player collide with the water?",
+      "content": "I'm making a top down scroller thing, I'm trying to get the player colliding with the water (supposed to be the edge of the map,) but everything I can think of hasn't worked at all, please help! first image is player code, second is the map code submitted by /u/cyuapriasyuiwygbh to r/scratch [link] [comments]",
+      "link": "https://www.reddit.com/r/scratch/comments/1qq12ee/how_do_i_make_the_player_collide_with_the_water/",
+      "author": "/u/cyuapriasyuiwygbh",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T06:31:54.812618"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qq0ty9",
+      "type": "search",
+      "subreddit": "GranTurismo7",
+      "title": "1.670.000 not working",
+      "content": "I just updated the game and it keeps popping up a warning saying it's out of date I need help. Did the devs release a bugged version of the game or what? submitted by /u/Iria401 to r/GranTurismo7 [link] [comments]",
+      "link": "https://www.reddit.com/r/GranTurismo7/comments/1qq0ty9/1670000_not_working/",
+      "author": "/u/Iria401",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T06:31:54.813279"
     }
   ],
-  "last_updated": "2026-01-29T05:37:31.073410"
+  "last_updated": "2026-01-29T06:33:39.671536"
 }
