@@ -1,18 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/t3_1qln3bn",
-      "type": "search",
-      "subreddit": "iosgaming",
-      "title": "[DEV] I’m having a small beta test for my game, CHROMADI. Would you guys like to try it out?",
-      "content": "submitted by /u/Kleanup-Games to r/iosgaming [link] [comments]",
-      "link": "https://www.reddit.com/r/iosgaming/comments/1qln3bn/dev_im_having_a_small_beta_test_for_my_game/",
-      "author": "/u/Kleanup-Games",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T13:45:47.555590"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qln28p",
       "type": "search",
       "subreddit": "AjsPlaceChat",
@@ -23531,7 +23519,175 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-01-29T09:03:28.131940"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qq4apy",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "A bit of particle effects makes a game feel so much more alive",
+      "content": "submitted by /u/adnanclyde [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qq4apy/a_bit_of_particle_effects_makes_a_game_feel_so/",
+      "author": "/u/adnanclyde",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T10:02:49.055218"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qq443i",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "I dont know what to put in my levels",
+      "content": "submitted by /u/WeakDevelopment5748 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qq443i/i_dont_know_what_to_put_in_my_levels/",
+      "author": "/u/WeakDevelopment5748",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T10:02:49.055225"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qq43tq",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Finding new ways to tease out how awesome our OST is in our record store game",
+      "content": "submitted by /u/MurraySomerwolff [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qq43tq/finding_new_ways_to_tease_out_how_awesome_our_ost/",
+      "author": "/u/MurraySomerwolff",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T10:02:49.055235"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qq4007",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Crashlanded on an Alien Ocean planet :)",
+      "content": "This is Exonautis, a sci-fi survival game where you crashland and have to explore Calliope 4348A, a vast ocean exoplanet, you can wishlist the game now on Steam :) submitted by /u/SilentClimate4946 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qq4007/crashlanded_on_an_alien_ocean_planet/",
+      "author": "/u/SilentClimate4946",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T10:02:49.055244"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qq3tzt",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Changing my capsule for the Tiny Roguelikes event on Steam. Which one is better?",
+      "content": "submitted by /u/3Hills_ [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qq3tzt/changing_my_capsule_for_the_tiny_roguelikes_event/",
+      "author": "/u/3Hills_",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T10:02:49.055251"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qq491j",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Don't underestimate the power of particle effects and tiny animations",
+      "content": "Really makes a game feel so much more alive. submitted by /u/adnanclyde [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qq491j/dont_underestimate_the_power_of_particle_effects/",
+      "author": "/u/adnanclyde",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T10:02:49.055317"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qq3z73",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Crashlanded on an Alien Ocean planet :)",
+      "content": "This is Exonautis, a sci-fi survival game where you crashland and have to explore Calliope 4348A, a vast ocean exoplanet, you can wishlist the game now on Steam :) submitted by /u/SilentClimate4946 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qq3z73/crashlanded_on_an_alien_ocean_planet/",
+      "author": "/u/SilentClimate4946",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T10:02:49.055324"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qq3se4",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Marketing hooks: what they mean to you",
+      "content": "What do marketing hooks mean to you? Do you know what they are? Are they optional, crucial, or do they have average importance to you? I personally think that besides a good game, they are what makes the difference between an ok performing game and a hit. But I'd like to have the take of you fellow devs to confirm or debunk my thought. submitted by /u/ValentinIG [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qq3se4/marketing_hooks_what_they_mean_to_you/",
+      "author": "/u/ValentinIG",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T10:02:49.055348"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qq3ns3",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Steam store assets - rejected",
+      "content": "submitted by /u/spieltic [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qq3ns3/steam_store_assets_rejected/",
+      "author": "/u/spieltic",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T10:02:49.055356"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qq3n6e",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Our paper-craft city builder keeps moving forward. Here’s a short video!",
+      "content": "More info and wishlist: https://store.steampowered.com/app/3907910/Cutout_Village/ submitted by /u/DevilishGames [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qq3n6e/our_papercraft_city_builder_keeps_moving_forward/",
+      "author": "/u/DevilishGames",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T10:02:49.055366"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qq4edb",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Is_on_floor always printing false",
+      "content": "Trying to use the default chatacterbody code but the is_on_floor func wont work submitted by /u/Ferrets_22 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qq4edb/is_on_floor_always_printing_false/",
+      "author": "/u/Ferrets_22",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T10:02:49.055374"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qq4862",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "how do u feel bout my dungeon crawler project??",
+      "content": "submitted by /u/Medium_Coach7481 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qq4862/how_do_u_feel_bout_my_dungeon_crawler_project/",
+      "author": "/u/Medium_Coach7481",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T10:02:49.055480"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qq4b9q",
+      "type": "search",
+      "subreddit": "SteamDeck",
+      "title": "Solution for Epic Games Red Dead Redemption 2 (Error code 18) via NonSteamLaunchers for SteamOS",
+      "content": "Breakthrough! I'm happy to share - after weeks of thinkering - that moments ago I've found the solution to the \"Error code 18\" for Epic Games Red Dead Redemption 2 installed with NonSteamLaunchers in SteamOS. Or basically the tweaks to be able to run RDR2 with NSL. The great news is that it allows to run RDR2 directly, or via both launchers, in Desktop mode and Gaming mode. Whatever is preferred. Cloud saves, share game activity with friends and steam performance overlay all work when running RDR2 directly from Gaming mode. Also this saves money having to buy RDR2 a 2nd time on Steam, and no need to deal with Heroic or Lutris separately for just this game. I'll report the solution on ProtonDB as well. Summary: Rockstar and Epic launchers need to be installed from NSL (in same prefix folder ofcourse), latest GE-Proton10-29 (download via ProtonUp-Qt app) needs to be set (check force compatibility steam play) for both launchers ánd RDR2 game in Steam library, WINEDLLOVERRIDES=\"vulkan-1=n,b\" command needs to be added in the Epic launcher's launch options in Steam (do not add in RDR2 launch options!!!), Rockstar Launcher's launch options in Steam need to be copied in full and pasted in the RDR2 launch options in the Epic launcher game settings/properties!!!, in the file ../user/Documents/Rockstar../Settings/system.xml change the value for adapter to 1 but leave API value to DX12, now run RDR2 for first time in Desktop mode from Epic launcher, login via Rockstar Launcher and done. Hope this finds another! :) Cheers I've posted the solution at NSL GitHub too: https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck/issues/869 submitted by /u/ScubyFlying to r/SteamDeck [link] [comments]",
+      "link": "https://www.reddit.com/r/SteamDeck/comments/1qq4b9q/solution_for_epic_games_red_dead_redemption_2/",
+      "author": "/u/ScubyFlying",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T10:02:49.056332"
+    },
+    {
+      "id": "https://www.reddit.com/t5_2qw2g",
+      "type": "search",
+      "subreddit": "gamemaker",
+      "title": "/r/gamemaker",
+      "content": "This subreddit is dedicated to providing programmer support for the game development platform, GameMaker Studio. GameMaker Studio is designed to make developing games fun and easy. Coders can take advantage of its built in scripting language, \"GML\" to design and create fully-featured, professional grade games. This subreddit is not designed for promoting your content and is instead focused on helping people make games, not promote them. [link]",
+      "link": "https://www.reddit.com/r/gamemaker/",
+      "author": "/u/Clay_Pigeon",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T10:02:49.056951"
     }
   ],
-  "last_updated": "2026-01-29T09:03:56.212306"
+  "last_updated": "2026-01-29T10:03:17.595964"
 }
