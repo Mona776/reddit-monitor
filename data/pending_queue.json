@@ -1,102 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qltj87",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "🎉 Our Steam Page Is Live!",
-      "content": "submitted by /u/ALundra0627 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qltj87/our_steam_page_is_live/",
-      "author": "/u/ALundra0627",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T18:14:36.208883"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qltyi6",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "made all my 2d dice into 3d dice, how does it look?",
-      "content": "submitted by /u/toxicspiyt [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qltyi6/made_all_my_2d_dice_into_3d_dice_how_does_it_look/",
-      "author": "/u/toxicspiyt",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T18:14:36.208890"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qltsl5",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "\"could not resolve member\" cyclic reference",
-      "content": "oh my god i hate making games submitted by /u/imlivinginhell123 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qltsl5/could_not_resolve_member_cyclic_reference/",
-      "author": "/u/imlivinginhell123",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T18:14:36.208899"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qltyli",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "How NOT to make an JRPG",
-      "content": "submitted by /u/Weary_Scheme_9289 [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qltyli/how_not_to_make_an_jrpg/",
-      "author": "/u/Weary_Scheme_9289",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T18:14:36.208984"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedesign/t3_1qlu1eo",
-      "type": "post",
-      "subreddit": "gamedesign",
-      "title": "Horror in text based GUI",
-      "content": "Hi! I’m making a game about navigating a 1980s like computer with a text based interface, and it’s supposed to be a horror mystery. The player will find clues about a supernatural horror as they are reading text files and looking at a log file (accessible anywhere). There are sound effects simulating this old computer. I wonder what horrir elements I can add in this very barebones GUI? There are some tasks where the player needs to look into the log file to retrace their steps, and seeing log rows of another, unexpected user doing things on the computer is one thing I will explore. Another is that commands will have a different, more ominous sound effect than before. What ideas do you have for creating horror with just text and sound effects? submitted by /u/pimmen89 [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedesign/comments/1qlu1eo/horror_in_text_based_gui/",
-      "author": "/u/pimmen89",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T18:14:36.209011"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedesign/t3_1qltg7v",
-      "type": "post",
-      "subreddit": "gamedesign",
-      "title": "Best examples of armour/resistance/defence/guard and weakness mechanics in turn based games?",
-      "content": "Especially how weakness interacts with it submitted by /u/Altuk_ [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedesign/comments/1qltg7v/best_examples_of_armourresistancedefenceguard_and/",
-      "author": "/u/Altuk_",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T18:14:36.209018"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qltxnm",
-      "type": "search",
-      "subreddit": "LenovoLegion",
-      "title": "Is there any way to exclusively use the integrated GPU?",
-      "content": "Hello! Recently got a pro 7i 5080 64GB from Microcenter. Really love this thing. It's a beast! Anyway, I do a lot more with my computer than games. Many of my activities don't need the dGPU. Does anyone know if there's a way to have the computer use just the integrated GPU? I see in LegionSpace that I can switch to hybrid mode which uses both GPUs, but what if I want to completely shut down the NVIDIA GPU because all I'm doing is writing code for the next 8 hours. So far I've tried all the various settings in LegionSpace relating to the GPUs and no matter what I have set I don't see any activity in the iGPU in Windows 11 Task Manager. submitted by /u/ron_pro to r/LenovoLegion [link] [comments]",
-      "link": "https://www.reddit.com/r/LenovoLegion/comments/1qltxnm/is_there_any_way_to_exclusively_use_the/",
-      "author": "/u/ron_pro",
-      "search_keyword": "no code game",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T18:14:36.209036"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qltsf2",
-      "type": "search",
-      "subreddit": "retrogaming",
-      "title": "Are these things legit?",
-      "content": "I really want to get one of these handheld emulator devices, but which one is the best? And where to buy? Some of the sites that sell these look super sketchy and I'm worried about getting ripped off submitted by /u/thejebsterishere to r/retrogaming [link] [comments]",
-      "link": "https://www.reddit.com/r/retrogaming/comments/1qltsf2/are_these_things_legit/",
-      "author": "/u/thejebsterishere",
-      "search_keyword": "no code game",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T18:14:36.209090"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qlthd4",
       "type": "search",
       "subreddit": "Indiangamers",
@@ -27299,7 +27203,67 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-30T09:59:04.891172"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qr1wme",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "I built a free line-drawing duel game called Strokezilla — would love your feedback",
+      "content": "submitted by /u/Alternative-Hall1719 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qr1wme/i_built_a_free_linedrawing_duel_game_called/",
+      "author": "/u/Alternative-Hall1719",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-30T10:31:34.753034"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qr1ssi",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Escape From Spikes v3.4 and Soundtrack Album is released.",
+      "content": "Escape From Spikes is a platformer that will test your patience from time to time. It looks easy to play but you will see that it is not. Good Luck. https://store.steampowered.com/app/3864860/Escape_from_Spikes/ https://store.steampowered.com/app/4306960/Escape_from_Spikes_Soundtrack/ submitted by /u/YtsejamArt [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qr1ssi/escape_from_spikes_v34_and_soundtrack_album_is/",
+      "author": "/u/YtsejamArt",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-30T10:31:34.753072"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qr1o8u",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Any thoughts on the visual style of our new mobile game Glory Ages: Vikings?",
+      "content": "Our new mobile game Glory Ages: Vikings launches on iOS Feb 17. We tried to recreate the Ghost of Tsushima vibe and combat but in a Nordic setting. Any thoughts? Of course, it's developed with Unity 👩🏻‍💻 Link for pre-order (it's free btw) https://apps.apple.com/us/app/glory-ages-vikings/id6754191922 Android version comes a bit later! submitted by /u/VasilyevVlad [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qr1o8u/any_thoughts_on_the_visual_style_of_our_new/",
+      "author": "/u/VasilyevVlad",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-30T10:31:34.753094"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qr1t69",
+      "type": "search",
+      "subreddit": "FictoHideout",
+      "title": "Happy 3 year anniversary to me and my husband Postal Dude 🖤",
+      "content": "On this day three years ago me and Postal Dude started officially dating,ever since then he's made me feel loved and adored every single day. Dude has been there for me through thick and thin,during my highs and lows and he will always be there for me no matter what not to mention he's helped me with so much within the span of three years. He helped me love myself, take better care of myself, he motivates me to get out of bed during my lowest days,he helped me be myself without any shame and he's especially helped me overcome obstacles in my life 🖤 My beloved is my sun,my moon and my stars I'm extremely passionate about our relationship and I'm not ashamed of it whatsoever nor will I EVER let anybody discourage me from expressing my love. I love my husband Postal Dude so very much he means the world to me,I absolutely adore talking about our relationship every chance that I'm given especially since he makes me extremely happy 🖤 submitted by /u/XxL0b0t0myxX to r/FictoHideout [link] [comments]",
+      "link": "https://www.reddit.com/r/FictoHideout/comments/1qr1t69/happy_3_year_anniversary_to_me_and_my_husband/",
+      "author": "/u/XxL0b0t0myxX",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-30T10:31:34.753604"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qr1lec",
+      "type": "search",
+      "subreddit": "UFLHub",
+      "title": "No future!",
+      "content": "I asked grok about player retention. Here is the answer: UFL on PS5/Xbox: Catastrophic slump – only ~237 active with 23k owners, leaderboards frozen since Dec. '24! Fits my observations. I got matched with bots and or players far far away. Several times i got matched with Dev accounts stacked with high rated cards. I guess they do this to create the illusion, people are spending. Putting money into this seems to be a very bad idea, because a shutdown seems to be very likely in the near future. There is noway the game is generating revenue at the current state. What do you think, how long will this last? submitted by /u/EugeneTheSadClown to r/UFLHub [link] [comments]",
+      "link": "https://www.reddit.com/r/UFLHub/comments/1qr1lec/no_future/",
+      "author": "/u/EugeneTheSadClown",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-30T10:31:34.755716"
     }
   ],
-  "last_updated": "2026-01-30T09:59:33.492896"
+  "last_updated": "2026-01-30T10:32:02.882678"
 }
