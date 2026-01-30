@@ -1,6 +1,54 @@
 {
   "queue": [
     {
+      "id": "https://www.reddit.com/t3_1qr9xe9",
+      "type": "search",
+      "subreddit": "Darts",
+      "title": "My Darts project called Triple19.com is finally live 🙏",
+      "content": "Hello, my dearest Darts friends, I just published my weekend project running on www.triple19.com , which I have been working on over weekends for the last 3 months. It's called a Triple19 (my favorite segment 😅), and I'd love to hear your feedback. Currently, one traditional x01 (501, 301, whatever...) game is supported, but you can already play with your friends locally or online. There is also support for 10 various bots so you can play at home. I have plenty of next things in the pipeline, like Cricket, Doubles, or social features like Tournaments, Matchmaking, or adding support for streaming video while playing. The platform is fully free, and the goal is to have you on board for battle testing and having fun. One thing I am super proud of is the AI-based scoring . You just say out loud the number and it works. :)) Disclaimer: It's currently in beta, so bugs may appear (but shouldn't be so often - I am playing on it daily). Please feel free to use the Feedback form or just reply here. 🙏 submitted by /u/Dzoukr to r/Darts [link] [comments]",
+      "link": "https://www.reddit.com/r/Darts/comments/1qr9xe9/my_darts_project_called_triple19com_is_finally/",
+      "author": "/u/Dzoukr",
+      "search_keyword": "AI game maker",
+      "relevance_score": 1,
+      "added_at": "2026-01-30T16:24:22.364062"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qr9zmx",
+      "type": "search",
+      "subreddit": "teslore",
+      "title": "Meta Discussion: When the Co-Lead of Skyrim Believes the Elder Scrolls is a Standard Fantasy, Where Does that Leave Us Lore Fans?",
+      "content": "There’s something very special and different and unique about Fallout that lends itself to becoming a TV or movie experience whereas The Elder Scrolls is trying to be a standard kind of fantasy. That’s not as interesting. You look at Fallout, everything is special about it. There is nothing like the Fallout universe anywhere else in gaming. That makes it easy to make a TV show and draw eyeballs as opposed to going into a fantasy world where I’ve got elves and people throwing spells around. You’d have to raise those stakes. There’s a dragon? I’ve seen dragons 20 times before. What are you giving to viewers that’s new? - Bruce Nesmith In a recent interview, Bruce Nesmith claims that an Elder Scrolls TV show wouldn't work because it's trying to be standard fantasy and has nothing new to offer. I cannot put into words how incredulous and disheartening I found this statement from him, especially given the assertions that Bruce himself is the one that pushed for the simplification of the Nine Divines away from the Nordic Pantheon in TES:V. Dragons in TES are not new? Even though Skyrim, the very game Bruce was the co-lead developer on, established Dragons as magical string-theory shouting primordial offshots of the insane embodiment of Time that are prone to philosophical musings while burning down entire neighborhoods? I try not to doom and gloom, I've always try and look for the silver lining. Last year, when ESO's game play was at an all time low and just broken and buggy and simply not worth paying for, I slodged through and looked for the golden nuggets of lore. I was very impressed with the Stone-Nest Argonian Lore - the establishment of Atak as a pre-Duskfall deity beyond the Adzi-Kostleel Children of the Root and the Stone-Nest creation myth paralleling a part of the narrative from the Anuad. And of course, the random Daedra trying to achieve CHIM . But then, based on Bruce's statements, is this the mindset that led BGS's dev team? That Tamriel is generic and has nothing new to offer? submitted by /u/CE-Nex to r/teslore [link] [comments]",
+      "link": "https://www.reddit.com/r/teslore/comments/1qr9zmx/meta_discussion_when_the_colead_of_skyrim/",
+      "author": "/u/CE-Nex",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 1,
+      "added_at": "2026-01-30T16:24:22.364190"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qr9wep",
+      "type": "search",
+      "subreddit": "DuelLinks",
+      "title": "Which series would you say get treated the worse in duel links?",
+      "content": "I think it’s kinda telling how the devs of Duel links have biases for certain series, like DM is on it second filler year technically, Arc V celebrated all the bracelet girls coming into the game as well as all the Yu boys but doesn’t celebrate all the Illiaster, Barians, I’ll be shock if they celebrate all the Ignis. Suffice to say they have their favorites. But which series do you think get treated the worse in Duel links? submitted by /u/MiuIruma332 to r/DuelLinks [link] [comments]",
+      "link": "https://www.reddit.com/r/DuelLinks/comments/1qr9wep/which_series_would_you_say_get_treated_the_worse/",
+      "author": "/u/MiuIruma332",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 1,
+      "added_at": "2026-01-30T16:24:22.364372"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qr9t0e",
+      "type": "search",
+      "subreddit": "osr",
+      "title": "Before We Begin, Allow Me To Tell You a Tale...",
+      "content": "Hail, Kingbreakers! In today's installment, we're looking at the lore of Kingbreaker: the Crownday Festival. This article covers the basics, Six Kings of Auld that harangue the land, to the Kingbreakers destined to defeat them. If you'd like to play the game for yourself and find your place in this grim, death-strewn world, you can download it here . submitted by /u/LPMills10 to r/osr [link] [comments]",
+      "link": "https://www.reddit.com/r/osr/comments/1qr9t0e/before_we_begin_allow_me_to_tell_you_a_tale/",
+      "author": "/u/LPMills10",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 1,
+      "added_at": "2026-01-30T16:24:22.364437"
+    },
+    {
       "id": "https://www.reddit.com/r/indiegaming/t3_1qlwka1",
       "type": "post",
       "subreddit": "indiegaming",
@@ -28163,7 +28211,187 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-30T15:35:48.142386"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qr9vcc",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "2D shadows in Unity 6?",
+      "content": "What’s the best solution to creating shadows in Unity 6 for top down pixel art sprites? I can’t determine what’s the best approach. Seems some people draw shadows and put them on a layer so they can toggle them on and off but then confuses me how they can make the shadow adapt to different surfaces. Other method I saw was duplicating the asset, flipping it and using a shader to turn it into a shadow so they can rotate it for a day cycle but that seems rather complex to make it look good. Anyways sorry I know this has been asked but couldn’t find much info if the latest Unity engine can speed up this process. submitted by /u/owlsmoke [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qr9vcc/2d_shadows_in_unity_6/",
+      "author": "/u/owlsmoke",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-30T16:24:22.362351"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qr7ji2",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "Are there games with a \"cross-game\" like pokemon?",
+      "content": "I mean, if you have pokemon scarlet you can play with people who have pokemon violet, those two are technically different games and can interact. Are there more games with that feature or something like that? Can it be done in steam? The only way that i think it can be achieved would be making one game as a base and make the \"scarlet\" and the \"violet\" dlc. submitted by /u/Aromatic-Major-806 [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qr7ji2/are_there_games_with_a_crossgame_like_pokemon/",
+      "author": "/u/Aromatic-Major-806",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-30T16:24:22.362366"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qr9o4l",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Football but 'would you love me if I was a worm?'",
+      "content": "This is the first and design-wise oldest game mode we have in Mewts . In this speed of movement and collaboration you can see our central mechanics: grabbing, stretching and slingshoting using your own body. But in the actual gameplay it's very much not this chill haha We first recorded the real footage but you would have to be in the room with us screaming at each other to uderstand what was going on. So enjoy more cute video this time. submitted by /u/Kakabundala [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qr9o4l/football_but_would_you_love_me_if_i_was_a_worm/",
+      "author": "/u/Kakabundala",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-30T16:24:22.362432"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qr8zug",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "I’ve basically lived at this desk, and the demo is out on Steam.",
+      "content": "Ahoy! Releasing a demo after putting in that much work is always a big moment (Stress, nerves, but I’m good otherwise ^^). Three years since we started this adventure, and I figured: what better way to celebrate than a photo of my desk, where I’ve spent most of that time haha. If you feel like going on a pirate adventure, you can try Pirates: Rogue’s Fortune on Steam: https://s.team/a/2423280 It works on PC and Steam Deck. It’s got diving for treasure, ship upgrades, naval fights, and plenty of surprises. See you at sea! submitted by /u/paxmate [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qr8zug/ive_basically_lived_at_this_desk_and_the_demo_is/",
+      "author": "/u/paxmate",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-30T16:24:22.362507"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qr8zgk",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Rate my skills in takken 8",
+      "content": "Takken 8 gameplay submitted by /u/Sensitive-Menu-3178 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qr8zgk/rate_my_skills_in_takken_8/",
+      "author": "/u/Sensitive-Menu-3178",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-30T16:24:22.362513"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qr9q9u",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "working on capsule art for my pixel roguelite zombie shooter",
+      "content": "Hi! From a sketch to something more substantial and beautiful. I'm continuing to create capsule art for my game (ZEROAD). It's a roguelite zombie shooter with a pixelated aesthetic, so I decided to depict its elements in the art: player at a fork in the road, because in the game you choose a road (mission); zombies, because it's a zombie shooter; reward chest, because they exist in the game and it's a mechanic that everyone understands; and a post-apocalyptic background. Does it look good? submitted by /u/MagazineForward5528 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qr9q9u/working_on_capsule_art_for_my_pixel_roguelite/",
+      "author": "/u/MagazineForward5528",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-30T16:24:22.362559"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qr9pc3",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "I have made the game that I played in my Nokia \"Gameboy\"!",
+      "content": "I still keep my first \"gameboy\" Nokia Ngage just for one game, Pocket Kingdom: Own the World. It is an amazing game that I have never found a replacement. Therefore, I am making my own one:) Duelist Guild is highly referred to the game I just mentioned. It has a JRPG pixel style, various roles and job changing system, fantasy background, auto battler gameplay. I wish I could done this development well to achieve a little since I was child. If you are interested in what I just describe, don't hesitate to check out our game! https://store.steampowered.com/app/4282780?utm_source=Reddit Thank you for your reading:) submitted by /u/Popular_Molasses962 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qr9pc3/i_have_made_the_game_that_i_played_in_my_nokia/",
+      "author": "/u/Popular_Molasses962",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-30T16:24:22.362579"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qr91es",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "I’ve basically lived at this desk, and the demo is out on Steam.",
+      "content": "Ahoy! Releasing a demo after putting in that much work is always a big moment (Stress, nerves, but I’m good otherwise ^^). Three years since we started this adventure, and I figured: what better way to celebrate than a photo of my desk, where I’ve spent most of that time haha. If you feel like going on a pirate adventure, you can try Pirates: Rogue’s Fortune on Steam: https://s.team/a/2423280 It works on PC and Steam Deck. It’s got diving for treasure, ship upgrades, naval fights, and plenty of surprises. See you at sea! submitted by /u/paxmate [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qr91es/ive_basically_lived_at_this_desk_and_the_demo_is/",
+      "author": "/u/paxmate",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-30T16:24:22.362747"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qr986k",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "extreme lag in editor, updated to 4.6, specifically when duplicating, deleting, but not when moving.",
+      "content": "submitted by /u/VVITCH_ZOEY [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qr986k/extreme_lag_in_editor_updated_to_46_specifically/",
+      "author": "/u/VVITCH_ZOEY",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-30T16:24:22.362781"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qr910b",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "I'm making a games in Godot, any ideas?",
+      "content": "I can create 3D models and games on Godot, but I have no ideas, please give me some ideas :) submitted by /u/Aggravating-Rub-2853 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qr910b/im_making_a_games_in_godot_any_ideas/",
+      "author": "/u/Aggravating-Rub-2853",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-30T16:24:22.362788"
+    },
+    {
+      "id": "https://www.reddit.com/r/unrealengine/t3_1qr8vbx",
+      "type": "post",
+      "subreddit": "unrealengine",
+      "title": "Ue5 metahuman issue",
+      "content": "Hello, for some reason when picking up an object my blueprint is stuck socketing it to the 'self' tab instead of the body Tag. So when the smaller component is parented to the socket and my character(metahuman) runs it creates a separate set of hands and ankles? How do I fix this? For further context if I pick up \"wood\" in the game test it transposes a smaller version into my characters hand which is all well and good until it runs then it creates 2 of the object and the hands until the character stops. submitted by /u/divineDesolation [link] [comments]",
+      "link": "https://www.reddit.com/r/unrealengine/comments/1qr8vbx/ue5_metahuman_issue/",
+      "author": "/u/divineDesolation",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-30T16:24:22.362862"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qr9slx",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "working on capsule art for my pixel roguelite zombie shooter",
+      "content": "Hi! From a sketch to something more substantial and beautiful. I'm continuing to create capsule art for my game (ZEROAD). It's a roguelite zombie shooter with a pixelated aesthetic, so I decided to depict its elements in the art: player at a fork in the road, because in the game you choose a road (mission); zombies, because it's a zombie shooter; reward chest, because they exist in the game and it's a mechanic that everyone understands; and a post-apocalyptic background. Does it look good? submitted by /u/MagazineForward5528 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qr9slx/working_on_capsule_art_for_my_pixel_roguelite/",
+      "author": "/u/MagazineForward5528",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-30T16:24:22.362878"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qr9rh8",
+      "type": "search",
+      "subreddit": "SteamPlay",
+      "title": "Steam account, a birthday gift",
+      "content": "I wanted to buy a new DLC for my birthday (yes, it's silly, but I've always loved this game), but unfortunately, no one came to my birthday party, and all my \"friends\" were busy. If it's not too much trouble, I would appreciate it. I don't need money on my card, you can just send the gift to Steam (it's a DLC for the game Dead by Daylight: Stranger Things 2). My friend code is 157903827 submitted by /u/Foreign-County-6996 to r/SteamPlay [link] [comments]",
+      "link": "https://www.reddit.com/r/SteamPlay/comments/1qr9rh8/steam_account_a_birthday_gift/",
+      "author": "/u/Foreign-County-6996",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-30T16:24:22.363586"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qr9hf7",
+      "type": "search",
+      "subreddit": "FallOutBoy",
+      "title": "IGNs 3.6/10 review of From Under the Cork Tree in 2005",
+      "content": "submitted by /u/ATLien-1995 to r/FallOutBoy [link] [comments]",
+      "link": "https://www.reddit.com/r/FallOutBoy/comments/1qr9hf7/igns_3610_review_of_from_under_the_cork_tree_in/",
+      "author": "/u/ATLien-1995",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-30T16:24:22.363603"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qra19u",
+      "type": "search",
+      "subreddit": "brdev",
+      "title": "Sabem o motivo de excluirem o Brasil?",
+      "content": "submitted by /u/Rorsxach to r/brdev [link] [comments]",
+      "link": "https://www.reddit.com/r/brdev/comments/1qra19u/sabem_o_motivo_de_excluirem_o_brasil/",
+      "author": "/u/Rorsxach",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-01-30T16:24:22.363994"
     }
   ],
-  "last_updated": "2026-01-30T15:36:16.832407"
+  "last_updated": "2026-01-30T16:24:51.053208"
 }
