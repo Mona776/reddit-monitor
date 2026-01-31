@@ -1,102 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qm38wd",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Combat test and first pass of the stun effect and displacement",
-      "content": "In this video I am testing what the combat would look like with a longer stun value. In here, I have set the stun to be 5 seconds, which is a lot and not much of a challenge, but I discovered that there are interesting opportunities to displace the enemy at a specific position should the player want to and also because the wall would react to the smash later on, I figured it could be good to show this. The enemies here have a fully implemented behaviour that sadly cannot be seen because of the long stun duration but more on them will follow later on. What do you think about this example? Would you add or change anything? submitted by /u/double_dmg_bonks [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qm38wd/combat_test_and_first_pass_of_the_stun_effect_and/",
-      "author": "/u/double_dmg_bonks",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T00:55:57.461561"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qm47sp",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "I need ideas to a big game",
-      "content": "me and my team wanted to make a big big game but we doesnt have ideas submitted by /u/Electrical_Baker1173 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qm47sp/i_need_ideas_to_a_big_game/",
-      "author": "/u/Electrical_Baker1173",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T00:55:57.461665"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qm3s76",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "How would one make water for Godot 4",
-      "content": "i would like some water with foam waves and transparency it kinda hard because there is no good tutorial for making water i have been trying to do this for like 3 days. https://preview.redd.it/82qelhwo2efg1.png?width=1915&format=png&auto=webp&s=1aedbbea57162cf39413f2ca78c39054c2cfec00 How do people make things like this lol. submitted by /u/LegitimateAd497 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qm3s76/how_would_one_make_water_for_godot_4/",
-      "author": "/u/LegitimateAd497",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T00:55:57.461726"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qm3jxs",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "What does this error mean? I am using Windows 11 with an RTX 3080. Can't find info on it online.",
-      "content": "E 0:00:00:051 DisplayServerWindows::DisplayServerWindows: Can't create an accessibility driver, accessibility support disabled! <C++ Source> platform\\windows\\display_server_windows.cpp:6811 @ DisplayServerWindows::DisplayServerWindows() submitted by /u/Gamepro5 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qm3jxs/what_does_this_error_mean_i_am_using_windows_11/",
-      "author": "/u/Gamepro5",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T00:55:57.461737"
-    },
-    {
-      "id": "https://www.reddit.com/r/unity/t3_1qm38w6",
-      "type": "post",
-      "subreddit": "unity",
-      "title": "My Steam page just went live!",
-      "content": "submitted by /u/Aggravating-Aerie-16 [link] [comments]",
-      "link": "https://www.reddit.com/r/unity/comments/1qm38w6/my_steam_page_just_went_live/",
-      "author": "/u/Aggravating-Aerie-16",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T00:55:57.461742"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qm3by6",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "I decided to remake Shroomlings...",
-      "content": "So I've been kind of in game development limbo. I couldn't decide which ideas deserved to be made. Anything that sounded good felt like it was to much for my current level. So... I decided that instead I'd do a COMPLETE redo of Shroomlings. Some of the art may be the same but I plan to add things I never originally got to add. I am using a ton of placeholders so I can focus on coding aspects. While I love the original Shroomlings I had ideas that just never made it into the official game. Due to things like code struggles, lack of inspiration, and even me rage quitting coding it. SO instead of some new massive project I am throwing my old game back into the machine. submitted by /u/throwaway000010292 [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qm3by6/i_decided_to_remake_shroomlings/",
-      "author": "/u/throwaway000010292",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T00:55:57.461790"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qm2rlh",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "5 ways I beat scope creep (with real examples) as a solo dev",
-      "content": "submitted by /u/rimnas12 [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qm2rlh/5_ways_i_beat_scope_creep_with_real_examples_as_a/",
-      "author": "/u/rimnas12",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T00:55:57.461809"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedesign/t3_1qm4036",
-      "type": "post",
-      "subreddit": "gamedesign",
-      "title": "How do you handle difficulty vs player enjoyment",
-      "content": "To preface what I mean before asking the question, I've played many games where increases in difficulty were things like \"draw one less card this turn\" or \"your abilities have an extra one second cooldown\" and while they seem innocuous from the outset, they can quite easily end up breaking player builds and strategies. I don't disagree the players will find ways around this, but sometimes players can get attached to a style of play and you can rip it away from them in the difficulties, reducing their enjoyment and the quantity of useful/fun strategies. It's one of my biggest bugbears in gaming, and I've spent quite a lot of time working on my own game's difficulty. Trying to make sure cards and styles aren't removed (as much as possible) by difficulty tiers. For example, I don't have any difficulty settings that increase enemy stats, it would change the breakpoints at which the player's cards are useful. I just wanted to ask anybody else if they've found the same, and what methods they're using to prevent it from becoming an issue in their game? submitted by /u/Silvenx [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedesign/comments/1qm4036/how_do_you_handle_difficulty_vs_player_enjoyment/",
-      "author": "/u/Silvenx",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T00:55:57.461833"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qm3oxd",
       "type": "search",
       "subreddit": "BeeSwarmSimulator",
@@ -30527,7 +30431,91 @@
       "search_keyword": "AI game maker",
       "relevance_score": 0,
       "added_at": "2026-01-31T09:16:55.116874"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qry5a1",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "You like - you take it",
+      "content": "I was experimenting and having fun with sound for the past few days, so I decided to upload whatever sounded decent to SoundCloud. Most tracks sound like they could be in a game, so I thought it would be nice to share it. Hit me up if you like it and share your opinion! LINK: https://on.soundcloud.com/CdjVfcEHGEliTEB9aF https://i.redd.it/knlamih0ongg1.gif submitted by /u/Fantastic-Ticket6113 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qry5a1/you_like_you_take_it/",
+      "author": "/u/Fantastic-Ticket6113",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-31T09:47:26.842093"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qry82y",
+      "type": "search",
+      "subreddit": "harvest101",
+      "title": "Does Agronomist Tae-Eon break the game?",
+      "content": "I'm a new player and received this card at the very beginning. I don't know if thats the same for all players but it feels like such a cheat. I'm not having to structure a deck around using wood or rocks, in fact I don't collect anything other than wheat. Pretty much just fill my deck with empty fields and then Agronomist Tae-Eon gives me bread every time I use an empty field, plus I harvest the wheat and I have like over 30 bread in a week or two. I feel I'm missing out on the whole gameplay structure because of this card imbalancing the play towards using empty fields. Will this sort itself out? Does everyone have this card? Should I just play without it to really understand the game mechanics? submitted by /u/bmbmbmNR to r/harvest101 [link] [comments]",
+      "link": "https://www.reddit.com/r/harvest101/comments/1qry82y/does_agronomist_taeeon_break_the_game/",
+      "author": "/u/bmbmbmNR",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-31T09:47:26.842881"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qry7pa",
+      "type": "search",
+      "subreddit": "Deltarune",
+      "title": "Theory: the pure dark theory",
+      "content": "basically, my theory is that ralsei and the knight are “pure darkners” which are made of nothing but dark, this allows them to leave the dark world, and after a while in the light world, they will turn into their item (ralsei into glowshard, knight into shadow crystal), and maybe possibly, there was a time before the knight was evil where ralsei and the knight knew each otherl and if you’re like “oh ralsei says that he’s a darkner!!!” im still saying that he’s a darkner, and he doesn’t want them to knoe that he’s basically the same thing as the knight, thinking that kris and susie will hate him. This also allows them to leave the dark world and enter different ones without turning to stone, and it works like yinyang, the knight is yin, and ralsei is yang (alot of people make the mistakr of thinking that yin is the white). This theory is also very anti-papyrus knight. submitted by /u/Lucky_Rice8262 to r/Deltarune [link] [comments]",
+      "link": "https://www.reddit.com/r/Deltarune/comments/1qry7pa/theory_the_pure_dark_theory/",
+      "author": "/u/Lucky_Rice8262",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-31T09:47:26.842983"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qry441",
+      "type": "search",
+      "subreddit": "OutcomeDementia",
+      "title": "Play my upcoming game. Devilish nightmares",
+      "content": "The rosters for killers and survivors aren’t done cuz yk. Eyx 2011x cyn Jax and some others need renders but. I hope that y’all will eventually like Tis game when it comes out we have a map maker modler and animator Alr and we need a coder. As for music I do submitted by /u/StreetCauliflower770 to r/OutcomeDementia [link] [comments]",
+      "link": "https://www.reddit.com/r/OutcomeDementia/comments/1qry441/play_my_upcoming_game_devilish_nightmares/",
+      "author": "/u/StreetCauliflower770",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-01-31T09:47:26.843071"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qry26m",
+      "type": "search",
+      "subreddit": "PokemonTcgIndia",
+      "title": "Did I pull something good?(Idts🥲)",
+      "content": "Which is the best card? I liked the jiggly puff card very much submitted by /u/PhineShyt to r/PokemonTcgIndia [link] [comments]",
+      "link": "https://www.reddit.com/r/PokemonTcgIndia/comments/1qry26m/did_i_pull_something_goodidts/",
+      "author": "/u/PhineShyt",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-01-31T09:47:26.843135"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qry45k",
+      "type": "search",
+      "subreddit": "HighGuardgame",
+      "title": "Wildlight - please find a way to survey your active players directly - don't let the people actually playing get buried in the noise!",
+      "content": "5v5 has been an absolute blast but you wouldn't be able to tell how it's actually being received given the people that are just wishing this game the worst. I know some devs will send surveys out directly in-game. I don't know if that's something you'd need players to have a special 'Wildlight Account' for, but please find a way to be speaking with the people that have put in substantial time in both the 3v3 and 5v5 modes (for example) before digesting feedback. I think I speak for many of the active players when I say we are here with you and will give you our time and opinions to make this game what we (and you!) know it can be! submitted by /u/KANYEMOD to r/HighGuardgame [link] [comments]",
+      "link": "https://www.reddit.com/r/HighGuardgame/comments/1qry45k/wildlight_please_find_a_way_to_survey_your_active/",
+      "author": "/u/KANYEMOD",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-31T09:47:26.843272"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qry170",
+      "type": "search",
+      "subreddit": "PC2LikeGameConcepts",
+      "title": "lol",
+      "content": "submitted by /u/Independent-Guava742 to r/PC2LikeGameConcepts [link] [comments]",
+      "link": "https://www.reddit.com/r/PC2LikeGameConcepts/comments/1qry170/lol/",
+      "author": "/u/Independent-Guava742",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-31T09:47:26.843278"
     }
   ],
-  "last_updated": "2026-01-31T09:17:23.566555"
+  "last_updated": "2026-01-31T09:47:55.238921"
 }
