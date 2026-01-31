@@ -1,90 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/t3_1qm18tk",
-      "type": "search",
-      "subreddit": "WatcherofRealmsGame",
-      "title": "Do you actually pay for this game?",
-      "content": "I would like to support this game and buy some packs but they are so outrageously overpriced that I cant do it. But they have to be making money. So who out there is paying $30 for 8 ancient summons? No matter how much money I have I dont like to be ripped off. Im platinum on Google Play so I am obviously willing to pay. But I cant even bring myself to buy a $.99 pack. A single summon is basically just burning a dollar. It makes zero sense. submitted by /u/Outrageous-Fact1646 to r/WatcherofRealmsGame [link] [comments]",
-      "link": "https://www.reddit.com/r/WatcherofRealmsGame/comments/1qm18tk/do_you_actually_pay_for_this_game/",
-      "author": "/u/Outrageous-Fact1646",
-      "search_keyword": "how to make a game",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T22:40:44.485772"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedev/t3_1qm1o6x",
-      "type": "post",
-      "subreddit": "gamedev",
-      "title": "Updated our capsule art. Asking for feedback!",
-      "content": "Hi! I realized the capsule art of a game I worked on last year was pretty mid, so I designed a new one. Any feedback is appreciated so that I can improve it further. Thanks for reading https://imgur.com/a/350hZGh submitted by /u/3dstek [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedev/comments/1qm1o6x/updated_our_capsule_art_asking_for_feedback/",
-      "author": "/u/3dstek",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T23:09:52.128296"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qm1wd3",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Marketing is a grind. My rule: message 100 streamers a night. If I miss any, they carry over to the next night. I’m staying super disciplined with my system, which is why tomorrow night I’ll be messaging 28,000 streamers.",
-      "content": "submitted by /u/Euphoric-Series-1194 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qm1wd3/marketing_is_a_grind_my_rule_message_100/",
-      "author": "/u/Euphoric-Series-1194",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T23:09:52.128367"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qm1szi",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "What do you think about the concept of my game?",
-      "content": "You are a ghost and you are harassing people. They can't see us but they are being scared when they see floating objects. submitted by /u/ALandThere [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qm1szi/what_do_you_think_about_the_concept_of_my_game/",
-      "author": "/u/ALandThere",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T23:09:52.128377"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qm1i4y",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "The difference post processing makes.",
-      "content": "submitted by /u/Total_Impression_382 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qm1i4y/the_difference_post_processing_makes/",
-      "author": "/u/Total_Impression_382",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T23:09:52.128392"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qm1vt9",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "My presentation made on godot",
-      "content": "https://reddit.com/link/1qm1vt9/video/c8a87lvlodfg1/player i made this intro in xogot( the godot of ipad) i hope you like it submitted by /u/Electrical_Baker1173 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qm1vt9/my_presentation_made_on_godot/",
-      "author": "/u/Electrical_Baker1173",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T23:09:52.128402"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qm1hhi",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Found a new use for the Boid Algorithm",
-      "content": "Playing around with the boid algorithm, made a lil incremental shooter in the last week. Multimesh is a lifesaver, helps so much when cranking the number of boids. submitted by /u/FrontiersEndGames [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qm1hhi/found_a_new_use_for_the_boid_algorithm/",
-      "author": "/u/FrontiersEndGames",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T23:09:52.128430"
-    },
-    {
       "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qm1iws",
       "type": "post",
       "subreddit": "SoloDevelopment",
@@ -30587,7 +30503,31 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-01-31T07:45:23.167000"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qrwcux",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Why does the volumetric fog appear on the walls when I set the volumetric fog energy to the maximum?",
+      "content": "https://preview.redd.it/du9bdy8f4ngg1.png?width=1429&format=png&auto=webp&s=ecfad644824a1e5aa34faf91973523dab883f2b8 I thought the volumetric fog wasn't obvious, so I increased its intensity, but then I noticed that volumetric fog also appeared on the walls... Could this be what's called light leakage? submitted by /u/Still_Letterhead1568 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qrwcux/why_does_the_volumetric_fog_appear_on_the_walls/",
+      "author": "/u/Still_Letterhead1568",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-31T08:15:07.295760"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qrwl52",
+      "type": "search",
+      "subreddit": "ROBLOXStudio",
+      "title": "HELP",
+      "content": "I'm tryna make a one-piece game but I have no experience coding I'm learning animation I just need a coder who's willing to just help for the fun of the game for this game I can give whatever ideas u need since I've got a bunch planned previously. I have the combat thought our plus 12+ fruits 6+ sword bunch of fighting styles and etc . submitted by /u/Capital-Package-396 to r/ROBLOXStudio [link] [comments]",
+      "link": "https://www.reddit.com/r/ROBLOXStudio/comments/1qrwl52/help/",
+      "author": "/u/Capital-Package-396",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-31T08:15:07.295872"
     }
   ],
-  "last_updated": "2026-01-31T07:45:51.525690"
+  "last_updated": "2026-01-31T08:15:35.623293"
 }
