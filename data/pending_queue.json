@@ -1,66 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/godot/t3_1qmh2ie",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Making my dream game at 17 Years Old",
-      "content": "https://www.youtube.com/watch?v=a72xle0LCKA submitted by /u/Previous_Mushroom_13 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qmh2ie/making_my_dream_game_at_17_years_old/",
-      "author": "/u/Previous_Mushroom_13",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T12:19:06.638297"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qmhn02",
-      "type": "search",
-      "subreddit": "LoudlyGreasy",
-      "title": "East Dane Promo Codes | 30% Off January 2026 Coupons",
-      "content": "Use the East Dane coupon code in January 2026 . There is a wide selection of promo codes, coupons, and discount codes that are updated regularly for you to choose from and make your purchase more affordable. submitted by /u/flakyanemian to r/LoudlyGreasy [link] [comments]",
-      "link": "https://www.reddit.com/r/LoudlyGreasy/comments/1qmhn02/east_dane_promo_codes_30_off_january_2026_coupons/",
-      "author": "/u/flakyanemian",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T12:19:06.638839"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qmifu6",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "RGB is probably the most original game I've made",
-      "content": "submitted by /u/FiredUpForge [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qmifu6/rgb_is_probably_the_most_original_game_ive_made/",
-      "author": "/u/FiredUpForge",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T13:07:05.932957"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qmi67b",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Added Simplified Chinese support to my survival game ahead of EA launch",
-      "content": "Don't Freeze now supports Simplified Chinese! 🇨🇳 Wanted to make the game accessible to Chinese-speaking players before Early Access launch in March. Full UI, dialogue, and tutorial localization complete. Turn-based card survival game where time only moves when you act. Made it for people who get motion sickness from FPS games. Demo: https://store.steampowered.com/app/3853360/Dont_Freeze_A_Winter_Card_Survival_Demo/ 谢谢 to everyone who's supported the game so far! submitted by /u/yolo35games [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qmi67b/added_simplified_chinese_support_to_my_survival/",
-      "author": "/u/yolo35games",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T13:07:05.932981"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qmhvoa",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "completed my first indie game",
-      "content": "Ravy Davy: Attack on Ambiguity is now complete I started this project in May 2025 so after 9months I have birthed my first indie videogame, which I plan to release very soon! https://store.steampowered.com/app/3924590/Ravy\\_Davy\\_Attack\\_on\\_Ambiguity/ submitted by /u/davidgersch [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qmhvoa/completed_my_first_indie_game/",
-      "author": "/u/davidgersch",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T13:07:05.933034"
-    },
-    {
       "id": "https://www.reddit.com/r/godot/t3_1qmiizf",
       "type": "post",
       "subreddit": "godot",
@@ -31895,7 +31835,115 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-31T22:10:22.045878"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qsgm8h",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "how do you make a game.",
+      "content": "yo i need advise, I'm at the point where i think i can code a game but it its hard to make anything without anything creative like models or music, writing. how do people get around that. submitted by /u/MessengerL60 [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qsgm8h/how_do_you_make_a_game/",
+      "author": "/u/MessengerL60",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-31T22:45:47.729646"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qsg5vy",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "I would really appreciate help and honest feedback on the design of my games.",
+      "content": "Hello everyone. Over the last two years, I've released 3 games on Steam, focused on mixing city building with pixel art, blending genres and trying to bring back the feel of 80s/90s games. I'd appreciate honest feedback or opinions on the game design of my games. They are modest and haven't sold much, but the idea is to learn from more experienced developers, which is why I'm creating this post. I don't want to create free publicity, so I won't post them here, but you can easily find them on my profile if you're interested in helping and contributing to the thread. Thank you. submitted by /u/Educational-Hornet67 [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qsg5vy/i_would_really_appreciate_help_and_honest/",
+      "author": "/u/Educational-Hornet67",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-31T22:45:47.729682"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qsgbkm",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Sneek Peak from our upcoming DLC!",
+      "content": "submitted by /u/MalboMX [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qsgbkm/sneek_peak_from_our_upcoming_dlc/",
+      "author": "/u/MalboMX",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-31T22:45:47.729750"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qsg1kv",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "C# - FishUI",
+      "content": "submitted by /u/Cartman300 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qsg1kv/c_fishui/",
+      "author": "/u/Cartman300",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-31T22:45:47.729786"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qsgrew",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "My space empire simulator game",
+      "content": "submitted by /u/pancakespeople [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qsgrew/my_space_empire_simulator_game/",
+      "author": "/u/pancakespeople",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-31T22:45:47.729797"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qsgafb",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Sleep deprived days paying off, inventory & UI update",
+      "content": "submitted by /u/erasmo_chang [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qsgafb/sleep_deprived_days_paying_off_inventory_ui_update/",
+      "author": "/u/erasmo_chang",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-31T22:45:47.729861"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qsgae1",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Trying to get an eerie feeling even in the inventory",
+      "content": "submitted by /u/erasmo_chang [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qsgae1/trying_to_get_an_eerie_feeling_even_in_the/",
+      "author": "/u/erasmo_chang",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-31T22:45:47.729891"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qsg442",
+      "type": "search",
+      "subreddit": "hytale",
+      "title": "I am making a mod to add a ton of food, Abyss:Hyeatery",
+      "content": "Wanted to show off my Mod im slowly making to add more crops, and food to the game this mod is made exclusively with the asset editor, No java code! Currently adds oranges, grapes, strawberries, and a few food items to go with them https://preview.redd.it/pyh3qte4frgg1.png?width=1920&format=png&auto=webp&s=fae44a9bdd2a7a315b78c245088283ecc86766bf https://preview.redd.it/czdqgue4frgg1.png?width=1920&format=png&auto=webp&s=19c44f7a76172292238d14ddaec881bb3b97e470 https://preview.redd.it/o89g2ze4frgg1.png?width=1920&format=png&auto=webp&s=18e9032a97f2f2c19ed4ca57f53e10a071b54669 submitted by /u/Dae_Break_ to r/hytale [link] [comments]",
+      "link": "https://www.reddit.com/r/hytale/comments/1qsg442/i_am_making_a_mod_to_add_a_ton_of_food/",
+      "author": "/u/Dae_Break_",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-31T22:45:47.730947"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qsgqx8",
+      "type": "search",
+      "subreddit": "Unity3D",
+      "title": "Can not delete child of instantiated object",
+      "content": "Hello everyone! I am a bit new to unity and following some tutorials I tried to instantiate the game object with 3d model and particle system as children. I needed to destroy the object but to leave the PS for all of the particles to die beforehand. I tried destroying the model first, and then particle system, however it was not possible because while trying to destroy the children of cloned object I got an error telling me that I am trying do destroy prefabs. But doing so with the parent object (which was instantiated) works. I tried unparenting the PS as the tutorial showed, using transform.parent = null. But the error popped up saying the parrent cannot be null. I will try to just make two separate objects one with model and one with particle system and instantiate them. But it feels a bit clanky? Is there any other solution and am I missing something? Thanks in advance :) P.s. For context, I use Visual Scripting, but it should still be the same thing I believe submitted by /u/SCP_Murloc to r/Unity3D [link] [comments]",
+      "link": "https://www.reddit.com/r/Unity3D/comments/1qsgqx8/can_not_delete_child_of_instantiated_object/",
+      "author": "/u/SCP_Murloc",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-31T22:45:47.731033"
     }
   ],
-  "last_updated": "2026-01-31T22:10:50.405636"
+  "last_updated": "2026-01-31T22:46:16.639175"
 }
