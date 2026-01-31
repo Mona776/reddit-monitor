@@ -1,90 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/t3_1qm2own",
-      "type": "search",
-      "subreddit": "Endfield",
-      "title": "I really really want to disable beacons",
-      "content": "https://preview.redd.it/crynremrudfg1.png?width=1410&format=png&auto=webp&s=923c140fe24c56a6ef39fd6fa8f8fbbdfbe3ed0c I'm so sorry, i posted about this a few days ago, but it is getting really really annoying and i need to get it out of my chest. i am currently doing Leviathan's story i have already found 3 damn beacons where I'm supposed to not have any. also, i am so sorry if i come off as a grumpy person, but the joke of jump good stuff is not funny anymore for me, it's getting on my nerves. i really really care about immersive stories and this totally brakes it for me. I'm not saying they should disable shared facilities for everyone but c'mon. i want to find things on my own. discover the \"good stuff\" by myself. i really don't like finding chests because i went to eliminate a shared beacon. for me it feels like cheating. there is no cheating if the devs made the mechanic, but this is not how i want to play. I'm not opting out of this game because i really like it and I'm having so much fun but this particular thing is SOOO, SOOOO annoying submitted by /u/im_a_latam_weeb to r/Endfield [link] [comments]",
-      "link": "https://www.reddit.com/r/Endfield/comments/1qm2own/i_really_really_want_to_disable_beacons/",
-      "author": "/u/im_a_latam_weeb",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T23:37:57.492897"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedev/t3_1qm3mhe",
-      "type": "post",
-      "subreddit": "gamedev",
-      "title": "Terraria. What would you like to see in the update?",
-      "content": "A new version of terraria has been released for a long time. A very long time... and I do not know what I was missing in this game. submitted by /u/Ok-Personality1419 [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedev/comments/1qm3mhe/terraria_what_would_you_like_to_see_in_the_update/",
-      "author": "/u/Ok-Personality1419",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T00:55:57.461434"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qm47l9",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "We’re a 2-person team and we made a super chaotic co-op social deception game. Trust no one👀",
-      "content": "submitted by /u/IndependenceNew3863 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qm47l9/were_a_2person_team_and_we_made_a_super_chaotic/",
-      "author": "/u/IndependenceNew3863",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T00:55:57.461474"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qm3jm6",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Heavy combat with stun example and enemy displacement",
-      "content": "Hey folks, really glad to share this small example of my game that is early in development. In this video, I am showing what could happen to stunned enemies in my game and how they can be displaced. I have set a high number for the stun value just to showcase this mechanic, which doesn't really give a chance to the enemies to respond (they have fully implemented behaviours and can attack, idle or patrol and transition smoothly between all these states and also both enemies have different attacks) but this will be an example for another time. Curious to see what you think about this and if you like it or not, this is very early in development so anything is subject to change. Thanks and curious to see what you think! submitted by /u/double_dmg_bonks [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qm3jm6/heavy_combat_with_stun_example_and_enemy/",
-      "author": "/u/double_dmg_bonks",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T00:55:57.461495"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qm310v",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Finally someone download my game!!!!!",
-      "content": "submitted by /u/Solo1100-0-0- [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qm310v/finally_someone_download_my_game/",
-      "author": "/u/Solo1100-0-0-",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T00:55:57.461516"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qm3nkg",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "I made a 5-minute penguin walking game, inspired by Nihilist Penguin.",
-      "content": "No goals. No UI. No choices. Just walking forward. He lived. But why? Play it here for free: https://runova-studio.itch.io/he-lived-but-why submitted by /u/quodproquo [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qm3nkg/i_made_a_5minute_penguin_walking_game_inspired_by/",
-      "author": "/u/quodproquo",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T00:55:57.461536"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qm397d",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Important feature added",
-      "content": "submitted by /u/InglenookGames [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qm397d/important_feature_added/",
-      "author": "/u/InglenookGames",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T00:55:57.461543"
-    },
-    {
       "id": "https://www.reddit.com/r/IndieDev/t3_1qm38wd",
       "type": "post",
       "subreddit": "IndieDev",
@@ -30539,7 +30455,79 @@
       "search_keyword": "make game without coding",
       "relevance_score": 0,
       "added_at": "2026-01-31T08:50:30.764400"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qrxj5i",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Steam approved my game’s store page, and I improved the game based on your feedback!",
+      "content": "Hey everyone! I just added new visuals and improved the rest based on your feedback. The destruction effect is way better than before, what do you think? I also added an AABB UI highlight for interactable objects and improved the UI a bit more. It’s still a WIP. Your feedback is very welcome! This is Steam page: https://store.steampowered.com/app/4252630/The_Depth_Contract/ submitted by /u/owstetra [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qrxj5i/steam_approved_my_games_store_page_and_i_improved/",
+      "author": "/u/owstetra",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-31T09:16:55.115321"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qrxhqz",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "I'm polishing my first commercial Godot game. What do you think?",
+      "content": "submitted by /u/talonbytegames [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qrxhqz/im_polishing_my_first_commercial_godot_game_what/",
+      "author": "/u/talonbytegames",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-31T09:16:55.115328"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qrxokk",
+      "type": "search",
+      "subreddit": "GeForceNOW",
+      "title": "0x800300F and Guild Wars Reforged?",
+      "content": "Hi everyone, I started receiving this ambiguous error code last night after i quit my session in order to start a new one b/c of the time limit. Now it's the next morning and i'm still receiving it. Basically, the steam client launches, the GWR launcher appears and loads the game, the screen goes black, and where normally the log-in screen for the game would appear the session then crashes and gives me this error code. I tested other games and they still work. So far I have tried (with no success): - Switched regions and tried launching - Tried using Ethernet - Used my phone's hotspot - Deleted and re-installed the client I have a sneaking suspicion it might be an issue on Arenanet's side... but I'm wondering if anyone else is experiencing this? submitted by /u/raffadizzle to r/GeForceNOW [link] [comments]",
+      "link": "https://www.reddit.com/r/GeForceNOW/comments/1qrxokk/0x800300f_and_guild_wars_reforged/",
+      "author": "/u/raffadizzle",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-31T09:16:55.115439"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qrxpkm",
+      "type": "search",
+      "subreddit": "seogrowth",
+      "title": "How do you improve a website without confusing returning users?",
+      "content": "You want to make changes, but regular users expect familiarity. How do you improve things without breaking what already works? submitted by /u/Real-Assist1833 to r/seogrowth [link] [comments]",
+      "link": "https://www.reddit.com/r/seogrowth/comments/1qrxpkm/how_do_you_improve_a_website_without_confusing/",
+      "author": "/u/Real-Assist1833",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-31T09:16:55.116338"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qrxoma",
+      "type": "search",
+      "subreddit": "pchelp",
+      "title": "Very new to PCs and don’t know what this means",
+      "content": "The utilization for the gpu stays between 5-15 has spiked to 20% very very briefly. But 8% is the usual. Idk what any of it means tbh except the temp and frame rate. Thanks for the help! submitted by /u/Thebestmanever34 to r/pchelp [link] [comments]",
+      "link": "https://www.reddit.com/r/pchelp/comments/1qrxoma/very_new_to_pcs_and_dont_know_what_this_means/",
+      "author": "/u/Thebestmanever34",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-01-31T09:16:55.116375"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qrxkcs",
+      "type": "search",
+      "subreddit": "SonicTempleFestival",
+      "title": "ARE YOU READY?",
+      "content": "submitted by /u/probenor to r/SonicTempleFestival [link] [comments]",
+      "link": "https://www.reddit.com/r/SonicTempleFestival/comments/1qrxkcs/are_you_ready/",
+      "author": "/u/probenor",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-01-31T09:16:55.116874"
     }
   ],
-  "last_updated": "2026-01-31T08:50:59.222709"
+  "last_updated": "2026-01-31T09:17:23.566555"
 }
