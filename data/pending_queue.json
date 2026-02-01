@@ -1,6 +1,66 @@
 {
   "queue": [
     {
+      "id": "https://www.reddit.com/t3_1qt91yr",
+      "type": "search",
+      "subreddit": "godot",
+      "title": "I built a keyboard-first Kanban app in Godot that works completely offline",
+      "content": "I've been using Godot for game dev but wanted to solve a personal problem: a task management app that doesn't require a mouse and works without internet. ChaosFlow is what came out of it. It's a Kanban board where everything is keyboard-driven. Vim-style navigation, quick capture, the works. Built entirely in Godot. **Why Godot for a productivity app?** Deploys to Windows/Mac/Linux from one codebase Lightweight (no Electron bloat) I already knew the engine It's $5 on itch.io if anyone's curious. Happy to answer questions about building non-game apps in Godot. [Link in comments] submitted by /u/NoInevitable5889 to r/godot [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qt91yr/i_built_a_keyboardfirst_kanban_app_in_godot_that/",
+      "author": "/u/NoInevitable5889",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 1,
+      "added_at": "2026-02-01T20:12:25.414082"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qt8yi1",
+      "type": "search",
+      "subreddit": "FieldsOfMistriaGame",
+      "title": "I love this game so much!!! How about you guys?",
+      "content": "This game has been a huge comfort from real life stress for me. It truly brings me joy whenever I play. The charachers are charming, the animals are adorable, the story and dialogue are so well done. I started playing Stardew valley which is as equally as well made as this game. I wanted a new experience, Soo I downloaded Fields of mistria on steam and it's been such a blast to play! I started dating Ryis because he is a sweetheart but I'm not sure if I would date anyone else. From the other npcs Orlic and Dell are sooo hilarious. The house upgrades was also very fun to decorate! I wonder if the devs will add another floor or a basement. I have currently finished all the content that the game has to offer, I can't wait for the next update! I might start a new save file until the next update! How about you guys? How are you feeling about this game? Favorite Npcs? favorite romance route? I would love to read any responses! Thank you for reading! ^ Have a wonderful day! submitted by /u/Educational_Ad159 to r/FieldsOfMistriaGame [link] [comments]",
+      "link": "https://www.reddit.com/r/FieldsOfMistriaGame/comments/1qt8yi1/i_love_this_game_so_much_how_about_you_guys/",
+      "author": "/u/Educational_Ad159",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 1,
+      "added_at": "2026-02-01T20:12:25.414150"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qt8vhr",
+      "type": "search",
+      "subreddit": "r4r",
+      "title": "27 [TF4R] Scotland - Meeting new people!",
+      "content": "Hello everyone! 🌈 I’m Hazel - still trying out the name :) I’m 28, from Scotland, and just hoping to make some new friends and chat with cool people! I’m in the middle of trying to get my life a bit more sorted and take things a little more seriously, so I’d love to talk to others who are kind of in the same spot. I’d prefer if you’re from Scotland or at least the UK, but honestly I’m happy to chat with anyone. A bit about me: 🎮 Gaming: I play a lot of games, mostly souls-likes (Nightreign has me hooked lately) and shooters like PUBG. I play a lot of genres but fantasy stuff is usually my comfort zone. I’m also into TTRPGs, mainly D&D, and I’m currently a player in a homebrew campaign! 📚 Reading: I read basically anything fantasy. I’ve gone through all of the Cosmere, the Dresden Files, and the entire Wheel of Time. I also love the occasional sci-fi hit like Project Hail Mary. Always happy to hear new recs! 🛠️ Crafty Stuff / DIY / 3D Printing: I’m a pretty hands-on, crafty person — love making things. I’ve got an FDM printer, a resin printer, and even a laser cutter/engraver, so I’m always tinkering with some project. Lately I’ve been experimenting with making custom D&D dice using silicone and resin! 🎮 Game Dev: I work as a game developer. I use Unreal at my job, but I still really enjoy Unity — especially for game jams. Tell me your favourite colour in your message so I know you actually read all this. If you don’t read my post, I probably shouldn’t read your message :D Thanks for stopping by! If you want to chat, feel free to DM or send a chat request. I’m totally open and happy to talk about anything. If you’ve messaged before and I never replied, please try again, I’m terrible at checking Reddit sometimes. I mostly use Discord, so after we chat here for a bit, that’s usually easier! submitted by /u/NoodlesKitten to r/r4r [link] [comments]",
+      "link": "https://www.reddit.com/r/r4r/comments/1qt8vhr/27_tf4r_scotland_meeting_new_people/",
+      "author": "/u/NoodlesKitten",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 1,
+      "added_at": "2026-02-01T20:12:25.414221"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qt96td",
+      "type": "search",
+      "subreddit": "Warframe",
+      "title": "Yareli, Merulina, and Subsumes",
+      "content": "Have had these thoughts floating around lately and figured I'd finally get them out there. tl;dr - skate frame more or less can't interact with subsumes while still being skate frame, feels bad. Subsuming onto Yareli is pretty rough, at least as someone who actually skates around on Merulina. I know changing behavior/functionality around this has been shot down in the past, but I just want to quantify why it feels so bad, even if for nothing more than to get these thoughts out of my head. Generally speaking, there are 4 types of ability casts. 1-handed casts, full body casts, and then channeled 1-hand/full body casts. For those unfamiliar, 1-handed casts allow you to reload, among other actions, while casting, whereas full body locks you into an animation, or interrupts those actions. My take is that 1-handed casts should be able to be activated from Merulina. Currently, the only \"viable\" subsumes are channeled abilities, where you activate the ability before hopping on Merulina. Everything else requires regular dismounting to either reactivate, or to use at all. Of the available Warframe subsumes, guess how many are channeled abilities. Did you guess 1? Well it's 1, Sevagoth's Gloom which, if you didn't know, actually heals Merulina, so you're functionally immortal if you don't get nullified or run out of energy, but calling that overkill is putting it lightly. Every other subsume in the game, that comes from a frame, I didn't check Helminth's own subsumes, is an ability that requires recasting at some interval (or an augment, to extend, like Warcry/Eternal War). Unless I botched my testing / recollection, there are all of 14 subsumes that don't interrupt reloading (Airburst, Banish, Dark Verse, Decoy, Fractured Blast, Larva, Molt, Null Star, Pull, Shock, Shuriken, Tempest Barrage, Remedium, and Well of Life, tested using the Felarx at 0 shells loaded). I understand Yareli's the poster child for buggy behaviors. I get that animating subsumes onto a skating Yareli is a tall order (I'd say a one-animation-fits-all approach is perfectly suitable, imo). I also get that Yareli's not a popular frame and of those who user her, the minority don't use Loyal Merulina, so the value in the work to make this happen really isn't there. It just feels bad maining a frame where I either can't interact with subsumes, am only allowed to do so while forgoing my preferred play style, AKA use Loyal Merulina, or I just have to hop off and back onto Merulina anytime I want to cast a subsume, effectively doubling or tripling the cost to cast the subsume. submitted by /u/LC_reddit to r/Warframe [link] [comments]",
+      "link": "https://www.reddit.com/r/Warframe/comments/1qt96td/yareli_merulina_and_subsumes/",
+      "author": "/u/LC_reddit",
+      "search_keyword": "how to make a game",
+      "relevance_score": 1,
+      "added_at": "2026-02-01T20:12:25.414284"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qt95lt",
+      "type": "search",
+      "subreddit": "ElectricUnderground",
+      "title": "I made a game in a month or so. Should I continue development on this?",
+      "content": "It all started with the following shower thought: How would a high commitment jump work in a top down bullet hell? I was completely captivated by this idea, so naturally I had to make a game to test this out. The original plan was to do this over my winter holidays, but it took about a month longer because projects always seem to take much longer than I think. Anyway, It’s basically top-down Super Ghouls ‘n Ghosts, with lot of bullets and a Dark Souls style stamina bar to keep you honest and prevent jump spam. I have to say I’m quite happy with how it turned out :) In my mind’s eye I can see a completed product with 10 to 15 bosses to fight, each with their own stage or game play gimmick. Like: - A Boss fight where a boss’s attack punches holes in the ground you now have to jump over. - A level where you walk from left to right, making it reminiscent of beat em ups. - A dual Boss fight like Ornstein and Smough, but top down, and with lots of bullets. - A level on moving trains where you have to jump from train wagon to train wagon. - A final level where the player jumps on a Flying carpet / Goku’s cloud / Kirby’s star for transport, and now it’s basically a full on vertical scrolling Shmup. I’d imagine the Electric Undergrounds audience -that’s you guys- is pretty much exactly the target audience for this kind of game. So I guess the point of this post is to ask you guys: If this was a complete game like described above, would you consider paying 5 to 10 bucks for it? Do you think this game would be financially viable? *If you want to play it, first of all thank you, you can do so here for free: https://frankienaitor.itch.io/super-makai-danmaku submitted by /u/Frankienaitor to r/ElectricUnderground [link] [comments]",
+      "link": "https://www.reddit.com/r/ElectricUnderground/comments/1qt95lt/i_made_a_game_in_a_month_or_so_should_i_continue/",
+      "author": "/u/Frankienaitor",
+      "search_keyword": "how to make a game",
+      "relevance_score": 1,
+      "added_at": "2026-02-01T20:12:25.414368"
+    },
+    {
       "id": "https://www.reddit.com/t3_1qmuylb",
       "type": "search",
       "subreddit": "2007scape",
@@ -33383,7 +33443,175 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-02-01T19:42:44.425009"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qt8o3y",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "The Genie 3.0 Shockwave: Market Volatility and the Resilient Value of Artistic Vision - GameDev Investor",
+      "content": "submitted by /u/ToeSufficient2241 [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qt8o3y/the_genie_30_shockwave_market_volatility_and_the/",
+      "author": "/u/ToeSufficient2241",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T20:12:25.410419"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qt8n4h",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "Has anyone managed to make a modestly successful game working on it part-time?",
+      "content": "Not sure if this has been asked before but, ah well, thought I would, Sunday thoughts. Has anyone working a FT job managed to make a game that was modestly successful on the side, maybe 10-15 hours a week of development? Or even without a FT job, just working on it solo for about that many hours? Lets say we define modest success as at least 20K USD submitted by /u/_Hambone_ [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qt8n4h/has_anyone_managed_to_make_a_modestly_successful/",
+      "author": "/u/_Hambone_",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T20:12:25.410442"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qt9bd8",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Chameleon - DYH: Alternate Paths",
+      "content": "submitted by /u/CommanderLevi [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qt9bd8/chameleon_dyh_alternate_paths/",
+      "author": "/u/CommanderLevi",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T20:12:25.410453"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qt98rc",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Octopus Goulash is on Steam",
+      "content": "submitted by /u/OctopusGoulash [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qt98rc/octopus_goulash_is_on_steam/",
+      "author": "/u/OctopusGoulash",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T20:12:25.410462"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qt942z",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "What is your hidden gem and why is that gem worth it?",
+      "content": "submitted by /u/No_Drawing4095 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qt942z/what_is_your_hidden_gem_and_why_is_that_gem_worth/",
+      "author": "/u/No_Drawing4095",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T20:12:25.410469"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qt97d3",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Pick music for Muffles' Life Sentence New Game Plus",
+      "content": ":) submitted by /u/BossyPino [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qt97d3/pick_music_for_muffles_life_sentence_new_game_plus/",
+      "author": "/u/BossyPino",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T20:12:25.410495"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qt94m9",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "What is your hidden gem and why is that gem worth it?",
+      "content": "submitted by /u/No_Drawing4095 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qt94m9/what_is_your_hidden_gem_and_why_is_that_gem_worth/",
+      "author": "/u/No_Drawing4095",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T20:12:25.410533"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qt8scs",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Why does my NPC look so disappointed in me",
+      "content": "submitted by /u/SimonSlavGameDev [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qt8scs/why_does_my_npc_look_so_disappointed_in_me/",
+      "author": "/u/SimonSlavGameDev",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T20:12:25.410674"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qt8n12",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "The Genie 3.0 Shockwave: Market Volatility and the Resilient Value of Artistic Vision - GameDev Investor",
+      "content": "submitted by /u/ToeSufficient2241 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qt8n12/the_genie_30_shockwave_market_volatility_and_the/",
+      "author": "/u/ToeSufficient2241",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T20:12:25.410694"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qt91bj",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Made a Stylized Water (Tutorial) Godot 4.6",
+      "content": "The shader tutorial link: stylized water shader tutorial . It has both underwater and surface shader. Let me know if you find it helpful and love it! submitted by /u/SingerLuch [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qt91bj/made_a_stylized_water_tutorial_godot_46/",
+      "author": "/u/SingerLuch",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T20:12:25.410767"
+    },
+    {
+      "id": "https://www.reddit.com/r/unity/t3_1qt8w64",
+      "type": "post",
+      "subreddit": "unity",
+      "title": "Suggestion for my game",
+      "content": "Hey guys. I have been working on a market simulation game a few months. How does it look? https://store.steampowered.com/app/4325610/Market_Simulation_Rush_Hour/ submitted by /u/Necessary-Tax7201 [link] [comments]",
+      "link": "https://www.reddit.com/r/unity/comments/1qt8w64/suggestion_for_my_game/",
+      "author": "/u/Necessary-Tax7201",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T20:12:25.410802"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qt93i0",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "As a solo dev, I’m experimenting with a terminal-based puzzle - would this confuse players too much?",
+      "content": "I’m a solo developer working on a small psychological horror project. One of the core mechanics is a terminal-based puzzle: the player sits at a workstation with two monitors - one for console input, one for server states. There’s intentionally no visible command list. The idea is discovery through observation rather than explicit tutorials. As a solo dev, I’m unsure where the line is between: - intriguing discovery - and unnecessary frustration I’d really appreciate feedback from other solo devs: Would you feel motivated to experiment here? What small cues would help without breaking immersion? Short WIP clip attached. submitted by /u/Character-Credit-208 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qt93i0/as_a_solo_dev_im_experimenting_with_a/",
+      "author": "/u/Character-Credit-208",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T20:12:25.410846"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qt992x",
+      "type": "search",
+      "subreddit": "SweepstakeCasinoUS",
+      "title": "New sc casino instant payouts to bank , card , or skrill",
+      "content": "I was sick and tired of the same old as sc casinos taking my money or trouble with payouts every time I win so I got on reddit last night and I found this invite it gives you $5 to play with and 5 in arcade credits it has Snoop dollars and be gaming all the ones you're aware of probably if you play others and you can cash out at just $20 instantly if you win, I have no affiliation with this casino I just really enjoyed it and wanted to share https://legacyarcade.com/refer-code/FUNBF8WT submitted by /u/Unique_Cabinet8852 to r/SweepstakeCasinoUS [link] [comments]",
+      "link": "https://www.reddit.com/r/SweepstakeCasinoUS/comments/1qt992x/new_sc_casino_instant_payouts_to_bank_card_or/",
+      "author": "/u/Unique_Cabinet8852",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T20:12:25.410910"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qt92cn",
+      "type": "search",
+      "subreddit": "DuelLinks",
+      "title": "No Friends",
+      "content": "Hey, free gems sounds pretty good to me but unfortunately no one I know plays this game. Figured this was my best shot, thanks in advance for anyone who adds and feel free to drop your code in the comments as well submitted by /u/Accomplished_Fig4579 to r/DuelLinks [link] [comments]",
+      "link": "https://www.reddit.com/r/DuelLinks/comments/1qt92cn/no_friends/",
+      "author": "/u/Accomplished_Fig4579",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T20:12:25.411733"
     }
   ],
-  "last_updated": "2026-02-01T19:43:12.729864"
+  "last_updated": "2026-02-01T20:12:54.513467"
 }
