@@ -1,30 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/godot/t3_1qmt4v9",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Added Jiggle Physics to my Hoverboard game in response to your feedback",
-      "content": "I made a post about a week ago showcasing something I was working on and asking for feedback, One of the points that kept coming up was that the character seemed very unresponsive and the animation was too robotic, I decided to play with jiggle physics and came up with a little system where the skeleton reacts to the forces the board is experience, what do you guys think? As a sidenote, Im looking to find some people that might be willing to playtest the game, if anyone is interested please let me know submitted by /u/febrezzer [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qmt4v9/added_jiggle_physics_to_my_hoverboard_game_in/",
-      "author": "/u/febrezzer",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T20:11:33.121661"
-    },
-    {
-      "id": "https://www.reddit.com/r/unrealengine/t3_1qmtuyv",
-      "type": "post",
-      "subreddit": "unrealengine",
-      "title": "Facing the Final Boss in an RPG - Unreal Engine 5 MoCap Comedy",
-      "content": "submitted by /u/TempGanache [link] [comments]",
-      "link": "https://www.reddit.com/r/unrealengine/comments/1qmtuyv/facing_the_final_boss_in_an_rpg_unreal_engine_5/",
-      "author": "/u/TempGanache",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T20:11:33.121706"
-    },
-    {
       "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qmt9os",
       "type": "post",
       "subreddit": "SoloDevelopment",
@@ -33035,7 +33011,103 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-02-01T17:14:39.615698"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qt54se",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "90° environment shift",
+      "content": "I’m sharing a short GIF from Berserker 2: The Saga of Hilde , a finished, story-driven 2.5D action game inspired by Norse mythology. https://i.redd.it/xn26fnqc7xgg1.gif At specific points, the environment shifts by 90° to open new paths, while the camera stays fixed in a side-scroll perspective. This clip shows one of those moments in action. submitted by /u/OneLifeGames [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qt54se/90_environment_shift/",
+      "author": "/u/OneLifeGames",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T17:47:10.690768"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qt531c",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "I'm making a Solo Roguelite Horror Game inspired by Lethal Company and the Backrooms!",
+      "content": "Steam Link: https://store.steampowered.com/app/4342170/Deadly_Dimensions/ Deadly Dimensions is a Solo First-Person Roguelite Survival Horror Game. Explore liminal unknown dimensions of Earth in the quest of gathering data for a mysterious Sci-Fi megacorporation whilst avoiding from getting killed by the multiple of Dimensional Anomalies roaming there. submitted by /u/HyperDash_YT [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qt531c/im_making_a_solo_roguelite_horror_game_inspired/",
+      "author": "/u/HyperDash_YT",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T17:47:10.690784"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qt51fo",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "I've updated the capsule art based on your feedback. How is it now?",
+      "content": "Hi! A couple of days ago, I showed you capsule art for my zombie shooter and got some helpful feedback. I've tried to take them into account and improve the art overall. Is it better now? Is it eye-catching enough? What could still be better? Thanks for looking! submitted by /u/MagazineForward5528 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qt51fo/ive_updated_the_capsule_art_based_on_your/",
+      "author": "/u/MagazineForward5528",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T17:47:10.690807"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qt4lm0",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Help with calculating collided ball trajectory",
+      "content": "I'm not super knowledgeable on Godot so I apologize if this comes off silly. I'm currently making a pool game and I'm trying to make it so that the game will show your ball's trajectory, and if it collided with a ball it'll show the direction of where the hit ball would go. Originally I tried getting the direction like this but it wasn't super accurate var target_direction = (hit_position - self.global_position).normalized() bounce_line_2d.add_point(collider.global_position) bounce_line_2d.add_point(hit_position + target_direction * 200) Using the normal is closer but still inaccurate if shape_cast_2d.is_colliding(): var hit_position = shape_cast_2d.get_collision_point(0) var normal = shape_cast_2d.get_collision_normal(0) var collider = shape_cast_2d.get_collider(0) trajectory_line_2d.add_point(self.global_position) trajectory_line_2d.add_point(hit_position) collision_preview.global_position = hit_position collision_preview.visible = true if collider.is_in_group(\"balls\"): var target_direction = -normal bounce_line_2d.add_point(collider.global_position) bounce_line_2d.add_point(collider.global_position + target_direction * 200) The balls are rigid bodies and to detect collision im using a shape cast that's the same size as the ball. If anyone has any insight on this please let me know I'd greatly appreciate it. submitted by /u/_Abox [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qt4lm0/help_with_calculating_collided_ball_trajectory/",
+      "author": "/u/_Abox",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T17:47:10.690883"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qt4ief",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "A 2d platformer controller for Godot",
+      "content": "I made this platformer controller for Godot if anyone wants to use it https://github.com/sayuo4/2d-platformer-controller submitted by /u/sayuo4 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qt4ief/a_2d_platformer_controller_for_godot/",
+      "author": "/u/sayuo4",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T17:47:10.690939"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qt550p",
+      "type": "search",
+      "subreddit": "u_dwilizo",
+      "title": "ULTIMATE Ninjago Watch Order",
+      "content": "Hi Guys, I’ve been working on an Ninjago watch order that puts all Ninjago episodes and shorts into one complete timeline. The goal was to make it as clear and easy as possible to watch everything in the right order, without missing any extra content or shorts. The watch order is still a work in progress , so not every episode has a link yet, but I’m updating it over time. There are no ILLEGAL links included — everything is sourced directly from YouTube only. I figured I’d share it in case other Ninjago fans find it useful. Hope it helps, and feel free to check it out! link to the document: https://docs.google.com/document/d/1Tr9XLEIn0MXcHh7senRLlD4fe5xr_sNWBgNhRzmAKdI/edit?tab=t.0 submitted by /u/dwilizo to u/dwilizo [link] [comments]",
+      "link": "https://www.reddit.com/r/u_dwilizo/comments/1qt550p/ultimate_ninjago_watch_order/",
+      "author": "/u/dwilizo",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T17:47:10.691732"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qt52y8",
+      "type": "search",
+      "subreddit": "metroidvania",
+      "title": "Are you guys excited about the rumored 2.5d metroidvania God of War game? I know i am.",
+      "content": "Im praying that its a quality game but Sony usually doesnt put out objectively bad games, im just not sure if they've ever released a metroidvania before so I hope they hire some devs that know what theyre doing. The lore and bosses could me immaculate if done right. submitted by /u/Sufficient_Ebb_5694 to r/metroidvania [link] [comments]",
+      "link": "https://www.reddit.com/r/metroidvania/comments/1qt52y8/are_you_guys_excited_about_the_rumored_25d/",
+      "author": "/u/Sufficient_Ebb_5694",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T17:47:10.692080"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qt50va",
+      "type": "search",
+      "subreddit": "AMDHelp",
+      "title": "FSR Image Sharpening",
+      "content": "Hello! Is there a way to use FSR Image Sharpening without actually lowering my resolution? I tried the Radeon Image Sharpening but it doesn't compare to how good the game looks with FSR's Image Sharpening. I would like to use my native (1080p) resolution because I alt tab a lot and FSR makes everything else uglier outside of the game submitted by /u/Filer169 to r/AMDHelp [link] [comments]",
+      "link": "https://www.reddit.com/r/AMDHelp/comments/1qt50va/fsr_image_sharpening/",
+      "author": "/u/Filer169",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T17:47:10.692521"
     }
   ],
-  "last_updated": "2026-02-01T17:15:08.064337"
+  "last_updated": "2026-02-01T17:47:38.890603"
 }
