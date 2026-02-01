@@ -1,138 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/t3_1qmpnqd",
-      "type": "search",
-      "subreddit": "Sixthgrade",
-      "title": "HALF LIFE REFERENCE?",
-      "content": "No way submitted by /u/mcreazy_11h to r/Sixthgrade [link] [comments]",
-      "link": "https://www.reddit.com/r/Sixthgrade/comments/1qmpnqd/half_life_reference/",
-      "author": "/u/mcreazy_11h",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T17:39:48.291337"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedev/t3_1qmq7li",
-      "type": "post",
-      "subreddit": "gamedev",
-      "title": "Characteristics of the killer player type.",
-      "content": "What do you think is the one positive and negative feature that is important for the experience of killers according to Bartle's book? Do you consider yourself a killer? Why? submitted by /u/Only-Professional988 [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedev/comments/1qmq7li/characteristics_of_the_killer_player_type/",
-      "author": "/u/Only-Professional988",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T18:14:45.066478"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qmqfaw",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "We’ve finally made dismemberment system in our game like dead space!",
-      "content": "I believe the core of a dismemberment system is how enemies react differently depending on where they’re hit. As you can see in the video, their reactions change based on the impacted body part—and so does their behavior. Visually and technically, this was by far one of the hardest parts of development. I honestly almost stopped working on the game while building this 😅 submitted by /u/2red1t [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qmqfaw/weve_finally_made_dismemberment_system_in_our/",
-      "author": "/u/2red1t",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T18:14:45.066530"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qmqdz5",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "He-man sword! One more pixelart exercise, feedback how could I improve?",
-      "content": "submitted by /u/owpixel [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qmqdz5/heman_sword_one_more_pixelart_exercise_feedback/",
-      "author": "/u/owpixel",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T18:14:45.066537"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qmq5k0",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Hear me out: Boss-rush Roguelike!",
-      "content": "submitted by /u/VenuxxLimited [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qmq5k0/hear_me_out_bossrush_roguelike/",
-      "author": "/u/VenuxxLimited",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T18:14:45.066546"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qmpuhe",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Working on a better inventory system for my zombie game. Now you can select your equipment with hotkeys! I've also added a new sniper model to the game! Let me know what you think! 🎒🪓",
-      "content": "https://reddit.com/link/1qmpuhe/video/fv685m3u8jfg1/player submitted by /u/TrudexGames [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qmpuhe/working_on_a_better_inventory_system_for_my/",
-      "author": "/u/TrudexGames",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T18:14:45.066568"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qmpudy",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Video of my 2-year journey creating my rhythm game from prototyping till final polishing.",
-      "content": "submitted by /u/BubbleHeadGames [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qmpudy/video_of_my_2year_journey_creating_my_rhythm_game/",
-      "author": "/u/BubbleHeadGames",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T18:14:45.066576"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qmqhnx",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Does my game's capsule art/logo make you want to click?",
-      "content": "submitted by /u/CAGE_Studios [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qmqhnx/does_my_games_capsule_artlogo_make_you_want_to/",
-      "author": "/u/CAGE_Studios",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T18:14:45.066588"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qmqfaf",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "The Great Soup War: Mushrooms vs. Onions, 1849. (Actually, it’s my first sandbox game)",
-      "content": "I’m making a sandbox game where you can build a squad of unusual creatures. Not sure if mushrooms and onions were the best pick for the clip, but it looks pretty funny :D submitted by /u/AdditionalFinish9704 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qmqfaf/the_great_soup_war_mushrooms_vs_onions_1849/",
-      "author": "/u/AdditionalFinish9704",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T18:14:45.066626"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qmq890",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Playing with switches just for fun in one of the levels from RTG, my sci-fi puzzle/platformer with software ray-tracer.",
-      "content": "Every switch has tiny light emitter associated, causing actor having lot of subtle shadows coming from those tiny lights. The game is 90% done, can be wishlisted already, just check \"RTG\" on Steam or check my bio. submitted by /u/Dante268 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qmq890/playing_with_switches_just_for_fun_in_one_of_the/",
-      "author": "/u/Dante268",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T18:14:45.066637"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qmprsf",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "I built a real life room cleanup game for kids & parents: TIDY UP!",
-      "content": "submitted by /u/legion_commanderr [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qmprsf/i_built_a_real_life_room_cleanup_game_for_kids/",
-      "author": "/u/legion_commanderr",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T18:14:45.066643"
-    },
-    {
       "id": "https://www.reddit.com/r/godot/t3_1qmq8sa",
       "type": "post",
       "subreddit": "godot",
@@ -32783,7 +32651,67 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-02-01T13:56:08.234299"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qszcrp",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "Where to find playtesters?",
+      "content": "TL;DR: where are you finding people who would be interested in playtesting your game and and providing feedback? I've been developing a game for a few weeks now and releasing regular free, playable versions (though they're pretty rudimentary) and promoting them on x and bsky. I'm getting some engagement on both platforms, but so far nobody has downloaded my game to play. I'm honestly not expecting in-depth analysis of the game or anything, just some basic stuff like \"it feels slow\" or \"it's frustrating\" would be helpful. Or even just to catch bugs I may have missed. I understand asking someone to download and run an exe from a stranger on social media is a big ask, so is there a better place to ask for that kind of thing? Can I host my dev builds somewhere more trustworthy than a google drive link, distributed via a discord server? submitted by /u/Cudabear [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qszcrp/where_to_find_playtesters/",
+      "author": "/u/Cudabear",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T14:17:16.311586"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qszkg7",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "We’re building a VR game where you literally rip cybernetic arms off enemies and attach them to yourself mid-fight",
+      "content": "submitted by /u/JakeMeller [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qszkg7/were_building_a_vr_game_where_you_literally_rip/",
+      "author": "/u/JakeMeller",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T14:17:16.311609"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qszjuc",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Absolutely criminal how overlooked this game is",
+      "content": "submitted by /u/owlitup [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qszjuc/absolutely_criminal_how_overlooked_this_game_is/",
+      "author": "/u/owlitup",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T14:17:16.311617"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qszcrp",
+      "type": "search",
+      "subreddit": "gamedev",
+      "title": "Where to find playtesters?",
+      "content": "TL;DR: where are you finding people who would be interested in playtesting your game and and providing feedback? I've been developing a game for a few weeks now and releasing regular free, playable versions (though they're pretty rudimentary) and promoting them on x and bsky. I'm getting some engagement on both platforms, but so far nobody has downloaded my game to play. I'm honestly not expecting in-depth analysis of the game or anything, just some basic stuff like \"it feels slow\" or \"it's frustrating\" would be helpful. Or even just to catch bugs I may have missed. I understand asking someone to download and run an exe from a stranger on social media is a big ask, so is there a better place to ask for that kind of thing? Can I host my dev builds somewhere more trustworthy than a google drive link, distributed via a discord server? submitted by /u/Cudabear to r/gamedev [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qszcrp/where_to_find_playtesters/",
+      "author": "/u/Cudabear",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T14:17:16.315743"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qsz9ty",
+      "type": "search",
+      "subreddit": "heroesofthestorm",
+      "title": "TIL you can only channel the Dragon Knight if you click EXACTLY on the model",
+      "content": "And of course they put holes on it for extra challenge without making them clickable in some way. I'm sure many of you experienced seeing your hero inexplicably move all the way around the DK like this when you thought you were going to channel it. Well that's why. Also love how your hero slowly slides back for no reason along the invisible borders when attempting to return to the channeling location from the sides. I'd like to know how devs can see that and say \"yeah whatever\". The fiasco in real game conditions: https://streamable.com/4dd0rr submitted by /u/MyBourbieValentine to r/heroesofthestorm [link] [comments]",
+      "link": "https://www.reddit.com/r/heroesofthestorm/comments/1qsz9ty/til_you_can_only_channel_the_dragon_knight_if_you/",
+      "author": "/u/MyBourbieValentine",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T14:17:16.315759"
     }
   ],
-  "last_updated": "2026-02-01T13:56:36.574451"
+  "last_updated": "2026-02-01T14:17:44.720236"
 }
