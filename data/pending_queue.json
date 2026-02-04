@@ -1,42 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qpeihx",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Content Creators For Mobile Indie Games",
-      "content": "Recently launched a mobile game, mystery game so wanted to know if there's any content creators you know who promote games made by indie developers submitted by /u/enigmaworksofficial [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qpeihx/content_creators_for_mobile_indie_games/",
-      "author": "/u/enigmaworksofficial",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-28T15:55:02.006839"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qpedjb",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Watching people do this never gets old",
-      "content": "submitted by /u/GG-GeoGames [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qpedjb/watching_people_do_this_never_gets_old/",
-      "author": "/u/GG-GeoGames",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-28T15:55:02.006844"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qpenv5",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "How would you protect save files?",
-      "content": "I recently implemented a Save system in my game using resources and the resource saver class. Since resources are editable and readable, I was wondering how I could protect the Dave file from being tampered with? I see there are some plugins that can help with this but I like to try and avoid plugins on my projects. Are there in-engine ways to prevent my save files from being tampered with? submitted by /u/DammyTheSlayer [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qpenv5/how_would_you_protect_save_files/",
-      "author": "/u/DammyTheSlayer",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-28T15:55:02.006858"
-    },
-    {
       "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qpeumc",
       "type": "post",
       "subreddit": "SoloDevelopment",
@@ -27215,7 +27179,103 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-02-04T13:54:43.566608"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qvp796",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "I changed my game’s name after months of work — and nothing really happened",
+      "content": "I'll be blunt. My game was called Egg Farm Simulator. After a few months of development, I decided to change the name to Eggstreme Farming. Why? • There was already a mini-game on Roblox with the same name. • “Simulator” is extremely generic on Steam. • The name had no identity whatsoever. I thought changing the name would help with reach and wishlists, but it didn't help and had no relevant impact. Before the change, I was getting an average of 3–5 wishlists per day and after the change… I'm still getting 3–5 wishlists per day. Currently I have 290 wishlists. So, at least so far, the name change hasn't had a real impact on wishlists. Even so, I don't regret it. The game now has a stronger name, easier to remember, and that seems less generic. I was just curious about one thing. What do you think could be changed or improved to enhance the results on wishlists? I believe the game has the potential for better results. Currently, my marketing strategy (which I started last week) is to post videos about the development/gameplay on TikTok and YouTube shorts and post updates here on Reddit. submitted by /u/Alex4ndres [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qvp796/i_changed_my_games_name_after_months_of_work_and/",
+      "author": "/u/Alex4ndres",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-04T14:34:36.884540"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qvptzj",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "If you can see it, it can see you. A horror game where you must physically cover your eyes",
+      "content": "submitted by /u/Yo_ice [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qvptzj/if_you_can_see_it_it_can_see_you_a_horror_game/",
+      "author": "/u/Yo_ice",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-04T14:34:36.884591"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qvpz2r",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Working hard to make smooth pathfinding in my classic old-school RTS Final Divide",
+      "content": "Final Divide is an old-school RTS focused on base building, resource management, and large-scale tactical combat with classic real-time strategy game mechanics. You can follow the project on X . submitted by /u/finaldivide_rts [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qvpz2r/working_hard_to_make_smooth_pathfinding_in_my/",
+      "author": "/u/finaldivide_rts",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-04T14:34:36.884651"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qvp84f",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "I'm building a community",
+      "content": "Let me start out by saying that the game i'm making is not by any means gonna be finished soon. I don't necessarily want to do it for profit, even though it'd be nice. But i want to build something i can be proud of. There's some really rough ideas for now, some concept art, some cool ideas, and the start of an amazing community. That's all i'm here for really. I'd love for this community to grow into something great. Here's one of the creatures i've made concept art for, come join us on discord to have a good time with us and see the progress. I hope to see you there. https://discord.gg/BSzNe2sDYU submitted by /u/Watchflut [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qvp84f/im_building_a_community/",
+      "author": "/u/Watchflut",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-04T14:34:36.884682"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qvpw7w",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Planning a Adobe animate clone in Godot 4 any feature feedback",
+      "content": "So here is the deal Adobe animate is closing shop So decided why not make an alternative in godot Here the catch I am seeking feedback on what the best optimized features to include so that is not bloated submitted by /u/mind_node [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qvpw7w/planning_a_adobe_animate_clone_in_godot_4_any/",
+      "author": "/u/mind_node",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-04T14:34:36.884694"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qvq3de",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Racing game with a track editor! New update for Traks (Free demo)",
+      "content": "submitted by /u/z3u5-322 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qvq3de/racing_game_with_a_track_editor_new_update_for/",
+      "author": "/u/z3u5-322",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-04T14:34:36.884788"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qvq1vn",
+      "type": "search",
+      "subreddit": "TheTeenagerPeople",
+      "title": "\"Show Your Talent 🎨 \" - 04 Feb 2026",
+      "content": "It’s Creative Wednesday 🎨 Show off your talents, hobbies, and imagination. Share your drawings, poems, edits, or stories. Got a new song, coding project, or design idea? Post it here! Want constructive feedback on your work? Ask for it. Or simply drop something fun and original to brighten the feed. This is your day to celebrate creativity, no matter the skill level. Let's hype each other up and keep the positive energy flowing. ✨️ Join our Discord community for more chats and connections: Discord Lets all spam our game links too and see how much fun we all have ❤️. submitted by /u/TheTeenagerPeopleBot to r/TheTeenagerPeople [link] [comments]",
+      "link": "https://www.reddit.com/r/TheTeenagerPeople/comments/1qvq1vn/show_your_talent_04_feb_2026/",
+      "author": "/u/TheTeenagerPeopleBot",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-02-04T14:34:36.884815"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qvq43q",
+      "type": "search",
+      "subreddit": "reddeadredemption",
+      "title": "TIL that i haven’t noticed in other playthroughs",
+      "content": "you can always donate to pearson after your horse is near camp, even if a carcass glitched & no longer appears on your horse however, if you walk through camp with the carcass over your shoulder, especially a deer buck or pronghorn, you’ll receive unique interactions people may comment on the blood covering you & arthur will say something like “i’m sure it’s an o’driscoll” more importantly, everyone will compliment your hunting skills & thank you, or simply say it’s gonna keep everyone fed for awhile even jf they’re of poor quality or i didn’t need to skin them, i always try to make sure i don’t come back to camp empty handed. & it’s only when i’m donating directly to pearson in the menu option that he’ll say i “haven’t been donating much recently” but overall, donating items like badger claws, buck antlers, or pieces of meat instead of a whole carcass (especially after getting LOE satchel, i only save big game pieces & donate the rest like plump bird meat or venison/pork) is more functional than just donating money when you have something you can use for crafting it’ll say “donate for crafting” when you have something that can be sold for cash it’ll say “donate for funds” when you have something that can feed camp it’ll say “donate for provisions” submitted by /u/anonynix to r/reddeadredemption [link] [comments]",
+      "link": "https://www.reddit.com/r/reddeadredemption/comments/1qvq43q/til_that_i_havent_noticed_in_other_playthroughs/",
+      "author": "/u/anonynix",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-02-04T14:34:36.886770"
     }
   ],
-  "last_updated": "2026-02-04T13:55:12.193145"
+  "last_updated": "2026-02-04T14:35:05.595596"
 }
