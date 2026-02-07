@@ -1,30 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/t3_1qq724g",
-      "type": "search",
-      "subreddit": "indiegames",
-      "title": "I’ve been focusing heavily on the atmosphere of my 2002 radio station horror game. The demo is OUT NOW",
-      "content": "Hi everyone, I’m a solo developer working on Fragments of Dread: Late Lines FM , a psychological horror game set in a 107.9 FM radio station in 2002. I’ve put a lot of effort into the lighting, weather effects, and sound design to make the environment feel as heavy and isolating as possible. The playable demo is now officially live on Steam! 🎙️😱 I’d love for you to jump in and experience the atmosphere for yourself. Since I’m still polishing the game for the full release, your feedback is incredibly valuable to me. Please let me know if the vibe feels haunting enough! If you enjoy the experience, adding it to your wishlist would be a huge support. It really helps a solo dev like me! 😊 submitted by /u/AlarmedPumpkin8446 to r/indiegames [link] [comments]",
-      "link": "https://www.reddit.com/r/indiegames/comments/1qq724g/ive_been_focusing_heavily_on_the_atmosphere_of_my/",
-      "author": "/u/AlarmedPumpkin8446",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T12:28:15.858636"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedev/t3_1qq8hap",
-      "type": "post",
-      "subreddit": "gamedev",
-      "title": "Caching vs non caching state machines",
-      "content": "I've been wondering about the performance difference in games where enemies are constantly creating and destroying instances of their state classes, versus an approach where enemies cache their state and simply reset the values when jumping back to a previously used state. I haven't tested it myself since I'm very new at all this and haven't really got the time at the moment, but my best guess is the former is more cpu intensive while the latter uses more ram. So as usual there isn't a \"best\" solution and it all depends on the needs of the game and its bottlenecks. Either way I'd like to read the opinions of experienced devs on the matter, maybe the caching is a bad idea, period, and the traditional way is always better, but due to recent performance-related issues with modded minecraft due to the garbage collector I'm inclined to think otherwise (or maybe that's just java and/or mimecraft's code jankiness). submitted by /u/Y-oshirin [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedev/comments/1qq8hap/caching_vs_non_caching_state_machines/",
-      "author": "/u/Y-oshirin",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T13:37:40.511646"
-    },
-    {
       "id": "https://www.reddit.com/r/gamedev/t3_1qq80tv",
       "type": "post",
       "subreddit": "gamedev",
@@ -38099,7 +38075,103 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-02-07T22:13:38.411800"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qyruvu",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Our teaser got featured on IGN! - \"MUTTER\" cozy-horror game",
+      "content": "Currently we have a little short demo on the steam page, and we keep working on fixing things and make the demo a little longer :D its a stop-motion inspired narrative cozy-horror game! give it a try if you like what you see :) https://store.steampowered.com/app/2301240/Mutter/ submitted by /u/mrcroww1 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qyruvu/our_teaser_got_featured_on_ign_mutter_cozyhorror/",
+      "author": "/u/mrcroww1",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T22:50:56.629090"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qyrd92",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "From Rank 4,443 to Top 18 on IndieDB in 24 hours - My solo horror project just hit 1,000 units on Steam!",
+      "content": "Hi everyone! I’m incredibly hyped (and a bit sleep-deprived) to share a major milestone for my solo project, FINIS ACTUS . Last night was a rollercoaster. I started the day at Rank 4,443 on IndieDB, and after a series of updates and community engagement, I woke up to find the game at Rank 18 out of 72,000+ games! Even more exciting: The demo just crossed the 1,000 units mark on Steam. Some stats that might be interesting for fellow devs: Median Playtime: 27 minutes (This was the most surprising part for me, people are actually sticking around!) Marketing Budget: $0. Just organic reach through Reddit and IndieDB updates. Engine: Unreal Engine 5 (High-fidelity visuals definitely helped with the initial \"hook\"). It’s a huge relief to see people connecting with the atmosphere I’ve been building alone in my room for months. I’d love to hear your thoughts on the visuals or any advice for the upcoming Steam Next Fest! Steam Page: https://store.steampowered.com/app/4294320/FINIS_ACTUS/ IndieDB: https://www.indiedb.com/games/finis-actus-demo Itch.io: https://shepherdworks0.itch.io/finis-actus-demo PLEASE ADD TO WISHLIST ON STEAM submitted by /u/Think-Ear6167 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qyrd92/from_rank_4443_to_top_18_on_indiedb_in_24_hours/",
+      "author": "/u/Think-Ear6167",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T22:50:56.629183"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qyryhp",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "GIF to show some of the mechanics of our game \"MUTTER\"",
+      "content": "Hey guys so we made some gifs to showcase some of the mechanics of the game, and the story/narrative aspect of it, but still they dont feel quite good to me, any feedback would be really appreciated :) if you want to see how they look in context here is the steam page: https://store.steampowered.com/app/2301240/Mutter/ submitted by /u/mrcroww1 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qyryhp/gif_to_show_some_of_the_mechanics_of_our_game/",
+      "author": "/u/mrcroww1",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T22:50:56.629201"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qyrv4k",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Recent work",
+      "content": "submitted by /u/Inevitable_Row_3834 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qyrv4k/recent_work/",
+      "author": "/u/Inevitable_Row_3834",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T22:50:56.629208"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qyrssp",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Charged light shooters added sort of \"pool\" or \"billiards\" gameplay into my puzzle/platformer game",
+      "content": "One and half year into development of RTG , my sci-fi puzzle/platformer with CPU ray-tracer, I finally moved past basic puzzle gameplay mechanics like doors, switches, elevators and carriable boxes. Another gameplay mechanics which I implemented are \"charged light shooters\". With them, it's possible to turn switches or call elevators on distance. In reality, it meant that I added sort of \"pool\" or \"billiards\" gameplay as most often, correct angle and force are necessary to reach needed object. I had lot of fun with that mechanics when I was tweaking levels. :) There's also another reason why I chose those \"charged light shooters\". I wanted such gameplay mechanics which will involve lights flying around levels. The effects of illumination of environment and casting shadows are intrinsic part of my ray-tracing algorithm, so why not use it? RTG on Steam submitted by /u/Dante268 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qyrssp/charged_light_shooters_added_sort_of_pool_or/",
+      "author": "/u/Dante268",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T22:50:56.629234"
+    },
+    {
+      "id": "https://www.reddit.com/r/unity/t3_1qyr640",
+      "type": "post",
+      "subreddit": "unity",
+      "title": "This is my new power-up in my game Dig Dig Burrito What do you think of it? It is supposed to be hot sauce shooting out of the side of the burrito destroying everything in its path. What do you think of it? Any feedback is greatly appreciated!",
+      "content": "submitted by /u/SPACEGAMESstudio [link] [comments]",
+      "link": "https://www.reddit.com/r/unity/comments/1qyr640/this_is_my_new_powerup_in_my_game_dig_dig_burrito/",
+      "author": "/u/SPACEGAMESstudio",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T22:50:56.629371"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qyrhcd",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "hola estoy desarrollando un juego estilo mega man por el momento y estoy trabajando solo por el momento",
+      "content": "https://preview.redd.it/0ctyq643f5ig1.png?width=865&format=png&auto=webp&s=5854514e988334b0fbb76b36ed92014a62f57eaa submitted by /u/Brilliant_Primary564 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qyrhcd/hola_estoy_desarrollando_un_juego_estilo_mega_man/",
+      "author": "/u/Brilliant_Primary564",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T22:50:56.629383"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qyr62r",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "This is my new silly power-up in my burrito game. What do you think of it? It is supposed to be hot sauce shooting out of the side of the burrito destroying everything in its path. What do you think of it? Any feedback is greatly appreciated!",
+      "content": "submitted by /u/SPACEGAMESstudio [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qyr62r/this_is_my_new_silly_powerup_in_my_burrito_game/",
+      "author": "/u/SPACEGAMESstudio",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T22:50:56.629407"
     }
   ],
-  "last_updated": "2026-02-07T22:14:06.911680"
+  "last_updated": "2026-02-07T22:51:25.014591"
 }
