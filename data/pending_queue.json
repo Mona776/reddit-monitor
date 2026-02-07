@@ -1,66 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qq653z",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "The new tulips are better, right?",
-      "content": "My game is pixel art, but I want to treat the players for unlocking new flowers. So I asked an artist to make a couple of full flower images a few months ago. However, I always felt they are a bit too cartoonish. When time came to draw all of the tulips, I have asked an artist to adjust the style. I think they worked out nicely. Do you agree? submitted by /u/tiny_tank [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qq653z/the_new_tulips_are_better_right/",
-      "author": "/u/tiny_tank",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T11:50:07.906776"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qq5xxv",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Some early concept art for ChromaGun 2. Would you trust Chicken Richard?",
-      "content": "submitted by /u/pixel_maniacs [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qq5xxv/some_early_concept_art_for_chromagun_2_would_you/",
-      "author": "/u/pixel_maniacs",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T11:50:07.906782"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qq5ta8",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "What's up with materials looking significantly worse in 4.6 compared to 4.4?",
-      "content": "submitted by /u/General_Hatestorm [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qq5ta8/whats_up_with_materials_looking_significantly/",
-      "author": "/u/General_Hatestorm",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T11:50:07.906924"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qq6gmh",
-      "type": "search",
-      "subreddit": "ArkNova",
-      "title": "Which cards would you nerf/buff?",
-      "content": "Most cards are well-balanced but there are some that could be tweaked a bit. Which animals/sponsors/action cards would you give buffs or nerfs to? Nerf: Explorer - I would nerf the 2 money per icon instant effect to 1 money only. This card should either be an early or late game card, not both. Having it show up late game and be worth ~18 bucks just for playing the game normally doesn't make sense. 1 money per icon period actually wouldn't be bad because that's still a good chunk of money+appeal for the usual passive effect. Buff: Expert in Europe - This guy needs some help. Maybe his CP requirement needs to be 3 size 1's filled only or he's an auto size 2 build with each Europe icon (that might be too strong though). submitted by /u/MWLexposedParty to r/ArkNova [link] [comments]",
-      "link": "https://www.reddit.com/r/ArkNova/comments/1qq6gmh/which_cards_would_you_nerfbuff/",
-      "author": "/u/MWLexposedParty",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T11:50:07.907926"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qq6fnv",
-      "type": "search",
-      "subreddit": "3on3",
-      "title": "Scoring tips?",
-      "content": "Seems every time I’m forced onto small, I can’t score if I’m not dunking. I can go jack, but it seems every screen my team sets will not stop them from blocking it, I can try and hook them into the screen but it never works. I just end up pump faking and shooting 2 shots the whole game. Any time I stop being scared and shooting I shoot 3/7. Im perfectly fine with being a play maker and passing the whole game, but when my team is locked up I’d like to be able to score submitted by /u/Senior-Entry309 to r/3on3 [link] [comments]",
-      "link": "https://www.reddit.com/r/3on3/comments/1qq6fnv/scoring_tips/",
-      "author": "/u/Senior-Entry309",
-      "search_keyword": "AI game maker",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T11:50:07.908396"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qq6ew1",
       "type": "search",
       "subreddit": "Journaling",
@@ -37991,7 +37931,175 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-02-07T20:47:49.998811"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qyphpv",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "How it started VS How it's going",
+      "content": "Check out Bloodpact on Steam https://store.steampowered.com/app/3679060/Bloodpact/ submitted by /u/AffectionateHope307 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qyphpv/how_it_started_vs_how_its_going/",
+      "author": "/u/AffectionateHope307",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T21:15:28.615300"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qypa37",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Being hunted by an evil cat while using the environment to escape — does this feel fun?",
+      "content": "submitted by /u/FRAGGY_OP [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qypa37/being_hunted_by_an_evil_cat_while_using_the/",
+      "author": "/u/FRAGGY_OP",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T21:15:28.615314"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qyp93k",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Happy #screenshotsaturaday 📸😊",
+      "content": "Follow and Wishlist Ashore & Away on steam: https://store.steampowered.com/app/3838200/Ashore__Away/ submitted by /u/MonkeysMirror [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qyp93k/happy_screenshotsaturaday/",
+      "author": "/u/MonkeysMirror",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T21:15:28.615326"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qypl91",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "We built a 90s-style computer for our game.",
+      "content": "Hey everyone! We’re working on a dystopian indie game, and inside the game we built a fully interactive 90s-style computer called Plobintosh. Players can: Browse weird old-school websites Solve hidden mysteries Play minigames Customize their desktop and environment And more... It’s basically a nostalgic, creepy and fun internet inside our game. Does this sound interesting to you as a player? And as a developer, what can we add to improve this for players? submitted by /u/M4sterChi3fTR [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qypl91/we_built_a_90sstyle_computer_for_our_game/",
+      "author": "/u/M4sterChi3fTR",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T21:15:28.615349"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qypeuj",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Liminal Open Field Scene Thoughts?!",
+      "content": "submitted by /u/Space_of_The_Lantern [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qypeuj/liminal_open_field_scene_thoughts/",
+      "author": "/u/Space_of_The_Lantern",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T21:15:28.615356"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qypdp4",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "How we made the character in Few Shall Return (video dev log)",
+      "content": "submitted by /u/victor-ballardgames [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qypdp4/how_we_made_the_character_in_few_shall_return/",
+      "author": "/u/victor-ballardgames",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T21:15:28.615363"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qyp5kr",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Ghibli 3D game - description of ultra-stylized 3D egine",
+      "content": "submitted by /u/Neat-Pack-8251 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qyp5kr/ghibli_3d_game_description_of_ultrastylized_3d/",
+      "author": "/u/Neat-Pack-8251",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T21:15:28.615370"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qyphqm",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Auto Motion, Rotational Blur and more in our video editor made in godot ...",
+      "content": "We’ve added a solid number of components recently, across different types. For those who don’t know, Components are the backbone of the project. They can drive full effects — from motion, to shaders, to transitions, and much more. Among the recent additions are Auto Motion Blur and Rotational Blur — professional-grade features where the user doesn’t need to manually define motion direction or strength; everything is calculated automatically. Every day we keep working hard, getting one step closer to the full release. submitted by /u/Odd-Date-4985 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qyphqm/auto_motion_rotational_blur_and_more_in_our_video/",
+      "author": "/u/Odd-Date-4985",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T21:15:28.615440"
+    },
+    {
+      "id": "https://www.reddit.com/r/unrealengine/t3_1qyozk1",
+      "type": "post",
+      "subreddit": "unrealengine",
+      "title": "Create a modular health system in unreal engine 5",
+      "content": "New UE5 tutorial: Modular Health System (Blueprints) Component-based, reusable, and easy to extend for events or mechanics submitted by /u/Justduffo [link] [comments]",
+      "link": "https://www.reddit.com/r/unrealengine/comments/1qyozk1/create_a_modular_health_system_in_unreal_engine_5/",
+      "author": "/u/Justduffo",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T21:15:28.615465"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qyp5v4",
+      "type": "search",
+      "subreddit": "ASUS",
+      "title": "No monitor output with my ASUS Radeon RX 9070 XT on DDR5",
+      "content": "Hi, So I bought my Radeon RX 9070 XT in November last year when it was on sale and hoping to get ahead of the rising prices, pretty much affecting all the hardware now. The rest of my components were all DDR4 and AM4. Everything was working fine until last week when I decided to upgrade my CPU, RAM, motherboard and CPU cooler as well. I switched out my old motherboard for the new one, installed the new CPU, RAM etc... At first boot I immediately got hit with Q-Code D6 (please see the attached video I made showing the boot with the Radeon RX 9070 XT) and both of my monitors not showing any output. I tried booting with the iGPU and my monitors started showing output. I have tried a bunch of things already with no results (I will post them below). I went back to using my old GPU so I doubt it's a PCIe issue, or a GPU seating issue with the new GPU. I also want to mention that the new GPU is connected with a 3x 8-pin connector on both the GPU and the PSU. Here is my build config: OS: Windows 11 25H2 Case: Fractal Design Epoch Power Supply: NZXT C850 Gold Core Motherboard: ASUS ROG STRIX B850-E GAMING WIFI CPU: AMD Ryzen 7 7800X3D CPU Cooler: Noctua NH-D15S New GPU: ASUS Prime Radeon RX 9070 XT OC Edition Old GPU: Sapphire Radeon RX 5700 XT Pulse RAM: Kingston Fury Beast 2x 16GB 6000MHz CL30 And everything that I've tried so far: Attempting to boot with the iGPU, successful no D6 Q-Code Using my old GPU the 5700 XT, also successful with no D6 Q-Code Updated to the latest BIOS firmware (Version 1404) my motherboard was on version 0326 but this made no difference I tried using different cables, HDMI and different DisplayPort cables Attempting to boot with one RAM stick made no difference Cleared CMOS Disabled EXPO which made no difference Manually selected GEN5 in the BIOS (PCIEX16(G5) Link Mode) setting Checked \"Primary Video Device\" in the BIOS settings Any further advice would be greatly appreciated. submitted by /u/Sythinii to r/ASUS [link] [comments]",
+      "link": "https://www.reddit.com/r/ASUS/comments/1qyp5v4/no_monitor_output_with_my_asus_radeon_rx_9070_xt/",
+      "author": "/u/Sythinii",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T21:15:28.615619"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qyp72h",
+      "type": "search",
+      "subreddit": "TheRaceTo10Million",
+      "title": "Started betting on tennis fixed matches with 4k now won 400k with the help of Courtsider💯",
+      "content": "New members join me as a team they are also happy for today's huge win💯 submitted by /u/Distinct-Complex-983 to r/TheRaceTo10Million [link] [comments]",
+      "link": "https://www.reddit.com/r/TheRaceTo10Million/comments/1qyp72h/started_betting_on_tennis_fixed_matches_with_4k/",
+      "author": "/u/Distinct-Complex-983",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T21:15:28.616137"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qypjc8",
+      "type": "search",
+      "subreddit": "DestinyTheGame",
+      "title": "Do you think bungie will get rid of the portal?",
+      "content": "I think it’s safe to say that the portal was one of many reason why people quit after edge of fate. And we all know bungie probably spent most of their dev time on the portal but it obviously has done way more harm to the game than good. Do yall think it will stay like this for the future? Or will bungie pivot back to the director or try to combine the two? submitted by /u/HellChicken949 to r/DestinyTheGame [link] [comments]",
+      "link": "https://www.reddit.com/r/DestinyTheGame/comments/1qypjc8/do_you_think_bungie_will_get_rid_of_the_portal/",
+      "author": "/u/HellChicken949",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T21:15:28.616157"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qyphv9",
+      "type": "search",
+      "subreddit": "saudi_gamers",
+      "title": "تعرَّف على مطورين الألعاب في مجتمعنا ⭐️🧡💙",
+      "content": "السلام عليكم ورحمة الله وبركاتة ، لاحظنا في مجتمعنا فيه ناس مبدعين يشتغلون على تطوير ألعاب من ألعاب رعب، مغامرات، وغيرها 👾 وحابّين نبدأ سلسلة تعليقات نعرّف فيها بصنّاع الألعاب الموجودين هنا، يحكون لنا قصتهم من البداية للنهاية، الصعوبات اللي واجهوها، وكيف قدروا يوصلون لإنجازاتهم وكيف انتم توصلون لها بأنفسكم 🫵💛 الهدف من البوست شيئين مهمين - دعم وتسليط الضوء على صنَّاع الألعاب - الهام المهتمين وإفادة صنَّاع المحتوى القادمين. لنكن معاً لنشر النجاح والإلهام 🏆🧡 submitted by /u/Lucky-person-330 to r/saudi_gamers [link] [comments]",
+      "link": "https://www.reddit.com/r/saudi_gamers/comments/1qyphv9/تعرف_على_مطورين_الألعاب_في_مجتمعنا/",
+      "author": "/u/Lucky-person-330",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T21:15:28.616171"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qypd71",
+      "type": "search",
+      "subreddit": "Cplusplus",
+      "title": "Created a C++ 14 Mqtt 5 client library for open source - KMMqtt",
+      "content": "Hey, Interested in feedback and generally just sharing this library if anyone wants to try use MQTT in their project. I come from a game dev background and recently had to work with MQTT, so I decided to write my own MQTT 5 C++ client library in my spare time as a way to learn what it’s like to design and ship a library end-to-end. I’ve tried to keep the design game-dev friendly and cross-platform (with future console support in mind). I started this early last year, working on it in small chunks each week, and learned a lot about library architecture and portability along the way. There are still things I plan to improve when I got a bit more time from my next hobby project, for example: Abstracting threading/timing instead of relying directly on std::thread / std::chrono (similar to how sockets are handled) Supporting custom memory allocators Removing a couple of unnecessary heap allocations Uses: MQTT 5 C++14 compatible CMake for builds Testing is currently unit tests + a sample app (no real-world integration). Thought I'd share it here, I'm happy to receive feedback, and feel free to use it: https://github.com/KMiseckas/kmMqtt Thanks submitted by /u/cloudjuiceskywalker to r/Cplusplus [link] [comments]",
+      "link": "https://www.reddit.com/r/Cplusplus/comments/1qypd71/created_a_c_14_mqtt_5_client_library_for_open/",
+      "author": "/u/cloudjuiceskywalker",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T21:15:28.616434"
     }
   ],
-  "last_updated": "2026-02-07T20:48:18.180350"
+  "last_updated": "2026-02-07T21:15:56.989315"
 }
