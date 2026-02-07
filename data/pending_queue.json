@@ -1,114 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/gamedev/t3_1qq80tv",
-      "type": "post",
-      "subreddit": "gamedev",
-      "title": "Asking 2D game developers: which aspect ratio should have the perfect screen for 2D games?",
-      "content": "Vertical space is very important for so many genres in 2D gaming... top down and isometric RPGs, platforms, beat'em ups, puzzles, and so on. So, if you had the opportunity to decide the aspect ratio of a display for a specific device, how it should be to accomodate the most genres without hampering or neglecting creativity... 1:1, 4:3, 3:2, 8:5 (16:10) or 16:9? Do not consider retrogaming, as it would be for new games (but embracing all possible genres, from the oldest to the newest). submitted by /u/Honest-Word-7890 [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedev/comments/1qq80tv/asking_2d_game_developers_which_aspect_ratio/",
-      "author": "/u/Honest-Word-7890",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T13:37:40.511726"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedev/t3_1qq7x8y",
-      "type": "post",
-      "subreddit": "gamedev",
-      "title": "Should I start learning unity or leave it for later?",
-      "content": "I've been taking some c++ classes for a while learning the language, making console scripts etc. and I plan on continuing them but I also want to get into game developing. I haven't done anything close to game developing except following a brackeys tutorial on unity back in 2022 and I don't remember anything since So I thought about going back to unity to start learning because I'd like to study game dev in University (I'm currently at highschool). So I want to ask should I learn unity and of course c# in parallel of c++ or just stick to c++ classes and leave game developing for the future. Also I have no idea where to start with unity and its programming language so that is a crucial part I'd like help with. Furthermore I would like to focus on 3d games as soon as I am capable of making them submitted by /u/South_Rhubarb1559 [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedev/comments/1qq7x8y/should_i_start_learning_unity_or_leave_it_for/",
-      "author": "/u/South_Rhubarb1559",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T13:37:40.511798"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qq8kra",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "A Mecha Game I'm making",
-      "content": "submitted by /u/jeri-IZUMI0056 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qq8kra/a_mecha_game_im_making/",
-      "author": "/u/jeri-IZUMI0056",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T13:37:40.511871"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qq8aqc",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Experimenting with a new obstacle in my ski-shooter. Flaming wheels of fire",
-      "content": "I thought the idea of giant wheels of fire hurtling down a hill would be a cool addition to my game. Thoughts? It's kind of a silly over the top game, what do you think? Steam Page submitted by /u/OfficialDuelist [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qq8aqc/experimenting_with_a_new_obstacle_in_my/",
-      "author": "/u/OfficialDuelist",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T13:37:40.511900"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qq7zui",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "I built an adult party board game for couples & friends — and just launched it on Google Play",
-      "content": "submitted by /u/Traderday24 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qq7zui/i_built_an_adult_party_board_game_for_couples/",
-      "author": "/u/Traderday24",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T13:37:40.511909"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qq7v5j",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "I just released my first free demo on Steam! It's basically Night at the Museum in game form.",
-      "content": "It's called Museum Guard: Exhibit Unknown and you can play it for free on Steam now, I hope you check it out! submitted by /u/Youpiepoopiedev [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qq7v5j/i_just_released_my_first_free_demo_on_steam_its/",
-      "author": "/u/Youpiepoopiedev",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T13:37:40.511918"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qq7t30",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Our game recent development showcase",
-      "content": "Our game \"The Light Of Vertical\" combat allows for free combination of skills, slice testing, and we are accelerating the production of the demo. I've added a dash attack that makes the character bounce back upon hitting an enemy, allowing you to use aerial skills right after. I also simulated a diagonal downward slash—it feels pretty fun! Next, I can add a combo counter system so it can work with support items to achieve other effects. submitted by /u/wxo516xo [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qq7t30/our_game_recent_development_showcase/",
-      "author": "/u/wxo516xo",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T13:37:40.511970"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qq7pv7",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Streamers react to my indie puzzle game!",
-      "content": "submitted by /u/dialglex [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qq7pv7/streamers_react_to_my_indie_puzzle_game/",
-      "author": "/u/dialglex",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T13:37:40.511991"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qq7bgm",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Dying Breed",
-      "content": "submitted by /u/Sarnayer [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qq7bgm/dying_breed/",
-      "author": "/u/Sarnayer",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T13:37:40.511996"
-    },
-    {
       "id": "https://www.reddit.com/r/IndieDev/t3_1qq8ixh",
       "type": "post",
       "subreddit": "IndieDev",
@@ -38171,7 +38063,103 @@
       "search_keyword": "",
       "relevance_score": 0,
       "added_at": "2026-02-07T22:50:56.629407"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qys8mi",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "\"Is Zombody Home?\" has a new demo out - >>> we are ready for Next Fest.",
+      "content": "submitted by /u/Ok-Definition3820 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qys8mi/is_zombody_home_has_a_new_demo_out_we_are_ready/",
+      "author": "/u/Ok-Definition3820",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T23:17:03.304628"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qyskfm",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "With the Super Mario Galaxy movie releasing soon, I decided I wanted to make a music asset pack based on the soundtrack from those games.",
+      "content": "submitted by /u/AutumnRCS [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qyskfm/with_the_super_mario_galaxy_movie_releasing_soon/",
+      "author": "/u/AutumnRCS",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T23:17:03.304640"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qys7sh",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "What a difference 7 months makes",
+      "content": "Familiar Findings is finally launching on Monday, so I went back looking to see if I could find some old screenshots. It was really easy to feel like things weren't changing much when those changes were small and incremental, but seeing these two side-by-side really made it hit home how much the game came together. submitted by /u/Idle-Researcher [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qys7sh/what_a_difference_7_months_makes/",
+      "author": "/u/Idle-Researcher",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T23:17:03.304656"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qys7ia",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "\"Is Zombody Home?\" has a new demo out - >>> we are ready for Next Fest.",
+      "content": "submitted by /u/Ok-Definition3820 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qys7ia/is_zombody_home_has_a_new_demo_out_we_are_ready/",
+      "author": "/u/Ok-Definition3820",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T23:17:03.304663"
+    },
+    {
+      "id": "https://www.reddit.com/r/unity/t3_1qyscqs",
+      "type": "post",
+      "subreddit": "unity",
+      "title": "HDRP Dark Patched on baked or mixed lights",
+      "content": "Hello I have been working on a game for a while now and I have now run into the issue that baked or mixed lights leave dark patches on walls I am using unity HDRP and Probuilder it’s one giant level mesh I never had this problem any help is greatly appreciated and if you want to we will even put your name into the credits. This doesnt happen on realtime lights. https://preview.redd.it/79iuyb7htvhg1.png?width=1027&format=png&auto=webp&s=451d2350b986c01d858a42550b08f6c84a021a80 submitted by /u/HelpMeWithUnity [link] [comments]",
+      "link": "https://www.reddit.com/r/unity/comments/1qyscqs/hdrp_dark_patched_on_baked_or_mixed_lights/",
+      "author": "/u/HelpMeWithUnity",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T23:17:03.304851"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qysjl8",
+      "type": "search",
+      "subreddit": "WebGames",
+      "title": "The Howl Game",
+      "content": "A buddy of mine and I been working on The Howl Game(A working title)— a free multiplayer party game you play in-person with friends. One person hosts, everyone else joins by scanning a QR code or opening a link. No app download, no signup. Would really appreciate it if anyone tries it out and lets me know what works and what doesn't. Happy to answer any questions here. submitted by /u/Flagis1 to r/WebGames [link] [comments]",
+      "link": "https://www.reddit.com/r/WebGames/comments/1qysjl8/the_howl_game/",
+      "author": "/u/Flagis1",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T23:17:03.304874"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qysjjr",
+      "type": "search",
+      "subreddit": "foxholegame",
+      "title": "Seeing all these post about how one side is stronger than the other makes me not want to play the game",
+      "content": "I haven't played for quite a while (like 2-3 years) and seeing all these posts and discussion about how the warden is op is making me not want to pick the game back up anymore, I just want to know why these posts are getting made as well submitted by /u/South_Barracuda5205 to r/foxholegame [link] [comments]",
+      "link": "https://www.reddit.com/r/foxholegame/comments/1qysjjr/seeing_all_these_post_about_how_one_side_is/",
+      "author": "/u/South_Barracuda5205",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T23:17:03.306675"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qysijb",
+      "type": "search",
+      "subreddit": "destiny2",
+      "title": "I still don’t like armor 3.0.",
+      "content": "I thought after a year bungie would introduce more archetypes or something but no, I’m still forced to invest in my super or weapons stat when I use grenade armor, why? I genuinely want to know why I can’t just put my stats where I want them to go? I wanna make an ability spam build on hunter but it’s just not optimal at all. Health: 70 Class: 98 Grenade: 155 Melee: 50 Super: 90 Weapons: 25 This is my ideal stat spread and to get it I would need to get literally perfect drops, with ALL tuners on grenade AND all with the right tertiary stat, and that’s just for ONE build. I used to get on this game just to make builds but now anytime I do that I realize that the stats are so fickle and stubborn with how I can actually distribute them that I just get off the game because making a new build means spending multiple real life days grinding for the right armor. And all for an unoptimal build! There’s 70 wasted stat points in super! And it’s only like that because grenadier FORCES me to take super as a secondary stat! I should be able to choose my secondary stat to be whatever I want, fuck having to grind for so much armor, especially when it was bungie who made my old armor useless. submitted by /u/ChoiceFudge3662 to r/destiny2 [link] [comments]",
+      "link": "https://www.reddit.com/r/destiny2/comments/1qysijb/i_still_dont_like_armor_30/",
+      "author": "/u/ChoiceFudge3662",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T23:17:03.306745"
     }
   ],
-  "last_updated": "2026-02-07T22:51:25.014591"
+  "last_updated": "2026-02-07T23:17:31.689392"
 }
