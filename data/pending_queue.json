@@ -1,78 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/t3_1qqk9zw",
-      "type": "search",
-      "subreddit": "FanFiction",
-      "title": "On AO3 what is the difference between “Character A”/“Character B” and “Character A”&”Character B”?",
-      "content": "Don’t both symbols mean the characters are in a relationship? And looking at the tags doesn’t help because without knowing what the symbols mean the giant wall of tags makes no sense. submitted by /u/Onyx_Artificer to r/FanFiction [link] [comments]",
-      "link": "https://www.reddit.com/r/FanFiction/comments/1qqk9zw/on_ao3_what_is_the_difference_between_character/",
-      "author": "/u/Onyx_Artificer",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T20:51:08.571195"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qqkxfq",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Our Demo is now live on Steam!",
-      "content": "submitted by /u/CGI_noOne [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qqkxfq/our_demo_is_now_live_on_steam/",
-      "author": "/u/CGI_noOne",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T21:15:55.974590"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qql8fd",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "POV: Your game just made it into Steam’s Top1000 most WL games. Do you: a) wrap up early and go out to celebrate? b) pull an all-nighter and work even harder because you can see the game’s got real potential?",
-      "content": "submitted by /u/darkjay_bs [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qql8fd/pov_your_game_just_made_it_into_steams_top1000/",
-      "author": "/u/darkjay_bs",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T21:15:55.974607"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qql17k",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "I was hoping for 500 on Monday (releasing), didn't expect to hit it before the weekend. Thank you *tear*",
-      "content": "submitted by /u/hermit_hollow [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qql17k/i_was_hoping_for_500_on_monday_releasing_didnt/",
-      "author": "/u/hermit_hollow",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T21:15:55.974614"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qqkx2p",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Our Demo is now live on Steam!",
-      "content": "You can already try out Drill and Delve ahead of Steam Next Fest that we will be participating in. - All Drill Tiers - Multiple other unlockables - Steam Achievements -4 to 8 hours of content! submitted by /u/CGI_noOne [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qqkx2p/our_demo_is_now_live_on_steam/",
-      "author": "/u/CGI_noOne",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T21:15:55.974624"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qqkxw7",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "God is Crying (Check out this environment I made for my game)",
-      "content": "Game is Dead Fantasia, and you can wishlist it on steam if it tickles your fancy! :) submitted by /u/Varpyg [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qqkxw7/god_is_crying_check_out_this_environment_i_made/",
-      "author": "/u/Varpyg",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T21:15:55.974714"
-    },
-    {
       "id": "https://www.reddit.com/r/godot/t3_1qqkqtw",
       "type": "post",
       "subreddit": "godot",
@@ -38951,7 +38879,67 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-02-08T14:22:51.769006"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qzat5d",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "Developer runs Doom on VSCode as an MCP App",
+      "content": "https://youtu.be/ak3ECrLg_gk (Use YouTube's CC feature for English subtitles/dub) submitted by /u/ImmortalTree [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qzat5d/developer_runs_doom_on_vscode_as_an_mcp_app/",
+      "author": "/u/ImmortalTree",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T14:51:25.990274"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qzabre",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Trying out new UI for getting orders in my game, StarDrift Delivery",
+      "content": "submitted by /u/Long_Couple_3817 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qzabre/trying_out_new_ui_for_getting_orders_in_my_game/",
+      "author": "/u/Long_Couple_3817",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T14:51:25.990313"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qzahew",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Updated Capsule after getting feedback from the community",
+      "content": "A while ago I got your feedback on my updated capsule, and after reading it I decided I still liked the new logo, but agreed more of the art should show through and that the cards needed to be updated. Here's the latest, let me know what you think! original post: https://www.reddit.com/r/IndieDev/comments/1qqgvqo/i_hired_an_different_artist_to_redo_the_capsule/ submitted by /u/BossGrand [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qzahew/updated_capsule_after_getting_feedback_from_the/",
+      "author": "/u/BossGrand",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T14:51:25.990361"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qzatj8",
+      "type": "search",
+      "subreddit": "gpu",
+      "title": "I suspect my gpu is dying",
+      "content": "My gpu an Nvidea RTX 3060 12gb randomly flickeres with black dots and squares on my screen but the weird thing is that it only does this on either davincy resolve or visual novel games make with renpy normal on desktop its fine and so is it ok other games maybe an setting I have? submitted by /u/FormerGovernment3914 to r/gpu [link] [comments]",
+      "link": "https://www.reddit.com/r/gpu/comments/1qzatj8/i_suspect_my_gpu_is_dying/",
+      "author": "/u/FormerGovernment3914",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T14:51:25.991553"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qzapue",
+      "type": "search",
+      "subreddit": "iosgaming",
+      "title": "Solo Dev Question: Do you actually care about Game Center features?",
+      "content": "I’m a solo dev working on a native iOS game and I'm currently at a crossroads with implementation. I’ve been leaning heavily into Game Center for everything (matchmaking, leaderboards, achievements) because I want to avoid building a custom backend and keep things as private and native as possible. However, I know Game Center has a... mixed reputation. From a player's perspective, I'd love to know what you actually use or value: Achievements: Do you still hunt for these, or do you find the pop-ups annoying? Leaderboards: Is there any satisfaction in seeing a global rank, or is it only interesting if your friends are on there? Challenges: Have you ever actually sent or received a direct Game Center challenge? Activity Feed: Does seeing what your friends are playing or their recent milestones in the Game Center dashboard actually motivate you to jump back into a game? Multiplayer: If a game uses Game Center for matchmaking instead of a custom lobby system, is that a \"pro\" (privacy/native) or a \"con\" (clunkiness) for you? I'm trying to decide if I should invest time into deep Game Center integration (like specific challenges and tiered achievements) or if that effort is better spent elsewhere. What makes a \"good\" integration for you? Or do you just sign out and ignore it entirely? submitted by /u/DannysFluffyCat to r/iosgaming [link] [comments]",
+      "link": "https://www.reddit.com/r/iosgaming/comments/1qzapue/solo_dev_question_do_you_actually_care_about_game/",
+      "author": "/u/DannysFluffyCat",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T14:51:25.991974"
     }
   ],
-  "last_updated": "2026-02-08T14:23:20.076836"
+  "last_updated": "2026-02-08T14:51:54.457774"
 }
