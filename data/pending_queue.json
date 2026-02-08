@@ -1,18 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/gamedev/t3_1qqo2z6",
-      "type": "post",
-      "subreddit": "gamedev",
-      "title": "What game will you develop with Genie? Infinite unrestricted possibilities...",
-      "content": "Check out Project Genie from Google - https://labs.google/projectgenie Since Genie learns from video input rather than a physics engine, we aren't limited by hitboxes or rigid code anymore. We are only limited by what we can show it. If you could feed it any visual from 80s anime to microscopic footage, and turn it into a playable world, what would you build? submitted by /u/heizaman [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedev/comments/1qqo2z6/what_game_will_you_develop_with_genie_infinite/",
-      "author": "/u/heizaman",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T23:15:54.813066"
-    },
-    {
       "id": "https://www.reddit.com/r/indiegaming/t3_1qqntzp",
       "type": "post",
       "subreddit": "indiegaming",
@@ -38975,7 +38963,187 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-02-08T17:16:24.001205"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qzf252",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "I created a Mars colony survival RPG called Underhill based on my favorite sci-fi trilogy",
+      "content": "https://reddit.com/link/1qzf252/video/2pd1czrw2big1/player submitted by /u/ariagalam [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qzf252/i_created_a_mars_colony_survival_rpg_called/",
+      "author": "/u/ariagalam",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T17:49:53.878336"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qzeni5",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Don't eat that mushroom!!! 🍄",
+      "content": "submitted by /u/Nordurljosid [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qzeni5/dont_eat_that_mushroom/",
+      "author": "/u/Nordurljosid",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T17:49:53.878346"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qzfis3",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "The importance of lighting and post process.",
+      "content": "https://preview.redd.it/xavfbli36big1.png?width=1920&format=png&auto=webp&s=312755d6066743cf7bde4a916662e5be709b98ca They are both in game screenshots. Upper one only has a default Unity directional light, and the lower one has a baked light (used Bakery) and post process. What do you think? submitted by /u/Commercial-Low3475 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qzfis3/the_importance_of_lighting_and_post_process/",
+      "author": "/u/Commercial-Low3475",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T17:49:53.878359"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qzfihg",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "I'm making a game in 30 days for the ONE GAME A MONTH challenge!",
+      "content": "Hi! I started this challenge with other devs on my Discord Server. The Goal is to make One Game A Month with a given Theme and Limitation. What do you think about what I'm making? if you are interested you can check the devlog here! -> https://youtu.be/9cOJUW_OrMA submitted by /u/ElOctopusGameStudios [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qzfihg/im_making_a_game_in_30_days_for_the_one_game_a/",
+      "author": "/u/ElOctopusGameStudios",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T17:49:53.878371"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qzf2mi",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Everybody asked for difficulty modes so now I made that happen. Nearly half of all levels done, too! On a good way to release in April",
+      "content": "submitted by /u/MiaT_Studio [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qzf2mi/everybody_asked_for_difficulty_modes_so_now_i/",
+      "author": "/u/MiaT_Studio",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T17:49:53.878412"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qzez79",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "I built a browser extension that scans QR codes just by hovering",
+      "content": "submitted by /u/Spirited_Buddy_3300 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qzez79/i_built_a_browser_extension_that_scans_qr_codes/",
+      "author": "/u/Spirited_Buddy_3300",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T17:49:53.878418"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qzena5",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Instead of splitting my game settings into multiple pages, I grouped them in a single list with buttons to auto-scroll to specific sections. Do you think this approach is more or less efficient ?",
+      "content": "submitted by /u/Fledered [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qzena5/instead_of_splitting_my_game_settings_into/",
+      "author": "/u/Fledered",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T17:49:53.878433"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qzfend",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "I've made some changes to my skating rink game.",
+      "content": "I would be interested in receiving criticism, as well as comments on what you would suggest adding to the game, mechanics, and mini-games. submitted by /u/Yaley-Dev [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qzfend/ive_made_some_changes_to_my_skating_rink_game/",
+      "author": "/u/Yaley-Dev",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T17:49:53.878444"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qzexso",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "One month with Godot and loving it. Do you get the vibe I'm going for?",
+      "content": "submitted by /u/Rouliboudin [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qzexso/one_month_with_godot_and_loving_it_do_you_get_the/",
+      "author": "/u/Rouliboudin",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T17:49:53.878451"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qzew1k",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Bestiary layout update",
+      "content": "submitted by /u/Nepacka [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qzew1k/bestiary_layout_update/",
+      "author": "/u/Nepacka",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T17:49:53.878456"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qzfhoh",
+      "type": "search",
+      "subreddit": "asktransgender",
+      "title": "How long, after coming out, do you give leeway to people on your name before you start correcting them?",
+      "content": "I came out to my family a few weeks ago and they still keep using my deadname without apologizing and self-correcting. While I understand that an adjustment is to be expected, I would assume that they would, if supportive, make an effort to respect you and your choices, no? submitted by /u/Taograd359 to r/asktransgender [link] [comments]",
+      "link": "https://www.reddit.com/r/asktransgender/comments/1qzfhoh/how_long_after_coming_out_do_you_give_leeway_to/",
+      "author": "/u/Taograd359",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T17:49:53.879468"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qzfhd5",
+      "type": "search",
+      "subreddit": "GoodCoffeeGreatCoffee",
+      "title": "Why is money so hard to come by in this game?! 😭",
+      "content": "I feel like I'm not making any money! Looking more at this reciept I'm realizing the refunds were the issue, but the person ordered 3 pumpkin spice lattes and I forgot the cinnamon on all of them so that refund number was basically for 1 order 🫠 please ignore that. And the supplies seem so much more expensive 😭 Everyone on this day ordered multi drinks, it was like the extra hard challenge day... negative revenue is not common for me at all, but I still feel like even if I make all drinks perfect and see a lot of customers, I will still only make less than $100/day. Going in the store makes me so sad because in good pizza great pizza, I basically don't look at the price of anything before buying since the revenue in that game seems to come so much easier. Though I do have all the buddies and grow everything that I can in that game...so I understand the margin for error, but I shouldn't have to play 500 game days to afford a table set for my coffee shop. 🤣 What's everyone doing for money? submitted by /u/jamjam_876 to r/GoodCoffeeGreatCoffee [link] [comments]",
+      "link": "https://www.reddit.com/r/GoodCoffeeGreatCoffee/comments/1qzfhd5/why_is_money_so_hard_to_come_by_in_this_game/",
+      "author": "/u/jamjam_876",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T17:49:53.879686"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qzfdwq",
+      "type": "search",
+      "subreddit": "R6ProLeague",
+      "title": "THE Roman \"Forrest\" Breaux MINDSET",
+      "content": "Made with u/FallToad11 submitted by /u/Lucky_Lucas11 to r/R6ProLeague [link] [comments]",
+      "link": "https://www.reddit.com/r/R6ProLeague/comments/1qzfdwq/the_roman_forrest_breaux_mindset/",
+      "author": "/u/Lucky_Lucas11",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T17:49:53.880031"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qzf6am",
+      "type": "search",
+      "subreddit": "CoDCompetitive",
+      "title": "There Is No Incentive to Play the Objective With the New Score Changes",
+      "content": "Devs have been clear that score is the number one factor in determining rank, but ever since they heavily nerfed objective score to slow down scorestreaks, it’s completely killed any incentive to play the objective. In higher rank lobbies nobody plays the ball in Overload because you’re so heavily penalized for it. I captured this from a game the other day where two players seemed completely lost. 25 more seconds, 7 more objective kills, and 3 more captures all for 100 more score. I constantly check the scoreboard at the end of matches and genuinely can’t figure out how these scores are supposed to make any sense. submitted by /u/griffyngould to r/CoDCompetitive [link] [comments]",
+      "link": "https://www.reddit.com/r/CoDCompetitive/comments/1qzf6am/there_is_no_incentive_to_play_the_objective_with/",
+      "author": "/u/griffyngould",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T17:49:53.880166"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qzfgeb",
+      "type": "search",
+      "subreddit": "obs",
+      "title": "My streams have an audio echo, but my local recordings don't! Why? How do I fix this?",
+      "content": "So my local recordings do not seem to have any echoes. I know this because I'm recording both games as well as my desktop generally. Whatever the audio mixer settings are for local recordings, it seems to make no difference. However, when I'm streaming online, either directly on Twitch or I'm streaming to a service called a restream, no matter which one it is, these streams both have echoes that keep on looping nonstop, and the volume seems to keep on reducing over time. I can't seem to figure out why there's this echo that keeps on reducing. I would assume the same audio settings should be working for both local recording as well as streaming. I'm not quite sure what to fix and how and where. submitted by /u/newuxtreme to r/obs [link] [comments]",
+      "link": "https://www.reddit.com/r/obs/comments/1qzfgeb/my_streams_have_an_audio_echo_but_my_local/",
+      "author": "/u/newuxtreme",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T17:49:53.880508"
     }
   ],
-  "last_updated": "2026-02-08T17:16:52.409588"
+  "last_updated": "2026-02-08T17:50:21.989981"
 }
