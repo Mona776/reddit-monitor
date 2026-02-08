@@ -1,78 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/godot/t3_1qqvnnk",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "small footage about my game",
-      "content": "my game name is Tajekrov submitted by /u/Immediate_Piglet_905 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qqvnnk/small_footage_about_my_game/",
-      "author": "/u/Immediate_Piglet_905",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T04:53:45.772716"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qqvefb",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "My project",
-      "content": "submitted by /u/Immediate_Piglet_905 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qqvefb/my_project/",
-      "author": "/u/Immediate_Piglet_905",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T04:53:45.772721"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qqvbs6",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Little demo with the Physics Server API",
-      "content": "submitted by /u/_michaeljared [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qqvbs6/little_demo_with_the_physics_server_api/",
-      "author": "/u/_michaeljared",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T04:53:45.772726"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qqubad",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "made some aesthetic changes to my dice roguelike",
-      "content": "submitted by /u/toxicspiyt [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qqubad/made_some_aesthetic_changes_to_my_dice_roguelike/",
-      "author": "/u/toxicspiyt",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T04:53:45.772732"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedesign/t3_1qqvzwm",
-      "type": "post",
-      "subreddit": "gamedesign",
-      "title": "How would you make stacklands more challenging?",
-      "content": "I'm working on a stacklandslike, and one design goals I have is for it to be a roguelite with a typical game taking about an hour. So what would stacklands look like if you were actually at risk of loosing? submitted by /u/chunky_lover92 [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedesign/comments/1qqvzwm/how_would_you_make_stacklands_more_challenging/",
-      "author": "/u/chunky_lover92",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T04:53:45.772745"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qqutsy",
-      "type": "search",
-      "subreddit": "u_Large-Can-8032",
-      "title": "Let's catch each other on Wattpad: https://www.wattpad.com/user/sexy_bellie",
-      "content": "submitted by /u/Large-Can-8032 to u/Large-Can-8032 [link] [comments]",
-      "link": "https://www.reddit.com/r/u_Large-Can-8032/comments/1qqutsy/lets_catch_each_other_on_wattpad/",
-      "author": "/u/Large-Can-8032",
-      "search_keyword": "no code game",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T04:53:45.772841"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qqv8at",
       "type": "search",
       "subreddit": "TF2fashionadvice",
@@ -39503,7 +39431,103 @@
       "search_keyword": "",
       "relevance_score": 0,
       "added_at": "2026-02-08T22:52:08.260136"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qznu17",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "would you give up a small % of revenue to get influencer promotion?",
+      "content": "Working on an idea and want honest feedback. The concept: a platform where indie devs put up a small percentage of future game revenue (say 10%). Influencers earn equity in your game by promoting it. This is mean to be instead of paying upfront for sponsorships most of us can't afford, the influencer is betting on your game alongside you. Questions I'm trying to figure out: Would you actually consider giving up a revenue share for promotion? What percentage feels reasonable vs too much? What would be required for you to move forward with something like this- guaranteed content deliverables or things along those lines? Benchmarks from influencers? What would make this a hard no for you? Thanks for any feedback. Like many other small or solo teams, I know it can be time consuming and costly to try to manage influencer marketing for the games but it is essential. submitted by /u/mizerr [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qznu17/would_you_give_up_a_small_of_revenue_to_get/",
+      "author": "/u/mizerr",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T23:18:42.506472"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qznpmn",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "r/IndieDev Weekly Monday Megathread - February 08, 2026 - New users start here! Show us what you're working on! Have a chat! Ask a question!",
+      "content": "Hi r/IndieDev ! This is our weekly megathread that is renewed every Monday! It's a space for new redditors to introduce themselves, but also a place to strike up a conversation about anything you like! Use it to: Introduce yourself! Show off a game or something you've been working on Ask a question Have a conversation Give others feedback And... if you don't have quite enough karma to post directly to the subreddit, this is a good place to post your idea as a comment and talk to others to gather the necessary comment karma. If you would like to see all the older Weekly Megathreads, just click on the \"Megathread\" filter in the sidebar or click here ! submitted by /u/llehsadam [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qznpmn/rindiedev_weekly_monday_megathread_february_08/",
+      "author": "/u/llehsadam",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T23:18:42.506492"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qznz2o",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "UI resolution issues",
+      "content": "I’ve built all of the gameplay in my game in 320x180 resolution, and now I’m trying to make some menus and tables in the game, and 320x180 is proving to be way too small to fit the information I want on one screen. Is there a way to give one scene a larger base resolution while leaving the rest of the game at 320x180? submitted by /u/ConfusionActive9 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qznz2o/ui_resolution_issues/",
+      "author": "/u/ConfusionActive9",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T23:18:42.506512"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qznwz2",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "how do i find the example project used in this doc?",
+      "content": "https://docs.godotengine.org/en/stable/tutorials/2d/2d_parallax.html#doc-2d-parallax-positioning submitted by /u/josephsmithberger [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qznwz2/how_do_i_find_the_example_project_used_in_this_doc/",
+      "author": "/u/josephsmithberger",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T23:18:42.506521"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qznga8",
+      "type": "search",
+      "subreddit": "ROBLOXExploiting",
+      "title": "They can't be real 💀",
+      "content": "submitted by /u/Center2055 to r/ROBLOXExploiting [link] [comments]",
+      "link": "https://www.reddit.com/r/ROBLOXExploiting/comments/1qznga8/they_cant_be_real/",
+      "author": "/u/Center2055",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T23:18:42.506699"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qzo2rh",
+      "type": "search",
+      "subreddit": "songsofsyx",
+      "title": "The lavatory farts",
+      "content": "The lavatory soundeffect has to be the single most annoying soundeffect I've ever heard in a strategy game. The force with which your citizens queef the nastiest stinkers in your ears makes it hard to overhear :D It's really something.. submitted by /u/Uggroyahigi to r/songsofsyx [link] [comments]",
+      "link": "https://www.reddit.com/r/songsofsyx/comments/1qzo2rh/the_lavatory_farts/",
+      "author": "/u/Uggroyahigi",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T23:18:42.507306"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qznt7i",
+      "type": "search",
+      "subreddit": "NormalBattletech",
+      "title": "Concept Mech - Huntsman",
+      "content": "submitted by /u/PleiadesMechworks to r/NormalBattletech [link] [comments]",
+      "link": "https://www.reddit.com/r/NormalBattletech/comments/1qznt7i/concept_mech_huntsman/",
+      "author": "/u/PleiadesMechworks",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T23:18:42.507439"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qznw3f",
+      "type": "search",
+      "subreddit": "fuckepic",
+      "title": "Horses dev says Epic Games Store made \"provably incorrect\" comments about the banned horror game: \"They have effectively ghosted us\"",
+      "content": "submitted by /u/dragonslayer951 to r/fuckepic [link] [comments]",
+      "link": "https://www.reddit.com/r/fuckepic/comments/1qznw3f/horses_dev_says_epic_games_store_made_provably/",
+      "author": "/u/dragonslayer951",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T23:18:42.507676"
     }
   ],
-  "last_updated": "2026-02-08T22:52:36.295649"
+  "last_updated": "2026-02-08T23:19:10.975208"
 }
