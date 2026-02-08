@@ -1,18 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/t3_1qqj9nt",
-      "type": "search",
-      "subreddit": "runescape",
-      "title": "Suggested Mobile UI Improvements.",
-      "content": "Hello! With the recent direction RuneScape is going, it seems fitting to take a look at the mobile client as it's a large part of how the community interacts with the game. I've compiled a few suggestions on ways to improve the mobile client that I believe could help make it a more robust experience. Hopefully what I'm suggesting is clear. If anyone has any more suggestion feel free to comment them below. These past few weeks have been great for the game and for the community. Thanks devs for the good work and here's to more great things! submitted by /u/Cavaleiroo to r/runescape [link] [comments]",
-      "link": "https://www.reddit.com/r/runescape/comments/1qqj9nt/suggested_mobile_ui_improvements/",
-      "author": "/u/Cavaleiroo",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T20:16:54.720088"
-    },
-    {
       "id": "https://www.reddit.com/r/gamedev/t3_1qqjr02",
       "type": "post",
       "subreddit": "gamedev",
@@ -38783,7 +38771,163 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-02-08T13:16:48.735660"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qz9jny",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "I built a remote playtesting client using rust+gstreamer+vigembus",
+      "content": "The idea was to make non browser based demos accessible earlier for playtesting before your game/demo has been published on Steam. I’m gauging interest and feedback. Would love to hear your thoughts! Thanks :) submitted by /u/octaviustf [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qz9jny/i_built_a_remote_playtesting_client_using/",
+      "author": "/u/octaviustf",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T13:58:01.978269"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qz9djh",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "Indie Game Music Festivals in 2026",
+      "content": "Hello everyone! An indie game I worked on as the music composer is releasing on Steam tomorrow, and I was wondering if there are any awards, competitions, or festivals that specifically accept game soundtracks or game audio submissions. After some research I found some bigger awards or awards for game developers but not specifically music, but I’m especially curious about composer-focused competitions, indie-friendly awards, or anything people here have personally submitted to. Also if there are communities online that you suggest sharing the soundtrack in I would be happy to know It’s the first time I’ve made a game soundtrack, so i’d love to hear about your experiences and any do’s & don’ts I should be aware of! submitted by /u/arsan_sa [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qz9djh/indie_game_music_festivals_in_2026/",
+      "author": "/u/arsan_sa",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T13:58:01.978314"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qz900n",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Xenos surround YOU from all four sides! (front, back, floor, ceiling)",
+      "content": "Hey everyone! in the VR game Xenolocus, xenos attack YOU from ALL directions: front lunges, back stabs, bursting from the floor and dropping from the ceiling. No cover is safe. Ready for real VR nightmare? What scares you more in VR horror: floor bursts or ceiling drops? submitted by /u/RelevantOperation422 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qz900n/xenos_surround_you_from_all_four_sides_front_back/",
+      "author": "/u/RelevantOperation422",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T13:58:01.978465"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qz8pjx",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Tree Style 01",
+      "content": "submitted by /u/Powerful-Coast-5995 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qz8pjx/tree_style_01/",
+      "author": "/u/Powerful-Coast-5995",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T13:58:01.978537"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qz8zs5",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Which sprite do you prefer?",
+      "content": "Making a maze-like puzzle adventure game, with a neon/tron inspired aesthetic submitted by /u/Wario_Always_Wins [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qz8zs5/which_sprite_do_you_prefer/",
+      "author": "/u/Wario_Always_Wins",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T13:58:01.978570"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qz90tj",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Which sprite do you prefer?",
+      "content": "Making a maze-like puzzle adventure game, with a neon/tron inspired aesthetic submitted by /u/Wario_Always_Wins [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qz90tj/which_sprite_do_you_prefer/",
+      "author": "/u/Wario_Always_Wins",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T13:58:01.978605"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qz904l",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Before and After adding Tweens to my shop. Now it embodies driftwood a little more!",
+      "content": "Overhauling some visuals in our game, and as the coder, I figured we could change more than just the art! Tweens are cool!!! submitted by /u/HolograpicQuad [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qz904l/before_and_after_adding_tweens_to_my_shop_now_it/",
+      "author": "/u/HolograpicQuad",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T13:58:01.978614"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qz8r0b",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "All hands on deck! I finally set the right course for my treasure-diving adventure ⚓",
+      "content": "After spending some good time on trying different things, I now know where my journey is heading. I'll be (hopefully) working on this game in the coming year - depends on a public funding I'm currently applying for, so wish me luck. I'm really happy with this early art test and would love to hear your thoughts on the vibe! ⚓ submitted by /u/8BitBeard [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qz8r0b/all_hands_on_deck_i_finally_set_the_right_course/",
+      "author": "/u/8BitBeard",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T13:58:01.978657"
+    },
+    {
+      "id": "https://www.reddit.com/r/unrealengine/t3_1qz994x",
+      "type": "post",
+      "subreddit": "unrealengine",
+      "title": "Python: Automate Creating Material Instances With Different Properties in under 2 minutes",
+      "content": "submitted by /u/braduuul [link] [comments]",
+      "link": "https://www.reddit.com/r/unrealengine/comments/1qz994x/python_automate_creating_material_instances_with/",
+      "author": "/u/braduuul",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T13:58:01.978699"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qz9130",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Xenos surround YOU from all four sides! (front, back, floor, ceiling)",
+      "content": "Hey everyone! in the VR game Xenolocus, xenos attack YOU from ALL directions: front lunges, back stabs, bursting from the floor and dropping from the ceiling. No cover is safe. Ready for real VR nightmare? What scares you more in VR horror: floor bursts or ceiling drops? submitted by /u/RelevantOperation422 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qz9130/xenos_surround_you_from_all_four_sides_front_back/",
+      "author": "/u/RelevantOperation422",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T13:58:01.978712"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qz9jo9",
+      "type": "search",
+      "subreddit": "HighGridlock",
+      "title": "OctoSuite Promo Codes | 30% Off February 2026 Coupons",
+      "content": "Top OctoSuite Promo Codes for February 9, 2026 . Save up to 30% off with OctoSuite coupons. There is a wide selection of promo codes, coupons, and discount codes that are updated regularly for you to choose from and make your purchase more affordable. submitted by /u/fixedlayouter to r/HighGridlock [link] [comments]",
+      "link": "https://www.reddit.com/r/HighGridlock/comments/1qz9jo9/octosuite_promo_codes_30_off_february_2026_coupons/",
+      "author": "/u/fixedlayouter",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T13:58:01.979294"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qz9jny",
+      "type": "search",
+      "subreddit": "gamedev",
+      "title": "I built a remote playtesting client using rust+gstreamer+vigembus",
+      "content": "The idea was to make non browser based demos accessible earlier for playtesting before your game/demo has been published on Steam. I’m gauging interest and feedback. Would love to hear your thoughts! Thanks :) submitted by /u/octaviustf to r/gamedev [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qz9jny/i_built_a_remote_playtesting_client_using/",
+      "author": "/u/octaviustf",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T13:58:01.979308"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qz9jkf",
+      "type": "search",
+      "subreddit": "OrderlyScouring",
+      "title": "Dr. Schulze Promo Codes | 30% Off February 2026 Coupons",
+      "content": "Top Dr. Schulze Promo Codes for February 9, 2026 . Save up to 30% off with Dr. Schulze coupons. There is a wide selection of promo codes, coupons, and discount codes that are updated regularly for you to choose from and make your purchase more affordable. submitted by /u/lankyuniversitier to r/OrderlyScouring [link] [comments]",
+      "link": "https://www.reddit.com/r/OrderlyScouring/comments/1qz9jkf/dr_schulze_promo_codes_30_off_february_2026/",
+      "author": "/u/lankyuniversitier",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T13:58:01.979319"
     }
   ],
-  "last_updated": "2026-02-08T13:17:16.901004"
+  "last_updated": "2026-02-08T13:58:30.292545"
 }
