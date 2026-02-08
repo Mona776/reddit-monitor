@@ -1,138 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qqolwv",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Chase a high score or relax in creative mode in EVERDAWN",
-      "content": "submitted by /u/SOLIDSStudio [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qqolwv/chase_a_high_score_or_relax_in_creative_mode_in/",
-      "author": "/u/SOLIDSStudio",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T23:45:36.079160"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qqoka8",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Further in the scenario there are a lot of battles inside the bases. So we need to add some mechanics and improve the existing ones.",
-      "content": "submitted by /u/Syopic [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qqoka8/further_in_the_scenario_there_are_a_lot_of/",
-      "author": "/u/Syopic",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T23:45:36.079193"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qqok4q",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Parallax backgrounds made with shader graphs",
-      "content": "submitted by /u/radishking27 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qqok4q/parallax_backgrounds_made_with_shader_graphs/",
-      "author": "/u/radishking27",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T23:45:36.079199"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qqoyro",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Godot 4.2 Not responding, Help!",
-      "content": "I installed Godot 4.2 Stable for Windows 11 on my laptop, all good until I made 3 cameras in a same scene, I dont know if it is that but is on the scene in the image. I dont have a bad laptop and its working well, also the console doesnt say anything. I literally cant open that scene, any help matters, its for a jam submitted by /u/Previous_Flight1179 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qqoyro/godot_42_not_responding_help/",
-      "author": "/u/Previous_Flight1179",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T23:45:36.079222"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qqolnr",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "[4.5.1] How do you change the specular property of a material in c#?",
-      "content": "My code creates a mat using 'var mat = new StandardMaterial3D();' and I can easily change properties like albedotexture, texturerepeat, and more. Id like to change the specular property aswell, but can't find the appropriate command. 'mat.Specular' does not seem to work, seemingly nothing about specular in the docs either. I know the property exists because I can clearly see it in the godot material editor under metallic > specular. submitted by /u/egor141 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qqolnr/451_how_do_you_change_the_specular_property_of_a/",
-      "author": "/u/egor141",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T23:45:36.079297"
-    },
-    {
-      "id": "https://www.reddit.com/r/unity/t3_1qqoubg",
-      "type": "post",
-      "subreddit": "unity",
-      "title": "Indie devs: how do you actually find playtesters, and what kind of feedback do you get?",
-      "content": "submitted by /u/player_immersely [link] [comments]",
-      "link": "https://www.reddit.com/r/unity/comments/1qqoubg/indie_devs_how_do_you_actually_find_playtesters/",
-      "author": "/u/player_immersely",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T23:45:36.079304"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qqp3wo",
-      "type": "search",
-      "subreddit": "gtaonline",
-      "title": "I curse the game and all the devs that made it, especially the people that made that God damn corner",
-      "content": "submitted by /u/Budget_Hurry3798 to r/gtaonline [link] [comments]",
-      "link": "https://www.reddit.com/r/gtaonline/comments/1qqp3wo/i_curse_the_game_and_all_the_devs_that_made_it/",
-      "author": "/u/Budget_Hurry3798",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T23:45:36.081441"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qqoxis",
-      "type": "search",
-      "subreddit": "duneawakening",
-      "title": "What's the best thing the devs done in this game so far gameplay wise?",
-      "content": "Disabling the collision between orthothopters. I still see scouts trying to push carriers into the ground in PVE zones. This was such a terrible nuisance back in the day. submitted by /u/Tentacle_poxsicle to r/duneawakening [link] [comments]",
-      "link": "https://www.reddit.com/r/duneawakening/comments/1qqoxis/whats_the_best_thing_the_devs_done_in_this_game/",
-      "author": "/u/Tentacle_poxsicle",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T23:45:36.081462"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedev/t3_1qqq69e",
-      "type": "post",
-      "subreddit": "gamedev",
-      "title": "Top down strategy camera controls",
-      "content": "In a top down game with a fixed camera angle (not rotating), in which you look around a map, place units, select units, etc., which controller joystick would you expect to control the camera movement? I don’t use controllers much for this type of game and both feel ok to me. Obviously in character games it would be right stick. submitted by /u/dirtyword [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedev/comments/1qqq69e/top_down_strategy_camera_controls/",
-      "author": "/u/dirtyword",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T00:58:13.209116"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qqqvob",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Grim Axiom - Finally Ready for a Demo!",
-      "content": "Hey All , I just put out my first demo! I'm developing a new isometric souls-like called Grim Axiom and currently have a demo out on Steam. I would love to get more feedback and ideas for improvement, so if you're interested please give it a go and let me know what you think, either here or in the Steam discussions page. Also, if you like how it's turning out, don't forget to wishlist! Grim Axiom on Steam: https://store.steampowered.com/app/3882150/Grim_Axiom/ submitted by /u/RareSoupStudio [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qqqvob/grim_axiom_finally_ready_for_a_demo/",
-      "author": "/u/RareSoupStudio",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T00:58:13.209203"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qqq87v",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Thanks to the small amount of feedback I got on the Alpha test of my game I fixed some bugs and got better cover art!",
-      "content": "what do you think? and if anyone wants to check out the alpha demo its here - https://soloingthedungeon.itch.io/herbalist submitted by /u/Free-Breadfruit9378 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qqq87v/thanks_to_the_small_amount_of_feedback_i_got_on/",
-      "author": "/u/Free-Breadfruit9378",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T00:58:13.209216"
-    },
-    {
       "id": "https://www.reddit.com/r/IndieDev/t3_1qqqm9f",
       "type": "post",
       "subreddit": "IndieDev",
@@ -39563,7 +39431,103 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-02-08T20:12:55.467311"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qzk7um",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "Advice on making a vertical slice for an immersive-sim",
+      "content": "Hi all! I’ve been working on a game for a while now, and would like to prepare it for pitches to publishers. The common route is to build a playable vertical slice. My question is, how deep does this have to go? For an immersive-sim, a lot of the appeal is the depth of gameplay choices. Which means a polished vertical slice for this genre would be a lot more work that say a level in a 3D platformer. Are these slices expected to be fully fleshed out, or enough to “get the point.” Thanks! submitted by /u/TheOldManInTheSea [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qzk7um/advice_on_making_a_vertical_slice_for_an/",
+      "author": "/u/TheOldManInTheSea",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T20:47:48.264946"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qzjnh3",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Created a geometry node tree in Blender for creating stylized normal maps for my game!!",
+      "content": "Took a long time to learn Blender geometry nodes, but now I have a node tree I can put on any model to create my game's stylized normal maps! Works by creating lots of scratch meshes, each saving its object normal value as a named attribute. Then in a Blender shader I take that attribute and set it as the emission. From there I can simply bake to create my game's normal maps. submitted by /u/phnxindie [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qzjnh3/created_a_geometry_node_tree_in_blender_for/",
+      "author": "/u/phnxindie",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T20:47:48.265124"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qzka0m",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "ICE out.",
+      "content": "ICE has ruined America. All Nazis out. submitted by /u/PleasantGuitar1392 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qzka0m/ice_out/",
+      "author": "/u/PleasantGuitar1392",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T20:47:48.265131"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qzk8q5",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "when i need to test Sprites, i use icon.svg...now when i need to test a Unit, i have this lil guy :)",
+      "content": "submitted by /u/ecaroh_games [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qzk8q5/when_i_need_to_test_sprites_i_use_iconsvgnow_when/",
+      "author": "/u/ecaroh_games",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T20:47:48.265141"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qzjlnl",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Created a geometry node tree in Blender for creating stylized normal maps for my game!!",
+      "content": "Took a long time to learn Blender geometry nodes, but now I have a node tree I can put on any model to create my game's stylized normal maps! Works by creating lots of scratch meshes, each saving its object normal value as a named attribute. Then in a Blender shader I take that attribute and set it as the emission. From there I can simply bake to create my game's normal maps. submitted by /u/phnxindie [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qzjlnl/created_a_geometry_node_tree_in_blender_for/",
+      "author": "/u/phnxindie",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T20:47:48.265190"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qzjr8m",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Created a geometry node tree in Blender for creating stylized normal maps for my game!!",
+      "content": "Took a long time to learn Blender geometry nodes, but now I have a node tree I can put on any model to create my game's stylized normal maps! Works by creating lots of scratch meshes, each saving its object normal value as a named attribute. Then in a Blender shader I take that attribute and set it as the emission. From there I can simply bake to create my game's normal maps. submitted by /u/phnxindie [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qzjr8m/created_a_geometry_node_tree_in_blender_for/",
+      "author": "/u/phnxindie",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T20:47:48.265201"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qzkala",
+      "type": "search",
+      "subreddit": "mercedes_benz",
+      "title": "Project: V8 Bi-Turbo swap on a 06 E350",
+      "content": "Hello! I have some questions for people who have done Mercedes engine swaps, or people who just know Mercedes cars well. I own a 2006 Mercedes E350. It has 36417 miles on it, as my grandparents who gave it to me never really used it. I'm a car guy, so I want to make this car into something that's gonna be a sort of \"1of1\" project. My plan: try and stick a V8 Bi-Turbo (with upgrades ofc) into my E350. I know the EClass of this year had AMG versions with the 6.3 and 5.5 V8s, but obviously not a BiTurbo. So my questions about this part are: would it even fit, and would the transmission for it fit? Obviously some mods of the trans tunnel/ engine mounts will be needed, but besides that? Also, with it ONLY having 36k miles, should I take the engine and trans out now and sell it, or should I drive it out to 100k+ miles and get another 06 EClass (probably without engine and trans) for this project? Thanks for the help! submitted by /u/Lambo_63_on_RL to r/mercedes_benz [link] [comments]",
+      "link": "https://www.reddit.com/r/mercedes_benz/comments/1qzkala/project_v8_biturbo_swap_on_a_06_e350/",
+      "author": "/u/Lambo_63_on_RL",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T20:47:48.266469"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qzk7vy",
+      "type": "search",
+      "subreddit": "warcodes",
+      "title": "Ingame sounds inquiry.",
+      "content": "Hey Dev. I've been thinking about it, but i think i might be able to scrape up some sounds for the game to use so it isn't so... Dead. Idk. now that it has music, It has the potential to sound really nice and i feel like the game could do with some much needed battle sounds. I might be able to assist in this way if you're interested. submitted by /u/Zthewolf53 to r/warcodes [link] [comments]",
+      "link": "https://www.reddit.com/r/warcodes/comments/1qzk7vy/ingame_sounds_inquiry/",
+      "author": "/u/Zthewolf53",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T20:47:48.267229"
     }
   ],
-  "last_updated": "2026-02-08T20:13:23.908900"
+  "last_updated": "2026-02-08T20:48:16.587338"
 }
