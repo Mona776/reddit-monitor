@@ -1,30 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/t3_1qqmu3f",
-      "type": "search",
-      "subreddit": "UnsentLetters",
-      "title": "The wound I refuse to let close...",
-      "content": "I've spent my life chasing ghosts. Some for money, some running from my own. When I first found her, it was just another game. I didn't see it then, how she was trapped in the same kind of wreckage I'd crawled out of. Different roads, same destination. We didn't connect because I could navigate her broken mind; we connected because we were already speaking the same language of survival. More in common than most people ever find. The night was our kingdom. And meeting you... that was something sacred. I let myself believe we could be a family. I tried to build it. I'm sorry I couldn't finish it. I don't know what your world looks like now. I can survive losing her, even if she was my entire world. But you both called me Dad. That's the one wound I refuse to let close. It's the only part of this I want to keep feeling. I tried to show her you mattered. I did everything I could, honoring the lines she drew around all of you. I'm just a man who met a woman with children. Nothing more. I miss you. I miss the calls asking for my help. I miss the mornings I was there to make things easier. I miss every chance I got to show you I wasn't going anywhere. That I was there for you. submitted by /u/F0lg0rt to r/UnsentLetters [link] [comments]",
-      "link": "https://www.reddit.com/r/UnsentLetters/comments/1qqmu3f/the_wound_i_refuse_to_let_close/",
-      "author": "/u/F0lg0rt",
-      "search_keyword": "how to make a game",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T22:15:21.720539"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedev/t3_1qqnjuw",
-      "type": "post",
-      "subreddit": "gamedev",
-      "title": "Stuck in tutorial hell plz help",
-      "content": "So im in a state were i start a game get halfway through and either quit entirely or think of a \"better\" idea and make that game half way what should i do here? I use godot submitted by /u/Traditional_Sea_8541 [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedev/comments/1qqnjuw/stuck_in_tutorial_hell_plz_help/",
-      "author": "/u/Traditional_Sea_8541",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T22:51:27.003253"
-    },
-    {
       "id": "https://www.reddit.com/r/IndieDev/t3_1qqnq22",
       "type": "post",
       "subreddit": "IndieDev",
@@ -38903,7 +38879,127 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-02-08T16:15:53.954813"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qzdik5",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "ORM image generator",
+      "content": "Hi everyone, i have just created a little application in python that helps with the creation of ORM images. The application use the four image channels RGBA to pack four images or less into a single image for game development purposes. I leave the link to the repo here if anyone wanna use it. The repo is public and with open license so anyone can contribute to improve the aplication. Github - ORM image creator submitted by /u/Grabthesky15 [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qzdik5/orm_image_generator/",
+      "author": "/u/Grabthesky15",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T16:53:16.855831"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qzd49u",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Just released a new update for my roguelite shapeshooter!",
+      "content": "I've made a ton of polishing improvements like dynamic music, graphical improvements, and enhanced gameplay feel! Punching is much more fun now, the difficulty curve is just a bit smoother, and i've even added new upgrades! submitted by /u/solace1234 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qzd49u/just_released_a_new_update_for_my_roguelite/",
+      "author": "/u/solace1234",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T16:53:16.855945"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qzdrhp",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "“Solo game dev life.”",
+      "content": "submitted by /u/SoggyPrior863 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qzdrhp/solo_game_dev_life/",
+      "author": "/u/SoggyPrior863",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T16:53:16.855972"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qzdneb",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Slimé Shady",
+      "content": "Roses are red, violets are blue, I steal your DNA, now I’m stronger than you. New form unlocked, looking smooth not rough, Carefull… your girlfriend might like this form a little too much. submitted by /u/RaccoonAccess [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qzdneb/slimé_shady/",
+      "author": "/u/RaccoonAccess",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T16:53:16.855984"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qzdauz",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Hi all, I want to make it possible to teleport a pet for one of my characters. I made an animation to make it move in the background and come back to the destination. What do you think? What should I add to improve it? Thanks!",
+      "content": "submitted by /u/Padakodart [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qzdauz/hi_all_i_want_to_make_it_possible_to_teleport_a/",
+      "author": "/u/Padakodart",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T16:53:16.855994"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qzdtz9",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Should I put preload() in my global, or in the nodes where they are used?",
+      "content": "I'm a bit confused about what preload() do, even; isn't everything stuffed into RAM when the game loads? But for a more practical angle, where do I put that preload stuff? submitted by /u/Legitimate-Record951 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qzdtz9/should_i_put_preload_in_my_global_or_in_the_nodes/",
+      "author": "/u/Legitimate-Record951",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T16:53:16.856023"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qzdmk3",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "A bit of lighting makes such a huge difference",
+      "content": "submitted by /u/CoininGames [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qzdmk3/a_bit_of_lighting_makes_such_a_huge_difference/",
+      "author": "/u/CoininGames",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T16:53:16.856029"
+    },
+    {
+      "id": "https://www.reddit.com/r/unrealengine/t3_1qzdefq",
+      "type": "post",
+      "subreddit": "unrealengine",
+      "title": "Trying post processing",
+      "content": "I've followed the steps of this video: https://www.youtube.com/watch?v=lOOs74MLxec right until the minute 11:20, for some reason I'm getting \"Cannot cast between non-numeric types error\" in the if when I try to connect it to the emissive color and I can't find any reason as to why is showing up, everything seems pretty much fine and the same as the guy in the video, does anyone have any inisght of what I might have done wrong? submitted by /u/Disastrous-Risk-3872 [link] [comments]",
+      "link": "https://www.reddit.com/r/unrealengine/comments/1qzdefq/trying_post_processing/",
+      "author": "/u/Disastrous-Risk-3872",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T16:53:16.856120"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qzdjoo",
+      "type": "search",
+      "subreddit": "ValorantTechSupport",
+      "title": "Valorant And Riot Client Bugs",
+      "content": "I've been trying to play valorant today but whenever i open the game it always gives me error codes, VAL 29, VAL 7, VAL 38, VAL 43, or VAL 54, and probably some others. And whenever i launch the game i also have to sign back into riot client for some reason. And when i launch the riot client no games appear. It has successfully launched once but I had a ton of lag when playing despite FPS being high and ping being low Things Ive Tried: Reinstalling everything riot related messing with firewall settings messing with DNS stuff restarted router restarted PC probably like one other thing that i forget How might I fix this predicament? submitted by /u/LowerCurve996 to r/ValorantTechSupport [link] [comments]",
+      "link": "https://www.reddit.com/r/ValorantTechSupport/comments/1qzdjoo/valorant_and_riot_client_bugs/",
+      "author": "/u/LowerCurve996",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T16:53:16.856333"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qzdx54",
+      "type": "search",
+      "subreddit": "ps2",
+      "title": "PS2 spotted at retro gaming event in Janesville Wisconsin",
+      "content": "submitted by /u/Maklarr4000 to r/ps2 [link] [comments]",
+      "link": "https://www.reddit.com/r/ps2/comments/1qzdx54/ps2_spotted_at_retro_gaming_event_in_janesville/",
+      "author": "/u/Maklarr4000",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T16:53:16.856780"
     }
   ],
-  "last_updated": "2026-02-08T16:16:22.141463"
+  "last_updated": "2026-02-08T16:53:45.355601"
 }
