@@ -1,78 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qqe9iy",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Just released my janky multiplayer world-builder browser game - come break it with me?",
-      "content": "submitted by /u/brodyodie [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qqe9iy/just_released_my_janky_multiplayer_worldbuilder/",
-      "author": "/u/brodyodie",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T17:28:15.153930"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qqe57f",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Hello r/Godot, please tell me there is a better way to connect buttons to methods in C#",
-      "content": "I'm getting tired of this, for just one button, I need to declare the button variable, the find the button in the _Ready() method and connect it to the correct method. Is there a better way? submitted by /u/PoopyButthole-69 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qqe57f/hello_rgodot_please_tell_me_there_is_a_better_way/",
-      "author": "/u/PoopyButthole-69",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T17:28:15.153994"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qqe51c",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Steam page for If I Was A Worm has gone live! please wishlist! 🪱🪱🪱",
-      "content": "Hey folks! I've finally got the steam page live for If I Was A Worm, and wanted to post it here first! Godot has been a dream to work with on this project, and i couldn't be more excited to get it out there! submitted by /u/alexisnotonfire [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qqe51c/steam_page_for_if_i_was_a_worm_has_gone_live/",
-      "author": "/u/alexisnotonfire",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T17:28:15.154007"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedesign/t3_1qqeapb",
-      "type": "post",
-      "subreddit": "gamedesign",
-      "title": "After 1 year of work, I released my game today, The Green Light. No matter what happens from here, I feel sense of freedom finally putting my game out into the world. If even one person connects with the story or atmosphere I tried to create, then I’ve achieved my goal 😀",
-      "content": "After 1 year of work, I released my game today. what a journy it has been submitted by /u/Specialist-World6841 [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedesign/comments/1qqeapb/after_1_year_of_work_i_released_my_game_today_the/",
-      "author": "/u/Specialist-World6841",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T17:28:15.154111"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qqeksu",
-      "type": "search",
-      "subreddit": "IntelligenceScaling",
-      "title": "Hardest Deductive Reasoning feat in animanga",
-      "content": "In 12 million hostage case conan has cipher a multilayered code to find bombs location with the limited amount of time. The code conan decipher is so challenging that it hard stops many smart character's of fiction. The code conan originally received was in Japanese but in English it translate to this- \"I'm a major league slugger. This is the beginning of extended inning game...? It doesn't matter if you prepare a good stopper... I will turn around the game in the end...\" So here is conan deduction P1- Major league refers to a American baseball league. C1- The entire code must be decipher in English. P2- A good stopper in baseball refers to strong earned run average statistics or Era. C2- The abbreviation of earned run average is Era. P3- Extended innings game in baseball can also be called extra inning games. P4- If you remove Era from Extra it leaves XT. P5- if you put XT vertically and move 180 degree then it represent the Japanese Kanji 文. P6- Kanji 文 represent schools. C3- The bomb is in a school. Now, conan cuts the wire of the bomb in the elevator 3 second before it blast. It result in conan to not get the whole clue but the part of it which was EVIT(unlike the letter this was English even in original translation). P7- Evit turned around will come out as tive. C4- The whole word is actually detective with tive being it's last part. P8- Detective in Japanese is 探偵(Tantei) P9- Reversing 探偵(Tantei) gives you 偵探(Teitan). P10- There are school with teitan 偵探 in it. C5- Mixing P10 and C3 it comes out that the actual place of the bomb is teitan school. P11- There are 3 teitan schools. Elementary, middle and high school. P12- The culprit behind the bomb is targeting people in it attacks intentionally. P13- In winter only teitan high school is active cause of there exam. C6- The bomb is in Teitan high school. Tge reason why this deduction is so hard or good is cause there are no guesses, induction or abduction. Each step follow necessarily from the pervious. And it is also very hard as conan has to realise many thing during the deduction process like- \"MAJOR LEAGUER\" → TRANSLATE TO ENGLISH \"GOOD STOPPER\" → ERA → REMOVE FROM EXTRA → VISUAL ROTATION INTO KANJI \"EVIT\" ON A BOMB LCD PANEL → REVERSE DETECTIVE → JAPANESE REVERSAL → TEITAN And also conan was in extreme pressure while also psycoanalysing the bomber and he correctly deduced 2 separate cipher joining them flawlessly with a countdown. Conan also was trying to defuse the bomb which he was learing from the police by communicating with them through phone and he did it all flawlessly. This all thing make these one of the hardest Deductive Reasoning feat ever in fiction. submitted by /u/Lumpy_Wishbone1760 to r/IntelligenceScaling [link] [comments]",
-      "link": "https://www.reddit.com/r/IntelligenceScaling/comments/1qqeksu/hardest_deductive_reasoning_feat_in_animanga/",
-      "author": "/u/Lumpy_Wishbone1760",
-      "search_keyword": "no code game",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T17:28:15.154218"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qqekes",
-      "type": "search",
-      "subreddit": "IntelligenceScaling",
-      "title": "Hardest Deductive Reasoning feat in animanga",
-      "content": "In 12 million hostage case conan has cipher a multilayered code to find bombs location with the limited amount of time. The code conan decipher is so challenging that it hard stops many smart character's of fiction. The code conan originally received was in Japanese but in English it translate to this- \"I'm a major league slugger. This is the beginning of extended inning game...? It doesn't matter if you prepare a good stopper... I will turn around the game in the end...\" So here is conan deduction P1- Major league refers to a American baseball league. C1- The entire code must be decipher in English. P2- A good stopper in baseball refers to strong earned run average statistics or Era. C2- The abbreviation of earned run average is Era. P3- Extended innings game in baseball can also be called extra inning games. P4- If you remove Era from Extra it leaves XT. P5- if you put XT vertically and move 180 degree then it represent the Japanese Kanji 文. P6- Kanji 文 represent schools. C3- The bomb is in a school. Now, conan cuts the wire of the bomb in the elevator 3 second before it blast. It result in conan to not get the whole clue but the part of it which was EVIT(unlike the letter this was English even in original translation). P7- Evit turned around will come out as tive. C4- The whole word is actually detective with tive being it's last part. P8- Detective in Japanese is 探偵(Tantei) P9- Reversing 探偵(Tantei) gives you 偵探(Teitan). P10- There are school with teitan 偵探 in it. C5- Mixing P10 and C3 it comes out that the actual place of the bomb is teitan school. P11- There are 3 teitan schools. Elementary, middle and high school. P12- The culprit behind the bomb is targeting people in it attacks intentionally. P13- In winter only teitan high school is active cause of there exam. C6- The bomb is in Teitan high school. Tge reason why this deduction is so hard or good is cause there are no guesses, induction or abduction. Each step follow necessarily from the pervious. And it is also very hard as conan has to realise many thing during the deduction process like- \"MAJOR LEAGUER\" → TRANSLATE TO ENGLISH \"GOOD STOPPER\" → ERA → REMOVE FROM EXTRA → VISUAL ROTATION INTO KANJI \"EVIT\" ON A BOMB LCD PANEL → REVERSE DETECTIVE → JAPANESE REVERSAL → TEITAN And also conan was in extreme pressure while also psycoanalysing the bomber and he correctly deduced 2 separate cipher joining them flawlessly with a countdown. Conan also was trying to defuse the bomb which he was learing from the police by communicating with them through phone and he did it all flawlessly. This all thing make these one of the hardest Deductive Reasoning feat ever in fiction. submitted by /u/Lumpy_Wishbone1760 to r/IntelligenceScaling [link] [comments]",
-      "link": "https://www.reddit.com/r/IntelligenceScaling/comments/1qqekes/hardest_deductive_reasoning_feat_in_animanga/",
-      "author": "/u/Lumpy_Wishbone1760",
-      "search_keyword": "no code game",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T17:28:15.154277"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qqek64",
       "type": "search",
       "subreddit": "SteamDeck",
@@ -38723,7 +38651,103 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-02-08T09:18:56.441785"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qz4vqz",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "I want to make a game",
+      "content": "I only know some basic python by basic I mean very basic I never worked with gui only things I make run in that text output place . I want to make a game because I think I am interested in making one I have no idea where to start from but I know I want to make a game for iOS . Not to earn money but for fun. I don’t even have a pc I only have a iPhone can I make a iOS game on iPhone . I am ready to install any software I can in any way to make one . Is it possible submitted by /u/AntStandard3829 [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qz4vqz/i_want_to_make_a_game/",
+      "author": "/u/AntStandard3829",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T09:50:35.869716"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qz4k7k",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "I released my solo developed game on Steam and it suddenly hit 10 MILLION impressions. I'm still shaking!",
+      "content": "submitted by /u/NarootHwang [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qz4k7k/i_released_my_solo_developed_game_on_steam_and_it/",
+      "author": "/u/NarootHwang",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T09:50:35.869805"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qz4tny",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Question about my app",
+      "content": "submitted by /u/Realistic_Pizza4178 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qz4tny/question_about_my_app/",
+      "author": "/u/Realistic_Pizza4178",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T09:50:35.869881"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qz4qy3",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "in-game screenshot",
+      "content": "The player is not my model, but a Mixamo model used for testing submitted by /u/New-Ear-2134 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qz4qy3/ingame_screenshot/",
+      "author": "/u/New-Ear-2134",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T09:50:35.869937"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qz4x8b",
+      "type": "search",
+      "subreddit": "coolgithubprojects",
+      "title": "Are You Random? – A game that predicts your \"random\" choices",
+      "content": "This is a browser game that tests how predictable your \"random\" choices really are vs a machine. The goal of this project is to demonstrate that humans are not as random as they think. We tend to fall into patterns without realizing it. A ⭐️ is always appreciated! submitted by /u/ovi_nation to r/coolgithubprojects [link] [comments]",
+      "link": "https://www.reddit.com/r/coolgithubprojects/comments/1qz4x8b/are_you_random_a_game_that_predicts_your_random/",
+      "author": "/u/ovi_nation",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T09:50:35.870432"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qz4pnd",
+      "type": "search",
+      "subreddit": "pesmobile",
+      "title": "Question for div 1 players with batistuta",
+      "content": "To those who regularly play in division 1 and have batistuta, does he start for you and how does he perform? submitted by /u/Drift_specter-134 to r/pesmobile [link] [comments]",
+      "link": "https://www.reddit.com/r/pesmobile/comments/1qz4pnd/question_for_div_1_players_with_batistuta/",
+      "author": "/u/Drift_specter-134",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T09:50:35.870766"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qz4usq",
+      "type": "search",
+      "subreddit": "RenPy",
+      "title": "3d physics?",
+      "content": "i recently saw in a yt video that renpy now supports 3d. i am now starting with game dev and i want to make a visual novel with some 3d minigames, i was about to start learning unity but if renpy has 3d physics now ill do it in renpy. does it support 3d physics? submitted by /u/nikibas to r/RenPy [link] [comments]",
+      "link": "https://www.reddit.com/r/RenPy/comments/1qz4usq/3d_physics/",
+      "author": "/u/nikibas",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T09:50:35.870871"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qz4vbc",
+      "type": "search",
+      "subreddit": "Letters_Unsent",
+      "title": "Have a question ❓❓❓",
+      "content": "I have a question so if two people have problems one person goes no contact and blocks the other. Then comes online on burner accounts and communicates with you and make up stories of who they are so they can talk to you but won't come out and say who they are is that a healthy way to communicate or to show that you want to be with someone? How long do you hold onto hope that they'll actually communicate in real life with you? If you have communicated and they know what you want but continue to do these things and I want you to reach out first because you're a male but you tried and you're still blocked is it your fault for giving up and not wanting to play the game no longer? Is it considered communication under fake profiles? Why would a person want to continue to do this for a long period of time? If you truly love each other why is it so hard to communicate to the other person in real life? Can you build a relationship virtually or does it need to be in real life? Why would a person want to continue to do this? If someone did this to you would your emotions be up and down if they push and pulled and you didn't know what account was theres? submitted by /u/skylead_33 to r/Letters_Unsent [link] [comments]",
+      "link": "https://www.reddit.com/r/Letters_Unsent/comments/1qz4vbc/have_a_question/",
+      "author": "/u/skylead_33",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T09:50:35.871221"
     }
   ],
-  "last_updated": "2026-02-08T09:19:24.890321"
+  "last_updated": "2026-02-08T09:51:04.946362"
 }
