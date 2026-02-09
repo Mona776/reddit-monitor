@@ -1,30 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/t3_1qqwacf",
-      "type": "search",
-      "subreddit": "TemuReferralCodesNew",
-      "title": "Temu codes",
-      "content": "Temu Username aheathen84 Hattrick: 759416438 Free Gifts: 763950190 771656933 770186492 Use for new invitations or existent user. Will do your codes as well. Please no dm’s. You post a code and I’ll put it in, regardless if I’m playing that particular game or not, I’m here to help everyone. submitted by /u/Aheathen84 to r/TemuReferralCodesNew [link] [comments]",
-      "link": "https://www.reddit.com/r/TemuReferralCodesNew/comments/1qqwacf/temu_codes/",
-      "author": "/u/Aheathen84",
-      "search_keyword": "no code game",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T05:38:58.180312"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qqwa6u",
-      "type": "search",
-      "subreddit": "TemuThings",
-      "title": "Temu codes",
-      "content": "Temu Username aheathen84 Hattrick: 759416438 Free Gifts: 763950190 771656933 770186492 Use for new invitations or existent user. Will do your codes as well. Please no dm’s. You post a code and I’ll put it in, regardless if I’m playing that particular game or not, I’m here to help everyone. submitted by /u/Aheathen84 to r/TemuThings [link] [comments]",
-      "link": "https://www.reddit.com/r/TemuThings/comments/1qqwa6u/temu_codes/",
-      "author": "/u/Aheathen84",
-      "search_keyword": "no code game",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T05:38:58.180323"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qqwd60",
       "type": "search",
       "subreddit": "PokemonTCG",
@@ -39599,7 +39575,175 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-02-08T23:50:23.195637"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qzq7ws",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "Any good advice for handling tileset transitions between biomes? Suggestion box firmly open!",
+      "content": "I have a tower climbing game live on iOS and Android called ASCENT: Tower Climb. It has 15 distinct realms, each with its own tileset, palette, and atmosphere. Background gradients, particles, and lighting all lerp smoothly between realms using color interpolation, but the actual tile graphics are where I’m stuck (and it may be driving me a little mad) Right now I clip the two tilesets at the boundary line, so as you scroll upward the new realm’s tiles are revealed above while the old ones stay below. It works, but the seam between two completely different tilesets is pretty harsh visually. Things I’ve considered: - Alpha fading the tiles over a transition zone. - A handful of hand-drawn “bridge” tiles that blend the two styles - Some kind of overlay effect (fog, light burst, dust) to distract from the seam - Just leaning into it as a hard cut and making it feel intentional For context this is 2D canvas rendering on mobile. Has anyone found a clean solution for this kind of thing? Especially with pixel art tilesets that have VERY different colour palettes. Thanks in advance submitted by /u/NickyS90 [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qzq7ws/any_good_advice_for_handling_tileset_transitions/",
+      "author": "/u/NickyS90",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-09T01:03:52.624127"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qzpvd4",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "UK Games Festival for Networking?",
+      "content": "Hi! I'm planning on attending a gaming festival in the UK this spring (March or April) primarily for networking as I'm also trying to get a job in the industry! So far, I've found two that I'm interested in going to, those being DreamHack in Birmingham and the London Games Festival. However, as it so happens, I will probably only be able to attend one. So I was just wondering which one would be more suitable for this specific purpose! If anyone's ever been to either or heard anything about them, I would love to hear about it too! I would also love to hear about any other events that might be good for this. Thank you!! submitted by /u/JeanWin24 [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qzpvd4/uk_games_festival_for_networking/",
+      "author": "/u/JeanWin24",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-09T01:03:52.624172"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qzpl1y",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "If you like roguelites, survivor-likes, kitties, and Egyptian mythology, then this game is for you!",
+      "content": "Hello gamers! I'm Satoshi Matos, an indie dev who is the creator of Whiskers In The Sand! For the past 11 months I've been developing this roguelite survival game with Egyptian Mythology and cats (and one dog) and I plan to release it by Q4 2026! The idea was to take what I loved about other survivors (such as Brotato, Vampire Survivors, and Deep Rock Galactic: Survivor) and slap it all together while adding my own twist to it :) I hope you enjoy it and, if you like, eh, maybe wishlist on Steam? Thank you so much! submitted by /u/Worldly-Classroom-99 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qzpl1y/if_you_like_roguelites_survivorlikes_kitties_and/",
+      "author": "/u/Worldly-Classroom-99",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-09T01:03:52.624240"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qzowwy",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Early 1-minute teaser for my dreamy pixel art platformer",
+      "content": "submitted by /u/Dizzy_Unit1200 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qzowwy/early_1minute_teaser_for_my_dreamy_pixel_art/",
+      "author": "/u/Dizzy_Unit1200",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-09T01:03:52.624252"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qzq46i",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "how'd I do on restarting devlogs?",
+      "content": "https://youtu.be/CdpucOAne7I lmk bc i sound boring submitted by /u/TheYatoDev [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qzq46i/howd_i_do_on_restarting_devlogs/",
+      "author": "/u/TheYatoDev",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-09T01:03:52.624263"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qzq2zx",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Getting Error that \"enter\" doesn't exist in the a node for a state machine",
+      "content": "I'm trying to make a state machine that allows for different types of movement to be swapped between. However, when I try to start the game to test if it works, nothing on screen shows up, and I get the error, \"Invalid call. Nonexistent function 'enter' in base 'Node (None)'.\" I'm pretty sure the answer is obvious, but I just don't understand what it is. I've already tested it with other states and gotten the same error, so I assume I'm missing a line of code that goes with 'enter'. Here are all the screenshots for the relevant code. https://preview.redd.it/vuax9o5b9dig1.png?width=1919&format=png&auto=webp&s=c00458d68139447c5fdfb06e99dd1da0d672ba37 https://preview.redd.it/rg5w1vgf9dig1.png?width=1919&format=png&auto=webp&s=fecf068e16d96d2b95a78dfc8197c4ad0bdd89ef https://preview.redd.it/0zm4y3eh9dig1.png?width=1919&format=png&auto=webp&s=2ecd1d4b61de6dca08fa2203dfd62337bc7bfe8a submitted by /u/Minicher [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qzq2zx/getting_error_that_enter_doesnt_exist_in_the_a/",
+      "author": "/u/Minicher",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-09T01:03:52.624361"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qzpw96",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Helps me pls",
+      "content": "Im new to godot. The picture on the left is mine and the one on the right is from a video. I know the video's version of godot is an old one, but why is the collision layer and mask not appearing on mine? submitted by /u/DotTraditional8582 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qzpw96/helps_me_pls/",
+      "author": "/u/DotTraditional8582",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-09T01:03:52.624370"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qzpo5q",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "resources on best practices/standards/what goes where with godot in general and for GDscript?",
+      "content": "long time UE dabbler trying to transition to godot and while things have been good so far following some tutorials to see how things work and are put together, im currently a little confused about some of the GDscript things, like when id want to tag something as @onready vs just no tag at all. i get that @expose allows for editing that variable in the inspector panel, but @onready specifically i havent figured out yet; is it just a way to specify initialization order? @onready variables > _ready function > everything else linearly as expected? but also just in general id like to learn more about best practices and the expected way of doing things. this was something i never did in my nearly ten years of on-and-off playing with UE4 and onward and it showed, so id like to not make the same mistake with godot. submitted by /u/Jas0rz [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qzpo5q/resources_on_best_practicesstandardswhat_goes/",
+      "author": "/u/Jas0rz",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-09T01:03:52.624392"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qzp3vw",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Early 1-minute teaser for my dreamy pixel art platformer",
+      "content": "submitted by /u/Dizzy_Unit1200 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qzp3vw/early_1minute_teaser_for_my_dreamy_pixel_art/",
+      "author": "/u/Dizzy_Unit1200",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-09T01:03:52.624405"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qzp2cd",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Weird text blur glitch?",
+      "content": "Only in 4.6, only affects text, and is more pronounced on text with a small font size and big scale than than text with a large font size and small scale. EDITOR ONLY- this issue disappears at runtime submitted by /u/JobPowerful1246 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qzp2cd/weird_text_blur_glitch/",
+      "author": "/u/JobPowerful1246",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-09T01:03:52.624414"
+    },
+    {
+      "id": "https://www.reddit.com/r/unity/t3_1qzpnpl",
+      "type": "post",
+      "subreddit": "unity",
+      "title": "New design to my game, animated with After Effects",
+      "content": "submitted by /u/Aggravating-Aerie-16 [link] [comments]",
+      "link": "https://www.reddit.com/r/unity/comments/1qzpnpl/new_design_to_my_game_animated_with_after_effects/",
+      "author": "/u/Aggravating-Aerie-16",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-09T01:03:52.624421"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qzqayw",
+      "type": "search",
+      "subreddit": "AskRedditNFL",
+      "title": "Why do NFL coaches cover their mouth when talking in headsets?",
+      "content": "Are they worried about lip reading? Because that's super difficult for anyone to do. It's very unlikely other NFL coaches could do it. It'd probably be easier for them to figure out the radio frequency and hack the radio than actually read the other coach's lips. Other thing I've heard is to give clear directions without noise interference. If my $30 gamer headphones can speak clearly on Bluetooth in the middle of a farm with 0 background noise (this actually happened, I didn't make the example up), the NFL coaches definitely should have headsets that are good enough for that. Neither of those explanations make sense. submitted by /u/Wide-Bat-6760 to r/AskRedditNFL [link] [comments]",
+      "link": "https://www.reddit.com/r/AskRedditNFL/comments/1qzqayw/why_do_nfl_coaches_cover_their_mouth_when_talking/",
+      "author": "/u/Wide-Bat-6760",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-02-09T01:03:52.625674"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qzq7t0",
+      "type": "search",
+      "subreddit": "ShitpostBR",
+      "title": "Não tenho papo mil grau 😔",
+      "content": "submitted by /u/lilithmoan__bb to r/ShitpostBR [link] [comments]",
+      "link": "https://www.reddit.com/r/ShitpostBR/comments/1qzq7t0/não_tenho_papo_mil_grau/",
+      "author": "/u/lilithmoan__bb",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-02-09T01:03:52.625779"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qzq2q6",
+      "type": "search",
+      "subreddit": "HelldiversUnfiltered",
+      "title": "The new stuff looks pretty interesting.",
+      "content": "Sure would like to participate. Instead I get to crash. I boot up the game, everything's fine, I choose a mission, deploy solo and after I land, 30 seconds later, the game crashes. Every time. If I join multiplayer it happens before I even land. I've tried reinstalling, switching game versions, verifying files, updating drivers changing the new hang detection system in the settings. Nothing worked, nothing changed. I couldn't find a single fix that worked. Barely any suggestions on the internet at the moment too. I've already filed a support ticket but who knows what'll happen and when they'll respond. No announcement about it anywhere from the devs either. Anyone have any tips? Suggestions? submitted by /u/AlfaXGames to r/HelldiversUnfiltered [link] [comments]",
+      "link": "https://www.reddit.com/r/HelldiversUnfiltered/comments/1qzq2q6/the_new_stuff_looks_pretty_interesting/",
+      "author": "/u/AlfaXGames",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-02-09T01:03:52.626421"
     }
   ],
-  "last_updated": "2026-02-08T23:50:51.607225"
+  "last_updated": "2026-02-09T01:04:20.793805"
 }
