@@ -1,6 +1,30 @@
 {
   "queue": [
     {
+      "id": "https://www.reddit.com/t3_1qzztpt",
+      "type": "search",
+      "subreddit": "Pinterestmarketing",
+      "title": "Pinterest for marketing a mobile interior design game?",
+      "content": "Hi. I have a mobile interior design game. My players create a lot of designs for different rooms. I was thinking about posting some of these on Pinterest to get more players. Is this a smart move? Has anyone here done something like this before? Is this kind of content a good fit for Pinterest? Should I just start posting and see what happens? Let me know if you have any tips or steps I should take. Thanks. I am a complete beginner with Pinterest 😅 submitted by /u/DesignTogether1 to r/Pinterestmarketing [link] [comments]",
+      "link": "https://www.reddit.com/r/Pinterestmarketing/comments/1qzztpt/pinterest_for_marketing_a_mobile_interior_design/",
+      "author": "/u/DesignTogether1",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 1,
+      "added_at": "2026-02-09T09:46:44.460815"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1r000vu",
+      "type": "search",
+      "subreddit": "pokemon",
+      "title": "Improved Pokémon Watch. (OC, using existing Pokémon assets)",
+      "content": "After making a basic version of this, I tried it out for a day on my watch and found it surprisingly easy to tell the time with! So unlike a lot of the watch faces I've been making I decided to refine this for daily use. Assets used Background: Pokémon Mystery Dungeon Pokémon: Sprites from Sprites Resource, Pokémon HeartGold / SoulSilver (Walking animation)... also the tree and bushes Grass: I couldn't lift something from Pokémon to make this work, so I made that one myself. How it works Hour: The Pokémon walk across the screen over the hour (Bulbasaur at 1 o'clock to Butterfree at 12 o'clock) Minute: Mew and Mewtwo rotate on the same circle, so only one is fully visible at a time. They're each present on the screen for 30 mins, so if Mew is in the middle of the screen it's 15 mins of the hour, and if Mewtwo is it's 45 mins of the hour. It's obviously not minute accurate, but it's good enough to get you within 5 minutes once you get used to it. Next I'll implement changing backgrounds that change with the weather... Which is surprisingly easy to do! I would also like to implement Step Count, and a Heart Rate Indicator that looks like the Pokémon's Health Bar Suggestions Does anyone have any other metrics from the game they think could be implemented? submitted by /u/aCrombi to r/pokemon [link] [comments]",
+      "link": "https://www.reddit.com/r/pokemon/comments/1r000vu/improved_pokémon_watch_oc_using_existing_pokémon/",
+      "author": "/u/aCrombi",
+      "search_keyword": "how to make a game",
+      "relevance_score": 1,
+      "added_at": "2026-02-09T09:46:44.460965"
+    },
+    {
       "id": "https://www.reddit.com/r/gamedev/t3_1qqyxr3",
       "type": "post",
       "subreddit": "gamedev",
@@ -40259,7 +40283,163 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-02-09T08:35:52.393145"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qzzknx",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "I just made a Football Idle game myself.",
+      "content": "submitted by /u/OccasionAromatic4487 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qzzknx/i_just_made_a_football_idle_game_myself/",
+      "author": "/u/OccasionAromatic4487",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-09T09:46:44.458582"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qzziz2",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Added a pause menu to my 1-bit game GlagStone",
+      "content": "submitted by /u/vvaalleerraa [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qzziz2/added_a_pause_menu_to_my_1bit_game_glagstone/",
+      "author": "/u/vvaalleerraa",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-09T09:46:44.458589"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qzzidw",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "2.5D pixel-art epic JRPG SPARK IGNITES opens its trial on steam now!",
+      "content": "Steam page: https://store.steampowered.com/app/3864890/_SPARK_IGNITES/ submitted by /u/Elegant-Forever-3800 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qzzidw/25d_pixelart_epic_jrpg_spark_ignites_opens_its/",
+      "author": "/u/Elegant-Forever-3800",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-09T09:46:44.458597"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1r0013c",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "What's the saddest thing you've done for wishlists?",
+      "content": "submitted by /u/ElastiCat- [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1r0013c/whats_the_saddest_thing_youve_done_for_wishlists/",
+      "author": "/u/ElastiCat-",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-09T09:46:44.458624"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qzzsu6",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "New Boss Concepts for our Game DeeSicks: Help Us Decide",
+      "content": "submitted by /u/ByteRockersGames [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qzzsu6/new_boss_concepts_for_our_game_deesicks_help_us/",
+      "author": "/u/ByteRockersGames",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-09T09:46:44.458645"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qzzm0m",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Free game-ready medieval buildings pack",
+      "content": "Link (cgtrader) in the comments or on my reddit profile Without any restrictions (free license) submitted by /u/Eve13architect [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qzzm0m/free_gameready_medieval_buildings_pack/",
+      "author": "/u/Eve13architect",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-09T09:46:44.458653"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qzziba",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Scooby Doo! In House Of 1000 Nightmares! -update 2",
+      "content": "submitted by /u/Then_Magician8533 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qzziba/scooby_doo_in_house_of_1000_nightmares_update_2/",
+      "author": "/u/Then_Magician8533",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-09T09:46:44.458659"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qzzgcl",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Working on a pause menu for my 1-bit indie game Glagstone",
+      "content": "submitted by /u/vvaalleerraa [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qzzgcl/working_on_a_pause_menu_for_my_1bit_indie_game/",
+      "author": "/u/vvaalleerraa",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-09T09:46:44.458664"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1r0016b",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Modular Weapons System in Godot C#",
+      "content": "submitted by /u/Gamedevenri [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1r0016b/modular_weapons_system_in_godot_c/",
+      "author": "/u/Gamedevenri",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-09T09:46:44.458697"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qzz24i",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "My transition, sky and toon shaders are on godotshaders now!",
+      "content": "Link here: https://godotshaders.com/author/binbun/ submitted by /u/binbun3 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qzz24i/my_transition_sky_and_toon_shaders_are_on/",
+      "author": "/u/binbun3",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-09T09:46:44.458704"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qzzr6p",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Here are some before and after's for my game after people told me the enviroments look basic. What do guys think? Is this an improvement?",
+      "content": "If you would like to wishlist: https://store.steampowered.com/app/4376460/Tache_Noire/ submitted by /u/WerterCli [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qzzr6p/here_are_some_before_and_afters_for_my_game_after/",
+      "author": "/u/WerterCli",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-09T09:46:44.458769"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qzzl7e",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Finally my store page is up.",
+      "content": "Please check my store page here submitted by /u/Potential_Bite1256 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qzzl7e/finally_my_store_page_is_up/",
+      "author": "/u/Potential_Bite1256",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-09T09:46:44.458775"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1r001ab",
+      "type": "search",
+      "subreddit": "FACEITcom",
+      "title": "Extreme rubberbanding for all players - match not void?",
+      "content": "Played a match a few days ago where all players in the lobby experienced extreme rubber banding (verified that it affected ALL players by reviewing match). Faceit support decided that the match should not be voided as nothing was found in the logs that would indicate it affected all players (See screenshot). However, watching the replay it’s glaringly apparent that every single player in the matchroom experienced the same rubber banding. Here is a video from 4 different perspectives (from both teams, located in 4 different countries): https://www.youtube.com/watch?v=FDB0t\\_uFdAw Ticket ID: 11894604 Matchroom ID: 1-44085269-266e-4afe-8fcd-d0f5ad2e33c6 Hope you can take a second look at this issue, as this kind of severe rubber banding basically makes the match unplayable, and being a competitive game server faults should not determine the outcome of the match. submitted by /u/Advanced_Fondant9311 to r/FACEITcom [link] [comments]",
+      "link": "https://www.reddit.com/r/FACEITcom/comments/1r001ab/extreme_rubberbanding_for_all_players_match_not/",
+      "author": "/u/Advanced_Fondant9311",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-02-09T09:46:44.459390"
     }
   ],
-  "last_updated": "2026-02-09T08:36:20.898585"
+  "last_updated": "2026-02-09T09:47:13.101307"
 }
