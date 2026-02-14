@@ -1,78 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qr6ai0",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "The kind of things I waste development time on",
-      "content": "submitted by /u/filthy_eden [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qr6ai0/the_kind_of_things_i_waste_development_time_on/",
-      "author": "/u/filthy_eden",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T14:25:38.345657"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qr673k",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Paper Pixels 📜✏️ (Free Platformer Assets For Devs)",
-      "content": "submitted by /u/_V3X3D_ [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qr673k/paper_pixels_free_platformer_assets_for_devs/",
-      "author": "/u/_V3X3D_",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T14:25:38.345665"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qr5shz",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Artwork for my game! What do you think?",
-      "content": "I started working on this project when I was still a student. I thought I could do everything myself, so I started learning to code and wrote the story, but I was terrible at art. Then life happened and I thought: why should I do this alone? And now I have a great team! It's really cool to see my vision coming to life! submitted by /u/ronjaluise [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qr5shz/artwork_for_my_game_what_do_you_think/",
-      "author": "/u/ronjaluise",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T14:25:38.345677"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qr6dw1",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "10 months' work on my necromancer alchemy autobattler",
-      "content": "This is my game Alchemortis, you can check it out here: https://store.steampowered.com/app/3967230/Alchemortis/ submitted by /u/Firebelley [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qr6dw1/10_months_work_on_my_necromancer_alchemy/",
-      "author": "/u/Firebelley",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T14:25:38.345796"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qr5s72",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "I finally finished it :')",
-      "content": "game is called 'travis, the frog' - my first ever Godot release! submitted by /u/KevEatsCheese [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qr5s72/i_finally_finished_it/",
-      "author": "/u/KevEatsCheese",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T14:25:38.345803"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qr6kk6",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "Happy Screenshot-Saturday!",
-      "content": "submitted by /u/Plus_Astronomer1789 [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qr6kk6/happy_screenshotsaturday/",
-      "author": "/u/Plus_Astronomer1789",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T14:25:38.345811"
-    },
-    {
       "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qr69ks",
       "type": "post",
       "subreddit": "SoloDevelopment",
@@ -60887,7 +60815,139 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-02-14T11:42:13.713671"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1r4j0nu",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Voorbeast WIP",
+      "content": "Behold the Voorbeast’s light attack *A Work in Progress(. Motion and sound, sharpened for those foolish melee threats. This is an Archetype from our game \"Nightholme\". submitted by /u/PedroNightHolme [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1r4j0nu/voorbeast_wip/",
+      "author": "/u/PedroNightHolme",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T12:21:04.789891"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1r4irp1",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Pre Pre-alpha dev update: Tank movement & handling test",
+      "content": "submitted by /u/geo_ilias [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1r4irp1/pre_prealpha_dev_update_tank_movement_handling/",
+      "author": "/u/geo_ilias",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T12:21:04.789898"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1r4j8sj",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Working on color palettes for my 1-bit game",
+      "content": "submitted by /u/vvaalleerraa [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1r4j8sj/working_on_color_palettes_for_my_1bit_game/",
+      "author": "/u/vvaalleerraa",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T12:21:04.789909"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1r4j2zz",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Mobile strategy game UI feedback please",
+      "content": "This is a mockup UI for my game. I'm a crap artist, so a little feedback would be welcome. What can I do better? Notes: This is for mobile devices, that's why the action buttons are so large. The rank icons need changing, I know they don't fit well. The gun and grenades info and all the action buttons show only when a character is selected. Grenade button opens another menu to choose a grenade (4 options depending on inventory). Be honest, I appreciate constructive feedback and suggestions! submitted by /u/klapstoelpiloot [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1r4j2zz/mobile_strategy_game_ui_feedback_please/",
+      "author": "/u/klapstoelpiloot",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T12:21:04.789992"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1r4iuyb",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Those buddies are so happy for the player : D Was trying to add some decor to my popups and accidentally drew those skeletons. They catch the games' mood perfectly, I think : D",
+      "content": "submitted by /u/TranquillBeast [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1r4iuyb/those_buddies_are_so_happy_for_the_player_d_was/",
+      "author": "/u/TranquillBeast",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T12:21:04.790002"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1r4iobl",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "The Sock Battle Arena PvE PvP",
+      "content": "Hiya! Just wanted to show some progress on my game! I am working on a new level right now - the game is a local multiplayer battle arena with PvE elements where you gotta get as dirty as you can get - and perhaps throw your mates into the washer if you want to! Last man standing... Question to other devs: when do you usually start the marketing of your games? submitted by /u/LekaStudios [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1r4iobl/the_sock_battle_arena_pve_pvp/",
+      "author": "/u/LekaStudios",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T12:21:04.790040"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1r4iuo5",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Those buddies are so happy for the player : D Was trying to add some decor to my popups and accidentally drew those skeletons. They catch the games' mood perfectly, I think : D",
+      "content": "submitted by /u/TranquillBeast [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1r4iuo5/those_buddies_are_so_happy_for_the_player_d_was/",
+      "author": "/u/TranquillBeast",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T12:21:04.790081"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1r4io1z",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Is this a good Steam Capsule?",
+      "content": "submitted by /u/Potential_Bite1256 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1r4io1z/is_this_a_good_steam_capsule/",
+      "author": "/u/Potential_Bite1256",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T12:21:04.790087"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1r4j2bj",
+      "type": "search",
+      "subreddit": "KickStreamers",
+      "title": "I coded a Ludo game that plays with my Kick Chat! No controllers, just commands",
+      "content": "Hey everyone! I’ve just launched a 24/7 Interactive Ludo Game on my Kick stream, and you can play it directly from the chat! 🎲 No controllers needed, just use the chat: 🕹️ !play - To join the game. 🎲 !roll - To roll the dice and move your tokens. It’s a fun way to hang out and compete with others in the community. I’m live right now—come jump in, pick your color, and let’s see who dominates the board! Join and Play here: https://kick.com/eng-asad submitted by /u/Mindful_Fellow to r/KickStreamers [link] [comments]",
+      "link": "https://www.reddit.com/r/KickStreamers/comments/1r4j2bj/i_coded_a_ludo_game_that_plays_with_my_kick_chat/",
+      "author": "/u/Mindful_Fellow",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T12:21:04.790168"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1r4j8ou",
+      "type": "search",
+      "subreddit": "AntiForsaken",
+      "title": "Devs are being annoying",
+      "content": "These devs are so annoying. They make new models instead of just giving us the Noli milestones already. Soul is still getting 20% of the games revenue. There's new Basil drama ofc bc why not, just remove Basil already. If Basil sees something she doesn't like POOF it's gone. Isn't it a bit racist that they made Chance a POC and in his lore he stole from Mafioso. Can this game actually just die already and can we all move on to better asymmetrical games. submitted by /u/EquipmentSea3836 to r/AntiForsaken [link] [comments]",
+      "link": "https://www.reddit.com/r/AntiForsaken/comments/1r4j8ou/devs_are_being_annoying/",
+      "author": "/u/EquipmentSea3836",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T12:21:04.792122"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1r4j1li",
+      "type": "search",
+      "subreddit": "DokkanBattleCommunity",
+      "title": "I have a love hate relationship with this game",
+      "content": "For last few hours I have probably been doing my best to get SS3 Vegeta and each time I have either gotten other LR or they screw with me and give me useless SSR or UR, at this point I with the devs would add a pity system to this game cause this is just annoying. submitted by /u/Warm_Kaleidoscope183 to r/DokkanBattleCommunity [link] [comments]",
+      "link": "https://www.reddit.com/r/DokkanBattleCommunity/comments/1r4j1li/i_have_a_love_hate_relationship_with_this_game/",
+      "author": "/u/Warm_Kaleidoscope183",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T12:21:04.792399"
     }
   ],
-  "last_updated": "2026-02-14T11:42:42.422147"
+  "last_updated": "2026-02-14T12:21:36.792318"
 }
