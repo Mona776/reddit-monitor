@@ -1,78 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qrg3gq",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Am i the only one?",
-      "content": "Also i have to admit that making memes is just way too fun and why shouldn we just have a good time while promoting our games, right? submitted by /u/w4yn3r [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qrg3gq/am_i_the_only_one/",
-      "author": "/u/w4yn3r",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T20:15:42.252941"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qrgmcq",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Any way to make billboarded AnimatedSprite3D appear through floor, but not through walls?",
-      "content": "So I am making a game that is in 3D, but needs to look like a 2D top-down viewpoint (currently achieved with an orthographic camera at a 45-degree downward angle, plus an altered camera projection matrix courtesy of huwpascoe's pull request. The sprite is y-billboarded towards the camera. Because the game is viewed from a top-down angle, I drew the sprites in that manner. However, for animations like the one pictured (walking south), the feet moving forward in space is visually represented by the pixels being drawn lower on the sprite, which makes them clip through the ground. https://preview.redd.it/rh5fcr2dnjgg1.png?width=292&format=png&auto=webp&s=2ff2c9fbec530d301621d42689ce7adba0461219 In this picture, I show this clipping along the edge of a floor, so you can see both the sprite clipping through the floor and the edge of the floor revealing the underside of the sprite. I need to find a way to allow the part of the sprite that clips under the floor to still be visible, without causing the sprite to become visible through other objects that SHOULD block the view, like walls. For a while, my solution was to make the sprite be offset towards the camera equally along the Y and Z axes, which wouldn't appear in the camera view, but long-term, I think this workaround could still come back to bite me, like if I wanted to ever include proper shadows and lighting, it would reveal that the sprite is hovering. https://preview.redd.it/8mm8ke7rnjgg1.png?width=384&format=png&auto=webp&s=313703c9fb49b406ebec97802186646db39001a2 https://preview.redd.it/eqbsyygrnjgg1.png?width=687&format=png&auto=webp&s=a5ba5be8a84cd85bf12c3c7a8a862eb05f9645db Pictured above are screenshots of the full 128x128 character pixel canvas being filled with a test texture so you can see the extent of the sprite canvas on the AnimatedSprite3D, as well as what the player object looks like in the engine viewport. Any and all help would be greatly appreciated. submitted by /u/JNSStudios_YT [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qrgmcq/any_way_to_make_billboarded_animatedsprite3d/",
-      "author": "/u/JNSStudios_YT",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T20:15:42.252982"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qrg7zz",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Testing out Godot 4.6's new Jolt Physics Engine",
-      "content": "submitted by /u/Artist6995 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qrg7zz/testing_out_godot_46s_new_jolt_physics_engine/",
-      "author": "/u/Artist6995",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T20:15:42.252989"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qrg6ze",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "Godot Engine 4.6 successfully compiled!",
-      "content": "I literally just compiled my own version of the Godot 4.6 engine. It took 28 minutes! It's only to make the .exe small enough to work with Steams DRM protection. Anyone else have to do this? submitted by /u/SoUlFaThEr [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qrg6ze/godot_engine_46_successfully_compiled/",
-      "author": "/u/SoUlFaThEr",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T20:15:42.253031"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qrfn8o",
-      "type": "search",
-      "subreddit": "RenPy",
-      "title": "Flags in Ren'py",
-      "content": "i'm working on a VN and i'm still quite new to Ren'Py, can anyone help? here's what i'm trying to achieve: the player gets to choose one of four characters, i'll call them character A, B, C and D. once the player does the decision, for example they choose character A, after a few scenes, a picture of that chosen character will be displayed on screen. the code i tried is: (the attached photo) i don't know why, but for some reason no matter which option i pick, the game shows characterd_image no matter what. does anyone know why? :( submitted by /u/TruthSafe1817 to r/RenPy [link] [comments]",
-      "link": "https://www.reddit.com/r/RenPy/comments/1qrfn8o/flags_in_renpy/",
-      "author": "/u/TruthSafe1817",
-      "search_keyword": "no code game",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T20:15:42.253499"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qrgabv",
-      "type": "search",
-      "subreddit": "ArknightsEndfield",
-      "title": "Hardware overload?",
-      "content": "Why does this game warn me my hardware is overloaded when it's not? I have really good hardware, 4090, and my PC has no issues running this game maxed at 4k. Just wondering what this game is factoring to make it think that it's overloadeding my system when it's not? submitted by /u/HelenKellerVSTraffic to r/ArknightsEndfield [link] [comments]",
-      "link": "https://www.reddit.com/r/ArknightsEndfield/comments/1qrgabv/hardware_overload/",
-      "author": "/u/HelenKellerVSTraffic",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T20:15:42.253719"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qrg8o6",
       "type": "search",
       "subreddit": "196",
@@ -62159,7 +62087,103 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-02-14T23:13:14.737919"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1r4z0uf",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "How did you overcome imposter syndrome/ comparing your work to others?",
+      "content": "I've been working on a game solo dev as a hobby for about 3 years now, going through different iterations of the same concept. With this game I've always had this aspiration to make everything look as aesthetically pleasing as possible while also focusing on polished mechanics that can stand out. Due to imposter syndrome I have this habit where whenever a game is announced or in development pops up in my feed, I tend to keep feeling like I could do more. It feels like it has become this endless cycle for me where nothing feels finished/nothing feels \"perfect/good enough\". Any tips on how I can overcome this? Would love to hear your insights. submitted by /u/ChronicleRealm [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1r4z0uf/how_did_you_overcome_imposter_syndrome_comparing/",
+      "author": "/u/ChronicleRealm",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T23:43:59.038604"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1r4z3a5",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "PomoDuck a game about focus",
+      "content": "I dont know how i made this ! submitted by /u/Ok_Detective4421 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1r4z3a5/pomoduck_a_game_about_focus/",
+      "author": "/u/Ok_Detective4421",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T23:43:59.038665"
+    },
+    {
+      "id": "https://www.reddit.com/r/unity/t3_1r4z7ci",
+      "type": "post",
+      "subreddit": "unity",
+      "title": "More puzzles",
+      "content": "submitted by /u/BearKanashi [link] [comments]",
+      "link": "https://www.reddit.com/r/unity/comments/1r4z7ci/more_puzzles/",
+      "author": "/u/BearKanashi",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T23:43:59.038728"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1r4zkmd",
+      "type": "search",
+      "subreddit": "blender",
+      "title": "Angel 3d model",
+      "content": "Just another attempt to make a game ready angel model submitted by /u/GrouchyAd4819 to r/blender [link] [comments]",
+      "link": "https://www.reddit.com/r/blender/comments/1r4zkmd/angel_3d_model/",
+      "author": "/u/GrouchyAd4819",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T23:43:59.039391"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1r4zisi",
+      "type": "search",
+      "subreddit": "RPGMaker",
+      "title": "Suggestions?",
+      "content": "Does anyone know of any RPG Maker horror games that are similar to Corpse Party or Fear and Hunger (including Termina)? I like something that has a good story behind it. Games I've played and enjoyed include: Cat in the Box Coffin of Ashes The Crooked Man (and sequels) Faust's Alptraum Grimm's Hollow Ib Mad Father Misao Silent Dream Stray Cat Crossing Tales of the Black Forest The Mirror Lied Viviette Yume Nikki Hello Charlotte (and sequels) submitted by /u/lifescaresme to r/RPGMaker [link] [comments]",
+      "link": "https://www.reddit.com/r/RPGMaker/comments/1r4zisi/suggestions/",
+      "author": "/u/lifescaresme",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T23:43:59.039873"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1r4zg3y",
+      "type": "search",
+      "subreddit": "dyinglight",
+      "title": "Is there any events or something coming to The Beast?",
+      "content": "Given the support Techland has been giving Dying Light 2, I was super excited to see this stuff come to a modern and new Dying Light game. Well... so far we had one pretty weak event for weapons and car skins but nothing else. No super crane, no low gravity, no christmas event, etc... There has not been anything for The Beast as they continue to support Dying Light 2. I would love for The Beast to get more features and a more expanded skill tree. It's like... they decided to charge us full price and release the game on it's own, but they are still acting like it was an expansion DLC for 2 and it is not getting any new content. It just feels like the game isn't complete. Have the devs mentioned we can expect this stuff for The Beast? submitted by /u/No-Vegetable-4596 to r/dyinglight [link] [comments]",
+      "link": "https://www.reddit.com/r/dyinglight/comments/1r4zg3y/is_there_any_events_or_something_coming_to_the/",
+      "author": "/u/No-Vegetable-4596",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T23:43:59.040010"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1r4zf7h",
+      "type": "search",
+      "subreddit": "Gentoo",
+      "title": "First ever Gentoo install! It was hell but well worth it…",
+      "content": "I’m even installing it on an older dell latitude 3340 right now. submitted by /u/PromotionDecent7652 to r/Gentoo [link] [comments]",
+      "link": "https://www.reddit.com/r/Gentoo/comments/1r4zf7h/first_ever_gentoo_install_it_was_hell_but_well/",
+      "author": "/u/PromotionDecent7652",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T23:43:59.040020"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1r4zhjt",
+      "type": "search",
+      "subreddit": "mewgenics",
+      "title": "Need some help",
+      "content": "Hi everyone! I’ve been playing *Mewgenics* and I have a question about how cats behave in combat. In earlier runs, when my cats were knocked out (zero HP), they didn’t die immediately. They stayed down as bodies on the battlefield, and if I finished the fight with the rest of my cats alive, those knocked out would revive with some HP. If a body took extra damage while downed, it would explode and the cat was lost permanently. However, in recent runs it seems that downed cats are **instantly exploding** as soon as they go down — they don’t stay incapacitated anymore. This makes it much harder to keep cats alive as a team. Is this intended game behavior / mechanic? Or is it a bug? Has something changed recently? Thanks in advance! submitted by /u/TheSalido to r/mewgenics [link] [comments]",
+      "link": "https://www.reddit.com/r/mewgenics/comments/1r4zhjt/need_some_help/",
+      "author": "/u/TheSalido",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T23:43:59.040284"
     }
   ],
-  "last_updated": "2026-02-14T23:13:43.374160"
+  "last_updated": "2026-02-14T23:44:27.428295"
 }
