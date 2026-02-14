@@ -1,78 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qr7arc",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "This is the area of beach you wash up on in Tea Party of the Damned, after being hexed by a warlock and thrown into Boston Harbor (occupational hazard)",
-      "content": "Tends to happen when you're a budding private detective in 1920s Massachusetts! (Made with GameMaker.) submitted by /u/InglenookGames [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qr7arc/this_is_the_area_of_beach_you_wash_up_on_in_tea/",
-      "author": "/u/InglenookGames",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T15:00:07.715570"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qr70fi",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "How did you find your artist?",
-      "content": "Some of you all have some absolutely killer art! How did you find your artist? What was your agreement with them? For folks with a limited budget, how much did you spend and were your artists willing to work for rev share? submitted by /u/PluckyPlankton [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qr70fi/how_did_you_find_your_artist/",
-      "author": "/u/PluckyPlankton",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T15:00:07.715665"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qr78mg",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "if iblend toa no loop anim it play at start the first timeit blends to the last pose every othertime",
-      "content": "whenever i blend to a non looping animation it plays from the begining the first time but it just blends to the last pose every subsequent time how would i fix this submitted by /u/maxxm342 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qr78mg/if_iblend_toa_no_loop_anim_it_play_at_start_the/",
-      "author": "/u/maxxm342",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T15:00:07.715675"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qr729f",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Credit Manager Plugin",
-      "content": "Hi everyone, I have created a small plugin for managing credits in Godot, and I wanted to share it to get some feedback before I publish it. The plugin allows you to add credits which are then saved as Resources in a /credits folder. This data is easily accessible via code. It currently supports categories like Author and License Type, and it is designed to be easily expandable. This is my second plugin, and I would appreciate any feedback you can give me! https://github.com/leo-khani/credit-manager-plugin submitted by /u/Mrnibo [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qr729f/credit_manager_plugin/",
-      "author": "/u/Mrnibo",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T15:00:07.715689"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qr6ymz",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Limiting how often functions run",
-      "content": "I am running a function to check the distance between an enemy and its closest enemy and adjusting their position if too close together. This will be run on a lot of enemies in my survivor like game so to reduce this I am limiting how often it runs instead of running it every frame in the physics_process. My question is, is there an official way of doing this or is counting the frames or delta and running the function when the frames or delta meets the “cooldown” the way most people would do this? I know I can do it that way but wasn’t sure if there was a better way to limit how often functions run. submitted by /u/Windexatron [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qr6ymz/limiting_how_often_functions_run/",
-      "author": "/u/Windexatron",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T15:00:07.715711"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qr6wdv",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Did 4.6 break 2D skeletons?",
-      "content": "I'm really confused right now because I AM following this tutorial and for some reason I can't get the animation player to play well with my Bones, so i womder if this is due to me being on an updated version of The engine... submitted by /u/Jolly-Ad-1161 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qr6wdv/did_46_break_2d_skeletons/",
-      "author": "/u/Jolly-Ad-1161",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T15:00:07.715720"
-    },
-    {
       "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qr7b04",
       "type": "post",
       "subreddit": "SoloDevelopment",
@@ -61187,7 +61115,139 @@
       "search_keyword": "make game without coding",
       "relevance_score": 0,
       "added_at": "2026-02-14T14:19:20.608751"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1r4m7y9",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "im kind of proud how my small little rage plattformer is coming along :) feedback is welcome",
+      "content": "submitted by /u/FriendlyBergTroll [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1r4m7y9/im_kind_of_proud_how_my_small_little_rage/",
+      "author": "/u/FriendlyBergTroll",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T14:49:46.574914"
+    },
+    {
+      "id": "https://www.reddit.com/r/unrealengine/t3_1r4mcxs",
+      "type": "post",
+      "subreddit": "unrealengine",
+      "title": "Pyrestorm",
+      "content": "Unreal engine 5 is being used in the development of a new MMO by a small team .pyrestorm is a dream that I hope they can reach with help and feedback submitted by /u/Kessbangg [link] [comments]",
+      "link": "https://www.reddit.com/r/unrealengine/comments/1r4mcxs/pyrestorm/",
+      "author": "/u/Kessbangg",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T14:49:46.575097"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1r4m5ij",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Mobile Horror Game: Debug Logger",
+      "content": "For a long time I was tired of seeing generic horror games about a thief breaking into your house and that kind of nonsense. So I decided I should make a horror game with a truly different story and also use creative elements (enough with boring power-turning missions) Basically, you'll be a developer in the 90s working on an open-source, free operating system, but this is irritating the big companies... I don't have a laptop or PC to do this; all I have left is my cell phone. This will be a big challenge If you have any ideas, please let me know. Also, let me know if you would play the game. submitted by /u/Sufficient-Funny5550 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1r4m5ij/mobile_horror_game_debug_logger/",
+      "author": "/u/Sufficient-Funny5550",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T14:49:46.575157"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1r4m4ya",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Small VFX changes completely changed how my shooting & slow-down feels (Unity)",
+      "content": "submitted by /u/Have_Faun [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1r4m4ya/small_vfx_changes_completely_changed_how_my/",
+      "author": "/u/Have_Faun",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T14:49:46.575163"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1r4m425",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "kind of proud about the progress my small little rage plattformer has made.",
+      "content": "submitted by /u/FriendlyBergTroll [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1r4m425/kind_of_proud_about_the_progress_my_small_little/",
+      "author": "/u/FriendlyBergTroll",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T14:49:46.575225"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1r4m1os",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "You can now pick your favorite music to play, and the environment will react dynamically to it! Planning to incorporate more into gameplay as well, what music would you play?",
+      "content": "Try the alpha here: https://gamejolt.com/games/void_game/1049440 Join our discord: https://discord.com/invite/WavRKmnJka submitted by /u/thecrow256 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1r4m1os/you_can_now_pick_your_favorite_music_to_play_and/",
+      "author": "/u/thecrow256",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T14:49:46.575235"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1r4m60f",
+      "type": "search",
+      "subreddit": "SummerCart64",
+      "title": "Another question for this awesome community Cheat codes?",
+      "content": "Have had a bunch of help this week getting me new SC64 set up. Everyone has been so helpful with everything from rom hacks, updates (downgrade technically so i can save no mercy mods), getting emulators mine didn’t come with. So i figured i would come back here for another answer. With some research it seems you can use game shark or other codes? It only lets me customize the first group of numbers (8 digits and not the the last group of 4) Not the biggest deal breaker if It doesn’t work but i stumbled upon the cheats menu and was wondering if it actually does work. I would also assume any “mod” the codes for that game would work as well. submitted by /u/JKennedy81 to r/SummerCart64 [link] [comments]",
+      "link": "https://www.reddit.com/r/SummerCart64/comments/1r4m60f/another_question_for_this_awesome_community_cheat/",
+      "author": "/u/JKennedy81",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T14:49:46.575313"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1r4mg3e",
+      "type": "search",
+      "subreddit": "referralcodes",
+      "title": "Paying $40 to sign up with my code!!",
+      "content": "App: UNDERDOG Code: ALEXVMORALES4 $10 deposit required submitted by /u/Alex_morales1104 to r/referralcodes [link] [comments]",
+      "link": "https://www.reddit.com/r/referralcodes/comments/1r4mg3e/paying_40_to_sign_up_with_my_code/",
+      "author": "/u/Alex_morales1104",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T14:49:46.576232"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1r4mg3c",
+      "type": "search",
+      "subreddit": "PaperStep",
+      "title": "[Game Theory] Global Convergence to Nash Equilibrium in Nonconvex General-Sum Games under the $n$-Sided PL Condition",
+      "content": "🚀 The Leap: This paper makes it computationally feasible to solve complex multi-agent games, enabling real-time coordination in critical applications. 💡 The Core: We consider the problem of finding a Nash equilibrium (NE) in a general-sum game, where player $i$'s objective is $f_i(x)=f_i(x_1,. ,x_n)$, with $x_j\\in\\mathbb{R} {d_j}$ denoting the strategy variables of player $j$. Our focus is on investigating first-order gradient-based algorithms and their variations, such as the block coordinate descent (BCD) algorithm, for tackling this problem. 🌍 Practical Application: Enables real-time coordination in autonomous vehicles, drone swarms, and emergency response systems. 🛠️ Implementation: Autonomous vehicle companies, robotics researchers, and developers of multi-agent systems should implement this framework. 🔗 Reference: Global Convergence to Nash Equilibrium in Nonconvex General-Sum Games under the $n$-Sided PL Condition submitted by /u/DriverRadiant1912 to r/PaperStep [link] [comments]",
+      "link": "https://www.reddit.com/r/PaperStep/comments/1r4mg3c/game_theory_global_convergence_to_nash/",
+      "author": "/u/DriverRadiant1912",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T14:49:46.576265"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1r4mfyv",
+      "type": "search",
+      "subreddit": "metroidvania",
+      "title": "Ender Magnolia was mid (but has touchscreen controls???)",
+      "content": "This blew me away. I am so impressed that for switch the devs bothered to make the game touchscreen responsive. Nintendo doesn't even do that on their own games sometimes. I loved it so much. But the game itself was nothing special. Jank story, forgettable biomes, spongey enemies, nothing really made it stand out. I liked Lilies more. submitted by /u/InvisibleAstronomer to r/metroidvania [link] [comments]",
+      "link": "https://www.reddit.com/r/metroidvania/comments/1r4mfyv/ender_magnolia_was_mid_but_has_touchscreen/",
+      "author": "/u/InvisibleAstronomer",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T14:49:46.577556"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1r4mbgn",
+      "type": "search",
+      "subreddit": "stoatchat",
+      "title": "Vote with your wallet",
+      "content": "Hi everyone! As a long time supporter of open source projects like Blender, I think the best way to support stoat's success is to vote... with money! https://ko-fi.com/stoatchat Give these devs a chance, and equally, Stoat admins, take a page from Blender: https://fund.blender.org/ Have a nice big blue button for donate, feature stats, try to bring on businesses (I know my small game dev studio would like to reserve a stoat server url in the future, that's something to sell recurring!) Rent, food & bills all cost real money. If we can give the devs a chance to spend more time on the app and less time juggling other work, then stoat can be the home we really want it to be. Very excited to be joining your journey. Good luck team! submitted by /u/daraand to r/stoatchat [link] [comments]",
+      "link": "https://www.reddit.com/r/stoatchat/comments/1r4mbgn/vote_with_your_wallet/",
+      "author": "/u/daraand",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T14:49:46.577575"
     }
   ],
-  "last_updated": "2026-02-14T14:19:49.243198"
+  "last_updated": "2026-02-14T14:50:15.517390"
 }
