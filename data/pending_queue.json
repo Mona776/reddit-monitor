@@ -1,42 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qrdilj",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Made my own game launcher as a weeklong project! (Only thrice as inconvenient as just using steam)",
-      "content": "submitted by /u/Hary0423 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qrdilj/made_my_own_game_launcher_as_a_weeklong_project/",
-      "author": "/u/Hary0423",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T18:28:42.960018"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qrddl5",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Friendly reminder For Each Loop",
-      "content": "This is a friendly reminder that when doing For Each Loop, make sure you connect the output to the Array ELEMENT and not the Array Index (if not intentional of course) Specifically when doing Array of INTs in Unreal since the color outputs are very similar... This \"bug\" stole a few hours of me today, fml. Have a great weekend all! submitted by /u/SalawoodGames [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qrddl5/friendly_reminder_for_each_loop/",
-      "author": "/u/SalawoodGames",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T18:28:42.960033"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qrdbrr",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "How Time Bombs work in The Time Game",
-      "content": "submitted by /u/Royal_Initiative9065 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qrdbrr/how_time_bombs_work_in_the_time_game/",
-      "author": "/u/Royal_Initiative9065",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T18:28:42.960041"
-    },
-    {
       "id": "https://www.reddit.com/r/indiegaming/t3_1qrd7cs",
       "type": "post",
       "subreddit": "indiegaming",
@@ -62075,7 +62039,187 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-02-14T20:46:50.575528"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1r4w2rn",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "I don't have the slightest idea what it takes to play well.",
+      "content": "I've been trying to come up with a good concept for a game for a couple of months now, but every time I sit down to reread what I've written, I just don't like anything, it feels like I'm writing some kind of crap.Can someone give me some writing tips, I just don't know what to do anymore submitted by /u/AdBrief9710 [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1r4w2rn/i_dont_have_the_slightest_idea_what_it_takes_to/",
+      "author": "/u/AdBrief9710",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T21:13:18.818352"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1r4vvvd",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Toshi Ball Adventure (Brett Boss Update + New Level)",
+      "content": "submitted by /u/Cultural-Jackfruit-2 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1r4vvvd/toshi_ball_adventure_brett_boss_update_new_level/",
+      "author": "/u/Cultural-Jackfruit-2",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T21:13:18.818417"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1r4vovz",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "We’re making a 3D co-op Wild West survival where Red Dead Redemption 2: Undead Nightmare meets Resident Evil, but with a brutal frontier twist. Play with friends: one hunts, another chops wood, a third guards the camp… while the dust, monsters, and chaos of the Wild West close in..",
+      "content": "https://store.steampowered.com/app/2358630/Western_Rye/ you can check out the demo and tell us what you think. submitted by /u/NixalonStudios [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1r4vovz/were_making_a_3d_coop_wild_west_survival_where/",
+      "author": "/u/NixalonStudios",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T21:13:18.818435"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1r4w1ql",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Olexa just played my board-building roguelite! I'm speechless",
+      "content": "submitted by /u/Important-Play-7688 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1r4w1ql/olexa_just_played_my_boardbuilding_roguelite_im/",
+      "author": "/u/Important-Play-7688",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T21:13:18.818469"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1r4vm2m",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "9-Second Genga Preview from Our Indie Game Intro Cutscene",
+      "content": "Sharing a short 9-second genga (traditional frame-by-frame) preview from the intro of our indie project, Saqer's Paradox . Still in early animation stage. No color nor composition yet, but the motion foundation is in place. Currently about %40 complete from the entire cutscene. submitted by /u/saqers-paradox [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1r4vm2m/9second_genga_preview_from_our_indie_game_intro/",
+      "author": "/u/saqers-paradox",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T21:13:18.818504"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1r4vhw9",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "I need help",
+      "content": "I want to announce some of my teams games but I don't know where to I want a little bit of hype behind it but obviously we are a small team so it won't be the biggest any help would be nice submitted by /u/Gordon_fartman [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1r4vhw9/i_need_help/",
+      "author": "/u/Gordon_fartman",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T21:13:18.818527"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1r4w2wr",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "6 Weeks of development progress on my cozy bookstore management game",
+      "content": "6 weeks gone! video shows progress through 6 weeks. quite the journey. submitted by /u/Lucky-Space6065 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1r4w2wr/6_weeks_of_development_progress_on_my_cozy/",
+      "author": "/u/Lucky-Space6065",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T21:13:18.818559"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1r4w22w",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "I have opened playtesting for my flappy bird metroidvania",
+      "content": "play it here: https://rki3000.itch.io/bird-breakout submitted by /u/RKI3000 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1r4w22w/i_have_opened_playtesting_for_my_flappy_bird/",
+      "author": "/u/RKI3000",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T21:13:18.818568"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1r4vqym",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "It may not look AAA but making a game on Godot is the most fun I've had recently",
+      "content": "Hello fellow game devs, I've been working on a first person dungeon crawler game for a few months, it's called DELVERS :-) I hope you like my misaligned badly textured door ! submitted by /u/swissm4n [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1r4vqym/it_may_not_look_aaa_but_making_a_game_on_godot_is/",
+      "author": "/u/swissm4n",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T21:13:18.818577"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1r4w2xn",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Anybody know of companies that can help with video game asset art?",
+      "content": "https://i.redd.it/kn3e3o950jjg1.gif submitted by /u/Infamous-Table8132 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1r4w2xn/anybody_know_of_companies_that_can_help_with/",
+      "author": "/u/Infamous-Table8132",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T21:13:18.818647"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1r4w2dz",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Olexa just played my board-building roguelite! I'm speechless",
+      "content": "submitted by /u/Important-Play-7688 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1r4w2dz/olexa_just_played_my_boardbuilding_roguelite_im/",
+      "author": "/u/Important-Play-7688",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T21:13:18.818653"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1r4vs4b",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Is looking at the sky with a telescope during early access a good idea? Share your thoughts with me.",
+      "content": "For gamers who want to check out my project, which will be released in a few day, i can share the my steam page. contact with me in DM or comment. submitted by /u/SatisfactionNovel669 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1r4vs4b/is_looking_at_the_sky_with_a_telescope_during/",
+      "author": "/u/SatisfactionNovel669",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T21:13:18.818683"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1r4vyy2",
+      "type": "search",
+      "subreddit": "InkGame",
+      "title": "Ink Game Devs, Are You Guys Stupid?",
+      "content": "why not increase the update time from 1pm to 3pm to get all international players on release? Do you guys have a rock in your head submitted by /u/Altruistic_Mood9293 to r/InkGame [link] [comments]",
+      "link": "https://www.reddit.com/r/InkGame/comments/1r4vyy2/ink_game_devs_are_you_guys_stupid/",
+      "author": "/u/Altruistic_Mood9293",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T21:13:18.820194"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1r4w0rq",
+      "type": "search",
+      "subreddit": "CookierunKingdom",
+      "title": "I just realiezed the rollercoster gag with the scary beast faces are indefinitely funnier giving ANOTHER stereotype with crk fandom specifically with the art the players make of the game",
+      "content": "apparently this community is the modern day h.p Lovecraft cause we say things like \"THE BEAST COOKIES EXPRESSIONS ARE SO SCARY\" and \"HOW IS THIS A KIDS GAME\" while proceeding to draw things that make every none cookie run kingdom fan question us when we tell them this is in fact a game about sentient baked goods I don't mean any hate by this cause don't get me wrong I belive you guys when you say this game gets dark out of nowhere I just thought it was funny how we are all talking about this not being a kids game while meanwhile also proceeding to draw sleep paralysis demons flavored like chocolate and questionable life choices, duality of man I guess submitted by /u/Hour_Money9544 to r/CookierunKingdom [link] [comments]",
+      "link": "https://www.reddit.com/r/CookierunKingdom/comments/1r4w0rq/i_just_realiezed_the_rollercoster_gag_with_the/",
+      "author": "/u/Hour_Money9544",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T21:13:18.820320"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1r4w05t",
+      "type": "search",
+      "subreddit": "canucks",
+      "title": "Nobody likes you JT",
+      "content": "submitted by /u/Unlikely_Role_1400 to r/canucks [link] [comments]",
+      "link": "https://www.reddit.com/r/canucks/comments/1r4w05t/nobody_likes_you_jt/",
+      "author": "/u/Unlikely_Role_1400",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T21:13:18.820590"
     }
   ],
-  "last_updated": "2026-02-14T20:47:19.020888"
+  "last_updated": "2026-02-14T21:13:47.162103"
 }
