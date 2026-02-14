@@ -1,102 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qr4ele",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Screenshot from “Hendor” (in development)",
-      "content": "submitted by /u/datadiisk_ [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qr4ele/screenshot_from_hendor_in_development/",
-      "author": "/u/datadiisk_",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T13:34:13.843916"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qr59y2",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Happy Screenshot-Saturday!",
-      "content": "Wishlist \"PESKY ORCS!\" on Steam: https://store.steampowered.com/app/4184880/PESKY_ORCS/ In \"Pesky Orcs!\" you take part in medieval fantasy battles between ancient foes: Orcs and humans. Dive into a unique mix of Autobattler, RTS and Roguelike in real retro pixelart fashion! submitted by /u/Plus_Astronomer1789 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qr59y2/happy_screenshotsaturday/",
-      "author": "/u/Plus_Astronomer1789",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T13:34:13.843960"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qr4fku",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Some of our creature concepts progressions! What do you guys think?",
-      "content": "submitted by /u/ThoughtfishDE [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qr4fku/some_of_our_creature_concepts_progressions_what/",
-      "author": "/u/ThoughtfishDE",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T13:34:13.843976"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qr4cfu",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "I'm making Orbital Overdrive, Super Stardust HD on steroids",
-      "content": "submitted by /u/RamboAslak [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qr4cfu/im_making_orbital_overdrive_super_stardust_hd_on/",
-      "author": "/u/RamboAslak",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T13:34:13.843982"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qr50ld",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Drag & Drop RigidBody2D problem",
-      "content": "Hi all, I'm having a problem with drag & drop of rigidbody2D nodes. I want to pick a body with freeze=false, it to freeze, follow with the mouse click and move, re-enter physics with mouse release at new location. The problem is that it always snaps back to the original location. Thanks extends RigidBody2D @onready var collision_shape_2d: CollisionShape2D = $CollisionShape2D var dragging := false func _input_event(viewport, event, shape_idx): if event.is_action_pressed(\"drag\") and not dragging: start_dragging() func _unhandled_input(event): if dragging and event.is_action_released(\"drag\"): call_deferred(\"stop_dragging\") func _physics_process(delta): if dragging: global_position = get_global_mouse_position() func start_dragging(): dragging = true freeze = true rotation = 0.0 collision_shape_2d.disabled = true func stop_dragging(): dragging = false collision_shape_2d.disabled = false freeze = false submitted by /u/Jago971 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qr50ld/drag_drop_rigidbody2d_problem/",
-      "author": "/u/Jago971",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T13:34:13.844069"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qr4wvq",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Navy-blue glass UI: A Sci-Fi cliché or the gold standard? Hard to beat the classic \"home\" feeling.",
-      "content": "submitted by /u/Rashaun32 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qr4wvq/navyblue_glass_ui_a_scifi_cliché_or_the_gold/",
-      "author": "/u/Rashaun32",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T13:34:13.844114"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qr4tnn",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Area3D.get_overlapping_bodies() not working as intended",
-      "content": "https://reddit.com/link/1qr4tnn/video/i8mbonovghgg1/player The Area3D.get_overlapping_bodies() works but the problem here is that when the Area3D is completely inside an object, it treats it as if it was hollow and doesn't detect the object as seen in the Output of the video. I need it to detect the insides of the object as well but right now it only detects when the Area3D is currently going through a face of the object and not when its completely inside the object. Thank you in advance. submitted by /u/InevitableQuiet4379 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qr4tnn/area3dget_overlapping_bodies_not_working_as/",
-      "author": "/u/InevitableQuiet4379",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T13:34:13.844130"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qr48lj",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "A Cute Desktop Companion with Ragdoll Physics",
-      "content": "Check it out here! submitted by /u/mehrzad1376 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qr48lj/a_cute_desktop_companion_with_ragdoll_physics/",
-      "author": "/u/mehrzad1376",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T13:34:13.844184"
-    },
-    {
       "id": "https://www.reddit.com/r/unity/t3_1qr53a3",
       "type": "post",
       "subreddit": "unity",
@@ -60911,7 +60815,139 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-02-14T10:50:26.237782"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1r4hrwm",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "anyone who makes 3d gameplay animations as a freelancer",
+      "content": "when you get a commission and finish the animation in blender how do you give them the product for the gameplay, do you have to make do anything in UE or something ? or you just give them the blender file ? submitted by /u/Double_Neck631 [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1r4hrwm/anyone_who_makes_3d_gameplay_animations_as_a/",
+      "author": "/u/Double_Neck631",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T11:12:52.698519"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1r4hrhz",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "anyone who makes 3d animations for gameplay as a freelancer",
+      "content": "when you get a commission and finish the animation in blender how do you give them the product for the gameplay, do you have to make do anything in UE or something ? or you just give them the blender file ? submitted by /u/Double_Neck631 [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1r4hrhz/anyone_who_makes_3d_animations_for_gameplay_as_a/",
+      "author": "/u/Double_Neck631",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T11:12:52.698531"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1r4hqjb",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "Itch... Or nitch?",
+      "content": "I've started a devlog in Itch because I've read that it's good for creating a \"history\" that will show in the future where the game came from, to assert credibility, that it's \"real\" and maybe to get a few people interested in being alpha testers. I've also read it's better to leave it at dev level, avoid giving away the storyline and lore, artwork, etc. So others don't steal the idea or concept. What is your opinion on that? Would you do it differently? submitted by /u/whompywhompy [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1r4hqjb/itch_or_nitch/",
+      "author": "/u/whompywhompy",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T11:12:52.698547"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1r4htzl",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Some finishing touches to hero's abilities - cannon",
+      "content": "submitted by /u/kotogames [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1r4htzl/some_finishing_touches_to_heros_abilities_cannon/",
+      "author": "/u/kotogames",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T11:12:52.698584"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1r4hu1w",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Solo dev life hits different.",
+      "content": "submitted by /u/SoggyPrior863 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1r4hu1w/solo_dev_life_hits_different/",
+      "author": "/u/SoggyPrior863",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T11:12:52.698666"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1r4hxuy",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Made the grass in my game look 10 billion times better",
+      "content": "Rough estimate on how much it was improved by but definitely looks better regardless IMO. This video from Dylearn helped immensely: How I made grass better than 99% of games | Stylized grass 3D pixel art This is just a test environment made in blender to try and figure out the art style. Please let me know what you think! submitted by /u/KansasCitySunshine [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1r4hxuy/made_the_grass_in_my_game_look_10_billion_times/",
+      "author": "/u/KansasCitySunshine",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T11:12:52.698701"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1r4hpuh",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Okay, we got a little progress",
+      "content": "submitted by /u/DifferentSeaweed7852 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1r4hpuh/okay_we_got_a_little_progress/",
+      "author": "/u/DifferentSeaweed7852",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T11:12:52.698735"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1r4i0ti",
+      "type": "search",
+      "subreddit": "Metallica",
+      "title": "Interview with Jason in Propaganda #14 Spring 1990",
+      "content": "submitted by /u/Joseph_P_Larkin to r/Metallica [link] [comments]",
+      "link": "https://www.reddit.com/r/Metallica/comments/1r4i0ti/interview_with_jason_in_propaganda_14_spring_1990/",
+      "author": "/u/Joseph_P_Larkin",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T11:12:52.700653"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1r4hu1w",
+      "type": "search",
+      "subreddit": "IndieDev",
+      "title": "Solo dev life hits different.",
+      "content": "submitted by /u/SoggyPrior863 to r/IndieDev [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1r4hu1w/solo_dev_life_hits_different/",
+      "author": "/u/SoggyPrior863",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T11:12:52.701036"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1r4hs79",
+      "type": "search",
+      "subreddit": "growagarden",
+      "title": "I still like playing gag however some people have ruined the experience for me",
+      "content": "Everytime I join a public server i always get some immature kids and adults accuse you of scripting and duping, for what spending my own money that I work for every single day working 10 hour shifts for, just to get things me and my kids want they want, with money I save up for now ive played a pc game called rust for a long time thats a toxic game however the gag community itself is appalling im not saying everyone is like this but ithas completely been ruined when I first started playing if you had something decent people would come up being so friendly, saying thats cool how did you get that now if you have anything half decent people just assume your scripting, the only reason I wanted to go on today was to boost my daughters kit to 61kg some people blame the devs I agree but the biggest cause for this downfall ive seen is the community itself which is a shame in my opinion if the devs pulled their finger out there own arses perma banned any scripters and dupers and for once just listened to what the community wanted instead of being greedy vultures trying to squeeze as much cash out of people as possible submitted by /u/Plus_Business5653 to r/growagarden [link] [comments]",
+      "link": "https://www.reddit.com/r/growagarden/comments/1r4hs79/i_still_like_playing_gag_however_some_people_have/",
+      "author": "/u/Plus_Business5653",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T11:12:52.701199"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1r4hz8i",
+      "type": "search",
+      "subreddit": "deadbydaylight",
+      "title": "falling",
+      "content": "i can't stand how survivors get stunned when falling but killers don't like it's probably the most aggravating aspect of this game for me. it makes me want to carve my teeth out with a rusty flaming hot metal toothpick submitted by /u/TranslatorNo2825 to r/deadbydaylight [link] [comments]",
+      "link": "https://www.reddit.com/r/deadbydaylight/comments/1r4hz8i/falling/",
+      "author": "/u/TranslatorNo2825",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T11:12:52.701352"
     }
   ],
-  "last_updated": "2026-02-14T10:50:54.821982"
+  "last_updated": "2026-02-14T11:13:21.485943"
 }
