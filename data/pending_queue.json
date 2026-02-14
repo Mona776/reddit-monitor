@@ -1,90 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qr804a",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "I added a Guitar Hero-style bonus mode to my musical tower defense game",
-      "content": "Groove Defense is a tower defense game where every tower you place adds a layer to the music. I realized I was sitting on full dynamic soundtracks for each genre, so why not lean into that? Rhythm Remix is a Guitar Hero-style mode where you hit notes to your own battlefield's beat. In the full game you'll unlock it after completing Tour Mode, but for the demo release later this month, I'm giving access right away so people can try it out. Groove Defense will be part of Steam's Tower Defense Fest in March but you can wishlist now if this looks like your vibe: https://store.steampowered.com/app/4100400/Groove_Defense/ submitted by /u/FaceoffAtFrostHollow [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qr804a/i_added_a_guitar_herostyle_bonus_mode_to_my/",
-      "author": "/u/FaceoffAtFrostHollow",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T15:35:48.140170"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qr8mv7",
-      "type": "search",
-      "subreddit": "bollywoodcirclejerk",
-      "title": "Me when my girl asks why I like her and not other girls",
-      "content": "submitted by /u/Away_Ad_179 to r/bollywoodcirclejerk [link] [comments]",
-      "link": "https://www.reddit.com/r/bollywoodcirclejerk/comments/1qr8mv7/me_when_my_girl_asks_why_i_like_her_and_not_other/",
-      "author": "/u/Away_Ad_179",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T15:35:48.141671"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qr8mnv",
-      "type": "search",
-      "subreddit": "ICARUS",
-      "title": "Tech/talent tree should be synced between players",
-      "content": "https://preview.redd.it/hmce8gfc9igg1.png?width=1568&format=png&auto=webp&s=907dd52c258e86c9ca1f06de9a7db0718025406c Anytime I play with my friends on a new world and we want to save points in early game I have to repeatedly ask who is learning each technology. It would be nice if the described feature would be implemented. I made a request on feature uptove forum. Not sure if devs pay attention to it but worth a try. https://icarus.featureupvote.com/suggestions/688117/techtalent-tree-should-be-synced-between-players submitted by /u/MrBroove to r/ICARUS [link] [comments]",
-      "link": "https://www.reddit.com/r/ICARUS/comments/1qr8mnv/techtalent_tree_should_be_synced_between_players/",
-      "author": "/u/MrBroove",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T15:35:48.142367"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qr8ka5",
-      "type": "search",
-      "subreddit": "IndieDev",
-      "title": "Did Google Genie (released 22 hours ago) just kill game dev?",
-      "content": "Imagine this in just 1 year submitted by /u/datadiisk_ to r/IndieDev [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qr8ka5/did_google_genie_released_22_hours_ago_just_kill/",
-      "author": "/u/datadiisk_",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T15:35:48.142386"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedev/t3_1qr9vcc",
-      "type": "post",
-      "subreddit": "gamedev",
-      "title": "2D shadows in Unity 6?",
-      "content": "What’s the best solution to creating shadows in Unity 6 for top down pixel art sprites? I can’t determine what’s the best approach. Seems some people draw shadows and put them on a layer so they can toggle them on and off but then confuses me how they can make the shadow adapt to different surfaces. Other method I saw was duplicating the asset, flipping it and using a shader to turn it into a shadow so they can rotate it for a day cycle but that seems rather complex to make it look good. Anyways sorry I know this has been asked but couldn’t find much info if the latest Unity engine can speed up this process. submitted by /u/owlsmoke [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedev/comments/1qr9vcc/2d_shadows_in_unity_6/",
-      "author": "/u/owlsmoke",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T16:24:22.362351"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedev/t3_1qr7ji2",
-      "type": "post",
-      "subreddit": "gamedev",
-      "title": "Are there games with a \"cross-game\" like pokemon?",
-      "content": "I mean, if you have pokemon scarlet you can play with people who have pokemon violet, those two are technically different games and can interact. Are there more games with that feature or something like that? Can it be done in steam? The only way that i think it can be achieved would be making one game as a base and make the \"scarlet\" and the \"violet\" dlc. submitted by /u/Aromatic-Major-806 [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedev/comments/1qr7ji2/are_there_games_with_a_crossgame_like_pokemon/",
-      "author": "/u/Aromatic-Major-806",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T16:24:22.362366"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qr9o4l",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Football but 'would you love me if I was a worm?'",
-      "content": "This is the first and design-wise oldest game mode we have in Mewts . In this speed of movement and collaboration you can see our central mechanics: grabbing, stretching and slingshoting using your own body. But in the actual gameplay it's very much not this chill haha We first recorded the real footage but you would have to be in the room with us screaming at each other to uderstand what was going on. So enjoy more cute video this time. submitted by /u/Kakabundala [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qr9o4l/football_but_would_you_love_me_if_i_was_a_worm/",
-      "author": "/u/Kakabundala",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T16:24:22.362432"
-    },
-    {
       "id": "https://www.reddit.com/r/indiegaming/t3_1qr8zug",
       "type": "post",
       "subreddit": "indiegaming",
@@ -61391,7 +61307,127 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-02-14T15:45:45.337844"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1r4oc4r",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "How much RAM do I need for MBP?",
+      "content": "Long time windows user, time for my laptop upgrade but I'm going MacBook pro 14 (M3/M4) because windows started sucking ass lately. I want to use this laptop for 5+ years (more if possible), I will use it for coding and machine learning primarily (mostly cloud based). For all this I know I will only need 16gb, I'm worried about my future use. I will more than likely get into mobile game/app dev, I already do A LOT of web dev but most of my testing is cloud based, I have no intention of video editing, local LLM, I do occasionally do large photo editing. Mobile app/game dev is something that is getting my interest, and I finally have the time for it, so is 16 enough? Do I need 24, 32 or more? submitted by /u/Significant-Call9799 [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1r4oc4r/how_much_ram_do_i_need_for_mbp/",
+      "author": "/u/Significant-Call9799",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T16:14:48.610920"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1r4o7st",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Anyone know what happened to this game?",
+      "content": "submitted by /u/browseroftheunknown [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1r4o7st/anyone_know_what_happened_to_this_game/",
+      "author": "/u/browseroftheunknown",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T16:14:48.611088"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1r4o564",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "🏰 DEFEND THE THRONE - Community-Driven 2D Pixel Game",
+      "content": "submitted by /u/kraboo_team [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1r4o564/defend_the_throne_communitydriven_2d_pixel_game/",
+      "author": "/u/kraboo_team",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T16:14:48.611099"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1r4nwpc",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "How the DMCA Laws Put Indie Developers at Risk",
+      "content": "submitted by /u/GoodAsDad [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1r4nwpc/how_the_dmca_laws_put_indie_developers_at_risk/",
+      "author": "/u/GoodAsDad",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T16:14:48.611106"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1r4oc8p",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Made another devlog for my game I'm making in Godot!",
+      "content": "Made another devlog showing off features I've added to my game. Worked a bit on UI and interactions in this one but I definitely need feedback, as I just don't think my game is intuitive at the moment :3 submitted by /u/MysticTomoMochi [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1r4oc8p/made_another_devlog_for_my_game_im_making_in_godot/",
+      "author": "/u/MysticTomoMochi",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T16:14:48.611224"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1r4ok3z",
+      "type": "search",
+      "subreddit": "newzealand",
+      "title": "Thoughts on subway surfers 2?",
+      "content": "The next edition of subway surfers ( subway surfers city ) about to come out to New Zealand and globally on feb 26. Are you excited to try it out? subway was a game we all enjoyed playing on our moms phones finally get a mechanics update after 14 years with the new version having 4 cities (currently) each of them has hidden areas and stars ( new item you get in game that lets you have higher score multiplier) and each surfer now has his own skills and abilities and board system has been changed completely with the new addition lettings you collect blue charges while playing ( can be found on the ground like coins ) which gives you board for 20+ which is way better than the previous version as you would have to pay 300 coins to use them which make them rarely used. The new game is a little challenging and has a lot new currencies including its own ingame levels each on completion gives you rewards. Excited to see what you think about the new additions or if you prefer the original game. submitted by /u/OverDifference8749 to r/newzealand [link] [comments]",
+      "link": "https://www.reddit.com/r/newzealand/comments/1r4ok3z/thoughts_on_subway_surfers_2/",
+      "author": "/u/OverDifference8749",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T16:14:48.611586"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1r4ojcl",
+      "type": "search",
+      "subreddit": "Wales",
+      "title": "Welsh Game Dev hits halfway point on funding new world record breaking Open-World RPG",
+      "content": "submitted by /u/Catlchandler to r/Wales [link] [comments]",
+      "link": "https://www.reddit.com/r/Wales/comments/1r4ojcl/welsh_game_dev_hits_halfway_point_on_funding_new/",
+      "author": "/u/Catlchandler",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T16:14:48.612164"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1r4od28",
+      "type": "search",
+      "subreddit": "NuclearOption",
+      "title": "This is fantastic on Steam Deck",
+      "content": "My one and only gripe is that there are some specific scenarios where the controller doesn't work - some menus and target selection on the map. But otherwise, on medium settings, this game runs a flawless 60fps and is the perfect \"pick up and play\" steam deck title. gg devs! submitted by /u/MusterBuster to r/NuclearOption [link] [comments]",
+      "link": "https://www.reddit.com/r/NuclearOption/comments/1r4od28/this_is_fantastic_on_steam_deck/",
+      "author": "/u/MusterBuster",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T16:14:48.612280"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1r4oc4r",
+      "type": "search",
+      "subreddit": "gamedev",
+      "title": "How much RAM do I need for MBP?",
+      "content": "Long time windows user, time for my laptop upgrade but I'm going MacBook pro 14 (M3/M4) because windows started sucking ass lately. I want to use this laptop for 5+ years (more if possible), I will use it for coding and machine learning primarily (mostly cloud based). For all this I know I will only need 16gb, I'm worried about my future use. I will more than likely get into mobile game/app dev, I already do A LOT of web dev but most of my testing is cloud based, I have no intention of video editing, local LLM, I do occasionally do large photo editing. Mobile app/game dev is something that is getting my interest, and I finally have the time for it, so is 16 enough? Do I need 24, 32 or more? submitted by /u/Significant-Call9799 to r/gamedev [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1r4oc4r/how_much_ram_do_i_need_for_mbp/",
+      "author": "/u/Significant-Call9799",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T16:14:48.612310"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1r4oj5w",
+      "type": "search",
+      "subreddit": "hytale",
+      "title": "SERVER WARNING!!!!!!!!",
+      "content": "Server Warning: Hyplexia This server is by far one of the most corrupt, badly run game servers I've ever come across. For starters, it's horribly P2W, giving donator everything they need to obliterate F2Ps. The server operates on a Runescape type xp system, where leveling gives you better stats and so in. Donators can essentially buy XP grinders and power level their stats, which makes pvping them impossible. The owner also plays favorites, and gives his friends OP as fuck weapons to run around and kill people with. I tried to bring this up in their server, and got called a baby/banned. I have no clue how this server is so popular. It definitely won't be for long. With the amount of donator they've accumulated this week, I felt inclined to warn everyone about them. submitted by /u/fordatrap44824 to r/hytale [link] [comments]",
+      "link": "https://www.reddit.com/r/hytale/comments/1r4oj5w/server_warning/",
+      "author": "/u/fordatrap44824",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T16:14:48.612329"
     }
   ],
-  "last_updated": "2026-02-14T15:46:13.708269"
+  "last_updated": "2026-02-14T16:15:16.798796"
 }
