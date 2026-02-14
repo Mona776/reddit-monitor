@@ -1,102 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qrc3a9",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Facing the Final Boss in an RPG",
-      "content": "submitted by /u/TempGanache [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qrc3a9/facing_the_final_boss_in_an_rpg/",
-      "author": "/u/TempGanache",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T17:56:20.472810"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qrbvvz",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Our co-op game has come a long way!",
-      "content": "Game's called Spook-A-Boo and we have a demo on steam! Link - https://store.steampowered.com/app/3154150/SpookABoo/ submitted by /u/MK_wala [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qrbvvz/our_coop_game_has_come_a_long_way/",
-      "author": "/u/MK_wala",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T17:56:20.472818"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qrbduq",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "[Android] Nexus9 – Free Offline Classic Puzzle & Logic Games",
-      "content": "submitted by /u/Perfect_Musician_856 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qrbduq/android_nexus9_free_offline_classic_puzzle_logic/",
-      "author": "/u/Perfect_Musician_856",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T17:56:20.472888"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qrbuq0",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "What should I name my bounty hunter?",
-      "content": "I don’t know what he is yet but his helmet is cool lol submitted by /u/PixelDins [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qrbuq0/what_should_i_name_my_bounty_hunter/",
-      "author": "/u/PixelDins",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T17:56:20.472925"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qrbtbj",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "🎶 Just dropped a short snippet of my music. I would love your thoughts!",
-      "content": "submitted by /u/Lizzcali [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qrbtbj/just_dropped_a_short_snippet_of_my_music_i_would/",
-      "author": "/u/Lizzcali",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T17:56:20.472934"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qrbs63",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "We just hit 5,000 members! Share your project below!",
-      "content": "submitted by /u/kptbarbarossa [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qrbs63/we_just_hit_5000_members_share_your_project_below/",
-      "author": "/u/kptbarbarossa",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T17:56:20.472940"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qrbce7",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "I remade my sauce explosion animation based off your feedback. It is supposed to be hot sauce packs exploding then dripping down and destroying the burrito meat. What do you think of it now?",
-      "content": "submitted by /u/SPACEGAMESstudio [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qrbce7/i_remade_my_sauce_explosion_animation_based_off/",
-      "author": "/u/SPACEGAMESstudio",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T17:56:20.472951"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qrcfz5",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "CTRL dragging nodes no longer including types?",
-      "content": "Hi everyone! I just updated to Godot 4.6, and noticed that ctrl dragging nodes into a script to create onready variables no longer brings over their type. Is there a way to change that back? Or am I missing something lol Thanks! submitted by /u/froggyslime [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qrcfz5/ctrl_dragging_nodes_no_longer_including_types/",
-      "author": "/u/froggyslime",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T17:56:20.472962"
-    },
-    {
       "id": "https://www.reddit.com/r/godot/t3_1qrbw3q",
       "type": "post",
       "subreddit": "godot",
@@ -61859,7 +61763,79 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-02-14T18:56:57.085293"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1r4t25y",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "\"Hammer Of Justice\" (Deltarune) played on Clone Hero",
+      "content": "submitted by /u/Cadence_Hero [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1r4t25y/hammer_of_justice_deltarune_played_on_clone_hero/",
+      "author": "/u/Cadence_Hero",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T19:17:54.140396"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1r4svl9",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "As the story progresses there's more and more characters in \"Donna the Firebreather\", which one is your favorite?",
+      "content": "submitted by /u/Peli_117 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1r4svl9/as_the_story_progresses_theres_more_and_more/",
+      "author": "/u/Peli_117",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T19:17:54.140482"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1r4svaz",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Block Selection Suggestions for 2D Sandbox Game",
+      "content": "submitted by /u/Kaychaton_03 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1r4svaz/block_selection_suggestions_for_2d_sandbox_game/",
+      "author": "/u/Kaychaton_03",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T19:17:54.140493"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1r4sw3u",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "As the story progresses there's more and more characters in \"Donna the Firebreather\", which one is your favorite?",
+      "content": "submitted by /u/Peli_117 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1r4sw3u/as_the_story_progresses_theres_more_and_more/",
+      "author": "/u/Peli_117",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T19:17:54.140517"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1r4t72u",
+      "type": "search",
+      "subreddit": "Ubiquiti",
+      "title": "New to ubiquity / unify. Fresh setup problems",
+      "content": "Hello, I have tried to make this setup work today. fibre modem from ISP -> to patch panel -> to cloudgateway max wan port --> to poe switch -> to patch panel -> to 2 ap u7 pro ad 21 other keystone endpoints(dont know how is called) 1) the wan port is not getting connectivity(no green light), tried directly on the ISP modem which works fine. so maybe a cable issue on the way to the patch panel. could it be something else? 2) the switch was getting adopted without a problem, and I can access all endpoints in the house, however it is not showing active ports in the admin ui? 3) the two endpoints where the aps are located seem not to work. they are not beeing shown in the cloudgateway / offered for adoption. seems strange that all the other cables work but not these? Has anyone experienced something similar? submitted by /u/libertetoujour to r/Ubiquiti [link] [comments]",
+      "link": "https://www.reddit.com/r/Ubiquiti/comments/1r4t72u/new_to_ubiquity_unify_fresh_setup_problems/",
+      "author": "/u/libertetoujour",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T19:17:54.142033"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1r4t4zv",
+      "type": "search",
+      "subreddit": "LetsPlayMyGame",
+      "title": "Looking to Showcase your game",
+      "content": "Hello Everyone 👋 I recently started a game showcasing business and want to reach out to any indie devs that are about to make their game public. I would love to post your gameplay showcase on my social platforms. The Requirements: • Must be scheduled or currently released • Must be mastered (no low quality videos) if you are interested, please send me a DM of the gameplay, the games name and the developer name. I look forward to connecting with you all ✌️ submitted by /u/BootyHolePuncher69 to r/LetsPlayMyGame [link] [comments]",
+      "link": "https://www.reddit.com/r/LetsPlayMyGame/comments/1r4t4zv/looking_to_showcase_your_game/",
+      "author": "/u/BootyHolePuncher69",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T19:17:54.142763"
     }
   ],
-  "last_updated": "2026-02-14T18:57:25.482991"
+  "last_updated": "2026-02-14T19:18:22.917017"
 }
