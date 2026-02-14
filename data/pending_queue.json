@@ -1,78 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/t3_1r4d2nz",
-      "type": "search",
-      "subreddit": "FormD",
-      "title": "The Ultimate Hotbox",
-      "content": "Built a new portable workstation for gaming/AI workloads. The build currently has 2 T-Grills attached, but I am looking to remove the top grill once the 12018 fan arrives from aliexpress, since I personally think the case looks too tall with both grills on. Temps are good, with the cpu reaching a max temp of around 75c and the GPU never going above 80c with an undervolt even during extremely heavy workloads. Top and bottom fans are all set to intake for a positive pressure setup, with the gpu exhausting hot air out of the case. Tried to mount the gpu in the default orientation and the heat ended up constantly overheating the oc'd ram and m.2 ssd on the back of the motherboard :( Can't wait for the release of Wireview Pro 2 for founders edition cards, since I most definitely don't want the expensive GPU to suddenly erupt in flames... Case: FormD T1 2.5 Gunmetal w/ Double T-Grills and Reverse Kit CPU: AMD Ryzen 9 9950X3D GPU: NVIDIA RTX PRO 6000 Workstation Edition Motherboard: MSI MPG X870I EDGE TI EVO WIFI Ram: TEAMGROUP T-Force Delta RGB 96 GB DDR5-6800 CL36 (stable at 6200 MT/s & 2233 FCLK) Storage: Crucial T710 4TB, Samsung 990 Pro 4TB, WD Black SN850X 8TB, TEAMGROUP CX2 2TB (Used drives from my previous build since I definitely won't be able to afford all this storage at current prices) PSU: Corsair SF1000 PSU Cables: Custom Cables from Dreambigbyray CPU Cooler: CM Masterliquid 240 ATMOS Stealth submitted by /u/neintailedfoxx to r/FormD [link] [comments]",
-      "link": "https://www.reddit.com/r/FormD/comments/1r4d2nz/the_ultimate_hotbox/",
-      "author": "/u/neintailedfoxx",
-      "search_keyword": "AI game maker",
-      "relevance_score": 1,
-      "added_at": "2026-02-14T06:30:01.901700"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1r4d6cs",
-      "type": "search",
-      "subreddit": "GlobalOffensive",
-      "title": "sc@mmers country players trying to taking revenge on this game",
-      "content": "unfortunately i have to play solo on south east Asian servers i notice every time (more then 6 times now not the same team)sc@mmers country players q with 4 players and when i end up on there team they are toxic, voip, running in to my grenades and molly willingly so i will get kick from the game. when i stay without using any grenades they trying to run in to my shots and sometimes they just rush and die sometimes they play right but most annoying thing is ** they kick me in last round so i get no XP ** that is should not be in the game kick a player on last round i don't think that's fair to make it like that. i wish if dev can make after the half mark make players not kickable even with 4 votes make only damaging team kick after half game mark. i think they are taking revenge on game cz of the humiliation they got caught a cheater on game tournament. submitted by /u/SuicidalFatty to r/GlobalOffensive [link] [comments]",
-      "link": "https://www.reddit.com/r/GlobalOffensive/comments/1r4d6cs/scmmers_country_players_trying_to_taking_revenge/",
-      "author": "/u/SuicidalFatty",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 1,
-      "added_at": "2026-02-14T06:30:01.901838"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1r4dcra",
-      "type": "search",
-      "subreddit": "MinecraftCommands",
-      "title": "Block trail 1.20.1",
-      "content": "Im working on a way to have a trail in minecraft, I'm wondering if there is ANY way to make this better than i have it. Whether it be working with every kind of block or if i can do this in fewer commands. execute at MrRubixs if block ~ ~-0.35 ~ minecraft:grass_block run setblock ~ ~-1 ~ minecraft:sculk replace execute at MrRubixs if block ~ ~-1 ~ minecraft:sculk run fill ~3 ~3 ~-6 ~6 ~-3 ~6 minecraft:grass_block replace minecraft:sculk execute at MrRubixs if block ~ ~-1 ~ minecraft:sculk run fill ~-3 ~3 ~-6 ~-6 ~-3 ~6 minecraft:grass_block replace minecraft:sculk execute at MrRubixs if block ~ ~-1 ~ minecraft:sculk run fill ~6 ~3 ~3 ~-6 ~-3 ~6 minecraft:grass_block replace minecraft:sculk execute at MrRubixs if block ~ ~-1 ~ minecraft:sculk run fill ~6 ~3 ~-3 ~-6 ~-3 ~-6 minecraft:grass_block replace minecraft:sculk The 6's indicate how big the radius is, and the 3's indicate a square from where you stand before it turns back to grass. Making it 5 will make your trail bigger, but make sure to scale the 6 by the same amount. Heres how it looks. https://medal.tv/games/minecraft/clips/m7cof1lDd3_lCeZ9u?invite=cr-MSw2aUgsNDAxNTA2Nzc5&v=17 submitted by /u/Ok-Count4826 to r/MinecraftCommands [link] [comments]",
-      "link": "https://www.reddit.com/r/MinecraftCommands/comments/1r4dcra/block_trail_1201/",
-      "author": "/u/Ok-Count4826",
-      "search_keyword": "how to make a game",
-      "relevance_score": 1,
-      "added_at": "2026-02-14T06:30:01.901859"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1r4dcaw",
-      "type": "search",
-      "subreddit": "OutlastTrials",
-      "title": "My gripes with invasions design and some ideas.",
-      "content": "The grading system for impostor is awful. Your goal is to “hurt” the reagents and get you are punished by trying to do so. Once you have an A+ you have no incentive to continue trying to kill reagents and may as well just sit in a corner or otherwise risk your grade. Your grade should only measure by how much you hurt them, not how much turbulence you got along the way. The Stun/Jammer combo makes every other rig completely obsolete. They shouldn’t be removed but the default cooldown should be increased during invasion. Reagents can break out of a stab even if you stab them in the back, which doesn’t make sense to me. They should only be able to break out if you stab the from the front. You don’t actually feel you’re playing an “impostor” half the time. Since experienced players tend to bum rush objectives you really have to choice but to chase them down like a grunt. I’d really prefer if they made impostor more of a trickster then just a madman with a knife. Especially with impostors 90 year old chain smoker stamina. I know some people have had the idea that offering fake items should let you stab a reagent and I agree. I’ve got some other ideas too that play into more of an impostor playstyle. - Drop fake trapped items that explode and stun reagents who try to pick them up. These would have a large cooldown between use. - Reagent friendly fire only during invasion. Albeit at reduced damage but still stunning others. Making it so even if they throw something at you they may not really be able to tell if you’re real or not. I know that this would open the door to some toxic behavior between teammates though so I’m a bit iffy on this one. - Multiple fake items, let impostors swap between multiple fake items. Reagents will swap multiple items to show that they’re real to teammates. Let impostors do it too in order to make it more difficult to tell who’s who. - Let impostors hold up fake bricks and bottles like they’re about to throw them. - Give impostors their own rigs. Here’s some ideas: A tracker similar to the one used to track scapegoats. Has limited charge and a very loud and distinct beeping sound. Making it risky to use in close proximity. Best used to briefly point you in the right direction. A tapper that lets you channel into the reagents voice chat. The con being you can’t hear your impostor teammates comms while it’s active and your in game hearing is muffled. Since say you have like headphones on or something. Restorer, a device that will heal you for two bars and refill your stamina a SINGLE time between invade attempts. You should be able to swap impostor rigs between invade attempts. Give impostors more to do on the cameras. Right now it’s just waiting for your turn and occasionally pinging someone that lasts for like 5 seconds. Players should be able to do more, like maybe rearm a deactivated trap or two. I saw one of happyheart’s vids on yt and they suggested that pinging reagents would alert nearby ex-pop. Honestly ppl need more to do when you’re sometimes waiting like 4-5 minutes for a turn where you can die immediately. Thats all I really got for now, agree? Disagree? Lemme know I want feedback submitted by /u/PlasticStandard123 to r/OutlastTrials [link] [comments]",
-      "link": "https://www.reddit.com/r/OutlastTrials/comments/1r4dcaw/my_gripes_with_invasions_design_and_some_ideas/",
-      "author": "/u/PlasticStandard123",
-      "search_keyword": "how to make a game",
-      "relevance_score": 1,
-      "added_at": "2026-02-14T06:30:01.901939"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1r4dbc8",
-      "type": "search",
-      "subreddit": "masseffect",
-      "title": "Replaying ME2 and I’m getting the feeling maybe someone knew something about a certain Island",
-      "content": "TLDR: Some dark conspiracy thoughts that kept popping into my head while playing, but are just for fun, don’t take it too seriously. Ok so… hear me out. I’m sure i’m just being spooked by shadows with all the heinous shit coming out of the Epstein files. But I feel like there are so many dots to connect! Replaying ME2 is giving me vibes of someone who knew something and incorporated it into the writing. I’m almost 100% sure I’m just cherry picking stuff and people could probably do this for a lot of stories or games. Almost 100%. Let’s start with Jacob’s loyalty mission. It always felt odd to me. The ick was strong even back in the day. Like wtf did I just watch? A pretty elaborate way of tackling adolescent fantasy and sexual abuse against unwilling victims. If you wanted to tell a PDF story, what better way than to make it palatable by using adults who eat bad veggies that turn them into easily manipulated children? “Treat them like cattle, or toys”… “she’s so innocent now. They all are… What’s the harm? We’re stuck here anyway.” Sound like someone who maybe partook on Epstein island, but felt guilty? “You created a harem and played king, ten years in a juvenile fantasy!” This whole mission hit very different in 2026. Miranda’s whole thing. Daughter of a rich and powerful narcissist using his own genes to create “perfect” children in HIS image. Trying to hide her sister (another survivor), and being betrayed by someone cos they got bribed. Her loyalty mission also always felt a bit odd to me. They really couldn’t think of a better loyalty mission for a genetically perfect soldier/spy? We needed commander Shepard, the crew of the Normandy who took down a Reaper to go get a girl being hunted by a rich dude? Cos he’s so rich and powerful, governments can’t touch him? Really? (Epstein was talking to people about genetic manipulation to create “perfect” people too). Compare these to Garrus’s story writing, Kasumi’s, Grunt’s, Mordin, heck even Zaeed. Such rich story telling. Miranda and Jacob’s loyalty missions stick out like sore thumbs. Jack: tortured and experimented on since she was a kid. Being “used” then tossed aside by everyone she has ever known since. Another survivor but one that does not remain a victim but went on the warpath. Cerberus as a organisation backed by rich elites doing heinous shit in the shadows. It’s a bit of a mind fuck. One could argue that rich elites doing shady stuff has always been a part of conspiracy theories and solidly in our zeitgeist, and it could just be based on that. But those conspiracy theories are being proven true one by one these days so even if it wasn’t directly based on facts, they are INDIRECTLY based on the truth regardless. I’m sure there’s plenty more. And again, I’m sure I’m just doing that thing where we see a pattern where there is none. The shit coming out and how it’s going at US congress has actually gotten me quite depressed, actually seeing how dark and evil the world can be. If the system really is that corrupt (and would come crashing down if they prosecuted all the people in the list as Pam Bondi claims)… If there really IS a global cabal of devil worshippers eating babies and no one can stop them… and God decided to bring on the next flood- I’d think we deserve it. Maybe that’s the real reason they are building bunkers- cos they know. Or hey, maybe that other guy in our history books that came back from the dead like Shepard, will finally come and do something about it. I hope he’s packing some heat if he does. Thank you for reading my crazy rant! Lastly… Being an asshole is fun in games, but we’re really all in this together. Choose the paragon option IRL guys. I should go. submitted by /u/Baconsliced to r/masseffect [link] [comments]",
-      "link": "https://www.reddit.com/r/masseffect/comments/1r4dbc8/replaying_me2_and_im_getting_the_feeling_maybe/",
-      "author": "/u/Baconsliced",
-      "search_keyword": "how to make a game",
-      "relevance_score": 1,
-      "added_at": "2026-02-14T06:30:01.902031"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qqzptj",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "just... THANK YOU GODOT DEVELOPERS!!!",
-      "content": "been doing work in other engines lately for specific projects and... Godot is such a god damn blessing man. 4.6 came out and the IK overhaul specifically is like... *mwah*. love yall fr. nothing specific. just had the overwhelming desire to come glaze for a second lol submitted by /u/xandwrp [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qqzptj/just_thank_you_godot_developers/",
-      "author": "/u/xandwrp",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T08:24:03.138574"
-    },
-    {
       "id": "https://www.reddit.com/r/godot/t3_1qqz9hg",
       "type": "post",
       "subreddit": "godot",
@@ -61055,7 +60983,127 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-02-14T06:30:01.902070"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1r4e1n0",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "There it is some realistic common results",
+      "content": "Hi there, I am Mehmet, I want to show you some demo result without marketing, without budget, without hired capsule work, without streaming or any type of game content. I released demo with 300 wishlist, after 3 day demo released the wishlist count is 387 right now. Only 2 youtuber shared a video about demo and their Total follower count is 26. So this values are only Steam boost of demo release submitted by /u/MehmetBilici [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1r4e1n0/there_it_is_some_realistic_common_results/",
+      "author": "/u/MehmetBilici",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T07:10:29.679478"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1r4dv3h",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "A winged Hussar, about to mount his Pegasus.",
+      "content": "submitted by /u/JesperS1208 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1r4dv3h/a_winged_hussar_about_to_mount_his_pegasus/",
+      "author": "/u/JesperS1208",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T07:10:29.679486"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1r4dp0r",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Finished my game... intro",
+      "content": "​ Sharing a milestone of my solodev project, got an intro. I made the pixel art, the music and the game engine. I am just a rookie in the game dev, though I code in my actual job. submitted by /u/TheDownPolarBear [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1r4dp0r/finished_my_game_intro/",
+      "author": "/u/TheDownPolarBear",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T07:10:29.679501"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1r4duy7",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Custom Node for Hybrid 2D 3D games",
+      "content": "I made my custome nodes for making Hybrid 2D 3D games, you know the ones kinda like Octopath Traveler It's not really too much since Godot already has Sprite 3D and Animated Sprite 3D but my node does Pixel to Meter Scaling: Just put your character's sprite size, and how tall do you want him to be in the 3D world and then the node will automatically calculate the math and set the pixel size, such as just say I have a 20px sprite and i want it to be 2 m tall, then the node will automatically set 1 px = 0.1 m Automatic Billboard: I mean it's just automatically having Billboard Y enabled, nothing special at all Offset: When you set your character's sprite size and set AnchorMode to Bottom Center then the node will automatically set your character's feet on (0, 0, 0). Set_pose: When in animated sprite node, if you want your character to play only one frame from your animation such as you want your character to play the fall frame when he is falling, then just use set_pose(anim_name, frame_index) and it will do just that Download Link Here Repository Link Here https://reddit.com/link/1r4duy7/video/beqcz3yprejg1/player https://preview.redd.it/iayk3z3prejg1.png?width=308&format=png&auto=webp&s=062787d000ec90d07a5b6495c280d06bdf02f75f submitted by /u/AdventurousBox918 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1r4duy7/custom_node_for_hybrid_2d_3d_games/",
+      "author": "/u/AdventurousBox918",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T07:10:29.679541"
+    },
+    {
+      "id": "https://www.reddit.com/r/unrealengine/t3_1r4dp0u",
+      "type": "post",
+      "subreddit": "unrealengine",
+      "title": "Mitchell Thériault UE 5.6 Blueprint Course",
+      "content": "Has anyone taken this course by GameDevTV, and is it a good starting point? It looks to cover a bit more ground compared to their other offerings. They also have a 2 hour introductory course by Kaan Alpar and a first person shooter by Stephen Ulibarri. Just wondering what the general consensus is on this. Thanks! submitted by /u/Fearless-Salary-700 [link] [comments]",
+      "link": "https://www.reddit.com/r/unrealengine/comments/1r4dp0u/mitchell_thériault_ue_56_blueprint_course/",
+      "author": "/u/Fearless-Salary-700",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T07:10:29.679650"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1r4e2pb",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "I am building a steam-powered Water Works 'simulator' (Empire Water Works)",
+      "content": "submitted by /u/Harmanmotor [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1r4e2pb/i_am_building_a_steampowered_water_works/",
+      "author": "/u/Harmanmotor",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T07:10:29.679659"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1r4e39z",
+      "type": "search",
+      "subreddit": "skyrim",
+      "title": "What is the 'weakest' build possible?",
+      "content": "I am trying to make the hardest run possible without cheats or mods and on Legendary and Survival So far I have Necromage Vampire in daylight: -75 to Health, Magicka and Stamina, no regeneration. Apprentice Stone: -100% Magic Resist Argonian on survival mode: -25 Cold Resist Is there any other permanent effects that could make you weaker? The idea of this challenge is to find more creative solutions to fights other than \"swing sword or spray spell until enemies are dead\" gameplay. I am already planning on using wards to block magic damage. submitted by /u/Majestic_Skirt5590 to r/skyrim [link] [comments]",
+      "link": "https://www.reddit.com/r/skyrim/comments/1r4e39z/what_is_the_weakest_build_possible/",
+      "author": "/u/Majestic_Skirt5590",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T07:10:29.681197"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1r4dv38",
+      "type": "search",
+      "subreddit": "deadmalls",
+      "title": "Does anyone have maps of Vallco (San Jose, CA) from the '90s?",
+      "content": "All I can find are a map from 1985 (before they added a ground level to the west half) and one from 2010 (after they added a third level) I need a map from literally any time before those two remodels. submitted by /u/Defiance-of-gravity to r/deadmalls [link] [comments]",
+      "link": "https://www.reddit.com/r/deadmalls/comments/1r4dv38/does_anyone_have_maps_of_vallco_san_jose_ca_from/",
+      "author": "/u/Defiance-of-gravity",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T07:10:29.681349"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1r4e2y0",
+      "type": "search",
+      "subreddit": "DunkCityDynastyGame",
+      "title": "This is why this game is more than just a game. This is why I pay $5.99 just to support this game",
+      "content": "When people who are passionate about the subject make a game, it’s a win-win for all …Elite ball knowledge devs submitted by /u/Truth__Bombs to r/DunkCityDynastyGame [link] [comments]",
+      "link": "https://www.reddit.com/r/DunkCityDynastyGame/comments/1r4e2y0/this_is_why_this_game_is_more_than_just_a_game/",
+      "author": "/u/Truth__Bombs",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T07:10:29.681448"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1r4e24o",
+      "type": "search",
+      "subreddit": "HorrorGaming",
+      "title": "Our 2 Years Game Dev Progress",
+      "content": "The game is Tapes of Fear: Smile , first-person, psychological horror game. A free demo is dropping this week! submitted by /u/Delacrozz to r/HorrorGaming [link] [comments]",
+      "link": "https://www.reddit.com/r/HorrorGaming/comments/1r4e24o/our_2_years_game_dev_progress/",
+      "author": "/u/Delacrozz",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T07:10:29.681949"
     }
   ],
-  "last_updated": "2026-02-14T06:30:30.321025"
+  "last_updated": "2026-02-14T07:10:58.257569"
 }
