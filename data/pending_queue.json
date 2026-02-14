@@ -1,78 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qr31bb",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Just added a global leaderboard to my indie zombie survival game",
-      "content": "submitted by /u/OutbreakAds [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qr31bb/just_added_a_global_leaderboard_to_my_indie/",
-      "author": "/u/OutbreakAds",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T11:46:49.139362"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qr2vh8",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "I made Big mistake",
-      "content": "my Game Only have a single weapon till now but not anymore Youtube submitted by /u/Phoenixcybersec [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qr2vh8/i_made_big_mistake/",
-      "author": "/u/Phoenixcybersec",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T11:46:49.139373"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qr2r19",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Got a review I thought was a joke... Realised it was a real neighbour from 5 years ago who I gave ice cream to during the pandemic",
-      "content": "submitted by /u/Huw2k8 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qr2r19/got_a_review_i_thought_was_a_joke_realised_it_was/",
-      "author": "/u/Huw2k8",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T11:46:49.139396"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qr3167",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Did someone say free projectiles..?",
-      "content": "Made these with customizability in mind so they're easy to tweak. If you'd like to make similar ones yourself, these are mostly stacking sphere meshes with scrolling noise textures at different speeds multiplied by a gradient to fade thrm at the edge Link: https://binbun3d.itch.io/magic-projectiles-vfx submitted by /u/binbun3 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qr3167/did_someone_say_free_projectiles/",
-      "author": "/u/binbun3",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T11:46:49.139421"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qr2va6",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "I just released the Steam Demo of my cozy and farm game - Elemency Island 🐮🌻⛏️",
-      "content": "Here is the Steam Page: https://store.steampowered.com/app/3911890/Elemency_Island submitted by /u/S4m974 [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qr2va6/i_just_released_the_steam_demo_of_my_cozy_and/",
-      "author": "/u/S4m974",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T11:46:49.139439"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qr2v4g",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "This game lives at the ✨bottom of your screen✨ so I'm coding it while playing it!",
-      "content": "It's really weird to code and play it at the same time, but here's my cozy restaurant game Spice & Grill. 😄 (Music and art also 99% by me!) If you're interested in what you see here, please do give it a wishlist on Steam! Steam: https://store.steampowered.com/app/3837270/Spice__Grill/ Discord (For playtesting soon!): https://discord.gg/xnqZgShMbF submitted by /u/edensnowled [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qr2v4g/this_game_lives_at_the_bottom_of_your_screen_so/",
-      "author": "/u/edensnowled",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T11:46:49.139458"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qr2ymz",
       "type": "search",
       "subreddit": "cyberpunkgame",
@@ -60911,7 +60839,79 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-02-14T09:19:15.432547"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1r4gmhd",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "We are excited to announce that our latest project, Vorbit, is officially live on the App Store",
+      "content": "Vorbit is a minimalist gravity-manipulation puzzle game that our team has been polishing for months. Our goal was to create a relaxing yet mentally stimulating experience with a clean, satisfying aesthetic We are now looking to build a community and hear your thoughts on the level progression and mechanics. If you enjoy physics-based puzzles, we’d love for you to try it out Download on App Store: https://apps.apple.com/az/app/vorbit-reflex-arcade-game/id6757300228 submitted by /u/Jazzlike-Desk8688 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1r4gmhd/we_are_excited_to_announce_that_our_latest/",
+      "author": "/u/Jazzlike-Desk8688",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T09:51:18.162597"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1r4g910",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Would you click on this capsule and which game would you expect?",
+      "content": "submitted by /u/Truemmerwelt [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1r4g910/would_you_click_on_this_capsule_and_which_game/",
+      "author": "/u/Truemmerwelt",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T09:51:18.162605"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1r4gpre",
+      "type": "search",
+      "subreddit": "fidansnark",
+      "title": "Valentines Platter",
+      "content": "Of course while making her platter she needs to make it all about her and tell everyone about her sick grand mother. Can’t let Errol grieve the loss of his father without trying to make everyone feel sorry for her. Such an *attentionwhore submitted by /u/Accurate_Tourist8858 to r/fidansnark [link] [comments]",
+      "link": "https://www.reddit.com/r/fidansnark/comments/1r4gpre/valentines_platter/",
+      "author": "/u/Accurate_Tourist8858",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T09:51:18.163758"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1r4gpn0",
+      "type": "search",
+      "subreddit": "RetroAchievements",
+      "title": "Adding games to the registry?",
+      "content": "I was wondering if it was possible to submit games to the site to be added if they aren’t already listed. There are a few games I’ve come across that don’t show up on the site when searching and I was wondering if it was possible for a regular user to submit a page or something of the sort, simply for archival purposes and open it to requests. There are also many games without icons and screenshots, is there a way a user can submit for those as well? Or is all of this only handled by a member/members of staff? submitted by /u/super_supia to r/RetroAchievements [link] [comments]",
+      "link": "https://www.reddit.com/r/RetroAchievements/comments/1r4gpn0/adding_games_to_the_registry/",
+      "author": "/u/super_supia",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T09:51:18.163857"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1r4gi1a",
+      "type": "search",
+      "subreddit": "blackops7",
+      "title": "Black ops 6",
+      "content": "Im trying to log into Black Ops 6 but i cant it keeps kicking me out and i get this does anyone know why? submitted by /u/MulderLorian to r/blackops7 [link] [comments]",
+      "link": "https://www.reddit.com/r/blackops7/comments/1r4gi1a/black_ops_6/",
+      "author": "/u/MulderLorian",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T09:51:18.164652"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1r4ghvx",
+      "type": "search",
+      "subreddit": "nier",
+      "title": "Regarding Side Quest",
+      "content": "https://preview.redd.it/qczfpmv9jfjg1.png?width=1920&format=png&auto=webp&s=a4059fd5d33a616b616f21e7b0c8f8aea8333076 I came across a side quest called \"Game Dev Machine\". But that asks me to kill these adorable things. Is the final reward worth it, I'm asking because I don't want to kill these bots, they're too cute to kill and I am not ready for the guilt (Already traumatized by P33 incident from Replicant lol) submitted by /u/Inner_Feedback_4028 to r/nier [link] [comments]",
+      "link": "https://www.reddit.com/r/nier/comments/1r4ghvx/regarding_side_quest/",
+      "author": "/u/Inner_Feedback_4028",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T09:51:18.164664"
     }
   ],
-  "last_updated": "2026-02-14T09:19:43.947865"
+  "last_updated": "2026-02-14T09:51:46.727581"
 }
