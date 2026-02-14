@@ -1,90 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/godot/t3_1qrbw3q",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Question about get set",
-      "content": "A year and a half studying programming and Godot. I saw in a video that this set should work, but it doesn’t work for me. I don’t really understand how get and set work. extends RigidBody2D @export var texture:CompressedTexture2D: set(value): texture = value $Sprite2D.texture = value It tells me that texture is null. How can I make this work? submitted by /u/meanitus [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qrbw3q/question_about_get_set/",
-      "author": "/u/meanitus",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T17:56:20.473000"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qrcmys",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "My game now supports controllers and steering wheels",
-      "content": "submitted by /u/z3u5-322 [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qrcmys/my_game_now_supports_controllers_and_steering/",
-      "author": "/u/z3u5-322",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T17:56:20.473077"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qrce7p",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "Solo dev launching an online PvP card game on iOS this Sunday (Feb 1st). What should I be watching for week 1?",
-      "content": "Hey r/solodevelopment ! I’m a solo dev and my project is launching this Sunday (Feb 1st) on iOS: Elarion: Aetherfall , a tactical CCG with ranked matchmaking + seasonal rewards. I’m feeling good about the gameplay, but I’m anxious about the solo-dev realities of a live PvP launch: Matchmaking quality with a tiny initial player pool Server errors / edge cases I didn’t hit in testing First-time user experience (tutorial friction, readability, clarity) Retention loops without relying on paywalls/loot boxes (I’m cosmetics-only) Community management / support volume as one person For people here who’ve launched something competitive/multiplayer solo (or small team): what are the highest ROI metrics and alerts to set up for the first week, and what fires tend to show up first? If you want to see the app page: https://apps.apple.com/us/app/elarion-aetherfall/id6754101666 Appreciate any advice — especially the unglamorous “here’s what will break” stuff. submitted by /u/Roberttee93 [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qrce7p/solo_dev_launching_an_online_pvp_card_game_on_ios/",
-      "author": "/u/Roberttee93",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T17:56:20.473114"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qrboea",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "Crafting system like JEI",
-      "content": "Hi everyone! I want to make a crafting system for a game. A crafting system sort of like Minecraft but especially JEI(Just Enough Items); where you can (as shown in the photograph) see what items you can use to craft other items, and also which sort of proces. What is a good way of creating a system where you have all crafting recipes pictured like JEI? And with that sort of group and/or sort all crafting recipes? Has anyone a idea for that? Or in any way just how I can start with creating such a system? submitted by /u/preekkor [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qrboea/crafting_system_like_jei/",
-      "author": "/u/preekkor",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T17:56:20.473149"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qrbidc",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "2D Scroller City Apartment",
-      "content": "An apartment belonging to one of the romanceable NPC’s in my game Skypoint Tower, which is an apartment building manager/life sim game. Made in Aseprite🩷🪴 submitted by /u/very_curious_writer [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qrbidc/2d_scroller_city_apartment/",
-      "author": "/u/very_curious_writer",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T17:56:20.473160"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qrbcct",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "I remade my sauce explosion animation based off your feedback. It is supposed to be hot sauce packs exploding then dripping down and destroying the burrito meat. What do you think of it now? Any feedback is greatly appreciated!",
-      "content": "submitted by /u/SPACEGAMESstudio [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qrbcct/i_remade_my_sauce_explosion_animation_based_off/",
-      "author": "/u/SPACEGAMESstudio",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T17:56:20.473169"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedesign/t3_1qrchx9",
-      "type": "post",
-      "subreddit": "gamedesign",
-      "title": "Thank you mod team. Criticism of game development not welcom in this comunity.",
-      "content": "Thanks for deleting my perfectly reasonable post. I hope you enjoy the echo chamber. submitted by /u/NateRivers77 [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedesign/comments/1qrchx9/thank_you_mod_team_criticism_of_game_development/",
-      "author": "/u/NateRivers77",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T17:56:20.473177"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qrbwph",
       "type": "search",
       "subreddit": "bayarea",
@@ -61835,7 +61751,103 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-02-14T19:17:54.142763"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1r4tp0b",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "Hi. Do I need new Steam account and new Steamworks account if I want sell a game on Steam as a solo-trader?",
+      "content": "Hi. Do I need new Steam account and new Steamworks account if I want sell a game on Steam as a solo-trader? Right now I have a game on Steam under a Ltd, but I plan to close the ltd someday. Hope you understand my question. Thanks submitted by /u/Hobby-DevGame [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1r4tp0b/hi_do_i_need_new_steam_account_and_new_steamworks/",
+      "author": "/u/Hobby-DevGame",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T19:41:40.087764"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1r4tthk",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "25 seconds from the 1st level...",
+      "content": "This is 25 seconds from the first level of my game. The player will spend the majority of the game trapped in a prison cell. https://store.steampowered.com/app/3502310/SYNCO_PATH_AUTOMATON_PRISON/ submitted by /u/Sabartsman13 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1r4tthk/25_seconds_from_the_1st_level/",
+      "author": "/u/Sabartsman13",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T19:41:40.087777"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1r4trsj",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "I started a YouTube channel for incremental/idle games – Idle Gecko 🦎",
+      "content": "submitted by /u/GooseExciting6842 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1r4trsj/i_started_a_youtube_channel_for_incrementalidle/",
+      "author": "/u/GooseExciting6842",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T19:41:40.087789"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1r4toz8",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "25.000 people wishlisted my game!!! Only 2 days left before release :)",
+      "content": "submitted by /u/miesmud [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1r4toz8/25000_people_wishlisted_my_game_only_2_days_left/",
+      "author": "/u/miesmud",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T19:41:40.087797"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1r4tmd8",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "A puzzle game about connecting pipes.",
+      "content": "This is a jam submission, for those who like puzzles the game is on itch web now: https://loop-box.itch.io/pipes-and-more-pipes for hard core puzzle games if this is too easy let me know how I can make it harder submitted by /u/Lucky_Ferret4036 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1r4tmd8/a_puzzle_game_about_connecting_pipes/",
+      "author": "/u/Lucky_Ferret4036",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T19:41:40.087877"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1r4t9r8",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Dynamic Gravity in Godot 4.6",
+      "content": "submitted by /u/Perfect_Alarm_2140 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1r4t9r8/dynamic_gravity_in_godot_46/",
+      "author": "/u/Perfect_Alarm_2140",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T19:41:40.087893"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1r4tsq7",
+      "type": "search",
+      "subreddit": "ReanimalGame",
+      "title": "Hopefully the devs can find a fix for the disconnecting",
+      "content": "I was excited to play with my friend but since he is in another country we have some ping between us so the game keeps kicking us out. I hope the devs can find a fix or solution that doesnt kick us out because its a shame we cant play. submitted by /u/GrimsideB to r/ReanimalGame [link] [comments]",
+      "link": "https://www.reddit.com/r/ReanimalGame/comments/1r4tsq7/hopefully_the_devs_can_find_a_fix_for_the/",
+      "author": "/u/GrimsideB",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T19:41:40.089253"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1r4tkq0",
+      "type": "search",
+      "subreddit": "Football_Head_Coach",
+      "title": "What the hell is up with these absolutely nonsensical drives? Twice starting at the 35, travelling 70+ yards, and not scoring even a FG?",
+      "content": "Hey, devs, not sure if you know, but if you start on your 35, there's only 65 yards to the end zone. Twice in ONE quarter did I apparently go the length of the field and not come away with ANY points? Not even a FG? On top of that, the very next quarter, my opponent starts on their 35 and goes 70 yards for a TD. As you can see, I lost this game by 4 points. You know what wins it? Two FGs. Make this shit make sense. submitted by /u/d0uble0h to r/Football_Head_Coach [link] [comments]",
+      "link": "https://www.reddit.com/r/Football_Head_Coach/comments/1r4tkq0/what_the_hell_is_up_with_these_absolutely/",
+      "author": "/u/d0uble0h",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T19:41:40.089465"
     }
   ],
-  "last_updated": "2026-02-14T19:18:22.917017"
+  "last_updated": "2026-02-14T19:42:08.506808"
 }
